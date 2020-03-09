@@ -2,8 +2,10 @@ package br.com.rfreforged.ReforgedGCP.dao;
 
 import br.com.rfreforged.ReforgedGCP.model.*;
 import br.com.rfreforged.ReforgedGCP.utils.EquipamentHelper;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.dao.DataAccessException;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
@@ -53,12 +55,15 @@ public class PersonagemDAO {
                 "  INNER JOIN RF_World.dbo.tbl_base as base ON general.Serial = base.Serial " +
                 "  AND base.Account = ? AND base.DCK = 0";
 
-        rfWorld.query(sql, new Object[]{nomeUsuario}, resultSet -> {
-            Personagem p = new Personagem();
-            equipamentSetter(resultSet, p);
-            personagems.add(p);
-        });
-
+        try {
+            rfWorld.query(sql, new Object[]{nomeUsuario}, resultSet -> {
+                Personagem p = new Personagem();
+                equipamentSetter(resultSet, p);
+                personagems.add(p);
+            });
+        } catch (DataAccessException e) {
+            LoggerFactory.getLogger(getClass()).error(e.getMessage());
+        }
         return personagems;
     }
 
@@ -94,10 +99,13 @@ public class PersonagemDAO {
                 "  FROM [RF_World].[dbo].[tbl_general] as general " +
                 "  INNER JOIN RF_World.dbo.tbl_base as base ON general.Serial = base.Serial " +
                 "  AND base.[Name] = ? AND base.DCK = 0";
-
-        rfWorld.query(sql, new Object[]{nomePersonagem}, resultSet -> {
-            equipamentSetter(resultSet, p);
-        });
+        try {
+            rfWorld.query(sql, new Object[]{nomePersonagem}, resultSet -> {
+                equipamentSetter(resultSet, p);
+            });
+        } catch (DataAccessException e) {
+            LoggerFactory.getLogger(this.getClass()).error(e.getMessage());
+        }
         return p;
     }
 
