@@ -1,0 +1,37 @@
+<div class="container menu">
+
+  <div style="display: flex; justify-content: center; flex-direction: column; text-align: center">
+    <img class="logo-reforged" src="assets/img/reforged_icon.png"
+         alt="Logo RF Reforged" [routerLink]="['/principal/feed-noticias']" style="cursor: pointer;">
+    <h5 class="mt-1 subtitle">RF Reforged GameCP</h5>
+  </div>
+
+  <div class="row mt-1">
+    <div class="sidenav">
+      <a [routerLink]="['./home']" class="item-ativo"><i class="fa fa-home"></i><span class="ml-3"> Home</span></a>
+      <button class="dropdown-btn"><i class="fa fa-user pr-2"></i><span class="ml-3">Conta</span>
+        <i class="fa fa-caret-left fa-caret-down"></i>
+      </button>
+      <div class="dropdown-container">
+        <a [routerLink]="['alterar-senha']">Alterar senha</a>
+        <a [routerLink]="['personagens']">Personagens</a>
+        <a [routerLink]="['buscar-equipamento']">Buscar equipamentos</a>
+        <a [routerLink]="['buscar-inventario']">Buscar inventários</a>
+      </div>
+      <button class="dropdown-btn"><i class="fa fa-server pr-2"></i><span class="ml-2">Servidor</span>
+        <i class="fa fa-caret-left fa-caret-down"></i>
+      </button>
+      <div class="dropdown-container">
+        <a [routerLink]="['lista-banidos']">Lista de banidos</a>
+        <a [routerLink]="['lista-concelho']">Lista de Concelhos</a>
+        <a [routerLink]="['historico-cw']">Histórico da CW</a>
+        <a [routerLink]="['top-online']">Top online</a>
+        <a [routerLink]="['informacoes']">Informações</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-info">
+    <h4 class="color-accent">R$ 0.00</h4>
+  </div>
+</div>

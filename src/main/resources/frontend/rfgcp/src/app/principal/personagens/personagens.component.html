@@ -1,0 +1,56 @@
+<div class="row py-5">
+  <div class="container">
+    <h3>Seus personagens</h3>
+    <hr/>
+    <div class="row">
+
+      <ng-container *ngIf="personagens !== undefined; else loading">
+        <div class="card col-12 col-sm-6 col-md-4 col-lg-3 text-center" *ngFor="let p of personagens" (click)="openModal(p)">
+          <div class="image-header">
+            <img class="img-fluid" [src]="'assets/icons/'+p.raca.toString().toLowerCase()+'_emblem.jpg'" width="48"
+                 [alt]="'emblema de raça' + p.raca.toString()"
+                 [title]="'Emblema da raça' + p.raca.toString()">
+          </div>
+          <h5 class="mt-2">{{p.nome + ' - ' + p.nivel}}</h5>
+          <hr/>
+          <span class="mt-1 font-weight-bold">Classe: <span class="font-weight-normal text-capitalize">{{p.classe}}</span></span>
+          <span class="font-weight-bold">Tempo de jogo: <span class="font-weight-normal">{{formataTempo(p.tempoJogado)}}</span></span>
+        </div>
+      </ng-container>
+
+    </div>
+  </div>
+</div>
+
+<ng-template #loading>
+  <div class="card col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center">
+    <div class="shine text-center">
+      <div class="box"></div>
+    </div>
+    <p class="shine mt-2">aaaaaaaaaaaaaaaaaaa</p>
+    <hr/>
+    <p class="shine mt-1 font-weight-bold">aaaaaaaaaaaaaaaaaaa</p>
+    <p class="shine font-weight-bold mt-2">aaaaaaaaaaaaaaaaaaa</p>
+  </div>
+</ng-template>
+
+<!-- Modal -->
+<div class="modal fade" id="modalDetalhePersonagem" tabindex="-1" role="dialog" aria-labelledby="modalDetalheLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="modalDetalheLabel">Detalhes do personagem</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <app-detalhe-personagem [personagem]="personagemDetalhe"></app-detalhe-personagem>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,11 @@
+.wrapper {
+  height: -webkit-fill-available;
+  height: available;
+}
+.main-container {
+  margin-left: 15px;
+  width: calc(100vw - 230px);
+}
+.aside-menu {
+  width: 200px;
+}

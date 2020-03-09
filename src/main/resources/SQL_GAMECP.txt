@@ -1,0 +1,65 @@
+USE [GameCP]
+GO
+
+/****** Object:  Table [dbo].[tbl_role]    Script Date: 03/08/2020 19:53:38 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[tbl_role](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[name] [varchar](20) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
+
+
+
+USE [GameCP]
+GO
+
+/****** Object:  Table [dbo].[tbl_useraccount]    Script Date: 03/08/2020 21:49:08 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[tbl_useraccount](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[name] [nvarchar](20) NOT NULL,
+	[password] [nvarchar](76) NOT NULL,
+	[email] [nvarchar](50) NULL,
+	[id_role] [int] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+ALTER TABLE [dbo].[tbl_useraccount]  WITH CHECK ADD FOREIGN KEY([id_role])
+REFERENCES [dbo].[tbl_role] ([id])
+GO
+
+
+
+
+INSERT GameCP.dbo.tbl_role (name) VALUES ('ROLE_ADMIN');
+INSERT GameCP.dbo.tbl_role (name) VALUES ('ROLE_USER');
+

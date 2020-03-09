@@ -1,0 +1,217 @@
+<div class="row p-2">
+
+  <ng-container *ngIf="pessoal; else geral">
+    <!--  Gênero-->
+    <div class="col-4">
+      <span class="font-weight-bold">Gênero: </span>
+    </div>
+    <div class="col-8 col-left">
+      {{personagem.genero}}
+    </div>
+    <!--  Dinheiro-->
+    <div class="col-4">
+      <span class="font-weight-bold">Dinheiro: </span>
+    </div>
+    <div class="col-8 col-left">
+      {{personagem.dinheiro}}
+    </div>
+    <!--  Ouro-->
+    <div class="col-4">
+      <span class="font-weight-bold">Ouro: </span>
+    </div>
+    <div class="col-8 col-left">
+      {{personagem.ouro}}
+    </div>
+  </ng-container>
+  <ng-template #geral>
+    <!--  Gênero-->
+    <div class="col-4">
+      <span class="font-weight-bold">Nome: </span>
+    </div>
+    <div class="col-8 col-left">
+      {{personagem.nome}}
+    </div>
+    <!--  Dinheiro-->
+    <div class="col-4">
+      <span class="font-weight-bold">Raça: </span>
+    </div>
+    <div class="col-8 col-left">
+      {{personagem.raca}}
+    </div>
+    <!--  Ouro-->
+    <div class="col-4">
+      <span class="font-weight-bold">Nível: </span>
+    </div>
+    <div class="col-8 col-left">
+      {{personagem.nivel}}
+    </div>
+  </ng-template>
+  <!--  Contribution Point-->
+  <div class="col-4">
+    <span class="font-weight-bold">Pontos de Contribuição: </span>
+  </div>
+  <div class="col-8 col-left">
+    {{personagem.ptContribuicao}}
+  </div>
+  <!--  Certain Point-->
+  <div class="col-4">
+    <span class="font-weight-bold">Pontos Certos: </span>
+  </div>
+  <div class="col-8 col-left">
+    {{personagem.ptCertos}}
+  </div>
+  <!--  Gold Point-->
+  <div class="col-4">
+    <span class="font-weight-bold">Pontos de Ouro: </span>
+  </div>
+  <div class="col-8 col-left">
+    {{personagem.ptOuro}}
+  </div>
+  <!--  Hunting Point-->
+  <div class="col-4">
+    <span class="font-weight-bold">Pontos de Caça: </span>
+  </div>
+  <div class="col-8 col-left">
+    {{personagem.ptCaca}}
+  </div>
+  <!--  Processing Point-->
+  <div class="col-4">
+    <span class="font-weight-bold">Pontos de Processamento: </span>
+  </div>
+  <div class="col-8 col-left">
+    {{personagem.ptProcessamento}}
+  </div>
+  <!--  Upper-->
+  <div class="col-4">
+    <span class="font-weight-bold">Peito: </span>
+  </div>
+  <div class="col-4">
+    {{personagem.peito.nome}}
+  </div>
+  <div class="col-4 col-left">
+    {{personagem.peito.melhoria.qtd > 0 ? '+' + personagem.peito.melhoria.qtd : 'Sem melhorias'}}
+  </div>
+
+  <!--  Upper-->
+  <div class="col-4">
+    <span class="font-weight-bold">Calça: </span>
+  </div>
+  <div class="col-4">
+    {{personagem.calca.nome}}
+  </div>
+  <div class="col-4 col-left">
+    {{personagem.calca.melhoria.qtd > 0 ? '+' + personagem.calca.melhoria.qtd : 'Sem melhorias'}}
+  </div>
+
+  <!--  Upper-->
+  <div class="col-4">
+    <span class="font-weight-bold">Luvas: </span>
+  </div>
+  <div class="col-4">
+    {{personagem.luva.nome}}
+  </div>
+  <div class="col-4 col-left">
+    {{personagem.luva.melhoria.qtd > 0 ? '+' + personagem.luva.melhoria.qtd : 'Sem melhorias'}}
+  </div>
+
+  <!--  Upper-->
+  <div class="col-4">
+    <span class="font-weight-bold">Botas: </span>
+  </div>
+  <div class="col-4">
+    {{personagem.bota.nome}}
+  </div>
+  <div class="col-4 col-left">
+    {{personagem.bota.melhoria.qtd > 0 ? '+' + personagem.bota.melhoria.qtd : 'Sem melhorias'}}
+  </div>
+
+  <!--  Upper-->
+  <div class="col-4">
+    <span class="font-weight-bold">Elmo: </span>
+  </div>
+  <div class="col-4">
+    {{personagem.elmo.nome}}
+  </div>
+  <div class="col-4 col-left">
+    {{personagem.elmo.melhoria.qtd > 0 ? '+' + personagem.elmo.melhoria.qtd : 'Sem melhorias'}}
+  </div>
+
+  <!--  Upper-->
+  <div class="col-4">
+    <span class="font-weight-bold">Escudo: </span>
+  </div>
+  <div class="col-4">
+    {{personagem.escudo.nome}}
+  </div>
+  <div class="col-4 col-left">
+    {{personagem.escudo.melhoria.qtd > 0 ? '+' + personagem.escudo.melhoria.qtd : 'Sem melhorias'}}
+  </div>
+
+  <!--  Upper-->
+  <div class="col-4">
+    <span class="font-weight-bold">Arma: </span>
+  </div>
+  <div class="col-4">
+    {{personagem.arma.nome}}
+  </div>
+  <div class="col-4 col-left">
+    {{personagem.arma.melhoria.qtd > 0 ? '+' + personagem.arma.melhoria.qtd : 'Sem melhorias'}}
+  </div>
+
+  <!--  Upper-->
+  <div class="col-4 col-bottom">
+    <span class="font-weight-bold">Capa: </span>
+  </div>
+  <div class="col-4 col-bottom">
+    {{personagem.capa.nome}}
+  </div>
+  <div class="col-4 col-left col-bottom">
+    {{personagem.capa.melhoria.qtd > 0 ? '+' + personagem.capa.melhoria.qtd : 'Sem melhorias'}}
+  </div>
+
+  <!--  Acessórios-->
+  <ng-container *ngIf="personagem.aneis">
+
+    <div class="col-3 col-bottom col-right">
+      <span class="font-weight-bold">Anel: </span>
+    </div>
+    <div class="col-3 col-bottom col-right">
+      {{personagem.aneis[0].nome}}
+    </div>
+
+  </ng-container>
+
+  <ng-container *ngIf="personagem.aneis">
+
+    <div class="col-3 col-bottom col-right">
+      <span class="font-weight-bold">Anel: </span>
+    </div>
+    <div class="col-3 col-left col-bottom col-right">
+      {{personagem.aneis[1].nome}}
+    </div>
+
+  </ng-container>
+
+  <ng-container *ngIf="personagem.amuletos">
+
+    <div class="col-3 col-bottom col-right">
+      <span class="font-weight-bold">Amuleto: </span>
+    </div>
+    <div class="col-3 col-bottom col-right">
+      {{personagem.aneis[0].nome}}
+    </div>
+
+  </ng-container>
+
+  <ng-container *ngIf="personagem.amuletos">
+
+    <div class="col-3 col-bottom col-right">
+      <span class="font-weight-bold">Amuleto: </span>
+    </div>
+    <div class="col-3 col-left col-bottom col-right">
+      {{personagem.amuletos[1].nome}}
+    </div>
+
+  </ng-container>
+</div>
+

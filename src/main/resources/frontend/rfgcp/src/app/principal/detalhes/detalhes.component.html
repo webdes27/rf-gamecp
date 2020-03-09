@@ -1,0 +1,43 @@
+<div class="row py-5">
+  <div class="container">
+    <h3>Bem-vindo ao Reforged GameCP</h3>
+    <hr/>
+
+    <div class="mt-4" *ngIf="detalheConta; else loading">
+      <h5 class="font-weight-bold">Informações básicas</h5>
+      <p class="font-weight-bold mt-4">Username: <span>{{detalheConta.nome}}</span></p>
+      <p class="font-weight-bold">Email: <span>{{detalheConta.email}}</span></p>
+      <p class="font-weight-bold">Cash Points: <span>{{detalheConta.cashPoint}}</span></p>
+      <p class="font-weight-bold">Úiltima data de logon: <span>{{formataData(detalheConta.ultimoLogon)}}</span></p>
+      <p class="font-weight-bold">Última data de logoff: <span>{{formataData(detalheConta.ultimoLogoff)}}</span></p>
+      <div class="font-weight-bold mb-3" style="color: #8D8E8E;">Status do personagem:
+        <div class="circle red" [class.green]="detalheConta.statusPersonagem"></div>
+      </div>
+      <p class="font-weight-bold">Data final do premium:
+        <span [class.text-danger]="!detalheConta.dataFinalPremium">
+        {{detalheConta.dataFinalPremium ? detalheConta.dataFinalPremium : semPremium}}
+      </span>
+      </p>
+      <div class="font-weight-bold mb-3" style="color: #8D8E8E;">Status do premium:
+        <div class="circle red" [class.green]="detalheConta.premium"></div>
+      </div>
+    </div>
+
+    <ng-template #loading>
+      <h5 class="shine">Informações básicas</h5>
+      <p class="shine mt-4">Username:</p>
+      <p class="shine">Email:</p>
+      <p class="shine">Cash Points: </p>
+      <p class="shine">Úiltima data de logon: </p>
+      <p class="shine">Última data de logoff: </p>
+      <p class="shine">Status do personagem: </p>
+      <p class="shine">Data final do premium: </p>
+      <p class="shine">Status do premium:</p>
+    </ng-template>
+
+  </div>
+
+</div>
+
+
+

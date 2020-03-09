@@ -1,0 +1,54 @@
+<form [formGroup]="form" (ngSubmit)="submit()">
+  <div class="row form-container">
+
+    <div class="col-12 form-group text-center text-title">
+      <h4>Recuperar Fireguard</h4>
+    </div>
+
+    <div class="col-12 form-group">
+      <label for="nome" class="label">Nome de Usuário</label>
+      <input formControlName="nome" class="form-control" placeholder="Nome de Usuário" id="nome">
+      <div
+        *ngIf="submitted && formControls.nome.errors && (formControls.nome.invalid || formControls.nome.dirty || formControls.nome.touched)"
+        class="invalid-feedback" style="display: inline-block">
+        <div *ngIf="formControls.nome.errors?.required">Nome de usuário obrigatório.</div>
+        <div *ngIf="formControls.nome.errors?.minlength">Mínimo de 3 caracteres.</div>
+      </div>
+    </div>
+
+    <div class="col-12 form-group">
+      <label for="email" class="label">E-mail</label>
+      <input formControlName="email" class="form-control" placeholder="E-mail" id="email">
+      <div
+        *ngIf="submitted && formControls.email.errors && (formControls.email.invalid || formControls.email.dirty || formControls.email.touched)"
+        class="invalid-feedback" style="display: inline-block">
+        <div *ngIf="formControls.email.errors?.required">Nome de usuário obrigatório.</div>
+        <div *ngIf="formControls.email.errors?.email">E-mail no formato incorreto.</div>
+      </div>
+    </div>
+
+    <div class="col-12 form-group mt-2">
+      <label for="senha" class="label">Senha</label>
+      <input formControlName="senha" class="form-control" type="password" placeholder="Senha" id="senha">
+      <div
+        *ngIf="submitted && formControls.senha.errors && (formControls.senha.invalid && formControls.senha.dirty || formControls.senha.touched)"
+        class="invalid-feedback" style="display: inline-block">
+        <div *ngIf="formControls.senha.errors?.required">Senha é obrigatória</div>
+        <div *ngIf="formControls.senha.errors?.minlength">Mínimo de 3 caracteres.</div>
+      </div>
+    </div>
+
+    <div class="col-12 form-group mt-2">
+      <button type="submit" class="btn btn-block btn-primary" *ngIf="!loading">Recuperar</button>
+      <button type="submit" class="btn btn-block btn-primary" disabled *ngIf="loading"><i
+        class="fa fa-spinner fa-spin"></i> Carregando...
+      </button>
+    </div>
+
+    <div class="col-12 d-flex justify-content-between">
+      <a class="text-action" [routerLink]="['/index']">Voltar</a>
+    </div>
+
+  </div>
+</form>
+

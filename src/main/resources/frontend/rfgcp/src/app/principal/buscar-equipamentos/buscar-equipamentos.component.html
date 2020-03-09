@@ -1,0 +1,20 @@
+<div class="row py-5">
+  <div class="container">
+    <h3>Buscar {{equipamento ? 'Equipamento' : 'Inventário'}}</h3>
+    <hr/>
+    <div class="col-12 form-group">
+      <label for="busca">Buscar  {{equipamento ? 'equipamento' : 'inventário'}} de jogador</label>
+      <input id="busca" (focus)="noFoco = true;" (focusout)="noFoco = false;" [(ngModel)]="nome"
+             class="form-control" placeholder="Nome do jogador">
+    </div>
+    <div class="p-4" *ngIf="personagem && equipamento">
+      <app-detalhe-personagem [personagem]="personagem" [pessoal]="false" [grid]="true" *ngIf="personagem.nome; else notFound"></app-detalhe-personagem>
+      <ng-template #notFound>
+        <p>Nenhum personagem encontrado com este nome.</p>
+      </ng-template>
+    </div>
+    <div class="p-4" *ngIf="inventario && !equipamento">
+      <app-inventario [inventario]="inventario"></app-inventario>
+    </div>
+  </div>
+</div>

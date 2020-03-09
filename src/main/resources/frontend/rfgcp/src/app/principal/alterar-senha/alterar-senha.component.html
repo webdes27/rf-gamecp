@@ -1,0 +1,44 @@
+<div class="row py-5">
+  <div class="container">
+    <h3>Alterar senha da conta</h3>
+    <hr/>
+    <form [formGroup]="form" (ngSubmit)="submit()">
+      <div class="col-12 form-group">
+        <label for="senhaAtual" class="label">Senha atual</label>
+        <input formControlName="senhaAtual" type="password" class="form-control" placeholder="Informe sua senha atual" id="senhaAtual">
+        <div *ngIf="submitted && formControls.senhaAtual.errors && (formControls.senhaAtual.invalid || formControls.senhaAtual.dirty || formControls.senhaAtual.touched)"
+             class="invalid-feedback" style="display: inline-block">
+          <div *ngIf="formControls.senhaAtual.errors?.required">Nome de usuário obrigatório.</div>
+          <div *ngIf="formControls.senhaAtual.errors?.minlength">Mínimo de 3 caracteres.</div>
+        </div>
+      </div>
+
+      <div class="col-12 form-group mt-4">
+        <label for="novaSenha" class="label">Nova senha</label>
+        <input formControlName="novaSenha" class="form-control" type="password" placeholder="Nova senha" id="novaSenha">
+        <div *ngIf="submitted && formControls.novaSenha.errors && (formControls.novaSenha.invalid || formControls.novaSenha.dirty || formControls.novaSenha.touched)"
+             class="invalid-feedback" style="display: inline-block">
+          <div *ngIf="formControls.novaSenha.errors?.required">Senha é obrigatória</div>
+          <div *ngIf="formControls.novaSenha.errors?.minlength">Mínimo de 3 caracteres.</div>
+        </div>
+      </div>
+
+      <div class="col-12 form-group mt-4">
+        <label for="confirmarSenha" class="label">Confirmar nova senha</label>
+        <input formControlName="confirmarSenha" class="form-control" type="password" placeholder="Confirme a nova senha" id="confirmarSenha">
+        <div *ngIf="submitted && formControls.confirmarSenha.errors && (formControls.confirmarSenha.invalid || formControls.confirmarSenha.dirty || formControls.confirmarSenha.touched)"
+             class="invalid-feedback" style="display: inline-block">
+          <div *ngIf="formControls.confirmarSenha.errors?.required">É preciso confirmar a senha.</div>
+          <div *ngIf="formControls.confirmarSenha.errors?.minlength">Mínimo de 3 caracteres.</div>
+          <div *ngIf="formControls.confirmarSenha.errors?.mustMatch">As senhas não coincidem.</div>
+        </div>
+      </div>
+
+      <div class="col-12 form-group">
+        <button type="submit" class="btn btn-primary" *ngIf="!loading">Alterar</button>
+        <button type="submit" class="btn btn-primary" disabled *ngIf="loading"><i class="fa fa-spinner fa-spin"></i> Carregando...</button>
+      </div>
+
+    </form>
+  </div>
+</div>

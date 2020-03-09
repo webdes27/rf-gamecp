@@ -1,0 +1,20 @@
+<div class="row">
+  <table class="table table-bordered table-hover" *ngIf="inventario">
+    <thead class="bg-primary">
+    <tr>
+      <th scope="col">Slot</th>
+      <th scope="col">Item</th>
+      <th scope="col">Quantidade</th>
+      <th scope="col">Melhoria</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let i of inventario.itens">
+      <th scope="row">{{i.slot}}</th>
+      <td>{{i.nome}}</td>
+      <td>{{i.quantidade}}</td>
+      {{i.melhoria > 0 ? '+' + i.melhoria : 'Sem melhorias'}}
+    </tr>
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,75 @@
+@import '~bootstrap/scss/functions';
+@import '~bootstrap/scss/variables';
+@import '~bootstrap/scss/mixins';
+@import '~ngx-toastr/toastr-bs4-alert';
+
+/* You can add global styles to this file, and also import other style files */
+html {
+  font-family: Roboto sans-serif;
+}
+body {
+  font-family: Roboto sans-serif;
+}
+
+.btn-primary {
+  color: #FFF !important;
+  background-color: #F1B210 !important;
+  border-color: #f4c03e !important
+}
+.btn-primary:hover {
+  background-color:  #f4c03e !important;
+  outline: #f4c03e !important;
+}
+
+.btn-primary:active, .btn-primary:visited, .btn-primary:focus {
+  outline: #f4c03e !important;
+  border-color: #f4c03e !important
+}
+
+h1, h2, h3, h4, h5, p {
+  color: #8D8E8E;
+}
+
+.shine {
+  background: #f6f7f8 linear-gradient(to right, #f6f7f8 0%, #edeef1 20%, #f6f7f8 40%, #f6f7f8 100%) no-repeat;
+  background-size: 800px 104px;
+  display: inline-block;
+  position: relative;
+
+  -webkit-animation-duration: 1s;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-name: placeholderShimmer;
+  -webkit-animation-timing-function: linear;
+}
+
+@-webkit-keyframes placeholderShimmer {
+  0% {
+    background-position: -468px 0;
+  }
+
+  100% {
+    background-position: 468px 0;
+  }
+}
+
+.card {
+  border: 1px solid #DDD;
+  border-radius: 4px;
+  padding: 1.5rem;
+  -webkit-box-shadow: 2px 4px -3px -3px rgba(0,0,0,0.75);
+  -moz-box-shadow: 2px 4px -3px -3px rgba(0,0,0,0.75);
+  box-shadow: 2px 4px 5px -3px rgba(0,0,0,0.75);
+  transition: 0.3s;
+  margin: 4px;
+}
+
+.card:hover {
+  -webkit-box-shadow: 4px 6px 10px -3px rgba(0,0,0,0.75);
+  -moz-box-shadow: 4px 6px 10px -3px rgba(0,0,0,0.75);
+  box-shadow: 4px 6px 10px -3px rgba(0,0,0,0.75);
+
+  position: relative;
+  top: -1px;
+  left: 1px;
+}
