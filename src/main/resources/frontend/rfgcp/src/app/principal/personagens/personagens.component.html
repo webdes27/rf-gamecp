@@ -7,7 +7,7 @@
       <ng-container *ngIf="personagens !== undefined; else loading">
         <div class="card col-12 col-sm-6 col-md-4 col-lg-3 text-center" *ngFor="let p of personagens" (click)="openModal(p)">
           <div class="image-header">
-            <img class="img-fluid" [src]="'assets/icons/'+p.raca.toString().toLowerCase()+'_emblem.jpg'" width="48"
+            <img class="img-fluid" [src]="'assets/icons/'+p.raca.toString().toLowerCase()+'_colored.png'" width="48"
                  [alt]="'emblema de raça' + p.raca.toString()"
                  [title]="'Emblema da raça' + p.raca.toString()">
           </div>
@@ -16,8 +16,16 @@
           <span class="mt-1 font-weight-bold">Classe: <span class="font-weight-normal text-capitalize">{{p.classe}}</span></span>
           <span class="font-weight-bold">Tempo de jogo: <span class="font-weight-normal">{{formataTempo(p.tempoJogado)}}</span></span>
         </div>
-      </ng-container>
 
+      </ng-container>
+    </div>
+    <div class="row">
+      <div class="col-6 no-borders">
+        <img src="assets/img/cora_hero.png" class="img-fluid" height="250px" alt="Imagem do inventário do jogo">
+      </div>
+      <div class="col-6 no-borders">
+        <img src="assets/img/inventory.jpg" class="img-thumbnail" height="250px" alt="Imagem do inventário do jogo">
+      </div>
     </div>
   </div>
 </div>

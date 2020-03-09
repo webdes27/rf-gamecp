@@ -46,6 +46,7 @@ export class LoginComponent implements OnInit, OnDestroy {
       .pipe(takeWhile(() => this.alive))
       .subscribe(usuario => {
         this.loading = false;
+        this.usuarioService.redirectPrincipal();
       }, error => {
         this.loading = false;
       });

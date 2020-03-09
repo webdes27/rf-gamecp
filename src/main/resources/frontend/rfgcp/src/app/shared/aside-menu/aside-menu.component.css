@@ -35,8 +35,9 @@
 
 .footer-info {
   position: absolute;
-  bottom: 16px;
-  left: 50px;
+  bottom: 32px;
+  cursor: pointer;
+  width: 166px;
 }
 
 .sidenav {

@@ -1,4 +1,6 @@
-import {Component, OnInit, Renderer2} from '@angular/core';
+import {Component, OnDestroy, OnInit, Renderer2} from '@angular/core';
+import {UsuarioService} from "../../@core/service/usuario.service";
+import {takeWhile} from "rxjs/operators";
 
 declare const $: any;
 
@@ -7,16 +9,18 @@ declare const $: any;
   templateUrl: './aside-menu.component.html',
   styleUrls: ['./aside-menu.component.css']
 })
-export class AsideMenuComponent implements OnInit {
+export class AsideMenuComponent implements OnInit, OnDestroy {
 
-  constructor(private renderer: Renderer2) {
+  private alive = true;
+
+  constructor(private usuarioService: UsuarioService) {
   }
 
   ngOnInit() {
     const dropdown = document.getElementsByClassName('dropdown-btn');
     let i;
     for (i = 0; i < dropdown.length; i++) {
-      dropdown[i].addEventListener('click', function() {
+      dropdown[i].addEventListener('click', function () {
         this.classList.toggle('active');
         const dropdownContent = this.nextElementSibling;
         if (dropdownContent.style.display === 'block') {
@@ -30,13 +34,22 @@ export class AsideMenuComponent implements OnInit {
     const item = document.querySelectorAll('.sidenav a');
 
     for (i = 0; i < item.length; i++) {
-      item[i].addEventListener('click', function() {
+      item[i].addEventListener('click', function () {
         document.querySelectorAll('.sidenav a').forEach(asd => {
           asd.classList.remove('item-ativo');
         });
         this.classList.toggle('item-ativo');
       });
     }
+  }
+
+  logout() {
+    this.usuarioService.logout()
+      .pipe(takeWhile(() => this.alive))
+      .subscribe()
+  }
+
+  ngOnDestroy(): void {
   }
 
 }

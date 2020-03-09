@@ -63,4 +63,8 @@ export class UsuarioService extends AbstractService {
   redirectLogin() {
     this.router.navigate(['']);
   }
+
+  redirectPrincipal() {
+    this.router.navigate(['../../principal']);
+  }
 }
