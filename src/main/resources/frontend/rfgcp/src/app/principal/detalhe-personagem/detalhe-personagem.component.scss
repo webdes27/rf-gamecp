@@ -1,32 +1,58 @@
-.col-6 {
-  border-top: 1px solid #8D8E8E;
-  border-left: 1px solid #8D8E8E;
-  padding: 4px;
-}
-
-.col-4 {
-  border-top: 1px solid #8D8E8E;
-  border-left: 1px solid #8D8E8E;
-  padding: 4px;
-}
-
-.col-8 {
-  border-top: 1px solid #8D8E8E;
-  border-left: 1px solid #8D8E8E;
-  padding: 4px;
-}
-
-.col-left {
-  border-right: 1px solid #8D8E8E;
-}
-.col-bottom{
-  border-bottom: 1px solid #8D8E8E;
-}
-
-.col-right {
-  border-left: 1px solid #8D8E8E;
-}
-
 .row {
   color: #4d4d4d;
+}
+.equip {
+  position: absolute;
+  z-index: 10;
+}
+.elmo {
+  left: 98px;
+  top: 11px;
+}
+.peito {
+  left: 98px;
+  top: 81px;
+}
+.calca {
+  top: 151px;
+  left: 98px;
+}
+.bota {
+  left: 98px;
+  top: 221px;
+}
+.arma{
+  left: 28px;
+  top: 81px;
+}
+.escudo {
+  left: 168px;
+  top: 81px;
+}
+.capa  {
+  left: 168px;
+  top: 151px;
+}
+.luva {
+  left: 28px;
+  top: 151px;
+}
+.acessorio {
+  width: 31px;
+}
+.anel1 {
+  top: 221px;
+  left: 60px;
+}
+.anel2 {
+  left: 169px;
+  top: 221px;
+}
+.amu1 {
+  left: 168px;
+  top: 43px;
+}
+.amu2 {
+  top: 43px;
+  left: 201px;
 }

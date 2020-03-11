@@ -1,15 +1,29 @@
 export enum Raca {
-  Accretia,
-  Bellato,
-  Cora
+  Accretia= 'accretia',
+  Bellato = 'bellato',
+  Cora = 'cora'
+}
+
+export enum Talica {
+  Keen = "00",
+  Destruction = "01",
+  Darkness = "02",
+  Chaos = "03",
+  Favor = "05",
+  Wisdom = "06",
+  SacredFire = "07",
+  Belief = "08",
+  Guard = "09",
+  Glory = "10",
+  Grace = "11",
+  Mercy = "12",
+  Blank = "15"
 }
 
 export class Melhoria {
-  qtd: number;
-  talica: string;
+  talica: Talica[];
 
-  constructor(qtd?: number, talica?: string) {
-    this.qtd = qtd;
+  constructor(talica?: Talica[]) {
     this.talica = talica;
   }
 }

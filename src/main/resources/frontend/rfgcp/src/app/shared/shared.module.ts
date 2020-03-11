@@ -5,9 +5,10 @@ import {BrowserModule} from '@angular/platform-browser';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {AppRoutingModule} from '../app-routing.module';
 import {FormsModule} from '@angular/forms';
+import { ItemInventarioComponent } from './item-inventario/item-inventario.component';
 
 @NgModule({
-  declarations: [AsideMenuComponent],
+  declarations: [AsideMenuComponent, ItemInventarioComponent],
   imports: [
     CommonModule,
     BrowserModule,

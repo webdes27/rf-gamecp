@@ -1,0 +1,16 @@
+<img [title]="equipamento?.nome"
+     [src]="'assets/items/upper/('+equipamento?.imgId+').gif'"
+     class="img-fluid" *ngIf="equipamento?.imgId > - 1">
+<div class="detalhe-item fade hide">
+  <div class="row">
+    <div class="col-12">
+      <h5>Nome</h5>
+      {{equipamento?.nome}}
+    </div>
+    <div class="col-12">
+      <h5>Melhorias</h5>
+      <img [src]="'assets/talics/t-'+talica+'.png'" class="img-fluid"
+           alt="Tálica de upgrade" *ngFor="let talica of equipamento?.melhoria?.talica">
+    </div>
+  </div>
+</div>

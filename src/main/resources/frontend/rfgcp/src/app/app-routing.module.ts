@@ -19,7 +19,7 @@ import {AuthGuard} from './@core/security/auth.guard';
 
 
 const routes: Routes = [
-  {path: '', redirectTo: 'index', pathMatch: 'full'},
+  {path: '', redirectTo: 'principal', pathMatch: 'full'},
   {
     path: 'index', component: IndexComponent,
     children: [
@@ -30,7 +30,7 @@ const routes: Routes = [
     ]
   },
   {
-    path: 'principal', component: PrincipalComponent, canActivate: [AuthGuard],
+    path: 'principal', component: PrincipalComponent,
     children: [
       {path: '', redirectTo: 'home', pathMatch: 'full'},
       {path: 'home', component: DetalhesComponent},
