@@ -232,23 +232,15 @@ public class EquipamentHelper {
     private Melhoria getMelhoria(int uValue) {
         Melhoria melhoria = new Melhoria();
         String hexString = Integer.toHexString(uValue);
+        int slots = Integer.parseInt(hexString.charAt(0)+"");
         String ultimoChar = String.valueOf(hexString.charAt(hexString.length() - 1));
-        if (ultimoChar.equals("F")) {
-            melhoria.setQtd(0);
-            melhoria.setTalica(null);
-        } else {
-            Talica talica = Stream.of(Talica.values()).filter(t -> t.getNum().equals(ultimoChar)).findFirst().orElseThrow();
-            melhoria.setTalica(talica);
-            int soma = 0;
-            char[] chars = hexString.toCharArray();
-            for (int i = 6; i > 0; i--) {
-                if (chars[i] == chars[i + 1]) {
-                    soma++;
-                } else {
-                    break;
-                }
+        if (!ultimoChar.equals("F")) {
+            for (int i = slots, j = 0; i >= 1; i--, j++) {
+                int finalI = i;
+                melhoria.getTalica()[j] = Stream.of(Talica.values())
+                        .filter(t -> t.getNum().equals(hexString.charAt(finalI)+""))
+                        .findFirst().orElseThrow();
             }
-            melhoria.setQtd(soma);
         }
         return melhoria;
     }

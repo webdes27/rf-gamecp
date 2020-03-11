@@ -6,10 +6,12 @@ import lombok.NoArgsConstructor;
 
 @Data
 @AllArgsConstructor
-@NoArgsConstructor
 public class Melhoria {
 
-    private int qtd;
-    private Talica talica;
+    private final Talica[] talica;
 
+    public Melhoria() {
+        this.talica = new Talica[]{Talica.Blank,Talica.Blank,Talica.Blank,
+                Talica.Blank,Talica.Blank,Talica.Blank,Talica.Blank};
+    }
 }
