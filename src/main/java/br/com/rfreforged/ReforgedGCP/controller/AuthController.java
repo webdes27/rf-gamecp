@@ -3,6 +3,7 @@ package br.com.rfreforged.ReforgedGCP.controller;
 import br.com.rfreforged.ReforgedGCP.dao.UsuarioDAO;
 import br.com.rfreforged.ReforgedGCP.model.ApiResponse;
 import br.com.rfreforged.ReforgedGCP.model.Usuario;
+import br.com.rfreforged.ReforgedGCP.security.CustomUserPrincipal;
 import br.com.rfreforged.ReforgedGCP.security.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
@@ -43,7 +44,7 @@ public class AuthController {
         response.setHeader("Access-Control-Allow-Credentials", "true");
         response.addCookie(cookie);
 
-        usuario = usuarioDAO.getUsuario(usuario.getEmail());
+        usuario = ((CustomUserPrincipal) authentication.getPrincipal()).getUsuario();
         usuario.setSenha(null);
 
         return usuario;

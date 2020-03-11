@@ -17,6 +17,10 @@ public class CustomUserPrincipal implements UserDetails {
         this.usuario = usuario;
     }
 
+    public Usuario getUsuario() {
+        return usuario;
+    }
+
     @JsonIgnore
     public int getId() {
         return usuario.getId();
