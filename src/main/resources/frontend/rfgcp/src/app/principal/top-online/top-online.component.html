@@ -1,1 +1,31 @@
-<p>top-online works!</p>
+<div class="row p-5">
+  <h4>Top 30 Jogadores por tempo jogado</h4>
+  <hr style="width: -webkit-fill-available;"/>
+
+  <table class="table table-bordered table-dark mt-2">
+    <thead class="text-center">
+    <th>Rank</th>
+    <th>Status</th>
+    <th>Raça</th>
+    <th>Nível</th>
+    <th>Nome do Personagem</th>
+    <th>Classe</th>
+    <th>Tempo de Jogo</th>
+    <th>Pt Contribuição</th>
+    <th>Guilda</th>
+    </thead>
+    <tbody *ngFor="let t of topOnline" class="text-center">
+      <td>{{t.rank}}</td>
+      <td ><div class="circle red" [class.green]="t.status"></div></td>
+      <td>{{t.raca}}</td>
+      <td>{{t.nivel}}</td>
+      <td>{{t.nomePersonagem}}</td>
+      <td>{{t.classe}}</td>
+      <td>{{t.tempoJogo.tempoFormatado()}}</td>
+      <td>{{roundValue(t.ptContribuicao)}}</td>
+      <td>{{t.guilda}}</td>
+    </tbody>
+  </table>
+
+  <span *ngIf="!topOnline || topOnline.length === 0">Não há dados até o momento.</span>
+</div>

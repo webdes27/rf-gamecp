@@ -9,6 +9,7 @@ import {Equipamento} from "../../@core/model/personagem.model";
 export class ItemInventarioComponent implements OnInit {
 
   @Input() equipamento: Equipamento;
+  @Input() equipeFolder: string;
 
   constructor() { }
 

@@ -16,13 +16,14 @@ import { ItemInventarioComponent } from './item-inventario/item-inventario.compo
     AppRoutingModule,
     FormsModule
   ],
-  exports: [
-    CommonModule,
-    FormsModule,
-    BrowserModule,
-    BrowserAnimationsModule,
-    AsideMenuComponent
-  ]
+    exports: [
+        CommonModule,
+        FormsModule,
+        BrowserModule,
+        BrowserAnimationsModule,
+        AsideMenuComponent,
+        ItemInventarioComponent
+    ]
 })
 export class SharedModule {
 }

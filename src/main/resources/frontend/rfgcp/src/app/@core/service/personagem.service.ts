@@ -17,7 +17,7 @@ export class PersonagemService extends AbstractService {
   }
 
   getPersonagens(nomeUsuario: string): Observable<Personagem[]> {
-    return this.http.get<Personagem[]>(this.BASE_URL + 'josuerf' + nomeUsuario);
+    return this.http.get<Personagem[]>(this.BASE_URL + nomeUsuario);
   }
 
   getEquipamentos(nome: string): Observable<Personagem> {

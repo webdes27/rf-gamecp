@@ -4,6 +4,7 @@
 .equip {
   position: absolute;
   z-index: 10;
+  width: fit-content;
 }
 .elmo {
   left: 98px;
@@ -14,8 +15,8 @@
   top: 81px;
 }
 .calca {
-  top: 151px;
   left: 98px;
+  top: 151px;
 }
 .bota {
   left: 98px;
@@ -41,18 +42,37 @@
   width: 31px;
 }
 .anel1 {
-  top: 221px;
+  top: 222px;
   left: 60px;
 }
 .anel2 {
+  top: 222px;
   left: 169px;
-  top: 221px;
 }
 .amu1 {
-  left: 168px;
+  left: 167px;
   top: 43px;
 }
 .amu2 {
   top: 43px;
-  left: 201px;
+  left: 202px;
+}
+
+.detalhe-item {
+  background-color: rgba(40, 44, 84, 0.85);
+  padding: 6px 15px 15px;
+  position: absolute;
+  width: 200px;
+  z-index: 20;
+  top: 0;
+  left: 0;
+  border: 2px solid #CCC;
+}
+.img-invetario {
+  max-height: 200px;
+}
+@media (max-width: 742px) {
+  .img-invetario {
+    max-height: 310px;
+  }
 }

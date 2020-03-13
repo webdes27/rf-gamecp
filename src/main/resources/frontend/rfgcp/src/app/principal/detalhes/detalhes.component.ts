@@ -20,12 +20,11 @@ export class DetalhesComponent implements OnInit, OnDestroy {
   }
 
   ngOnInit() {
-    // this.infoService.getDetalhesIniciais(this.usuarioService.getUsuarioLogado().nome)
-    this.infoService.getDetalhesIniciais('')
+    this.infoService.getDetalhesIniciais(this.usuarioService.getUsuarioLogado().nome)
       .pipe(takeWhile(() => this.alive))
       .subscribe(data => {
         this.detalheConta = data;
-        // this.detalheConta.email = this.usuarioService.getUsuarioLogado().email;
+        this.detalheConta.email = this.usuarioService.getUsuarioLogado().email;
       });
   }
 

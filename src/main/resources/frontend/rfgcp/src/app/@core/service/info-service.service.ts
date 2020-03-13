@@ -16,6 +16,6 @@ export class InfoService extends AbstractService {
   }
 
   getDetalhesIniciais(nomeUsuario: string): Observable<DetalheConta> {
-    return this.http.get<DetalheConta>(this.BASE_URL + 'conta/josuerf' + nomeUsuario);
+    return this.http.get<DetalheConta>(this.BASE_URL + 'conta/' + nomeUsuario);
   }
 }
