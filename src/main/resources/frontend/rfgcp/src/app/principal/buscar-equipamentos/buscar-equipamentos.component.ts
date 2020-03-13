@@ -12,8 +12,8 @@ import {Inventario} from '../../@core/model/inventario.model';
 })
 export class BuscarEquipamentosComponent implements OnInit {
 
-  private nome: string;
   private personagem: Personagem;
+  private nome: string;
   private noFoco: boolean;
   private alive = true;
   @Input() equipamento = true;

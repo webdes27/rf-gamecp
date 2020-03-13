@@ -3,9 +3,9 @@
     <h3>Buscar {{equipamento ? 'Equipamento' : 'Inventário'}}</h3>
     <hr/>
     <div class="col-12 form-group">
-      <label for="busca">Buscar  {{equipamento ? 'equipamento' : 'inventário'}} de jogador</label>
-      <input id="busca" (focus)="noFoco = true;" (focusout)="noFoco = false;" [(ngModel)]="nome"
-             class="form-control" placeholder="Nome do jogador">
+      <app-input-enter-key [nome]="nome" placeholder="Nome do jogador" [submit]="submit()"
+                           [label]="'Buscar' + (equipamento ? ' equipamento ' : ' inventário ') + 'de jogador'">
+      </app-input-enter-key>
     </div>
     <div class="p-4" *ngIf="personagem && equipamento">
       <app-detalhe-personagem [personagem]="personagem" [pessoal]="false" [grid]="true" *ngIf="personagem.nome; else notFound"></app-detalhe-personagem>

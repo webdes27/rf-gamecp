@@ -6,9 +6,10 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {AppRoutingModule} from '../app-routing.module';
 import {FormsModule} from '@angular/forms';
 import { ItemInventarioComponent } from './item-inventario/item-inventario.component';
+import { InputEnterKeyComponent } from './input-enter-key/input-enter-key.component';
 
 @NgModule({
-  declarations: [AsideMenuComponent, ItemInventarioComponent],
+  declarations: [AsideMenuComponent, ItemInventarioComponent, InputEnterKeyComponent],
   imports: [
     CommonModule,
     BrowserModule,
@@ -22,7 +23,8 @@ import { ItemInventarioComponent } from './item-inventario/item-inventario.compo
         BrowserModule,
         BrowserAnimationsModule,
         AsideMenuComponent,
-        ItemInventarioComponent
+        ItemInventarioComponent,
+        InputEnterKeyComponent
     ]
 })
 export class SharedModule {

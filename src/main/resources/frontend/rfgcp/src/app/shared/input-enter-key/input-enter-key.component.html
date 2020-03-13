@@ -1,0 +1,3 @@
+<label for="busca" class="label" *ngIf="label">{{label}}</label>
+<input id="busca" (focus)="noFoco = true;" (focusout)="noFoco = false;" [(ngModel)]="nome"
+       class="form-control" [placeholder]="placeholder">

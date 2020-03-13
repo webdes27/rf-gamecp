@@ -4,6 +4,7 @@ import {HttpClient} from '@angular/common/http';
 import {Observable} from 'rxjs';
 import {Personagem} from '../model/personagem.model';
 import {Inventario} from '../model/inventario.model';
+import {Banido} from "../model/banido.model";
 
 @Injectable({
   providedIn: 'root'
@@ -26,5 +27,9 @@ export class PersonagemService extends AbstractService {
 
   getInventario(nome: string): Observable<Inventario> {
     return this.http.get<Inventario>(this.BASE_URL + 'inventario/' + nome);
+  }
+
+  getBanidos(nome = ""): Observable<Banido[]> {
+    return this.http.get<Banido[]>(this.BASE_URL + 'lista-banidos/' + nome);
   }
 }

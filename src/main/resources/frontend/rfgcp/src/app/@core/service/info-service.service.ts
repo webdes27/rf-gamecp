@@ -2,7 +2,7 @@ import {Injectable} from '@angular/core';
 import {AbstractService} from './abstract.service';
 import {HttpClient} from '@angular/common/http';
 import {Observable} from 'rxjs';
-import {DetalheConta} from '../model/detalhe-conta';
+import {DetalheConta} from '../model/detalhe-conta.model';
 
 @Injectable({
   providedIn: 'root'

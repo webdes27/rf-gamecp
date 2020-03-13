@@ -1,1 +1,32 @@
-<p>lista-banidos works!</p>
+<div class="row py-5">
+  <div class="container">
+    <h3>Lista de banidos</h3>
+    <hr/>
+    <div class="col-12 form-group">
+      <app-input-enter-key placeholder="Buscar por nome de conta, personagem ou GM." [submit]="submit()" [nome]="nome">
+      </app-input-enter-key>
+    </div>
+    <div class="col-12">
+      <table class="table table-dark table-striped table-bordered">
+        <thead>
+        <th>#</th>
+        <th>Nome Personagem</th>
+        <th>Data de Início</th>
+        <th>Data de Término</th>
+        <th>Nome de Usuário</th>
+        <th>GM</th>
+        <th>Razão</th>
+        </thead>
+        <tbody *ngFor="let b of banidos; let i = index">
+        <td>{{i}}</td>
+        <td>{{b.nomePersonagem}}</td>
+        <td>{{b.dataInicio}}</td>
+        <td>{{b.dataTermino}}</td>
+        <td>{{b.GM}}</td>
+        <td>{{b.razao}}</td>
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+</div>

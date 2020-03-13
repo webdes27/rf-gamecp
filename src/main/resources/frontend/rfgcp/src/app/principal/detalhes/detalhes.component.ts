@@ -1,6 +1,6 @@
 import {Component, OnDestroy, OnInit} from '@angular/core';
 import {InfoService} from '../../@core/service/info-service.service';
-import {DetalheConta} from '../../@core/model/detalhe-conta';
+import {DetalheConta} from '../../@core/model/detalhe-conta.model';
 import {takeWhile} from 'rxjs/operators';
 import {UsuarioService} from '../../@core/service/usuario.service';
 
