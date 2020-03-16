@@ -6,6 +6,7 @@ import br.com.rfreforged.ReforgedGCP.model.Usuario;
 import br.com.rfreforged.ReforgedGCP.security.CustomUserPrincipal;
 import br.com.rfreforged.ReforgedGCP.security.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseCookie;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.Authentication;
@@ -37,12 +38,14 @@ public class AuthController {
         SecurityContextHolder.getContext().setAuthentication(authentication);
 
         final String token = jwtTokenProvider.generateToken(authentication);
-        Cookie cookie = new Cookie("SID", token);
-        cookie.setPath("/");
-//        cookie.setSecure(true);
-        cookie.setHttpOnly(true);
-        response.setHeader("Access-Control-Allow-Credentials", "true");
-        response.addCookie(cookie);
+        ResponseCookie cookie = ResponseCookie.from("SID", token)
+                .maxAge(!token.isEmpty() ? 604800 : 0)
+                .sameSite("Lax")
+                .httpOnly(true)
+                .secure(false)
+                .path("/")
+                .build();
+        response.addHeader("Set-Cookie", cookie.toString());
 
         usuario = ((CustomUserPrincipal) authentication.getPrincipal()).getUsuario();
         usuario.setSenha(null);

@@ -37,4 +37,33 @@ public class Personagem {
         aneis = new ArrayList<>();
         amuletos = new ArrayList<>();
     }
+
+    @Override
+    public String toString() {
+        return "Personagem{" +
+                "nome='" + nome + '\'' +
+                ", nivel=" + nivel +
+                ", raca='" + raca + '\'' +
+                ", classe=" + classe +
+                ", tempoJogado=" + tempoJogado +
+                ", genero='" + genero + '\'' +
+                ", dinheiro=" + dinheiro +
+                ", ouro=" + ouro +
+                ", ptContribuicao=" + ptContribuicao +
+                ", ptCertos=" + ptCertos +
+                ", ptOuro=" + ptOuro +
+                ", ptCaca=" + ptCaca +
+                ", ptProcessamento=" + ptProcessamento +
+                ", peito=" + peito +
+                ", calca=" + calca +
+                ", luva=" + luva +
+                ", bota=" + bota +
+                ", elmo=" + elmo +
+                ", escudo=" + escudo +
+                ", arma=" + arma +
+                ", capa=" + capa +
+                ", aneis=" + aneis +
+                ", amuletos=" + amuletos +
+                '}';
+    }
 }

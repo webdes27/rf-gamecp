@@ -1,0 +1,1981 @@
+Index;Server Code;Client Code;English Name;Image ID
+0;ikbb001;C1010100;Force Booster;154
+1;ikbb002;C1010200;Fire Force Booster;154
+2;ikbb003;C1010300;Aqua Force Booster;154
+3;ikbb004;C1010400;Terra Force Booster;154
+4;ikbb005;C1010500;Wind Force Booster;154
+5;ikbb006;C1010600;Advanced Force Booster;154
+6;ikbb007;C1010700;Advanced Fire Force Booster;154
+7;ikbb008;C1010800;Advanced Aqua Force Booster;154
+8;ikbb009;C1010900;Advanced Terra Booster;154
+9;ikbb010;C1011000;Advanced Wind Booster;154
+10;ikbb011;C1011100;Bellato Mantle11;142
+11;ikbpc01;C10F0201;Cafe Only Jet Pack;202
+12;ikbb013;C1011300;Golden Force Booster;217
+13;ikbb014;C1011400;Golden Etel Wing;0
+14;ikbb015;C1011500;Golden Penger Priguel;0
+15;ikbb016;C1011600;Stealth Cloak;0
+16;ikbb017;C1011700;Bellato Mantle17;0
+17;ikbb018;C1011800;Bellato Mantle18;0
+18;ikbb019;C1011900;Bellato Mantle19;0
+19;ikbb020;C1012000;Bellato Mantle20;0
+20;ikbb021;C1012100;Bellato Mantle21;0
+21;ikbb022;C1012200;Bellato Mantle22;0
+22;ikbb023;C1012300;Bellato Mantle23;0
+23;ikbb024;C1012400;Bellato Mantle24;0
+24;ikbb025;C1012500;Bellato Mantle25;0
+25;ikbb026;C1012600;Bellato Mantle26;0
+26;ikbb027;C1012700;Bellato Mantle27;0
+27;ikbb028;C1012800;Bellato Mantle28;0
+28;ikbb029;C1012900;Bellato Mantle29;0
+29;ikbb030;C1013000;Bellato Mantle30;0
+30;ikbb031;C1013100;Bellato Mantle31;0
+31;ikbb032;C1013200;Bellato Mantle32;0
+32;ikbb033;C1013300;Bellato Mantle33;0
+33;ikbb034;C1013400;Bellato Mantle34;0
+34;ikbb035;C1013500;Bellato Mantle35;0
+35;ikbb036;C1013600;Bellato Mantle36;0
+36;ikbb037;C1013700;Bellato Mantle37;0
+37;ikbb038;C1013800;Bellato Mantle38;0
+38;ikbb039;C1013900;Bellato Mantle39;0
+39;ikbb040;C1014000;Bellato Mantle40;0
+40;ikbb041;C1014100;Bellato Mantle41;0
+41;ikbb042;C1014200;Bellato Mantle42;0
+42;ikbb043;C1014300;Bellato Mantle43;0
+43;ikbb044;C1014400;Bellato Mantle44;0
+44;ikbb045;C1014500;Bellato Mantle45;0
+45;ikbb046;C1014600;Bellato Mantle46;0
+46;ikbb047;C1014700;Bellato Mantle47;0
+47;ikbb048;C1014800;Bellato Mantle48;0
+48;ikbb049;C1014900;Bellato Mantle49;0
+49;ikbb050;C1015000;Bellato Mantle50;0
+50;ikbb051;C1015100;Bellato Mantle51;0
+51;ikbb052;C1015200;Bellato Mantle52;0
+52;ikbb053;C1015300;Bellato Mantle53;0
+53;ikbb054;C1015400;Bellato Mantle54;0
+54;ikbb055;C1015500;Bellato Mantle55;0
+55;ikbb056;C1015600;Bellato Mantle56;0
+56;ikbb057;C1015700;Bellato Mantle57;0
+57;ikbb058;C1015800;Bellato Mantle58;0
+58;ikbb059;C1015900;Bellato Mantle59;0
+59;ikbb060;C1016000;Bellato Mantle60;0
+60;ikbb061;C1016100;Bellato Mantle61;0
+61;ikbb062;C1016200;Bellato Mantle62;0
+62;ikbb063;C1016300;Bellato Mantle63;0
+63;ikbb064;C1016400;Bellato Mantle64;0
+64;ikbb065;C1016500;Bellato Mantle65;0
+65;ikbb066;C1016600;Bellato Mantle66;0
+66;ikbb067;C1016700;Bellato Mantle67;0
+67;ikbb068;C1016800;Bellato Mantle68;0
+68;ikbb069;C1016900;Bellato Mantle69;0
+69;ikbb070;C1017000;Bellato Mantle70;0
+70;ikbb071;C1017100;Bellato Mantle71;0
+71;ikbb072;C1017200;Bellato Mantle72;0
+72;ikbb073;C1017300;Bellato Mantle73;0
+73;ikbb074;C1017400;Bellato Mantle74;0
+74;ikbb075;C1017500;Bellato Mantle75;0
+75;ikbb076;C1017600;Bellato Mantle76;0
+76;ikbb077;C1017700;Bellato Mantle77;0
+77;ikbb078;C1017800;Bellato Mantle78;0
+78;ikbb079;C1017900;Bellato Mantle79;0
+79;ikbb080;C1018000;Bellato Mantle80;0
+80;ikbb081;C1018100;Bellato Mantle81;0
+81;ikbb082;C1018200;Bellato Mantle82;0
+82;ikbb083;C1018300;Bellato Mantle83;0
+83;ikbb084;C1018400;Bellato Mantle84;0
+84;ikbb085;C1018500;Bellato Mantle85;0
+85;ikbb086;C1018600;Bellato Mantle86;0
+86;ikbb087;C1018700;Bellato Mantle87;0
+87;ikbb088;C1018800;Bellato Mantle88;0
+88;ikbb089;C1018900;Bellato Mantle89;0
+89;ikbb090;C1019000;Bellato Mantle90;0
+90;ikbb091;C1019100;Bellato Mantle91;0
+91;ikbb092;C1019200;Bellato Mantle92;0
+92;ikbb093;C1019300;Bellato Mantle93;0
+93;ikbb094;C1019400;Bellato Mantle94;0
+94;ikbb095;C1019500;Bellato Mantle95;0
+95;ikbb096;C1019600;Bellato Mantle96;0
+96;ikbb097;C1019700;Bellato Mantle97;0
+97;ikbb098;C1019800;Bellato Mantle98;0
+98;ikbb099;C1019900;Bellato Mantle99;0
+99;ikbb100;C1010000;Bellato Mantle100;0
+100;ikbb101;C1010100;Bellato Mantle101;0
+101;ikbb102;C1010200;Bellato Mantle102;0
+102;ikbb103;C1010300;Bellato Mantle103;0
+103;ikbb104;C1010400;Bellato Mantle104;0
+104;ikbb105;C1010500;Bellato Mantle105;0
+105;ikbb106;C1010600;Bellato Mantle106;0
+106;ikbb107;C1010700;Bellato Mantle107;0
+107;ikbb108;C1010800;Bellato Mantle108;0
+108;ikbb109;C1010900;Bellato Mantle109;0
+109;ikbb110;C1011000;Bellato Mantle110;0
+110;ikbb111;C1011100;Bellato Mantle111;0
+111;ikbb112;C1011200;Bellato Mantle112;0
+112;ikbb113;C1011300;Bellato Mantle113;0
+113;ikbb114;C1011400;Bellato Mantle114;0
+114;ikbb115;C1011500;Bellato Mantle115;0
+115;ikbb116;C1011600;Bellato Mantle116;0
+116;ikbb117;C1011700;Bellato Mantle117;0
+117;ikbb118;C1011800;Bellato Mantle118;0
+118;ikbb119;C1011900;Bellato Mantle119;0
+119;ikbb120;C1012000;Bellato Mantle120;0
+120;ikbb121;C1012100;Bellato Mantle121;0
+121;ikbb122;C1012200;Bellato Mantle122;0
+122;ikbb123;C1012300;Bellato Mantle123;0
+123;ikbb124;C1012400;Bellato Mantle124;0
+124;ikbb125;C1012500;Bellato Mantle125;0
+125;ikbb126;C1012600;Bellato Mantle126;0
+126;ikbb127;C1012700;Bellato Mantle127;0
+127;ikbb128;C1012800;Bellato Mantle128;0
+128;ikbb129;C1012900;Bellato Mantle129;0
+129;ikbb130;C1013000;Bellato Mantle130;0
+130;ikbb131;C1013100;Bellato Mantle131;0
+131;ikbb132;C1013200;Bellato Mantle132;0
+132;ikbb133;C1013300;Bellato Mantle133;0
+133;ikbb134;C1013400;Bellato Mantle134;0
+134;ikbb135;C1013500;Bellato Mantle135;0
+135;ikbb136;C1013600;Bellato Mantle136;0
+136;ikbb137;C1013700;Bellato Mantle137;0
+137;ikbb138;C1013800;Bellato Mantle138;0
+138;ikbb139;C1013900;Bellato Mantle139;0
+139;ikbb140;C1014000;Bellato Mantle140;0
+140;ikbb141;C1014100;Bellato Mantle141;0
+141;ikbb142;C1014200;Bellato Mantle142;0
+142;ikbb143;C1014300;Bellato Mantle143;0
+143;ikbb144;C1014400;Bellato Mantle144;0
+144;ikbb145;C1014500;Bellato Mantle145;0
+145;ikbb146;C1014600;Bellato Mantle146;0
+146;ikbb147;C1014700;Bellato Mantle147;0
+147;ikbb148;C1014800;Bellato Mantle148;0
+148;ikbb149;C1014900;Bellato Mantle149;0
+149;ikbb150;C1015000;Bellato Mantle150;0
+150;ikbb151;C1015100;Bellato Mantle151;0
+151;ikbb152;C1015200;Bellato Mantle152;0
+152;ikbb153;C1015300;Bellato Mantle153;0
+153;ikbb154;C1015400;Bellato Mantle154;0
+154;ikbb155;C1015500;Bellato Mantle155;0
+155;ikbb156;C1015600;Bellato Mantle156;0
+156;ikbb157;C1015700;Bellato Mantle157;0
+157;ikbb158;C1015800;Bellato Mantle158;0
+158;ikbb159;C1015900;Bellato Mantle159;0
+159;ikbb160;C1016000;Bellato Mantle160;0
+160;ikbb161;C1016100;Bellato Mantle161;0
+161;ikbb162;C1016200;Bellato Mantle162;0
+162;ikbb163;C1016300;Bellato Mantle163;0
+163;ikbb164;C1016400;Bellato Mantle164;0
+164;ikbb165;C1016500;Bellato Mantle165;0
+165;ikbb166;C1016600;Bellato Mantle166;0
+166;ikbb167;C1016700;Bellato Mantle167;0
+167;ikbb168;C1016800;Bellato Mantle168;0
+168;ikbb169;C1016900;Bellato Mantle169;0
+169;ikbb170;C1017000;Bellato Mantle170;0
+170;ikbb171;C1017100;Bellato Mantle171;0
+171;ikbb172;C1017200;Bellato Mantle172;0
+172;ikbb173;C1017300;Bellato Mantle173;0
+173;ikbb174;C1017400;Bellato Mantle174;0
+174;ikbb175;C1017500;Bellato Mantle175;0
+175;ikbb176;C1017600;Bellato Mantle176;0
+176;ikbb177;C1017700;Bellato Mantle177;0
+177;ikbb178;C1017800;Bellato Mantle178;0
+178;ikbb179;C1017900;Bellato Mantle179;0
+179;ikbb180;C1018000;Bellato Mantle180;0
+180;ikbb181;C1018100;Bellato Mantle181;0
+181;ikbb182;C1018200;Bellato Mantle182;0
+182;ikbb183;C1018300;Bellato Mantle183;0
+183;ikbb184;C1018400;Bellato Mantle184;0
+184;ikbb185;C1018500;Bellato Mantle185;0
+185;ikbb186;C1018600;Bellato Mantle186;0
+186;ikbb187;C1018700;Bellato Mantle187;0
+187;ikbb188;C1018800;Bellato Mantle188;0
+188;ikbb189;C1018900;Bellato Mantle189;0
+189;ikbb190;C1019000;Bellato Mantle190;0
+190;ikbb191;C1019100;Bellato Mantle191;0
+191;ikbb192;C1019200;Bellato Mantle192;0
+192;ikbb193;C1019300;Bellato Mantle193;0
+193;ikbb194;C1019400;Bellato Mantle194;0
+194;ikbb195;C1019500;Bellato Mantle195;0
+195;ikbb196;C1019600;Bellato Mantle196;0
+196;ikbb197;C1019700;Bellato Mantle197;0
+197;ikbb198;C1019800;Bellato Mantle198;0
+198;ikbb199;C1019900;Bellato Mantle199;0
+199;ikbb200;C1010000;Bellato Mantle200;0
+200;ikbb201;C1010100;Bellato Mantle201;0
+201;ikbb202;C1010200;Bellato Mantle202;0
+202;ikbb203;C1010300;Bellato Mantle203;0
+203;ikbb204;C1010400;Bellato Mantle204;0
+204;ikbb205;C1010500;Bellato Mantle205;0
+205;ikbb206;C1010600;Bellato Mantle206;0
+206;ikbb207;C1010700;Bellato Mantle207;0
+207;ikbb208;C1010800;Bellato Mantle208;0
+208;ikbb209;C1010900;Bellato Mantle209;0
+209;ikbb210;C1011000;Bellato Mantle210;0
+210;ikbb211;C1011100;Bellato Mantle211;0
+211;ikbb212;C1011200;Bellato Mantle212;0
+212;ikbb213;C1011300;Bellato Mantle213;0
+213;ikbb214;C1011400;Bellato Mantle214;0
+214;ikbb215;C1011500;Bellato Mantle215;0
+215;ikbb216;C1011600;Bellato Mantle216;0
+216;ikbb217;C1011700;Bellato Mantle217;0
+217;ikbb218;C1011800;Bellato Mantle218;0
+218;ikbb219;C1011900;Bellato Mantle219;0
+219;ikbb220;C1012000;Bellato Mantle220;0
+220;ikbb221;C1012100;Bellato Mantle221;0
+221;ikbb222;C1012200;Bellato Mantle222;0
+222;ikbb223;C1012300;Bellato Mantle223;0
+223;ikbb224;C1012400;Bellato Mantle224;0
+224;ikbb225;C1012500;Bellato Mantle225;0
+225;ikbb226;C1012600;Bellato Mantle226;0
+226;ikbb227;C1012700;Bellato Mantle227;0
+227;ikbb228;C1012800;Bellato Mantle228;0
+228;ikbb229;C1012900;Bellato Mantle229;0
+229;ikbb230;C1013000;Bellato Mantle230;0
+230;ikbb231;C1013100;Bellato Mantle231;0
+231;ikbb232;C1013200;Bellato Mantle232;0
+232;ikbb233;C1013300;Bellato Mantle233;0
+233;ikbb234;C1013400;Bellato Mantle234;0
+234;ikbb235;C1013500;Bellato Mantle235;0
+235;ikbb236;C1013600;Bellato Mantle236;0
+236;ikbb237;C1013700;Bellato Mantle237;0
+237;ikbb238;C1013800;Bellato Mantle238;0
+238;ikbb239;C1013900;Bellato Mantle239;0
+239;ikbb240;C1014000;Bellato Mantle240;0
+240;ikbb241;C1014100;Bellato Mantle241;0
+241;ikbb242;C1014200;Bellato Mantle242;0
+242;ikbb243;C1014300;Bellato Mantle243;0
+243;ikbb244;C1014400;Bellato Mantle244;0
+244;ikbb245;C1014500;Bellato Mantle245;0
+245;ikbb246;C1014600;Bellato Mantle246;0
+246;ikbb247;C1014700;Bellato Mantle247;0
+247;ikbb248;C1014800;Bellato Mantle248;0
+248;ikbb249;C1014900;Bellato Mantle249;0
+249;ikbb250;C1015000;Bellato Mantle250;0
+250;ikbb251;C1015100;Bellato Mantle251;0
+251;ikbb252;C1015200;Bellato Mantle252;0
+252;ikbb253;C1015300;Bellato Mantle253;0
+253;ikbb254;C1015400;Bellato Mantle254;0
+254;ikbb255;C1015500;Bellato Mantle255;0
+255;ikbb256;C1015600;Bellato Mantle256;155
+256;ikcc001;C2020100;Ether Wing;155
+257;ikcc002;C2020200;Fire Ether Wing;155
+258;ikcc003;C2020300;Aqua Ether Wing;155
+259;ikcc004;C2020400;Terra Ether Wing;155
+260;ikcc005;C2020500;Wind Ether Wing;155
+261;ikcc006;C2020600;Advanced Ether Wing;155
+262;ikcc007;C2020700;Advanced Fire Ether Wing;155
+263;ikcc008;C2020800;Advanced Aqua Ether Wing;155
+264;ikcc009;C2020900;Advanced Terra Ether Wing;155
+265;ikcc010;C2021000;Advanced Wind Ether Wing;155
+266;ikcpc01;C20F0201;Cafe Only Jet Pack;203
+267;ikcc012;C2021200;Golden Etel Wing;219
+268;ikcc013;C2021300;Cora Mantle13;0
+269;ikcc014;C2021400;Cora Mantle14;0
+270;ikcc015;C2021500;Cora Mantle15;0
+271;ikcc016;C2021600;Cora Mantle16;0
+272;ikcc017;C2021700;Cora Mantle17;0
+273;ikcc018;C2021800;Cora Mantle18;0
+274;ikcc019;C2021900;Cora Mantle19;0
+275;ikcc020;C2022000;Cora Mantle20;0
+276;ikcc021;C2022100;Cora Mantle21;0
+277;ikcc022;C2022200;Cora Mantle22;0
+278;ikcc023;C2022300;Cora Mantle23;0
+279;ikcc024;C2022400;Cora Mantle24;0
+280;ikcc025;C2022500;Cora Mantle25;0
+281;ikcc026;C2022600;Cora Mantle26;0
+282;ikcc027;C2022700;Cora Mantle27;0
+283;ikcc028;C2022800;Cora Mantle28;0
+284;ikcc029;C2022900;Cora Mantle29;0
+285;ikcc030;C2023000;Cora Mantle30;0
+286;ikcc031;C2023100;Cora Mantle31;0
+287;ikcc032;C2023200;Cora Mantle32;0
+288;ikcc033;C2023300;Cora Mantle33;0
+289;ikcc034;C2023400;Cora Mantle34;0
+290;ikcc035;C2023500;Cora Mantle35;0
+291;ikcc036;C2023600;Cora Mantle36;0
+292;ikcc037;C2023700;Cora Mantle37;0
+293;ikcc038;C2023800;Cora Mantle38;0
+294;ikcc039;C2023900;Cora Mantle39;0
+295;ikcc040;C2024000;Cora Mantle40;0
+296;ikcc041;C2024100;Cora Mantle41;0
+297;ikcc042;C2024200;Cora Mantle42;0
+298;ikcc043;C2024300;Cora Mantle43;0
+299;ikcc044;C2024400;Cora Mantle44;0
+300;ikcc045;C2024500;Cora Mantle45;0
+301;ikcc046;C2024600;Cora Mantle46;0
+302;ikcc047;C2024700;Cora Mantle47;0
+303;ikcc048;C2024800;Cora Mantle48;0
+304;ikcc049;C2024900;Cora Mantle49;0
+305;ikcc050;C2025000;Cora Mantle50;0
+306;ikcc051;C2025100;Cora Mantle51;0
+307;ikcc052;C2025200;Cora Mantle52;0
+308;ikcc053;C2025300;Cora Mantle53;0
+309;ikcc054;C2025400;Cora Mantle54;0
+310;ikcc055;C2025500;Cora Mantle55;0
+311;ikcc056;C2025600;Cora Mantle56;0
+312;ikcc057;C2025700;Cora Mantle57;0
+313;ikcc058;C2025800;Cora Mantle58;0
+314;ikcc059;C2025900;Cora Mantle59;0
+315;ikcc060;C2026000;Cora Mantle60;0
+316;ikcc061;C2026100;Cora Mantle61;0
+317;ikcc062;C2026200;Cora Mantle62;0
+318;ikcc063;C2026300;Cora Mantle63;0
+319;ikcc064;C2026400;Cora Mantle64;0
+320;ikcc065;C2026500;Cora Mantle65;0
+321;ikcc066;C2026600;Cora Mantle66;0
+322;ikcc067;C2026700;Cora Mantle67;0
+323;ikcc068;C2026800;Cora Mantle68;0
+324;ikcc069;C2026900;Cora Mantle69;0
+325;ikcc070;C2027000;Cora Mantle70;0
+326;ikcc071;C2027100;Cora Mantle71;0
+327;ikcc072;C2027200;Cora Mantle72;0
+328;ikcc073;C2027300;Cora Mantle73;0
+329;ikcc074;C2027400;Cora Mantle74;0
+330;ikcc075;C2027500;Cora Mantle75;0
+331;ikcc076;C2027600;Cora Mantle76;0
+332;ikcc077;C2027700;Cora Mantle77;0
+333;ikcc078;C2027800;Cora Mantle78;0
+334;ikcc079;C2027900;Cora Mantle79;0
+335;ikcc080;C2028000;Cora Mantle80;0
+336;ikcc081;C2028100;Cora Mantle81;0
+337;ikcc082;C2028200;Cora Mantle82;0
+338;ikcc083;C2028300;Cora Mantle83;0
+339;ikcc084;C2028400;Cora Mantle84;0
+340;ikcc085;C2028500;Cora Mantle85;0
+341;ikcc086;C2028600;Cora Mantle86;0
+342;ikcc087;C2028700;Cora Mantle87;0
+343;ikcc088;C2028800;Cora Mantle88;0
+344;ikcc089;C2028900;Cora Mantle89;0
+345;ikcc090;C2029000;Cora Mantle90;0
+346;ikcc091;C2029100;Cora Mantle91;0
+347;ikcc092;C2029200;Cora Mantle92;0
+348;ikcc093;C2029300;Cora Mantle93;0
+349;ikcc094;C2029400;Cora Mantle94;0
+350;ikcc095;C2029500;Cora Mantle95;0
+351;ikcc096;C2029600;Cora Mantle96;0
+352;ikcc097;C2029700;Cora Mantle97;0
+353;ikcc098;C2029800;Cora Mantle98;0
+354;ikcc099;C2029900;Cora Mantle99;0
+355;ikcc100;C2020000;Cora Mantle100;0
+356;ikcc101;C2020100;Cora Mantle101;0
+357;ikcc102;C2020200;Cora Mantle102;0
+358;ikcc103;C2020300;Cora Mantle103;0
+359;ikcc104;C2020400;Cora Mantle104;0
+360;ikcc105;C2020500;Cora Mantle105;0
+361;ikcc106;C2020600;Cora Mantle106;0
+362;ikcc107;C2020700;Cora Mantle107;0
+363;ikcc108;C2020800;Cora Mantle108;0
+364;ikcc109;C2020900;Cora Mantle109;0
+365;ikcc110;C2021000;Cora Mantle110;0
+366;ikcc111;C2021100;Cora Mantle111;0
+367;ikcc112;C2021200;Cora Mantle112;0
+368;ikcc113;C2021300;Cora Mantle113;0
+369;ikcc114;C2021400;Cora Mantle114;0
+370;ikcc115;C2021500;Cora Mantle115;0
+371;ikcc116;C2021600;Cora Mantle116;0
+372;ikcc117;C2021700;Cora Mantle117;0
+373;ikcc118;C2021800;Cora Mantle118;0
+374;ikcc119;C2021900;Cora Mantle119;0
+375;ikcc120;C2022000;Cora Mantle120;0
+376;ikcc121;C2022100;Cora Mantle121;0
+377;ikcc122;C2022200;Cora Mantle122;0
+378;ikcc123;C2022300;Cora Mantle123;0
+379;ikcc124;C2022400;Cora Mantle124;0
+380;ikcc125;C2022500;Cora Mantle125;0
+381;ikcc126;C2022600;Cora Mantle126;0
+382;ikcc127;C2022700;Cora Mantle127;0
+383;ikcc128;C2022800;Cora Mantle128;0
+384;ikcc129;C2022900;Cora Mantle129;0
+385;ikcc130;C2023000;Cora Mantle130;0
+386;ikcc131;C2023100;Cora Mantle131;0
+387;ikcc132;C2023200;Cora Mantle132;0
+388;ikcc133;C2023300;Cora Mantle133;0
+389;ikcc134;C2023400;Cora Mantle134;0
+390;ikcc135;C2023500;Cora Mantle135;0
+391;ikcc136;C2023600;Cora Mantle136;0
+392;ikcc137;C2023700;Cora Mantle137;0
+393;ikcc138;C2023800;Cora Mantle138;0
+394;ikcc139;C2023900;Cora Mantle139;0
+395;ikcc140;C2024000;Cora Mantle140;0
+396;ikcc141;C2024100;Cora Mantle141;0
+397;ikcc142;C2024200;Cora Mantle142;0
+398;ikcc143;C2024300;Cora Mantle143;0
+399;ikcc144;C2024400;Cora Mantle144;0
+400;ikcc145;C2024500;Cora Mantle145;0
+401;ikcc146;C2024600;Cora Mantle146;0
+402;ikcc147;C2024700;Cora Mantle147;0
+403;ikcc148;C2024800;Cora Mantle148;0
+404;ikcc149;C2024900;Cora Mantle149;0
+405;ikcc150;C2025000;Cora Mantle150;0
+406;ikcc151;C2025100;Cora Mantle151;0
+407;ikcc152;C2025200;Cora Mantle152;0
+408;ikcc153;C2025300;Cora Mantle153;0
+409;ikcc154;C2025400;Cora Mantle154;0
+410;ikcc155;C2025500;Cora Mantle155;0
+411;ikcc156;C2025600;Cora Mantle156;0
+412;ikcc157;C2025700;Cora Mantle157;0
+413;ikcc158;C2025800;Cora Mantle158;0
+414;ikcc159;C2025900;Cora Mantle159;0
+415;ikcc160;C2026000;Cora Mantle160;0
+416;ikcc161;C2026100;Cora Mantle161;0
+417;ikcc162;C2026200;Cora Mantle162;0
+418;ikcc163;C2026300;Cora Mantle163;0
+419;ikcc164;C2026400;Cora Mantle164;0
+420;ikcc165;C2026500;Cora Mantle165;0
+421;ikcc166;C2026600;Cora Mantle166;0
+422;ikcc167;C2026700;Cora Mantle167;0
+423;ikcc168;C2026800;Cora Mantle168;0
+424;ikcc169;C2026900;Cora Mantle169;0
+425;ikcc170;C2027000;Cora Mantle170;0
+426;ikcc171;C2027100;Cora Mantle171;0
+427;ikcc172;C2027200;Cora Mantle172;0
+428;ikcc173;C2027300;Cora Mantle173;0
+429;ikcc174;C2027400;Cora Mantle174;0
+430;ikcc175;C2027500;Cora Mantle175;0
+431;ikcc176;C2027600;Cora Mantle176;0
+432;ikcc177;C2027700;Cora Mantle177;0
+433;ikcc178;C2027800;Cora Mantle178;0
+434;ikcc179;C2027900;Cora Mantle179;0
+435;ikcc180;C2028000;Cora Mantle180;0
+436;ikcc181;C2028100;Cora Mantle181;0
+437;ikcc182;C2028200;Cora Mantle182;0
+438;ikcc183;C2028300;Cora Mantle183;0
+439;ikcc184;C2028400;Cora Mantle184;0
+440;ikcc185;C2028500;Cora Mantle185;0
+441;ikcc186;C2028600;Cora Mantle186;0
+442;ikcc187;C2028700;Cora Mantle187;0
+443;ikcc188;C2028800;Cora Mantle188;0
+444;ikcc189;C2028900;Cora Mantle189;0
+445;ikcc190;C2029000;Cora Mantle190;0
+446;ikcc191;C2029100;Cora Mantle191;0
+447;ikcc192;C2029200;Cora Mantle192;0
+448;ikcc193;C2029300;Cora Mantle193;0
+449;ikcc194;C2029400;Cora Mantle194;0
+450;ikcc195;C2029500;Cora Mantle195;0
+451;ikcc196;C2029600;Cora Mantle196;0
+452;ikcc197;C2029700;Cora Mantle197;0
+453;ikcc198;C2029800;Cora Mantle198;0
+454;ikcc199;C2029900;Cora Mantle199;0
+455;ikcc200;C2020000;Cora Mantle200;0
+456;ikcc201;C2020100;Cora Mantle201;0
+457;ikcc202;C2020200;Cora Mantle202;0
+458;ikcc203;C2020300;Cora Mantle203;0
+459;ikcc204;C2020400;Cora Mantle204;0
+460;ikcc205;C2020500;Cora Mantle205;0
+461;ikcc206;C2020600;Cora Mantle206;0
+462;ikcc207;C2020700;Cora Mantle207;0
+463;ikcc208;C2020800;Cora Mantle208;0
+464;ikcc209;C2020900;Cora Mantle209;0
+465;ikcc210;C2021000;Cora Mantle210;0
+466;ikcc211;C2021100;Cora Mantle211;0
+467;ikcc212;C2021200;Cora Mantle212;0
+468;ikcc213;C2021300;Cora Mantle213;0
+469;ikcc214;C2021400;Cora Mantle214;0
+470;ikcc215;C2021500;Cora Mantle215;0
+471;ikcc216;C2021600;Cora Mantle216;0
+472;ikcc217;C2021700;Cora Mantle217;0
+473;ikcc218;C2021800;Cora Mantle218;0
+474;ikcc219;C2021900;Cora Mantle219;0
+475;ikcc220;C2022000;Cora Mantle220;0
+476;ikcc221;C2022100;Cora Mantle221;0
+477;ikcc222;C2022200;Cora Mantle222;0
+478;ikcc223;C2022300;Cora Mantle223;0
+479;ikcc224;C2022400;Cora Mantle224;0
+480;ikcc225;C2022500;Cora Mantle225;0
+481;ikcc226;C2022600;Cora Mantle226;0
+482;ikcc227;C2022700;Cora Mantle227;0
+483;ikcc228;C2022800;Cora Mantle228;0
+484;ikcc229;C2022900;Cora Mantle229;0
+485;ikcc230;C2023000;Cora Mantle230;0
+486;ikcc231;C2023100;Cora Mantle231;0
+487;ikcc232;C2023200;Cora Mantle232;0
+488;ikcc233;C2023300;Cora Mantle233;0
+489;ikcc234;C2023400;Cora Mantle234;0
+490;ikcc235;C2023500;Cora Mantle235;0
+491;ikcc236;C2023600;Cora Mantle236;0
+492;ikcc237;C2023700;Cora Mantle237;0
+493;ikcc238;C2023800;Cora Mantle238;0
+494;ikcc239;C2023900;Cora Mantle239;0
+495;ikcc240;C2024000;Cora Mantle240;0
+496;ikcc241;C2024100;Cora Mantle241;0
+497;ikcc242;C2024200;Cora Mantle242;0
+498;ikcc243;C2024300;Cora Mantle243;0
+499;ikcc244;C2024400;Cora Mantle244;0
+500;ikcc245;C2024500;Cora Mantle245;0
+501;ikcc246;C2024600;Cora Mantle246;0
+502;ikcc247;C2024700;Cora Mantle247;0
+503;ikcc248;C2024800;Cora Mantle248;0
+504;ikcc249;C2024900;Cora Mantle249;0
+505;ikcc250;C2025000;Cora Mantle250;0
+506;ikcc251;C2025100;Cora Mantle251;0
+507;ikcc252;C2025200;Cora Mantle252;0
+508;ikcc253;C2025300;Cora Mantle253;0
+509;ikcc254;C2025400;Cora Mantle254;0
+510;ikcc255;C2025500;Cora Mantle255;0
+511;ikcc256;C2025600;Cora Mantle256;0
+512;ikaa001;C0000100;Panzer Jets;156
+513;ikaa002;C0000200;Fire Panzer Jets;156
+514;ikaa003;C0000300;Aqua Panzer Jets;156
+515;ikaa004;C0000400;Terra Panzer Jets Dare;156
+516;ikaa005;C0000500;Wind Panzer Jets;156
+517;ikaa006;C0000600;Advanced Panzer Jets;156
+518;ikaa007;C0000700;Advanced Fire Panzer Jets;156
+519;ikaa008;C0000800;Advanced Aqua Panzer Jets;156
+520;ikaa009;C0000900;Advanced Terra Panzer Jets;156
+521;ikaa010;C0001000;Advanced Wind Panzer Jets;156
+522;ikapc01;C00F0201;Cafe Only Jet Pack;204
+523;ikaa012;C0001200;Golden Penger Priguel;218
+524;ikaa013;C0001300;Accretia Mantle13;0
+525;ikaa014;C0001400;Accretia Mantle14;0
+526;ikaa015;C0001500;Accretia Mantle15;0
+527;ikaa016;C0001600;Accretia Mantle16;0
+528;ikaa017;C0001700;Accretia Mantle17;0
+529;ikaa018;C0001800;Accretia Mantle18;0
+530;ikaa019;C0001900;Accretia Mantle19;0
+531;ikaa020;C0002000;Accretia Mantle20;0
+532;ikaa021;C0002100;Accretia Mantle21;0
+533;ikaa022;C0002200;Accretia Mantle22;0
+534;ikaa023;C0002300;Accretia Mantle23;0
+535;ikaa024;C0002400;Accretia Mantle24;0
+536;ikaa025;C0002500;Accretia Mantle25;0
+537;ikaa026;C0002600;Accretia Mantle26;0
+538;ikaa027;C0002700;Accretia Mantle27;0
+539;ikaa028;C0002800;Accretia Mantle28;0
+540;ikaa029;C0002900;Accretia Mantle29;0
+541;ikaa030;C0003000;Accretia Mantle30;0
+542;ikaa031;C0003100;Accretia Mantle31;0
+543;ikaa032;C0003200;Accretia Mantle32;0
+544;ikaa033;C0003300;Accretia Mantle33;0
+545;ikaa034;C0003400;Accretia Mantle34;0
+546;ikaa035;C0003500;Accretia Mantle35;0
+547;ikaa036;C0003600;Accretia Mantle36;0
+548;ikaa037;C0003700;Accretia Mantle37;0
+549;ikaa038;C0003800;Accretia Mantle38;0
+550;ikaa039;C0003900;Accretia Mantle39;0
+551;ikaa040;C0004000;Accretia Mantle40;0
+552;ikaa041;C0004100;Accretia Mantle41;0
+553;ikaa042;C0004200;Accretia Mantle42;0
+554;ikaa043;C0004300;Accretia Mantle43;0
+555;ikaa044;C0004400;Accretia Mantle44;0
+556;ikaa045;C0004500;Accretia Mantle45;0
+557;ikaa046;C0004600;Accretia Mantle46;0
+558;ikaa047;C0004700;Accretia Mantle47;0
+559;ikaa048;C0004800;Accretia Mantle48;0
+560;ikaa049;C0004900;Accretia Mantle49;0
+561;ikaa050;C0005000;Accretia Mantle50;0
+562;ikaa051;C0005100;Accretia Mantle51;0
+563;ikaa052;C0005200;Accretia Mantle52;0
+564;ikaa053;C0005300;Accretia Mantle53;0
+565;ikaa054;C0005400;Accretia Mantle54;0
+566;ikaa055;C0005500;Accretia Mantle55;0
+567;ikaa056;C0005600;Accretia Mantle56;0
+568;ikaa057;C0005700;Accretia Mantle57;0
+569;ikaa058;C0005800;Accretia Mantle58;0
+570;ikaa059;C0005900;Accretia Mantle59;0
+571;ikaa060;C0006000;Accretia Mantle60;0
+572;ikaa061;C0006100;Accretia Mantle61;0
+573;ikaa062;C0006200;Accretia Mantle62;0
+574;ikaa063;C0006300;Accretia Mantle63;0
+575;ikaa064;C0006400;Accretia Mantle64;0
+576;ikaa065;C0006500;Accretia Mantle65;0
+577;ikaa066;C0006600;Accretia Mantle66;0
+578;ikaa067;C0006700;Accretia Mantle67;0
+579;ikaa068;C0006800;Accretia Mantle68;0
+580;ikaa069;C0006900;Accretia Mantle69;0
+581;ikaa070;C0007000;Accretia Mantle70;0
+582;ikaa071;C0007100;Accretia Mantle71;0
+583;ikaa072;C0007200;Accretia Mantle72;0
+584;ikaa073;C0007300;Accretia Mantle73;0
+585;ikaa074;C0007400;Accretia Mantle74;0
+586;ikaa075;C0007500;Accretia Mantle75;0
+587;ikaa076;C0007600;Accretia Mantle76;0
+588;ikaa077;C0007700;Accretia Mantle77;0
+589;ikaa078;C0007800;Accretia Mantle78;0
+590;ikaa079;C0007900;Accretia Mantle79;0
+591;ikaa080;C0008000;Accretia Mantle80;0
+592;ikaa081;C0008100;Accretia Mantle81;0
+593;ikaa082;C0008200;Accretia Mantle82;0
+594;ikaa083;C0008300;Accretia Mantle83;0
+595;ikaa084;C0008400;Accretia Mantle84;0
+596;ikaa085;C0008500;Accretia Mantle85;0
+597;ikaa086;C0008600;Accretia Mantle86;0
+598;ikaa087;C0008700;Accretia Mantle87;0
+599;ikaa088;C0008800;Accretia Mantle88;0
+600;ikaa089;C0008900;Accretia Mantle89;0
+601;ikaa090;C0009000;Accretia Mantle90;0
+602;ikaa091;C0009100;Accretia Mantle91;0
+603;ikaa092;C0009200;Accretia Mantle92;0
+604;ikaa093;C0009300;Accretia Mantle93;0
+605;ikaa094;C0009400;Accretia Mantle94;0
+606;ikaa095;C0009500;Accretia Mantle95;0
+607;ikaa096;C0009600;Accretia Mantle96;0
+608;ikaa097;C0009700;Accretia Mantle97;0
+609;ikaa098;C0009800;Accretia Mantle98;0
+610;ikaa099;C0009900;Accretia Mantle99;0
+611;ikaa100;C0000000;Accretia Mantle100;0
+612;ikaa101;C0000100;Accretia Mantle101;0
+613;ikaa102;C0000200;Accretia Mantle102;0
+614;ikaa103;C0000300;Accretia Mantle103;0
+615;ikaa104;C0000400;Accretia Mantle104;0
+616;ikaa105;C0000500;Accretia Mantle105;0
+617;ikaa106;C0000600;Accretia Mantle106;0
+618;ikaa107;C0000700;Accretia Mantle107;0
+619;ikaa108;C0000800;Accretia Mantle108;0
+620;ikaa109;C0000900;Accretia Mantle109;0
+621;ikaa110;C0001000;Accretia Mantle110;0
+622;ikaa111;C0001100;Accretia Mantle111;0
+623;ikaa112;C0001200;Accretia Mantle112;0
+624;ikaa113;C0001300;Accretia Mantle113;0
+625;ikaa114;C0001400;Accretia Mantle114;0
+626;ikaa115;C0001500;Accretia Mantle115;0
+627;ikaa116;C0001600;Accretia Mantle116;0
+628;ikaa117;C0001700;Accretia Mantle117;0
+629;ikaa118;C0001800;Accretia Mantle118;0
+630;ikaa119;C0001900;Accretia Mantle119;0
+631;ikaa120;C0002000;Accretia Mantle120;0
+632;ikaa121;C0002100;Accretia Mantle121;0
+633;ikaa122;C0002200;Accretia Mantle122;0
+634;ikaa123;C0002300;Accretia Mantle123;0
+635;ikaa124;C0002400;Accretia Mantle124;0
+636;ikaa125;C0002500;Accretia Mantle125;0
+637;ikaa126;C0002600;Accretia Mantle126;0
+638;ikaa127;C0002700;Accretia Mantle127;0
+639;ikaa128;C0002800;Accretia Mantle128;0
+640;ikaa129;C0002900;Accretia Mantle129;0
+641;ikaa130;C0003000;Accretia Mantle130;0
+642;ikaa131;C0003100;Accretia Mantle131;0
+643;ikaa132;C0003200;Accretia Mantle132;0
+644;ikaa133;C0003300;Accretia Mantle133;0
+645;ikaa134;C0003400;Accretia Mantle134;0
+646;ikaa135;C0003500;Accretia Mantle135;0
+647;ikaa136;C0003600;Accretia Mantle136;0
+648;ikaa137;C0003700;Accretia Mantle137;0
+649;ikaa138;C0003800;Accretia Mantle138;0
+650;ikaa139;C0003900;Accretia Mantle139;0
+651;ikaa140;C0004000;Accretia Mantle140;0
+652;ikaa141;C0004100;Accretia Mantle141;0
+653;ikaa142;C0004200;Accretia Mantle142;0
+654;ikaa143;C0004300;Accretia Mantle143;0
+655;ikaa144;C0004400;Accretia Mantle144;0
+656;ikaa145;C0004500;Accretia Mantle145;0
+657;ikaa146;C0004600;Accretia Mantle146;0
+658;ikaa147;C0004700;Accretia Mantle147;0
+659;ikaa148;C0004800;Accretia Mantle148;0
+660;ikaa149;C0004900;Accretia Mantle149;0
+661;ikaa150;C0005000;Accretia Mantle150;0
+662;ikaa151;C0005100;Accretia Mantle151;0
+663;ikaa152;C0005200;Accretia Mantle152;0
+664;ikaa153;C0005300;Accretia Mantle153;0
+665;ikaa154;C0005400;Accretia Mantle154;0
+666;ikaa155;C0005500;Accretia Mantle155;0
+667;ikaa156;C0005600;Accretia Mantle156;0
+668;ikaa157;C0005700;Accretia Mantle157;0
+669;ikaa158;C0005800;Accretia Mantle158;0
+670;ikaa159;C0005900;Accretia Mantle159;0
+671;ikaa160;C0006000;Accretia Mantle160;0
+672;ikaa161;C0006100;Accretia Mantle161;0
+673;ikaa162;C0006200;Accretia Mantle162;0
+674;ikaa163;C0006300;Accretia Mantle163;0
+675;ikaa164;C0006400;Accretia Mantle164;0
+676;ikaa165;C0006500;Accretia Mantle165;0
+677;ikaa166;C0006600;Accretia Mantle166;0
+678;ikaa167;C0006700;Accretia Mantle167;0
+679;ikaa168;C0006800;Accretia Mantle168;0
+680;ikaa169;C0006900;Accretia Mantle169;0
+681;ikaa170;C0007000;Accretia Mantle170;0
+682;ikaa171;C0007100;Accretia Mantle171;0
+683;ikaa172;C0007200;Accretia Mantle172;0
+684;ikaa173;C0007300;Accretia Mantle173;0
+685;ikaa174;C0007400;Accretia Mantle174;0
+686;ikaa175;C0007500;Accretia Mantle175;0
+687;ikaa176;C0007600;Accretia Mantle176;0
+688;ikaa177;C0007700;Accretia Mantle177;0
+689;ikaa178;C0007800;Accretia Mantle178;0
+690;ikaa179;C0007900;Accretia Mantle179;0
+691;ikaa180;C0008000;Accretia Mantle180;0
+692;ikaa181;C0008100;Accretia Mantle181;0
+693;ikaa182;C0008200;Accretia Mantle182;0
+694;ikaa183;C0008300;Accretia Mantle183;0
+695;ikaa184;C0008400;Accretia Mantle184;0
+696;ikaa185;C0008500;Accretia Mantle185;0
+697;ikaa186;C0008600;Accretia Mantle186;0
+698;ikaa187;C0008700;Accretia Mantle187;0
+699;ikaa188;C0008800;Accretia Mantle188;0
+700;ikaa189;C0008900;Accretia Mantle189;0
+701;ikaa190;C0009000;Accretia Mantle190;0
+702;ikaa191;C0009100;Accretia Mantle191;0
+703;ikaa192;C0009200;Accretia Mantle192;0
+704;ikaa193;C0009300;Accretia Mantle193;0
+705;ikaa194;C0009400;Accretia Mantle194;0
+706;ikaa195;C0009500;Accretia Mantle195;0
+707;ikaa196;C0009600;Accretia Mantle196;0
+708;ikaa197;C0009700;Accretia Mantle197;0
+709;ikaa198;C0009800;Accretia Mantle198;0
+710;ikaa199;C0009900;Accretia Mantle199;0
+711;ikaa200;C0000000;Accretia Mantle200;0
+712;ikaa201;C0000100;Accretia Mantle201;0
+713;ikaa202;C0000200;Accretia Mantle202;0
+714;ikaa203;C0000300;Accretia Mantle203;0
+715;ikaa204;C0000400;Accretia Mantle204;0
+716;ikaa205;C0000500;Accretia Mantle205;0
+717;ikaa206;C0000600;Accretia Mantle206;0
+718;ikaa207;C0000700;Accretia Mantle207;0
+719;ikaa208;C0000800;Accretia Mantle208;0
+720;ikaa209;C0000900;Accretia Mantle209;0
+721;ikaa210;C0001000;Accretia Mantle210;0
+722;ikaa211;C0001100;Accretia Mantle211;0
+723;ikaa212;C0001200;Accretia Mantle212;0
+724;ikaa213;C0001300;Accretia Mantle213;0
+725;ikaa214;C0001400;Accretia Mantle214;0
+726;ikaa215;C0001500;Accretia Mantle215;0
+727;ikaa216;C0001600;Accretia Mantle216;0
+728;ikaa217;C0001700;Accretia Mantle217;0
+729;ikaa218;C0001800;Accretia Mantle218;0
+730;ikaa219;C0001900;Accretia Mantle219;0
+731;ikaa220;C0002000;Accretia Mantle220;0
+732;ikaa221;C0002100;Accretia Mantle221;0
+733;ikaa222;C0002200;Accretia Mantle222;0
+734;ikaa223;C0002300;Accretia Mantle223;0
+735;ikaa224;C0002400;Accretia Mantle224;0
+736;ikaa225;C0002500;Accretia Mantle225;0
+737;ikaa226;C0002600;Accretia Mantle226;0
+738;ikaa227;C0002700;Accretia Mantle227;0
+739;ikaa228;C0002800;Accretia Mantle228;0
+740;ikaa229;C0002900;Accretia Mantle229;0
+741;ikaa230;C0003000;Accretia Mantle230;0
+742;ikaa231;C0003100;Accretia Mantle231;0
+743;ikaa232;C0003200;Accretia Mantle232;0
+744;ikaa233;C0003300;Accretia Mantle233;0
+745;ikaa234;C0003400;Accretia Mantle234;0
+746;ikaa235;C0003500;Accretia Mantle235;0
+747;ikaa236;C0003600;Accretia Mantle236;0
+748;ikaa237;C0003700;Accretia Mantle237;0
+749;ikaa238;C0003800;Accretia Mantle238;0
+750;ikaa239;C0003900;Accretia Mantle239;0
+751;ikaa240;C0004000;Accretia Mantle240;0
+752;ikaa241;C0004100;Accretia Mantle241;0
+753;ikaa242;C0004200;Accretia Mantle242;0
+754;ikaa243;C0004300;Accretia Mantle243;0
+755;ikaa244;C0004400;Accretia Mantle244;0
+756;ikaa245;C0004500;Accretia Mantle245;0
+757;ikaa246;C0004600;Accretia Mantle246;0
+758;ikaa247;C0004700;Accretia Mantle247;0
+759;ikaa248;C0004800;Accretia Mantle248;0
+760;ikaa249;C0004900;Accretia Mantle249;0
+761;ikaa250;C0005000;Accretia Mantle250;0
+762;ikaa251;C0005100;Accretia Mantle251;0
+763;ikaa252;C0005200;Accretia Mantle252;0
+764;ikaa253;C0005300;Accretia Mantle253;0
+765;ikaa254;C0005400;Accretia Mantle254;0
+766;ikaa255;C0005500;Accretia Mantle255;0
+767;ikaa256;C0005600;Accretia Mantle256;0
+768;ikxxx00;D7171700;Amlo Mantle;141
+769;ikxxx01;D7171701;CEO Mantle;141
+770;ikxxx02;D7171702;Munggu's Mantle;141
+771;ikxxx03;D7171703;GMMantle;141
+772;ikxxx04;D7171704;Soony's;141
+773;ikexp01;C4170F01;Cape;142
+774;ikqsa01;D0120001;Mantle of Secrecy;200
+775;ikqsa02;D0120002;Mantle of Almighty June;200
+776;ikbvb00;C1150100;Blood Booster[Standard];154
+777;ikbvb01;C1150101;Blood Booster[1 Grade];154
+778;ikbvb02;C1150102;Blood Booster[2 Grade];154
+779;ikbvb03;C1150103;Blood Booster[3 Grade];154
+780;ikbvb04;C1150104;Blood Booster[4 Grade];154
+781;ikbvb05;C1150105;Blood Booster[5 Grade];154
+782;ikbvb06;C1150106;Blood Booster[6 Grade];154
+783;ikbvb07;C1150107;Blood Booster[7 Grade];154
+784;ikbvb08;C1150108;Blood Booster[8 Grade];154
+785;ikbvb09;C1150109;Blood Booster[9 Grade];154
+786;ikbvb10;C1150110;Blood Booster[10 Grade];154
+787;ikbvb11;C1150111;Blood Booster[11 Grade];154
+788;ikbvb12;C1150112;Blood Booster[12 Grade];154
+789;ikbvb13;C1150113;Blood Booster[13 Grade];154
+790;ikbvb14;C1150114;Blood Booster[14 Grade];154
+791;ikbvb15;C1150115;Blood Booster[15 Grade];154
+792;ikbvb16;C1150116;Blood Booster[16 Grade];154
+793;ikbvb17;C1150117;Blood Booster[17 Grade];154
+794;ikbvb18;C1150118;Blood Booster[18 Grade];154
+795;ikbvb19;C1150119;Blood Booster[19 Grade];154
+796;ikbvb20;C1150120;Blood Booster[20 Grade];154
+797;ikbvb21;C1150121;Blood Booster[21 Grade];154
+798;ikbvb22;C1150122;Blood Booster[22 Grade];154
+799;ikbvb23;C1150123;Blood Booster[23 Grade];154
+800;ikbvb24;C1150124;Blood Booster[24 Grade];154
+801;ikbvb25;C1150125;Blood Booster[25 Grade];154
+802;ikbvb26;C1150126;Blood Booster[26 Grade];154
+803;ikbvb27;C1150127;Blood Booster[27 Grade];154
+804;ikbvb28;C1150128;Blood Booster[28 Grade];154
+805;ikbvb29;C1150129;Blood Booster[29 Grade];154
+806;ikbvb30;C1150130;Blood Booster[30 Grade];154
+807;ikbvb31;C1150131;Blood Booster[31 Grade];154
+808;ikbvb32;C1150132;Blood Booster[32 Grade];154
+809;ikbvb33;C1150133;Blood Booster[33 Grade];154
+810;ikbvb34;C1150134;Blood Booster[34 Grade];154
+811;ikbvb35;C1150135;Blood Booster[35 Grade];154
+812;ikbvb36;C1150136;Blood Booster[36 Grade];154
+813;ikbvb37;C1150137;Blood Booster[37 Grade];154
+814;ikbvb38;C1150138;Blood Booster[38 Grade];154
+815;ikbvb39;C1150139;Blood Booster[39 Grade];154
+816;ikbvb40;C1150140;Blood Booster[40 Grade];154
+817;ikbvb41;C1150141;Blood Booster[41 Grade];154
+818;ikbvb42;C1150142;Blood Booster[42 Grade];154
+819;ikbvb43;C1150143;Blood Booster[43 Grade];154
+820;ikbvb44;C1150144;Blood Booster[44 Grade];154
+821;ikbvb45;C1150145;Blood Booster[45 Grade];154
+822;ikbvb46;C1150146;Blood Booster[46 Grade];154
+823;ikbvb47;C1150147;Blood Booster[47 Grade];154
+824;ikbvb48;C1150148;Blood Booster[48 Grade];154
+825;ikbvb49;C1150149;Blood Booster[49 Grade];154
+826;ikbvb50;C1150150;Blood Booster[50 Grade];154
+827;ikbvb51;C1150151;Blood Booster[51 Grade];154
+828;ikbvb52;C1150152;Blood Booster[52 Grade];154
+829;ikbvb53;C1150153;Blood Booster[53 Grade];154
+830;ikbvb54;C1150154;Blood Booster[54 Grade];154
+831;ikbvb55;C1150155;Blood Booster[55 Grade];154
+832;ikbvb56;C1150156;Blood Booster[56 Grade];154
+833;ikbvb57;C1150157;Blood Booster[57 Grade];154
+834;ikbvb58;C1150158;Blood Booster[58 Grade];154
+835;ikbvb59;C1150159;Blood Booster[59 Grade];154
+836;ikbvb60;C1150160;Blood Booster[60 Grade];154
+837;ikbvb61;C1150161;Blood Booster[61 Grade];154
+838;ikbvb62;C1150162;Blood Booster[62 Grade];154
+839;ikbvb63;C1150163;Blood Booster[63 Grade];154
+840;ikbvb64;C1150164;Blood Booster[64 Grade];154
+841;ikbvb65;C1150165;Blood Booster[65 Grade];154
+842;ikbvb66;C1150166;Blood Booster[66 Grade];154
+843;ikbvb67;C1150167;Blood Booster[67 Grade];154
+844;ikbvb68;C1150168;Blood Booster[68 Grade];154
+845;ikbvb69;C1150169;Blood Booster[69 Grade];154
+846;ikbvb70;C1150170;Blood Booster[70 Grade];154
+847;ikbvb71;C1150171;Blood Booster[71 Grade];154
+848;ikbvb72;C1150172;Blood Booster[72 Grade];154
+849;ikbvb73;C1150173;Blood Booster[73 Grade];154
+850;ikbvb74;C1150174;Blood Booster[74 Grade];154
+851;ikbvb75;C1150175;Blood Booster[75 Grade];154
+852;ikbvb76;C1150176;Blood Booster[76 Grade];154
+853;ikbvb77;C1150177;Blood Booster[77 Grade];154
+854;ikbvb78;C1150178;Blood Booster[78 Grade];154
+855;ikbvb79;C1150179;Blood Booster[79 Grade];154
+856;ikbvb80;C1150180;Blood Booster[80 Grade];154
+857;ikbvb81;C1150181;Blood Booster[81 Grade];154
+858;ikbvb82;C1150182;Blood Booster[82 Grade];154
+859;ikbvb83;C1150183;Blood Booster[83 Grade];154
+860;ikbvb84;C1150184;Blood Booster[84 Grade];154
+861;ikbvb85;C1150185;Blood Booster[85 Grade];154
+862;ikbvb86;C1150186;Blood Booster[86 Grade];154
+863;ikbvb87;C1150187;Blood Booster[87 Grade];154
+864;ikbvb88;C1150188;Blood Booster[88 Grade];154
+865;ikbvb89;C1150189;Blood Booster[89 Grade];154
+866;ikbvb90;C1150190;Blood Booster[90 Grade];154
+867;ikbvb91;C1150191;Blood Booster[91 Grade];154
+868;ikbvb92;C1150192;Blood Booster[92 Grade];154
+869;ikbvb93;C1150193;Blood Booster[93 Grade];154
+870;ikbvb94;C1150194;Blood Booster[94 Grade];154
+871;ikbvb95;C1150195;Blood Booster[95 Grade];154
+872;ikbvb96;C1150196;Blood Booster[96 Grade];154
+873;ikbvb97;C1150197;Blood Booster[97 Grade];154
+874;ikbvb98;C1150198;Blood Booster[98 Grade];154
+875;ikbvb99;C1150199;Blood Booster[99 Grade];154
+876;ikbtb00;C1130100;Aiming Booster[Standard];154
+877;ikbtb01;C1130101;Aiming Booster[1 Grade];154
+878;ikbtb02;C1130102;Aiming Booster[2 Grade];154
+879;ikbtb03;C1130103;Aiming Booster[3 Grade];154
+880;ikbtb04;C1130104;Aiming Booster[4 Grade];154
+881;ikbtb05;C1130105;Aiming Booster[5 Grade];154
+882;ikbtb06;C1130106;Aiming Booster[6 Grade];154
+883;ikbtb07;C1130107;Aiming Booster[7 Grade];154
+884;ikbtb08;C1130108;Aiming Booster[8 Grade];154
+885;ikbtb09;C1130109;Aiming Booster[9 Grade];154
+886;ikbtb10;C1130110;Aiming Booster[10 Grade];154
+887;ikbtb11;C1130111;Aiming Booster[11 Grade];154
+888;ikbtb12;C1130112;Aiming Booster[12 Grade];154
+889;ikbtb13;C1130113;Aiming Booster[13 Grade];154
+890;ikbtb14;C1130114;Aiming Booster[14 Grade];154
+891;ikbtb15;C1130115;Aiming Booster[15 Grade];154
+892;ikbtb16;C1130116;Aiming Booster[16 Grade];154
+893;ikbtb17;C1130117;Aiming Booster[17 Grade];154
+894;ikbtb18;C1130118;Aiming Booster[18 Grade];154
+895;ikbtb19;C1130119;Aiming Booster[19 Grade];154
+896;ikbtb20;C1130120;Aiming Booster[20 Grade];154
+897;ikbtb21;C1130121;Aiming Booster[21 Grade];154
+898;ikbtb22;C1130122;Aiming Booster[22 Grade];154
+899;ikbtb23;C1130123;Aiming Booster[23 Grade];154
+900;ikbtb24;C1130124;Aiming Booster[24 Grade];154
+901;ikbtb25;C1130125;Aiming Booster[25 Grade];154
+902;ikbtb26;C1130126;Aiming Booster[26 Grade];154
+903;ikbtb27;C1130127;Aiming Booster[27 Grade];154
+904;ikbtb28;C1130128;Aiming Booster[28 Grade];154
+905;ikbtb29;C1130129;Aiming Booster[29 Grade];154
+906;ikbtb30;C1130130;Aiming Booster[30 Grade];154
+907;ikbtb31;C1130131;Aiming Booster[31 Grade];154
+908;ikbtb32;C1130132;Aiming Booster[32 Grade];154
+909;ikbtb33;C1130133;Aiming Booster[33 Grade];154
+910;ikbtb34;C1130134;Aiming Booster[34 Grade];154
+911;ikbtb35;C1130135;Aiming Booster[35 Grade];154
+912;ikbtb36;C1130136;Aiming Booster[36 Grade];154
+913;ikbtb37;C1130137;Aiming Booster[37 Grade];154
+914;ikbtb38;C1130138;Aiming Booster[38 Grade];154
+915;ikbtb39;C1130139;Aiming Booster[39 Grade];154
+916;ikbtb40;C1130140;Aiming Booster[40 Grade];154
+917;ikbtb41;C1130141;Aiming Booster[41 Grade];154
+918;ikbtb42;C1130142;Aiming Booster[42 Grade];154
+919;ikbtb43;C1130143;Aiming Booster[43 Grade];154
+920;ikbtb44;C1130144;Aiming Booster[44 Grade];154
+921;ikbtb45;C1130145;Aiming Booster[45 Grade];154
+922;ikbtb46;C1130146;Aiming Booster[46 Grade];154
+923;ikbtb47;C1130147;Aiming Booster[47 Grade];154
+924;ikbtb48;C1130148;Aiming Booster[48 Grade];154
+925;ikbtb49;C1130149;Aiming Booster[49 Grade];154
+926;ikbtb50;C1130150;Aiming Booster[50 Grade];154
+927;ikbtb51;C1130151;Aiming Booster[51 Grade];154
+928;ikbtb52;C1130152;Aiming Booster[52 Grade];154
+929;ikbtb53;C1130153;Aiming Booster[53 Grade];154
+930;ikbtb54;C1130154;Aiming Booster[54 Grade];154
+931;ikbtb55;C1130155;Aiming Booster[55 Grade];154
+932;ikbtb56;C1130156;Aiming Booster[56 Grade];154
+933;ikbtb57;C1130157;Aiming Booster[57 Grade];154
+934;ikbtb58;C1130158;Aiming Booster[58 Grade];154
+935;ikbtb59;C1130159;Aiming Booster[59 Grade];154
+936;ikbtb60;C1130160;Aiming Booster[60 Grade];154
+937;ikbtb61;C1130161;Aiming Booster[61 Grade];154
+938;ikbtb62;C1130162;Aiming Booster[62 Grade];154
+939;ikbtb63;C1130163;Aiming Booster[63 Grade];154
+940;ikbtb64;C1130164;Aiming Booster[64 Grade];154
+941;ikbtb65;C1130165;Aiming Booster[65 Grade];154
+942;ikbtb66;C1130166;Aiming Booster[66 Grade];154
+943;ikbtb67;C1130167;Aiming Booster[67 Grade];154
+944;ikbtb68;C1130168;Aiming Booster[68 Grade];154
+945;ikbtb69;C1130169;Aiming Booster[69 Grade];154
+946;ikbtb70;C1130170;Aiming Booster[70 Grade];154
+947;ikbtb71;C1130171;Aiming Booster[71 Grade];154
+948;ikbtb72;C1130172;Aiming Booster[72 Grade];154
+949;ikbtb73;C1130173;Aiming Booster[73 Grade];154
+950;ikbtb74;C1130174;Aiming Booster[74 Grade];154
+951;ikbtb75;C1130175;Aiming Booster[75 Grade];154
+952;ikbtb76;C1130176;Aiming Booster[76 Grade];154
+953;ikbtb77;C1130177;Aiming Booster[77 Grade];154
+954;ikbtb78;C1130178;Aiming Booster[78 Grade];154
+955;ikbtb79;C1130179;Aiming Booster[79 Grade];154
+956;ikbtb80;C1130180;Aiming Booster[80 Grade];154
+957;ikbtb81;C1130181;Aiming Booster[81 Grade];154
+958;ikbtb82;C1130182;Aiming Booster[82 Grade];154
+959;ikbtb83;C1130183;Aiming Booster[83 Grade];154
+960;ikbtb84;C1130184;Aiming Booster[84 Grade];154
+961;ikbtb85;C1130185;Aiming Booster[85 Grade];154
+962;ikbtb86;C1130186;Aiming Booster[86 Grade];154
+963;ikbtb87;C1130187;Aiming Booster[87 Grade];154
+964;ikbtb88;C1130188;Aiming Booster[88 Grade];154
+965;ikbtb89;C1130189;Aiming Booster[89 Grade];154
+966;ikbtb90;C1130190;Aiming Booster[90 Grade];154
+967;ikbtb91;C1130191;Aiming Booster[91 Grade];154
+968;ikbtb92;C1130192;Aiming Booster[92 Grade];154
+969;ikbtb93;C1130193;Aiming Booster[93 Grade];154
+970;ikbtb94;C1130194;Aiming Booster[94 Grade];154
+971;ikbtb95;C1130195;Aiming Booster[95 Grade];154
+972;ikbtb96;C1130196;Aiming Booster[96 Grade];154
+973;ikbtb97;C1130197;Aiming Booster[97 Grade];154
+974;ikbtb98;C1130198;Aiming Booster[98 Grade];154
+975;ikbtb99;C1130199;Aiming Booster[99 Grade];154
+976;ikbhb00;C1070100;Buildup Booster[Standard];154
+977;ikbhb01;C1070101;Buildup Booster[1st grade];154
+978;ikbhb02;C1070102;Buildup Booster[2nd Grade];154
+979;ikbhb03;C1070103;Buildup Booster[3rd Grade];154
+980;ikbhb04;C1070104;Buildup Booster[4th Grade];154
+981;ikbhb05;C1070105;Buildup Booster[5th Grade];154
+982;ikbhb06;C1070106;Buildup Booster[6th Grade];154
+983;ikbhb07;C1070107;Buildup Booster[7th Grade];154
+984;ikbhb08;C1070108;Buildup Booster[8th Grade];154
+985;ikbhb09;C1070109;Buildup Booster[9th Grade];154
+986;ikbhb10;C1070110;Buildup Booster[10th Grade];154
+987;ikbhb11;C1070111;Buildup Booster[11th Grade];154
+988;ikbhb12;C1070112;Buildup Booster[12th Grade];154
+989;ikbhb13;C1070113;Buildup Booster[13th Grade];154
+990;ikbhb14;C1070114;Buildup Booster[14th Grade];154
+991;ikbhb15;C1070115;Buildup Booster[15th Grade];154
+992;ikbhb16;C1070116;Buildup Booster[16th Grade];154
+993;ikbhb17;C1070117;Buildup Booster[17th Grade];154
+994;ikbhb18;C1070118;Buildup Booster[18th Grade];154
+995;ikbhb19;C1070119;Buildup Booster[19th Grade];154
+996;ikbhb20;C1070120;Buildup Booster[20th Grade];154
+997;ikbhb21;C1070121;Buildup Booster[21st Grade];154
+998;ikbhb22;C1070122;Buildup Booster[22nd Grade];154
+999;ikbhb23;C1070123;Buildup Booster[23rd Grade];154
+1000;ikbhb24;C1070124;Buildup Booster[24th Grade];154
+1001;ikbhb25;C1070125;Buildup Booster[25th Grade];154
+1002;ikbhb26;C1070126;Buildup Booster[26th Grade];154
+1003;ikbhb27;C1070127;Buildup Booster[27th Grade];154
+1004;ikbhb28;C1070128;Buildup Booster[28th Grade];154
+1005;ikbhb29;C1070129;Buildup Booster[29th Grade];154
+1006;ikbhb30;C1070130;Buildup Booster[30th Grade];154
+1007;ikbhb31;C1070131;Buildup Booster[31st Grade];154
+1008;ikbhb32;C1070132;Buildup Booster[32nd Grade];154
+1009;ikbhb33;C1070133;Buildup Booster[33rd Grade];154
+1010;ikbhb34;C1070134;Buildup Booster[34th Grade];154
+1011;ikbhb35;C1070135;Buildup Booster[35th Grade];154
+1012;ikbhb36;C1070136;Buildup Booster[36th Grade];154
+1013;ikbhb37;C1070137;Buildup Booster[37th Grade];154
+1014;ikbhb38;C1070138;Buildup Booster[38th Grade];154
+1015;ikbhb39;C1070139;Buildup Booster[39th Grade];154
+1016;ikbhb40;C1070140;Buildup Booster[40th Grade];154
+1017;ikbhb41;C1070141;Buildup Booster[41st Grade];154
+1018;ikbhb42;C1070142;Buildup Booster[42nd Grade];154
+1019;ikbhb43;C1070143;Buildup Booster[43rd Grade];154
+1020;ikbhb44;C1070144;Buildup Booster[44th Grade];154
+1021;ikbhb45;C1070145;Buildup Booster[45th Grade];154
+1022;ikbhb46;C1070146;Buildup Booster[46th Grade];154
+1023;ikbhb47;C1070147;Buildup Booster[47th Grade];154
+1024;ikbhb48;C1070148;Buildup Booster[48th Grade];154
+1025;ikbhb49;C1070149;Buildup Booster[49th Grade];154
+1026;ikbhb50;C1070150;Buildup Booster[50th Grade];154
+1027;ikbhb51;C1070151;Buildup Booster[51st Grade];154
+1028;ikbhb52;C1070152;Buildup Booster[52nd Grade];154
+1029;ikbhb53;C1070153;Buildup Booster[53rd Grade];154
+1030;ikbhb54;C1070154;Buildup Booster[54th Grade];154
+1031;ikbhb55;C1070155;Buildup Booster[55th Grade];154
+1032;ikbhb56;C1070156;Buildup Booster[56th Grade];154
+1033;ikbhb57;C1070157;Buildup Booster[57th Grade];154
+1034;ikbhb58;C1070158;Buildup Booster[58th Grade];154
+1035;ikbhb59;C1070159;Buildup Booster[59th Grade];154
+1036;ikbhb60;C1070160;Buildup Booster[60th Grade];154
+1037;ikbhb61;C1070161;Buildup Booster[61st Grade];154
+1038;ikbhb62;C1070162;Buidup Booster[62nd Grade];154
+1039;ikbhb63;C1070163;Buildup Booster[63rd Grade];154
+1040;ikbhb64;C1070164;Buildup Booster[64th Grade];154
+1041;ikbhb65;C1070165;Buildup Booster[65th Grade];154
+1042;ikbhb66;C1070166;Buildup Booster[66th Grade];154
+1043;ikbhb67;C1070167;Buildup Booster[67th Grade];154
+1044;ikbhb68;C1070168;Buildup Booster[68th Grade];154
+1045;ikbhb69;C1070169;Buildup Booster[69th Grade];154
+1046;ikbhb70;C1070170;Buildup Booster[70th Grade];154
+1047;ikbhb71;C1070171;Buildup Booster[71st Grade];154
+1048;ikbhb72;C1070172;Buildup Booster[72nd Grade];154
+1049;ikbhb73;C1070173;Buildup Booster;154
+1050;ikbhb74;C1070174;Buildup Booster;154
+1051;ikbhb75;C1070175;Buildup Booster;154
+1052;ikbhb76;C1070176;Buildup Booster;154
+1053;ikbhb77;C1070177;Buildup Booster;154
+1054;ikbhb78;C1070178;Buildup Booster;154
+1055;ikbhb79;C1070179;Buildup Booster;154
+1056;ikbhb80;C1070180;Buildup Booster;154
+1057;ikbhb81;C1070181;Buildup Booster[81st Grade];154
+1058;ikbhb82;C1070182;Buildup Booster[82nd Grade];154
+1059;ikbhb83;C1070183;Buildup Booster[83rd Grade];154
+1060;ikbhb84;C1070184;Buildup Booster[84th Grade];154
+1061;ikbhb85;C1070185;Buildup Booster[85th Grade];154
+1062;ikbhb86;C1070186;Buildup Booster[86th Grade];154
+1063;ikbhb87;C1070187;Buildup Booster[87th Grade];154
+1064;ikbhb88;C1070188;Buildup Booster[88th Grade];154
+1065;ikbhb89;C1070189;Buildup Booster[89th Grade];154
+1066;ikbhb90;C1070190;Buildup Booster[90th Grade];154
+1067;ikbhb91;C1070191;Buildup Booster[91st Grade];154
+1068;ikbhb92;C1070192;Buildup Booster[92nd Grade];154
+1069;ikbhb93;C1070193;Buildup Booster[93rd Grade];154
+1070;ikbhb94;C1070194;Buildup Booster[94th Grade];154
+1071;ikbhb95;C1070195;Buildup Booster[95th Grade];154
+1072;ikbhb96;C1070196;Buildup Booster[96th Grade];154
+1073;ikbhb97;C1070197;Buildup Booster[97th Grade];154
+1074;ikbhb98;C1070198;Buildup Booster[98th Grade];154
+1075;ikbhb99;C1070199;Buildup Booster[99th Grade];154
+1076;ikbfb00;C1050100;Anti-Curse Booster [Standard];154
+1077;ikbfb01;C1050101;Anti-Curse Booster [1 Grade];154
+1078;ikbfb02;C1050102;Anti-Curse Booster [2 Grade];154
+1079;ikbfb03;C1050103;Anti-Curse Booster [3 Grade];154
+1080;ikbfb04;C1050104;Anti-Curse Booster [4 Grade];154
+1081;ikbfb05;C1050105;Anti-Curse Booster [5 Grade];154
+1082;ikbfb06;C1050106;Anti-Curse Booster [6 Grade];154
+1083;ikbfb07;C1050107;Anti-Curse Booster [7 Grade];154
+1084;ikbfb08;C1050108;Anti-Curse Booster [8 Grade];154
+1085;ikbfb09;C1050109;Anti-Curse Booster [9 Grade];154
+1086;ikbfb10;C1050110;Anti-Curse Booster [10 Grade];154
+1087;ikbfb11;C1050111;Anti-Curse Booster [11 Grade];154
+1088;ikbfb12;C1050112;Anti-Curse Booster [12 Grade];154
+1089;ikbfb13;C1050113;Anti-Curse Booster [13 Grade];154
+1090;ikbfb14;C1050114;Anti-Curse Booster [14 Grade];154
+1091;ikbfb15;C1050115;Anti-Curse Booster [15 Grade];154
+1092;ikbfb16;C1050116;Anti-Curse Booster [16 Grade];154
+1093;ikbfb17;C1050117;Anti-Curse Booster [17 Grade];154
+1094;ikbfb18;C1050118;Anti-Curse Booster [18 Grade];154
+1095;ikbfb19;C1050119;Anti-Curse Booster [19 Grade];154
+1096;ikbfb20;C1050120;Anti-Curse Booster [20 Grade];154
+1097;ikbfb21;C1050121;Anti-Curse Booster [21 Grade];154
+1098;ikbfb22;C1050122;Anti-Curse Booster [22 Grade];154
+1099;ikbfb23;C1050123;Anti-Curse Booster [23 Grade];154
+1100;ikbfb24;C1050124;Anti-Curse Booster [24 Grade];154
+1101;ikbfb25;C1050125;Anti-Curse Booster [25 Grade];154
+1102;ikbfb26;C1050126;Anti-Curse Booster [26 Grade];154
+1103;ikbfb27;C1050127;Anti-Curse Booster [27 Grade];154
+1104;ikbfb28;C1050128;Anti-Curse Booster [28 Grade];154
+1105;ikbfb29;C1050129;Anti-Curse Booster [29 Grade];154
+1106;ikbfb30;C1050130;Anti-Curse Booster [30 Grade];154
+1107;ikbfb31;C1050131;Anti-Curse Booster [31 Grade];154
+1108;ikbfb32;C1050132;Anti-Curse Booster [32 Grade];154
+1109;ikbfb33;C1050133;Anti-Curse Booster [33 Grade];154
+1110;ikbfb34;C1050134;Anti-Curse Booster [34 Grade];154
+1111;ikbfb35;C1050135;Anti-Curse Booster [35 Grade];154
+1112;ikbfb36;C1050136;Anti-Curse Booster [36 Grade];154
+1113;ikbfb37;C1050137;Anti-Curse Booster [37 Grade];154
+1114;ikbfb38;C1050138;Anti-Curse Booster [38 Grade];154
+1115;ikbfb39;C1050139;Anti-Curse Booster [39 Grade];154
+1116;ikbfb40;C1050140;Anti-Curse Booster [40 Grade];154
+1117;ikbfb41;C1050141;Anti-Curse Booster [41 Grade];154
+1118;ikbfb42;C1050142;Anti-Curse Booster [42 Grade];154
+1119;ikbfb43;C1050143;Anti-Curse Booster [43 Grade];154
+1120;ikbfb44;C1050144;Anti-Curse Booster [44 Grade];154
+1121;ikbfb45;C1050145;Anti-Curse Booster [45 Grade];154
+1122;ikbfb46;C1050146;Anti-Curse Booster [46 Grade];154
+1123;ikbfb47;C1050147;Anti-Curse Booster [47 Grade];154
+1124;ikbfb48;C1050148;Anti-Curse Booster [48 Grade];154
+1125;ikbfb49;C1050149;Anti-Curse Booster [49 Grade];154
+1126;ikbfb50;C1050150;Anti-Curse Booster [50 Grade];154
+1127;ikbfb51;C1050151;Anti-Curse Booster [51 Grade];154
+1128;ikbfb52;C1050152;Anti-Curse Booster [52 Grade];154
+1129;ikbfb53;C1050153;Anti-Curse Booster [53 Grade];154
+1130;ikbfb54;C1050154;Anti-Curse Booster [54 Grade];154
+1131;ikbfb55;C1050155;Anti-Curse Booster [55 Grade];154
+1132;ikbfb56;C1050156;Anti-Curse Booster [56 Grade];154
+1133;ikbfb57;C1050157;Anti-Curse Booster [57 Grade];154
+1134;ikbfb58;C1050158;Anti-Curse Booster [58 Grade];154
+1135;ikbfb59;C1050159;Anti-Curse Booster [59 Grade];154
+1136;ikbfb60;C1050160;Anti-Curse Booster [60 Grade];154
+1137;ikbfb61;C1050161;Anti-Curse Booster [61 Grade];154
+1138;ikbfb62;C1050162;Anti-Curse Booster [62 Grade];154
+1139;ikbfb63;C1050163;Anti-Curse Booster [63 Grade];154
+1140;ikbfb64;C1050164;Anti-Curse Booster [64 Grade];154
+1141;ikbfb65;C1050165;Anti-Curse Booster [65 Grade];154
+1142;ikbfb66;C1050166;Anti-Curse Booster [66 Grade];154
+1143;ikbfb67;C1050167;Anti-Curse Booster [67 Grade];154
+1144;ikbfb68;C1050168;Anti-Curse Booster [68 Grade];154
+1145;ikbfb69;C1050169;Anti-Curse Booster [69 Grade];154
+1146;ikbfb70;C1050170;Anti-Curse Booster [70 Grade];154
+1147;ikbfb71;C1050171;Anti-Curse Booster [71 Grade];154
+1148;ikbfb72;C1050172;Anti-Curse Booster [72 Grade];154
+1149;ikbfb73;C1050173;Anti-Curse Booster [73 Grade];154
+1150;ikbfb74;C1050174;Anti-Curse Booster [74 Grade];154
+1151;ikbfb75;C1050175;Anti-Curse Booster [75 Grade];154
+1152;ikbfb76;C1050176;Anti-Curse Booster [76 Grade];154
+1153;ikbfb77;C1050177;Anti-Curse Booster [77 Grade];154
+1154;ikbfb78;C1050178;Anti-Curse Booster [78 Grade];154
+1155;ikbfb79;C1050179;Anti-Curse Booster [79 Grade];154
+1156;ikbfb80;C1050180;Anti-Curse Booster [80 Grade];154
+1157;ikbfb81;C1050181;Anti-Curse Booster [81 Grade];154
+1158;ikbfb82;C1050182;Anti-Curse Booster [82 Grade];154
+1159;ikbfb83;C1050183;Anti-Curse Booster [83 Grade];154
+1160;ikbfb84;C1050184;Anti-Curse Booster [84 Grade];154
+1161;ikbfb85;C1050185;Anti-Curse Booster [85 Grade];154
+1162;ikbfb86;C1050186;Anti-Curse Booster [86 Grade];154
+1163;ikbfb87;C1050187;Anti-Curse Booster [87 Grade];154
+1164;ikbfb88;C1050188;Anti-Curse Booster [88 Grade];154
+1165;ikbfb89;C1050189;Anti-Curse Booster [89 Grade];154
+1166;ikbfb90;C1050190;Anti-Curse Booster [90 Grade];154
+1167;ikbfb91;C1050191;Anti-Curse Booster [91 Grade];154
+1168;ikbfb92;C1050192;Anti-Curse Booster [92 Grade];154
+1169;ikbfb93;C1050193;Anti-Curse Booster [93 Grade];154
+1170;ikbfb94;C1050194;Anti-Curse Booster [94 Grade];154
+1171;ikbfb95;C1050195;Anti-Curse Booster [95 Grade];154
+1172;ikbfb96;C1050196;Anti-Curse Booster [96 Grade];154
+1173;ikbfb97;C1050197;Anti-Curse Booster [97 Grade];154
+1174;ikbfb98;C1050198;Anti-Curse Booster [98 Grade];154
+1175;ikbfb99;C1050199;Anti-Curse Booster [99 Grade];154
+1176;ikcvb00;C2150100;Blood Booster[Standard];155
+1177;ikcvb01;C2150101;Blood Booster[1 Grade];155
+1178;ikcvb02;C2150102;Blood Booster[2 Grade];155
+1179;ikcvb03;C2150103;Blood Booster[3 Grade];155
+1180;ikcvb04;C2150104;Blood Booster[4 Grade];155
+1181;ikcvb05;C2150105;Blood Booster[5 Grade];155
+1182;ikcvb06;C2150106;Blood Booster[6 Grade];155
+1183;ikcvb07;C2150107;Blood Booster[7 Grade];155
+1184;ikcvb08;C2150108;Blood Booster[8 Grade];155
+1185;ikcvb09;C2150109;Blood Booster[9 Grade];155
+1186;ikcvb10;C2150110;Blood Booster[10 Grade];155
+1187;ikcvb11;C2150111;Blood Booster[11 Grade];155
+1188;ikcvb12;C2150112;Blood Booster[12 Grade];155
+1189;ikcvb13;C2150113;Blood Booster[13 Grade];155
+1190;ikcvb14;C2150114;Blood Booster[14 Grade];155
+1191;ikcvb15;C2150115;Blood Booster[15 Grade];155
+1192;ikcvb16;C2150116;Blood Booster[16 Grade];155
+1193;ikcvb17;C2150117;Blood Booster[17 Grade];155
+1194;ikcvb18;C2150118;Blood Booster[18 Grade];155
+1195;ikcvb19;C2150119;Blood Booster[19 Grade];155
+1196;ikcvb20;C2150120;Blood Booster[20 Grade];155
+1197;ikcvb21;C2150121;Blood Booster[21 Grade];155
+1198;ikcvb22;C2150122;Blood Booster[22 Grade];155
+1199;ikcvb23;C2150123;Blood Booster[23 Grade];155
+1200;ikcvb24;C2150124;Blood Booster[24 Grade];155
+1201;ikcvb25;C2150125;Blood Booster[25 Grade];155
+1202;ikcvb26;C2150126;Blood Booster[26 Grade];155
+1203;ikcvb27;C2150127;Blood Booster[27 Grade];155
+1204;ikcvb28;C2150128;Blood Booster[28 Grade];155
+1205;ikcvb29;C2150129;Blood Booster[29 Grade];155
+1206;ikcvb30;C2150130;Blood Booster[30 Grade];155
+1207;ikcvb31;C2150131;Blood Booster[31 Grade];155
+1208;ikcvb32;C2150132;Blood Booster[32 Grade];155
+1209;ikcvb33;C2150133;Blood Booster[33 Grade];155
+1210;ikcvb34;C2150134;Blood Booster[34 Grade];155
+1211;ikcvb35;C2150135;Blood Booster[35 Grade];155
+1212;ikcvb36;C2150136;Blood Booster[36 Grade];155
+1213;ikcvb37;C2150137;Blood Booster[37 Grade];155
+1214;ikcvb38;C2150138;Blood Booster[38 Grade];155
+1215;ikcvb39;C2150139;Blood Booster[39 Grade];155
+1216;ikcvb40;C2150140;Blood Booster[40 Grade];155
+1217;ikcvb41;C2150141;Blood Booster[41 Grade];155
+1218;ikcvb42;C2150142;Blood Booster[42 Grade];155
+1219;ikcvb43;C2150143;Blood Booster[43 Grade];155
+1220;ikcvb44;C2150144;Blood Booster[44 Grade];155
+1221;ikcvb45;C2150145;Blood Booster[45 Grade];155
+1222;ikcvb46;C2150146;Blood Booster[46 Grade];155
+1223;ikcvb47;C2150147;Blood Booster[47 Grade];155
+1224;ikcvb48;C2150148;Blood Booster[48 Grade];155
+1225;ikcvb49;C2150149;Blood Booster[49 Grade];155
+1226;ikcvb50;C2150150;Blood Booster[50 Grade];155
+1227;ikcvb51;C2150151;Blood Booster[51 Grade];155
+1228;ikcvb52;C2150152;Blood Booster[52 Grade];155
+1229;ikcvb53;C2150153;Blood Booster[53 Grade];155
+1230;ikcvb54;C2150154;Blood Booster[54 Grade];155
+1231;ikcvb55;C2150155;Blood Booster[55 Grade];155
+1232;ikcvb56;C2150156;Blood Booster[56 Grade];155
+1233;ikcvb57;C2150157;Blood Booster[57 Grade];155
+1234;ikcvb58;C2150158;Blood Booster[58 Grade];155
+1235;ikcvb59;C2150159;Blood Booster[59 Grade];155
+1236;ikcvb60;C2150160;Blood Booster[60 Grade];155
+1237;ikcvb61;C2150161;Blood Booster[61 Grade];155
+1238;ikcvb62;C2150162;Blood Booster[62 Grade];155
+1239;ikcvb63;C2150163;Blood Booster[63 Grade];155
+1240;ikcvb64;C2150164;Blood Booster[64 Grade];155
+1241;ikcvb65;C2150165;Blood Booster[65 Grade];155
+1242;ikcvb66;C2150166;Blood Booster[66 Grade];155
+1243;ikcvb67;C2150167;Blood Booster[67 Grade];155
+1244;ikcvb68;C2150168;Blood Booster[68 Grade];155
+1245;ikcvb69;C2150169;Blood Booster[69 Grade];155
+1246;ikcvb70;C2150170;Blood Booster[70 Grade];155
+1247;ikcvb71;C2150171;Blood Booster[71 Grade];155
+1248;ikcvb72;C2150172;Blood Booster[72 Grade];155
+1249;ikcvb73;C2150173;Blood Booster[73 Grade];155
+1250;ikcvb74;C2150174;Blood Booster[74 Grade];155
+1251;ikcvb75;C2150175;Blood Booster[75 Grade];155
+1252;ikcvb76;C2150176;Blood Booster[76 Grade];155
+1253;ikcvb77;C2150177;Blood Booster[77 Grade];155
+1254;ikcvb78;C2150178;Blood Booster[78 Grade];155
+1255;ikcvb79;C2150179;Blood Booster[79 Grade];155
+1256;ikcvb80;C2150180;Blood Booster[80 Grade];155
+1257;ikcvb81;C2150181;Blood Booster[81 Grade];155
+1258;ikcvb82;C2150182;Blood Booster[82 Grade];155
+1259;ikcvb83;C2150183;Blood Booster[83 Grade];155
+1260;ikcvb84;C2150184;Blood Booster[84 Grade];155
+1261;ikcvb85;C2150185;Blood Booster[85 Grade];155
+1262;ikcvb86;C2150186;Blood Booster[86 Grade];155
+1263;ikcvb87;C2150187;Blood Booster[87 Grade];155
+1264;ikcvb88;C2150188;Blood Booster[88 Grade];155
+1265;ikcvb89;C2150189;Blood Booster[89 Grade];155
+1266;ikcvb90;C2150190;Blood Booster[90 Grade];155
+1267;ikcvb91;C2150191;Blood Booster[91 Grade];155
+1268;ikcvb92;C2150192;Blood Booster[92 Grade];155
+1269;ikcvb93;C2150193;Blood Booster[93 Grade];155
+1270;ikcvb94;C2150194;Blood Booster[94 Grade];155
+1271;ikcvb95;C2150195;Blood Booster[95 Grade];155
+1272;ikcvb96;C2150196;Blood Booster[96 Grade];155
+1273;ikcvb97;C2150197;Blood Booster[97 Grade];155
+1274;ikcvb98;C2150198;Blood Booster[98 Grade];155
+1275;ikcvb99;C2150199;Blood Booster[99 Grade];155
+1276;ikctb00;C2130100;Aiming Booster[Standard];155
+1277;ikctb01;C2130101;Aiming Booster[1 Grade];155
+1278;ikctb02;C2130102;Aiming Booster[2 Grade];155
+1279;ikctb03;C2130103;Aiming Booster[3 Grade];155
+1280;ikctb04;C2130104;Aiming Booster[4 Grade];155
+1281;ikctb05;C2130105;Aiming Booster[5 Grade];155
+1282;ikctb06;C2130106;Aiming Booster[6 Grade];155
+1283;ikctb07;C2130107;Aiming Booster[7 Grade];155
+1284;ikctb08;C2130108;Aiming Booster[8 Grade];155
+1285;ikctb09;C2130109;Aiming Booster[9 Grade];155
+1286;ikctb10;C2130110;Aiming Booster[10 Grade];155
+1287;ikctb11;C2130111;Aiming Booster[11 Grade];155
+1288;ikctb12;C2130112;Aiming Booster[12 Grade];155
+1289;ikctb13;C2130113;Aiming Booster[13 Grade];155
+1290;ikctb14;C2130114;Aiming Booster[14 Grade];155
+1291;ikctb15;C2130115;Aiming Booster[15 Grade];155
+1292;ikctb16;C2130116;Aiming Booster[16 Grade];155
+1293;ikctb17;C2130117;Aiming Booster[17 Grade];155
+1294;ikctb18;C2130118;Aiming Booster[18 Grade];155
+1295;ikctb19;C2130119;Aiming Booster[19 Grade];155
+1296;ikctb20;C2130120;Aiming Booster[20 Grade];155
+1297;ikctb21;C2130121;Aiming Booster[21 Grade];155
+1298;ikctb22;C2130122;Aiming Booster[22 Grade];155
+1299;ikctb23;C2130123;Aiming Booster[23 Grade];155
+1300;ikctb24;C2130124;Aiming Booster[24 Grade];155
+1301;ikctb25;C2130125;Aiming Booster[25 Grade];155
+1302;ikctb26;C2130126;Aiming Booster[26 Grade];155
+1303;ikctb27;C2130127;Aiming Booster[27 Grade];155
+1304;ikctb28;C2130128;Aiming Booster[28 Grade];155
+1305;ikctb29;C2130129;Aiming Booster[29 Grade];155
+1306;ikctb30;C2130130;Aiming Booster[30 Grade];155
+1307;ikctb31;C2130131;Aiming Booster[31 Grade];155
+1308;ikctb32;C2130132;Aiming Booster[32 Grade];155
+1309;ikctb33;C2130133;Aiming Booster[33 Grade];155
+1310;ikctb34;C2130134;Aiming Booster[34 Grade];155
+1311;ikctb35;C2130135;Aiming Booster[35 Grade];155
+1312;ikctb36;C2130136;Aiming Booster[36 Grade];155
+1313;ikctb37;C2130137;Aiming Booster[37 Grade];155
+1314;ikctb38;C2130138;Aiming Booster[38 Grade];155
+1315;ikctb39;C2130139;Aiming Booster[39 Grade];155
+1316;ikctb40;C2130140;Aiming Booster[40 Grade];155
+1317;ikctb41;C2130141;Aiming Booster[41 Grade];155
+1318;ikctb42;C2130142;Aiming Booster[42 Grade];155
+1319;ikctb43;C2130143;Aiming Booster[43 Grade];155
+1320;ikctb44;C2130144;Aiming Booster[44 Grade];155
+1321;ikctb45;C2130145;Aiming Booster[45 Grade];155
+1322;ikctb46;C2130146;Aiming Booster[46 Grade];155
+1323;ikctb47;C2130147;Aiming Booster[47 Grade];155
+1324;ikctb48;C2130148;Aiming Booster[48 Grade];155
+1325;ikctb49;C2130149;Aiming Booster[49 Grade];155
+1326;ikctb50;C2130150;Aiming Booster[50 Grade];155
+1327;ikctb51;C2130151;Aiming Booster[51 Grade];155
+1328;ikctb52;C2130152;Aiming Booster[52 Grade];155
+1329;ikctb53;C2130153;Aiming Booster[53 Grade];155
+1330;ikctb54;C2130154;Aiming Booster[54 Grade];155
+1331;ikctb55;C2130155;Aiming Booster[55 Grade];155
+1332;ikctb56;C2130156;Aiming Booster[56 Grade];155
+1333;ikctb57;C2130157;Aiming Booster[57 Grade];155
+1334;ikctb58;C2130158;Aiming Booster[58 Grade];155
+1335;ikctb59;C2130159;Aiming Booster[59 Grade];155
+1336;ikctb60;C2130160;Aiming Booster[60 Grade];155
+1337;ikctb61;C2130161;Aiming Booster[61 Grade];155
+1338;ikctb62;C2130162;Aiming Booster[62 Grade];155
+1339;ikctb63;C2130163;Aiming Booster[63 Grade];155
+1340;ikctb64;C2130164;Aiming Booster[64 Grade];155
+1341;ikctb65;C2130165;Aiming Booster[65 Grade];155
+1342;ikctb66;C2130166;Aiming Booster[66 Grade];155
+1343;ikctb67;C2130167;Aiming Booster[67 Grade];155
+1344;ikctb68;C2130168;Aiming Booster[68 Grade];155
+1345;ikctb69;C2130169;Aiming Booster[69 Grade];155
+1346;ikctb70;C2130170;Aiming Booster[70 Grade];155
+1347;ikctb71;C2130171;Aiming Booster[71 Grade];155
+1348;ikctb72;C2130172;Aiming Booster[72 Grade];155
+1349;ikctb73;C2130173;Aiming Booster[73 Grade];155
+1350;ikctb74;C2130174;Aiming Booster[74 Grade];155
+1351;ikctb75;C2130175;Aiming Booster[75 Grade];155
+1352;ikctb76;C2130176;Aiming Booster[76 Grade];155
+1353;ikctb77;C2130177;Aiming Booster[77 Grade];155
+1354;ikctb78;C2130178;Aiming Booster[78 Grade];155
+1355;ikctb79;C2130179;Aiming Booster[79 Grade];155
+1356;ikctb80;C2130180;Aiming Booster[80 Grade];155
+1357;ikctb81;C2130181;Aiming Booster[81 Grade];155
+1358;ikctb82;C2130182;Aiming Booster[82 Grade];155
+1359;ikctb83;C2130183;Aiming Booster[83 Grade];155
+1360;ikctb84;C2130184;Aiming Booster[84 Grade];155
+1361;ikctb85;C2130185;Aiming Booster[85 Grade];155
+1362;ikctb86;C2130186;Aiming Booster[86 Grade];155
+1363;ikctb87;C2130187;Aiming Booster[87 Grade];155
+1364;ikctb88;C2130188;Aiming Booster[88 Grade];155
+1365;ikctb89;C2130189;Aiming Booster[89 Grade];155
+1366;ikctb90;C2130190;Aiming Booster[90 Grade];155
+1367;ikctb91;C2130191;Aiming Booster[91 Grade];155
+1368;ikctb92;C2130192;Aiming Booster[92 Grade];155
+1369;ikctb93;C2130193;Aiming Booster[93 Grade];155
+1370;ikctb94;C2130194;Aiming Booster[94 Grade];155
+1371;ikctb95;C2130195;Aiming Booster[95 Grade];155
+1372;ikctb96;C2130196;Aiming Booster[96 Grade];155
+1373;ikctb97;C2130197;Aiming Booster[97 Grade];155
+1374;ikctb98;C2130198;Aiming Booster[98 Grade];155
+1375;ikctb99;C2130199;Aiming Booster[99 Grade];155
+1376;ikchb00;C2070100;Buildup Booster[Standard];155
+1377;ikchb01;C2070101;Buildup Booster[1st grade];155
+1378;ikchb02;C2070102;Buildup Booster[2nd Grade];155
+1379;ikchb03;C2070103;Buildup Booster[3rd Grade];155
+1380;ikchb04;C2070104;Buildup Booster[4th Grade];155
+1381;ikchb05;C2070105;Buildup Booster[5th Grade];155
+1382;ikchb06;C2070106;Buildup Booster[6th Grade];155
+1383;ikchb07;C2070107;Buildup Booster[7th Grade];155
+1384;ikchb08;C2070108;Buildup Booster[8th Grade];155
+1385;ikchb09;C2070109;Buildup Booster[9th Grade];155
+1386;ikchb10;C2070110;Buildup Booster[10th Grade];155
+1387;ikchb11;C2070111;Buildup Booster[11th Grade];155
+1388;ikchb12;C2070112;Buildup Booster[12th Grade];155
+1389;ikchb13;C2070113;Buildup Booster[13th Grade];155
+1390;ikchb14;C2070114;Buildup Booster[14th Grade];155
+1391;ikchb15;C2070115;Buildup Booster[15th Grade];155
+1392;ikchb16;C2070116;Buildup Booster[16th Grade];155
+1393;ikchb17;C2070117;Buildup Booster[17th Grade];155
+1394;ikchb18;C2070118;Buildup Booster[18th Grade];155
+1395;ikchb19;C2070119;Buildup Booster[19th Grade];155
+1396;ikchb20;C2070120;Buildup Booster[20th Grade];155
+1397;ikchb21;C2070121;Buildup Booster[21st Grade];155
+1398;ikchb22;C2070122;Buildup Booster[22nd Grade];155
+1399;ikchb23;C2070123;Buildup Booster[23rd Grade];155
+1400;ikchb24;C2070124;Buildup Booster[24th Grade];155
+1401;ikchb25;C2070125;Buildup Booster[25th Grade];155
+1402;ikchb26;C2070126;Buildup Booster[26th Grade];155
+1403;ikchb27;C2070127;Buildup Booster[27th Grade];155
+1404;ikchb28;C2070128;Buildup Booster[28th Grade];155
+1405;ikchb29;C2070129;Buildup Booster[29th Grade];155
+1406;ikchb30;C2070130;Buildup Booster[30th Grade];155
+1407;ikchb31;C2070131;Buildup Booster[31st Grade];155
+1408;ikchb32;C2070132;Buildup Booster[32nd Grade];155
+1409;ikchb33;C2070133;Buildup Booster[33rd Grade];155
+1410;ikchb34;C2070134;Buildup Booster[34th Grade];155
+1411;ikchb35;C2070135;Buildup Booster[35th Grade];155
+1412;ikchb36;C2070136;Buildup Booster[36th Grade];155
+1413;ikchb37;C2070137;Buildup Booster[37th Grade];155
+1414;ikchb38;C2070138;Buildup Booster[38th Grade];155
+1415;ikchb39;C2070139;Buildup Booster[39th Grade];155
+1416;ikchb40;C2070140;Buildup Booster[40th Grade];155
+1417;ikchb41;C2070141;Buildup Booster[41st Grade];155
+1418;ikchb42;C2070142;Buildup Booster[42nd Grade];155
+1419;ikchb43;C2070143;Buildup Booster[43rd Grade];155
+1420;ikchb44;C2070144;Buildup Booster[44th Grade];155
+1421;ikchb45;C2070145;Buildup Booster[45th Grade];155
+1422;ikchb46;C2070146;Buildup Booster[46th Grade];155
+1423;ikchb47;C2070147;Buildup Booster[47th Grade];155
+1424;ikchb48;C2070148;Buildup Booster[48th Grade];155
+1425;ikchb49;C2070149;Buildup Booster[49th Grade];155
+1426;ikchb50;C2070150;Buildup Booster[50th Grade];155
+1427;ikchb51;C2070151;Buildup Booster[51st Grade];155
+1428;ikchb52;C2070152;Buildup Booster[52nd Grade];155
+1429;ikchb53;C2070153;Buildup Booster[53rd Grade];155
+1430;ikchb54;C2070154;Buildup Booster[54th Grade];155
+1431;ikchb55;C2070155;Buildup Booster[55th Grade];155
+1432;ikchb56;C2070156;Buildup Booster[56th Grade];155
+1433;ikchb57;C2070157;Buildup Booster[57th Grade];155
+1434;ikchb58;C2070158;Buildup Booster[58th Grade];155
+1435;ikchb59;C2070159;Buildup Booster[59th Grade];155
+1436;ikchb60;C2070160;Buildup Booster[60th Grade];155
+1437;ikchb61;C2070161;Buildup Booster[61st Grade];155
+1438;ikchb62;C2070162;Buidup Booster[62nd Grade];155
+1439;ikchb63;C2070163;Buildup Booster[63rd Grade];155
+1440;ikchb64;C2070164;Buildup Booster[64th Grade];155
+1441;ikchb65;C2070165;Buildup Booster[65th Grade];155
+1442;ikchb66;C2070166;Buildup Booster[66th Grade];155
+1443;ikchb67;C2070167;Buildup Booster[67th Grade];155
+1444;ikchb68;C2070168;Buildup Booster[68th Grade];155
+1445;ikchb69;C2070169;Buildup Booster[69th Grade];155
+1446;ikchb70;C2070170;Buildup Booster[70th Grade];155
+1447;ikchb71;C2070171;Buildup Booster[71st Grade];155
+1448;ikchb72;C2070172;Buildup Booster[72nd Grade];155
+1449;ikchb73;C2070173;Buildup Booster;155
+1450;ikchb74;C2070174;Buildup Booster;155
+1451;ikchb75;C2070175;Buildup Booster;155
+1452;ikchb76;C2070176;Buildup Booster;155
+1453;ikchb77;C2070177;Buildup Booster;155
+1454;ikchb78;C2070178;Buildup Booster;155
+1455;ikchb79;C2070179;Buildup Booster;155
+1456;ikchb80;C2070180;Buildup Booster;155
+1457;ikchb81;C2070181;Buildup Booster[81st Grade];155
+1458;ikchb82;C2070182;Buildup Booster[82nd Grade];155
+1459;ikchb83;C2070183;Buildup Booster[83rd Grade];155
+1460;ikchb84;C2070184;Buildup Booster[84th Grade];155
+1461;ikchb85;C2070185;Buildup Booster[85th Grade];155
+1462;ikchb86;C2070186;Buildup Booster[86th Grade];155
+1463;ikchb87;C2070187;Buildup Booster[87th Grade];155
+1464;ikchb88;C2070188;Buildup Booster[88th Grade];155
+1465;ikchb89;C2070189;Buildup Booster[89th Grade];155
+1466;ikchb90;C2070190;Buildup Booster[90th Grade];155
+1467;ikchb91;C2070191;Buildup Booster[91st Grade];155
+1468;ikchb92;C2070192;Buildup Booster[92nd Grade];155
+1469;ikchb93;C2070193;Buildup Booster[93rd Grade];155
+1470;ikchb94;C2070194;Buildup Booster[94th Grade];155
+1471;ikchb95;C2070195;Buildup Booster[95th Grade];155
+1472;ikchb96;C2070196;Buildup Booster[96th Grade];155
+1473;ikchb97;C2070197;Buildup Booster[97th Grade];155
+1474;ikchb98;C2070198;Buildup Booster[98th Grade];155
+1475;ikchb99;C2070199;Buildup Booster[99th Grade];155
+1476;ikcfb00;C2050100;Anti Curse Booster [Standard];155
+1477;ikcfb01;C2050101;Anti Curse Booster [1 Grade];155
+1478;ikcfb02;C2050102;Anti Curse Booster [2 Grade];155
+1479;ikcfb03;C2050103;Anti Curse Booster [3 Grade];155
+1480;ikcfb04;C2050104;Anti Curse Booster [4 Grade];155
+1481;ikcfb05;C2050105;Anti Curse Booster [5 Grade];155
+1482;ikcfb06;C2050106;Anti Curse Booster [6 Grade];155
+1483;ikcfb07;C2050107;Anti Curse Booster [7 Grade];155
+1484;ikcfb08;C2050108;Anti Curse Booster [8 Grade];155
+1485;ikcfb09;C2050109;Anti Curse Booster [9 Grade];155
+1486;ikcfb10;C2050110;Anti Curse Booster [10 Grade];155
+1487;ikcfb11;C2050111;Anti Curse Booster [11 Grade];155
+1488;ikcfb12;C2050112;Anti Curse Booster [12 Grade];155
+1489;ikcfb13;C2050113;Anti Curse Booster [13 Grade];155
+1490;ikcfb14;C2050114;Anti Curse Booster [14 Grade];155
+1491;ikcfb15;C2050115;Anti Curse Booster [15 Grade];155
+1492;ikcfb16;C2050116;Anti Curse Booster [16 Grade];155
+1493;ikcfb17;C2050117;Anti Curse Booster [17 Grade];155
+1494;ikcfb18;C2050118;Anti Curse Booster [18 Grade];155
+1495;ikcfb19;C2050119;Anti Curse Booster [19 Grade];155
+1496;ikcfb20;C2050120;Anti Curse Booster [20 Grade];155
+1497;ikcfb21;C2050121;Anti Curse Booster [21 Grade];155
+1498;ikcfb22;C2050122;Anti Curse Booster [22 Grade];155
+1499;ikcfb23;C2050123;Anti Curse Booster [23 Grade];155
+1500;ikcfb24;C2050124;Anti Curse Booster [24 Grade];155
+1501;ikcfb25;C2050125;Anti Curse Booster [25 Grade];155
+1502;ikcfb26;C2050126;Anti Curse Booster [26 Grade];155
+1503;ikcfb27;C2050127;Anti Curse Booster [27 Grade];155
+1504;ikcfb28;C2050128;Anti Curse Booster [28 Grade];155
+1505;ikcfb29;C2050129;Anti Curse Booster [29 Grade];155
+1506;ikcfb30;C2050130;Anti Curse Booster [30 Grade];155
+1507;ikcfb31;C2050131;Anti Curse Booster [31 Grade];155
+1508;ikcfb32;C2050132;Anti Curse Booster [32 Grade];155
+1509;ikcfb33;C2050133;Anti Curse Booster [33 Grade];155
+1510;ikcfb34;C2050134;Anti Curse Booster [34 Grade];155
+1511;ikcfb35;C2050135;Anti Curse Booster [35 Grade];155
+1512;ikcfb36;C2050136;Anti Curse Booster [36 Grade];155
+1513;ikcfb37;C2050137;Anti Curse Booster [37 Grade];155
+1514;ikcfb38;C2050138;Anti Curse Booster [38 Grade];155
+1515;ikcfb39;C2050139;Anti Curse Booster [39 Grade];155
+1516;ikcfb40;C2050140;Anti Curse Booster [40 Grade];155
+1517;ikcfb41;C2050141;Anti Curse Booster [41 Grade];155
+1518;ikcfb42;C2050142;Anti Curse Booster [42 Grade];155
+1519;ikcfb43;C2050143;Anti Curse Booster [43 Grade];155
+1520;ikcfb44;C2050144;Anti Curse Booster [44 Grade];155
+1521;ikcfb45;C2050145;Anti Curse Booster [45 Grade];155
+1522;ikcfb46;C2050146;Anti Curse Booster [46 Grade];155
+1523;ikcfb47;C2050147;Anti Curse Booster [47 Grade];155
+1524;ikcfb48;C2050148;Anti Curse Booster [48 Grade];155
+1525;ikcfb49;C2050149;Anti Curse Booster [49 Grade];155
+1526;ikcfb50;C2050150;Anti Curse Booster [50 Grade];155
+1527;ikcfb51;C2050151;Anti Curse Booster [51 Grade];155
+1528;ikcfb52;C2050152;Anti Curse Booster [52 Grade];155
+1529;ikcfb53;C2050153;Anti Curse Booster [53 Grade];155
+1530;ikcfb54;C2050154;Anti Curse Booster [54 Grade];155
+1531;ikcfb55;C2050155;Anti Curse Booster [55 Grade];155
+1532;ikcfb56;C2050156;Anti Curse Booster [56 Grade];155
+1533;ikcfb57;C2050157;Anti Curse Booster [57 Grade];155
+1534;ikcfb58;C2050158;Anti Curse Booster [58 Grade];155
+1535;ikcfb59;C2050159;Anti Curse Booster [59 Grade];155
+1536;ikcfb60;C2050160;Anti Curse Booster [60 Grade];155
+1537;ikcfb61;C2050161;Anti Curse Booster [61 Grade];155
+1538;ikcfb62;C2050162;Anti Curse Booster [62 Grade];155
+1539;ikcfb63;C2050163;Anti Curse Booster [63 Grade];155
+1540;ikcfb64;C2050164;Anti Curse Booster [64 Grade];155
+1541;ikcfb65;C2050165;Anti Curse Booster [65 Grade];155
+1542;ikcfb66;C2050166;Anti Curse Booster [66 Grade];155
+1543;ikcfb67;C2050167;Anti Curse Booster [67 Grade];155
+1544;ikcfb68;C2050168;Anti Curse Booster [68 Grade];155
+1545;ikcfb69;C2050169;Anti Curse Booster [69 Grade];155
+1546;ikcfb70;C2050170;Anti Curse Booster [70 Grade];155
+1547;ikcfb71;C2050171;Anti Curse Booster [71 Grade];155
+1548;ikcfb72;C2050172;Anti Curse Booster [72 Grade];155
+1549;ikcfb73;C2050173;Anti Curse Booster [73 Grade];155
+1550;ikcfb74;C2050174;Anti Curse Booster [74 Grade];155
+1551;ikcfb75;C2050175;Anti Curse Booster [75 Grade];155
+1552;ikcfb76;C2050176;Anti Curse Booster [76 Grade];155
+1553;ikcfb77;C2050177;Anti Curse Booster [77 Grade];155
+1554;ikcfb78;C2050178;Anti Curse Booster [78 Grade];155
+1555;ikcfb79;C2050179;Anti Curse Booster [79 Grade];155
+1556;ikcfb80;C2050180;Anti Curse Booster [80 Grade];155
+1557;ikcfb81;C2050181;Anti Curse Booster [81 Grade];155
+1558;ikcfb82;C2050182;Anti Curse Booster [82 Grade];155
+1559;ikcfb83;C2050183;Anti Curse Booster [83 Grade];155
+1560;ikcfb84;C2050184;Anti Curse Booster [84 Grade];155
+1561;ikcfb85;C2050185;Anti Curse Booster [85 Grade];155
+1562;ikcfb86;C2050186;Anti Curse Booster [86 Grade];155
+1563;ikcfb87;C2050187;Anti Curse Booster [87 Grade];155
+1564;ikcfb88;C2050188;Anti Curse Booster [88 Grade];155
+1565;ikcfb89;C2050189;Anti Curse Booster [89 Grade];155
+1566;ikcfb90;C2050190;Anti Curse Booster [90 Grade];155
+1567;ikcfb91;C2050191;Anti Curse Booster [91 Grade];155
+1568;ikcfb92;C2050192;Anti Curse Booster [92 Grade];155
+1569;ikcfb93;C2050193;Anti Curse Booster [93 Grade];155
+1570;ikcfb94;C2050194;Anti Curse Booster [94 Grade];155
+1571;ikcfb95;C2050195;Anti Curse Booster [95 Grade];155
+1572;ikcfb96;C2050196;Anti Curse Booster [96 Grade];155
+1573;ikcfb97;C2050197;Anti Curse Booster [97 Grade];155
+1574;ikcfb98;C2050198;Anti Curse Booster [98 Grade];155
+1575;ikcfb99;C2050199;Anti Curse Booster [99 Grade];155
+1576;ikavb00;C0150100;Blood Booster[Standard];156
+1577;ikavb01;C0150101;Blood Booster[1 Grade];156
+1578;ikavb02;C0150102;Blood Booster[2 Grade];156
+1579;ikavb03;C0150103;Blood Booster[3 Grade];156
+1580;ikavb04;C0150104;Blood Booster[4 Grade];156
+1581;ikavb05;C0150105;Blood Booster[5 Grade];156
+1582;ikavb06;C0150106;Blood Booster[6 Grade];156
+1583;ikavb07;C0150107;Blood Booster[7 Grade];156
+1584;ikavb08;C0150108;Blood Booster[8 Grade];156
+1585;ikavb09;C0150109;Blood Booster[9 Grade];156
+1586;ikavb10;C0150110;Blood Booster[10 Grade];156
+1587;ikavb11;C0150111;Blood Booster[11 Grade];156
+1588;ikavb12;C0150112;Blood Booster[12 Grade];156
+1589;ikavb13;C0150113;Blood Booster[13 Grade];156
+1590;ikavb14;C0150114;Blood Booster[14 Grade];156
+1591;ikavb15;C0150115;Blood Booster[15 Grade];156
+1592;ikavb16;C0150116;Blood Booster[16 Grade];156
+1593;ikavb17;C0150117;Blood Booster[17 Grade];156
+1594;ikavb18;C0150118;Blood Booster[18 Grade];156
+1595;ikavb19;C0150119;Blood Booster[19 Grade];156
+1596;ikavb20;C0150120;Blood Booster[20 Grade];156
+1597;ikavb21;C0150121;Blood Booster[21 Grade];156
+1598;ikavb22;C0150122;Blood Booster[22 Grade];156
+1599;ikavb23;C0150123;Blood Booster[23 Grade];156
+1600;ikavb24;C0150124;Blood Booster[24 Grade];156
+1601;ikavb25;C0150125;Blood Booster[25 Grade];156
+1602;ikavb26;C0150126;Blood Booster[26 Grade];156
+1603;ikavb27;C0150127;Blood Booster[27 Grade];156
+1604;ikavb28;C0150128;Blood Booster[28 Grade];156
+1605;ikavb29;C0150129;Blood Booster[29 Grade];156
+1606;ikavb30;C0150130;Blood Booster[30 Grade];156
+1607;ikavb31;C0150131;Blood Booster[31 Grade];156
+1608;ikavb32;C0150132;Blood Booster[32 Grade];156
+1609;ikavb33;C0150133;Blood Booster[33 Grade];156
+1610;ikavb34;C0150134;Blood Booster[34 Grade];156
+1611;ikavb35;C0150135;Blood Booster[35 Grade];156
+1612;ikavb36;C0150136;Blood Booster[36 Grade];156
+1613;ikavb37;C0150137;Blood Booster[37 Grade];156
+1614;ikavb38;C0150138;Blood Booster[38 Grade];156
+1615;ikavb39;C0150139;Blood Booster[39 Grade];156
+1616;ikavb40;C0150140;Blood Booster[40 Grade];156
+1617;ikavb41;C0150141;Blood Booster[41 Grade];156
+1618;ikavb42;C0150142;Blood Booster[42 Grade];156
+1619;ikavb43;C0150143;Blood Booster[43 Grade];156
+1620;ikavb44;C0150144;Blood Booster[44 Grade];156
+1621;ikavb45;C0150145;Blood Booster[45 Grade];156
+1622;ikavb46;C0150146;Blood Booster[46 Grade];156
+1623;ikavb47;C0150147;Blood Booster[47 Grade];156
+1624;ikavb48;C0150148;Blood Booster[48 Grade];156
+1625;ikavb49;C0150149;Blood Booster[49 Grade];156
+1626;ikavb50;C0150150;Blood Booster[50 Grade];156
+1627;ikavb51;C0150151;Blood Booster[51 Grade];156
+1628;ikavb52;C0150152;Blood Booster[52 Grade];156
+1629;ikavb53;C0150153;Blood Booster[53 Grade];156
+1630;ikavb54;C0150154;Blood Booster[54 Grade];156
+1631;ikavb55;C0150155;Blood Booster[55 Grade];156
+1632;ikavb56;C0150156;Blood Booster[56 Grade];156
+1633;ikavb57;C0150157;Blood Booster[57 Grade];156
+1634;ikavb58;C0150158;Blood Booster[58 Grade];156
+1635;ikavb59;C0150159;Blood Booster[59 Grade];156
+1636;ikavb60;C0150160;Blood Booster[60 Grade];156
+1637;ikavb61;C0150161;Blood Booster[61 Grade];156
+1638;ikavb62;C0150162;Blood Booster[62 Grade];156
+1639;ikavb63;C0150163;Blood Booster[63 Grade];156
+1640;ikavb64;C0150164;Blood Booster[64 Grade];156
+1641;ikavb65;C0150165;Blood Booster[65 Grade];156
+1642;ikavb66;C0150166;Blood Booster[66 Grade];156
+1643;ikavb67;C0150167;Blood Booster[67 Grade];156
+1644;ikavb68;C0150168;Blood Booster[68 Grade];156
+1645;ikavb69;C0150169;Blood Booster[69 Grade];156
+1646;ikavb70;C0150170;Blood Booster[70 Grade];156
+1647;ikavb71;C0150171;Blood Booster[71 Grade];156
+1648;ikavb72;C0150172;Blood Booster[72 Grade];156
+1649;ikavb73;C0150173;Blood Booster[73 Grade];156
+1650;ikavb74;C0150174;Blood Booster[74 Grade];156
+1651;ikavb75;C0150175;Blood Booster[75 Grade];156
+1652;ikavb76;C0150176;Blood Booster[76 Grade];156
+1653;ikavb77;C0150177;Blood Booster[77 Grade];156
+1654;ikavb78;C0150178;Blood Booster[78 Grade];156
+1655;ikavb79;C0150179;Blood Booster[79 Grade];156
+1656;ikavb80;C0150180;Blood Booster[80 Grade];156
+1657;ikavb81;C0150181;Blood Booster[81 Grade];156
+1658;ikavb82;C0150182;Blood Booster[82 Grade];156
+1659;ikavb83;C0150183;Blood Booster[83 Grade];156
+1660;ikavb84;C0150184;Blood Booster[84 Grade];156
+1661;ikavb85;C0150185;Blood Booster[85 Grade];156
+1662;ikavb86;C0150186;Blood Booster[86 Grade];156
+1663;ikavb87;C0150187;Blood Booster[87 Grade];156
+1664;ikavb88;C0150188;Blood Booster[88 Grade];156
+1665;ikavb89;C0150189;Blood Booster[89 Grade];156
+1666;ikavb90;C0150190;Blood Booster[90 Grade];156
+1667;ikavb91;C0150191;Blood Booster[91 Grade];156
+1668;ikavb92;C0150192;Blood Booster[92 Grade];156
+1669;ikavb93;C0150193;Blood Booster[93 Grade];156
+1670;ikavb94;C0150194;Blood Booster[94 Grade];156
+1671;ikavb95;C0150195;Blood Booster[95 Grade];156
+1672;ikavb96;C0150196;Blood Booster[96 Grade];156
+1673;ikavb97;C0150197;Blood Booster[97 Grade];156
+1674;ikavb98;C0150198;Blood Booster[98 Grade];156
+1675;ikavb99;C0150199;Blood Booster[99 Grade];156
+1676;ikatb00;C0130100;Aiming Booster[Standard];156
+1677;ikatb01;C0130101;Aiming Booster[1 Grade];156
+1678;ikatb02;C0130102;Aiming Booster[2 Grade];156
+1679;ikatb03;C0130103;Aiming Booster[3 Grade];156
+1680;ikatb04;C0130104;Aiming Booster[4 Grade];156
+1681;ikatb05;C0130105;Aiming Booster[5 Grade];156
+1682;ikatb06;C0130106;Aiming Booster[6 Grade];156
+1683;ikatb07;C0130107;Aiming Booster[7 Grade];156
+1684;ikatb08;C0130108;Aiming Booster[8 Grade];156
+1685;ikatb09;C0130109;Aiming Booster[9 Grade];156
+1686;ikatb10;C0130110;Aiming Booster[10 Grade];156
+1687;ikatb11;C0130111;Aiming Booster[11 Grade];156
+1688;ikatb12;C0130112;Aiming Booster[12 Grade];156
+1689;ikatb13;C0130113;Aiming Booster[13 Grade];156
+1690;ikatb14;C0130114;Aiming Booster[14 Grade];156
+1691;ikatb15;C0130115;Aiming Booster[15 Grade];156
+1692;ikatb16;C0130116;Aiming Booster[16 Grade];156
+1693;ikatb17;C0130117;Aiming Booster[17 Grade];156
+1694;ikatb18;C0130118;Aiming Booster[18 Grade];156
+1695;ikatb19;C0130119;Aiming Booster[19 Grade];156
+1696;ikatb20;C0130120;Aiming Booster[20 Grade];156
+1697;ikatb21;C0130121;Aiming Booster[21 Grade];156
+1698;ikatb22;C0130122;Aiming Booster[22 Grade];156
+1699;ikatb23;C0130123;Aiming Booster[23 Grade];156
+1700;ikatb24;C0130124;Aiming Booster[24 Grade];156
+1701;ikatb25;C0130125;Aiming Booster[25 Grade];156
+1702;ikatb26;C0130126;Aiming Booster[26 Grade];156
+1703;ikatb27;C0130127;Aiming Booster[27 Grade];156
+1704;ikatb28;C0130128;Aiming Booster[28 Grade];156
+1705;ikatb29;C0130129;Aiming Booster[29 Grade];156
+1706;ikatb30;C0130130;Aiming Booster[30 Grade];156
+1707;ikatb31;C0130131;Aiming Booster[31 Grade];156
+1708;ikatb32;C0130132;Aiming Booster[32 Grade];156
+1709;ikatb33;C0130133;Aiming Booster[33 Grade];156
+1710;ikatb34;C0130134;Aiming Booster[34 Grade];156
+1711;ikatb35;C0130135;Aiming Booster[35 Grade];156
+1712;ikatb36;C0130136;Aiming Booster[36 Grade];156
+1713;ikatb37;C0130137;Aiming Booster[37 Grade];156
+1714;ikatb38;C0130138;Aiming Booster[38 Grade];156
+1715;ikatb39;C0130139;Aiming Booster[39 Grade];156
+1716;ikatb40;C0130140;Aiming Booster[40 Grade];156
+1717;ikatb41;C0130141;Aiming Booster[41 Grade];156
+1718;ikatb42;C0130142;Aiming Booster[42 Grade];156
+1719;ikatb43;C0130143;Aiming Booster[43 Grade];156
+1720;ikatb44;C0130144;Aiming Booster[44 Grade];156
+1721;ikatb45;C0130145;Aiming Booster[45 Grade];156
+1722;ikatb46;C0130146;Aiming Booster[46 Grade];156
+1723;ikatb47;C0130147;Aiming Booster[47 Grade];156
+1724;ikatb48;C0130148;Aiming Booster[48 Grade];156
+1725;ikatb49;C0130149;Aiming Booster[49 Grade];156
+1726;ikatb50;C0130150;Aiming Booster[50 Grade];156
+1727;ikatb51;C0130151;Aiming Booster[51 Grade];156
+1728;ikatb52;C0130152;Aiming Booster[52 Grade];156
+1729;ikatb53;C0130153;Aiming Booster[53 Grade];156
+1730;ikatb54;C0130154;Aiming Booster[54 Grade];156
+1731;ikatb55;C0130155;Aiming Booster[55 Grade];156
+1732;ikatb56;C0130156;Aiming Booster[56 Grade];156
+1733;ikatb57;C0130157;Aiming Booster[57 Grade];156
+1734;ikatb58;C0130158;Aiming Booster[58 Grade];156
+1735;ikatb59;C0130159;Aiming Booster[59 Grade];156
+1736;ikatb60;C0130160;Aiming Booster[60 Grade];156
+1737;ikatb61;C0130161;Aiming Booster[61 Grade];156
+1738;ikatb62;C0130162;Aiming Booster[62 Grade];156
+1739;ikatb63;C0130163;Aiming Booster[63 Grade];156
+1740;ikatb64;C0130164;Aiming Booster[64 Grade];156
+1741;ikatb65;C0130165;Aiming Booster[65 Grade];156
+1742;ikatb66;C0130166;Aiming Booster[66 Grade];156
+1743;ikatb67;C0130167;Aiming Booster[67 Grade];156
+1744;ikatb68;C0130168;Aiming Booster[68 Grade];156
+1745;ikatb69;C0130169;Aiming Booster[69 Grade];156
+1746;ikatb70;C0130170;Aiming Booster[70 Grade];156
+1747;ikatb71;C0130171;Aiming Booster[71 Grade];156
+1748;ikatb72;C0130172;Aiming Booster[72 Grade];156
+1749;ikatb73;C0130173;Aiming Booster[73 Grade];156
+1750;ikatb74;C0130174;Aiming Booster[74 Grade];156
+1751;ikatb75;C0130175;Aiming Booster[75 Grade];156
+1752;ikatb76;C0130176;Aiming Booster[76 Grade];156
+1753;ikatb77;C0130177;Aiming Booster[77 Grade];156
+1754;ikatb78;C0130178;Aiming Booster[78 Grade];156
+1755;ikatb79;C0130179;Aiming Booster[79 Grade];156
+1756;ikatb80;C0130180;Aiming Booster[80 Grade];156
+1757;ikatb81;C0130181;Aiming Booster[81 Grade];156
+1758;ikatb82;C0130182;Aiming Booster[82 Grade];156
+1759;ikatb83;C0130183;Aiming Booster[83 Grade];156
+1760;ikatb84;C0130184;Aiming Booster[84 Grade];156
+1761;ikatb85;C0130185;Aiming Booster[85 Grade];156
+1762;ikatb86;C0130186;Aiming Booster[86 Grade];156
+1763;ikatb87;C0130187;Aiming Booster[87 Grade];156
+1764;ikatb88;C0130188;Aiming Booster[88 Grade];156
+1765;ikatb89;C0130189;Aiming Booster[89 Grade];156
+1766;ikatb90;C0130190;Aiming Booster[90 Grade];156
+1767;ikatb91;C0130191;Aiming Booster[91 Grade];156
+1768;ikatb92;C0130192;Aiming Booster[92 Grade];156
+1769;ikatb93;C0130193;Aiming Booster[93 Grade];156
+1770;ikatb94;C0130194;Aiming Booster[94 Grade];156
+1771;ikatb95;C0130195;Aiming Booster[95 Grade];156
+1772;ikatb96;C0130196;Aiming Booster[96 Grade];156
+1773;ikatb97;C0130197;Aiming Booster[97 Grade];156
+1774;ikatb98;C0130198;Aiming Booster[98 Grade];156
+1775;ikatb99;C0130199;Aiming Booster[99 Grade];156
+1776;ikahb00;C0070100;Buildup Booster[Standard];156
+1777;ikahb01;C0070101;Buildup Booster[1st grade];156
+1778;ikahb02;C0070102;Buildup Booster[2nd Grade];156
+1779;ikahb03;C0070103;Buildup Booster[3rd Grade];156
+1780;ikahb04;C0070104;Buildup Booster[4th Grade];156
+1781;ikahb05;C0070105;Buildup Booster[5th Grade];156
+1782;ikahb06;C0070106;Buildup Booster[6th Grade];156
+1783;ikahb07;C0070107;Buildup Booster[7th Grade];156
+1784;ikahb08;C0070108;Buildup Booster[8th Grade];156
+1785;ikahb09;C0070109;Buildup Booster[9th Grade];156
+1786;ikahb10;C0070110;Buildup Booster[10th Grade];156
+1787;ikahb11;C0070111;Buildup Booster[11th Grade];156
+1788;ikahb12;C0070112;Buildup Booster[12th Grade];156
+1789;ikahb13;C0070113;Buildup Booster[13th Grade];156
+1790;ikahb14;C0070114;Buildup Booster[14th Grade];156
+1791;ikahb15;C0070115;Buildup Booster[15th Grade];156
+1792;ikahb16;C0070116;Buildup Booster[16th Grade];156
+1793;ikahb17;C0070117;Buildup Booster[17th Grade];156
+1794;ikahb18;C0070118;Buildup Booster[18th Grade];156
+1795;ikahb19;C0070119;Buildup Booster[19th Grade];156
+1796;ikahb20;C0070120;Buildup Booster[20th Grade];156
+1797;ikahb21;C0070121;Buildup Booster[21st Grade];156
+1798;ikahb22;C0070122;Buildup Booster[22nd Grade];156
+1799;ikahb23;C0070123;Buildup Booster[23rd Grade];156
+1800;ikahb24;C0070124;Buildup Booster[24th Grade];156
+1801;ikahb25;C0070125;Buildup Booster[25th Grade];156
+1802;ikahb26;C0070126;Buildup Booster[26th Grade];156
+1803;ikahb27;C0070127;Buildup Booster[27th Grade];156
+1804;ikahb28;C0070128;Buildup Booster[28th Grade];156
+1805;ikahb29;C0070129;Buildup Booster[29th Grade];156
+1806;ikahb30;C0070130;Buildup Booster[30th Grade];156
+1807;ikahb31;C0070131;Buildup Booster[31st Grade];156
+1808;ikahb32;C0070132;Buildup Booster[32nd Grade];156
+1809;ikahb33;C0070133;Buildup Booster[33rd Grade];156
+1810;ikahb34;C0070134;Buildup Booster[34th Grade];156
+1811;ikahb35;C0070135;Buildup Booster[35th Grade];156
+1812;ikahb36;C0070136;Buildup Booster[36th Grade];156
+1813;ikahb37;C0070137;Buildup Booster[37th Grade];156
+1814;ikahb38;C0070138;Buildup Booster[38th Grade];156
+1815;ikahb39;C0070139;Buildup Booster[39th Grade];156
+1816;ikahb40;C0070140;Buildup Booster[40th Grade];156
+1817;ikahb41;C0070141;Buildup Booster[41st Grade];156
+1818;ikahb42;C0070142;Buildup Booster[42nd Grade];156
+1819;ikahb43;C0070143;Buildup Booster[43rd Grade];156
+1820;ikahb44;C0070144;Buildup Booster[44th Grade];156
+1821;ikahb45;C0070145;Buildup Booster[45th Grade];156
+1822;ikahb46;C0070146;Buildup Booster[46th Grade];156
+1823;ikahb47;C0070147;Buildup Booster[47th Grade];156
+1824;ikahb48;C0070148;Buildup Booster[48th Grade];156
+1825;ikahb49;C0070149;Buildup Booster[49th Grade];156
+1826;ikahb50;C0070150;Buildup Booster[50th Grade];156
+1827;ikahb51;C0070151;Buildup Booster[51st Grade];156
+1828;ikahb52;C0070152;Buildup Booster[52nd Grade];156
+1829;ikahb53;C0070153;Buildup Booster[53rd Grade];156
+1830;ikahb54;C0070154;Buildup Booster[54th Grade];156
+1831;ikahb55;C0070155;Buildup Booster[55th Grade];156
+1832;ikahb56;C0070156;Buildup Booster[56th Grade];156
+1833;ikahb57;C0070157;Buildup Booster[57th Grade];156
+1834;ikahb58;C0070158;Buildup Booster[58th Grade];156
+1835;ikahb59;C0070159;Buildup Booster[59th Grade];156
+1836;ikahb60;C0070160;Buildup Booster[60th Grade];156
+1837;ikahb61;C0070161;Buildup Booster[61st Grade];156
+1838;ikahb62;C0070162;Buidup Booster[62nd Grade];156
+1839;ikahb63;C0070163;Buildup Booster[63rd Grade];156
+1840;ikahb64;C0070164;Buildup Booster[64th Grade];156
+1841;ikahb65;C0070165;Buildup Booster[65th Grade];156
+1842;ikahb66;C0070166;Buildup Booster[66th Grade];156
+1843;ikahb67;C0070167;Buildup Booster[67th Grade];156
+1844;ikahb68;C0070168;Buildup Booster[68th Grade];156
+1845;ikahb69;C0070169;Buildup Booster[69th Grade];156
+1846;ikahb70;C0070170;Buildup Booster[70th Grade];156
+1847;ikahb71;C0070171;Buildup Booster[71st Grade];156
+1848;ikahb72;C0070172;Buildup Booster[72nd Grade];156
+1849;ikahb73;C0070173;Buildup Booster;156
+1850;ikahb74;C0070174;Buildup Booster;156
+1851;ikahb75;C0070175;Buildup Booster;156
+1852;ikahb76;C0070176;Buildup Booster;156
+1853;ikahb77;C0070177;Buildup Booster;156
+1854;ikahb78;C0070178;Buildup Booster;156
+1855;ikahb79;C0070179;Buildup Booster;156
+1856;ikahb80;C0070180;Buildup Booster;156
+1857;ikahb81;C0070181;Buildup Booster[81st Grade];156
+1858;ikahb82;C0070182;Buildup Booster[82nd Grade];156
+1859;ikahb83;C0070183;Buildup Booster[83rd Grade];156
+1860;ikahb84;C0070184;Buildup Booster[84th Grade];156
+1861;ikahb85;C0070185;Buildup Booster[85th Grade];156
+1862;ikahb86;C0070186;Buildup Booster[86th Grade];156
+1863;ikahb87;C0070187;Buildup Booster[87th Grade];156
+1864;ikahb88;C0070188;Buildup Booster[88th Grade];156
+1865;ikahb89;C0070189;Buildup Booster[89th Grade];156
+1866;ikahb90;C0070190;Buildup Booster[90th Grade];156
+1867;ikahb91;C0070191;Buildup Booster[91st Grade];156
+1868;ikahb92;C0070192;Buildup Booster[92nd Grade];156
+1869;ikahb93;C0070193;Buildup Booster[93rd Grade];156
+1870;ikahb94;C0070194;Buildup Booster[94th Grade];156
+1871;ikahb95;C0070195;Buildup Booster[95th Grade];156
+1872;ikahb96;C0070196;Buildup Booster[96th Grade];156
+1873;ikahb97;C0070197;Buildup Booster[97th Grade];156
+1874;ikahb98;C0070198;Buildup Booster[98th Grade];156
+1875;ikahb99;C0070199;Buildup Booster[99th Grade];156
+1876;ikafb00;C0050100;Anti Curse Booster [Standard];156
+1877;ikafb01;C0050101;Anti Curse Booster [1 Grade];156
+1878;ikafb02;C0050102;Anti Curse Booster [2 Grade];156
+1879;ikafb03;C0050103;Anti Curse Booster [3 Grade];156
+1880;ikafb04;C0050104;Anti Curse Booster [4 Grade];156
+1881;ikafb05;C0050105;Anti Curse Booster [5 Grade];156
+1882;ikafb06;C0050106;Anti Curse Booster [6 Grade];156
+1883;ikafb07;C0050107;Anti Curse Booster [7 Grade];156
+1884;ikafb08;C0050108;Anti Curse Booster [8 Grade];156
+1885;ikafb09;C0050109;Anti Curse Booster [9 Grade];156
+1886;ikafb10;C0050110;Anti Curse Booster [10 Grade];156
+1887;ikafb11;C0050111;Anti Curse Booster [11 Grade];156
+1888;ikafb12;C0050112;Anti Curse Booster [12 Grade];156
+1889;ikafb13;C0050113;Anti Curse Booster [13 Grade];156
+1890;ikafb14;C0050114;Anti Curse Booster [14 Grade];156
+1891;ikafb15;C0050115;Anti Curse Booster [15 Grade];156
+1892;ikafb16;C0050116;Anti Curse Booster [16 Grade];156
+1893;ikafb17;C0050117;Anti Curse Booster [17 Grade];156
+1894;ikafb18;C0050118;Anti Curse Booster [18 Grade];156
+1895;ikafb19;C0050119;Anti Curse Booster [19 Grade];156
+1896;ikafb20;C0050120;Anti Curse Booster [20 Grade];156
+1897;ikafb21;C0050121;Anti Curse Booster [21 Grade];156
+1898;ikafb22;C0050122;Anti Curse Booster [22 Grade];156
+1899;ikafb23;C0050123;Anti Curse Booster [23 Grade];156
+1900;ikafb24;C0050124;Anti Curse Booster [24 Grade];156
+1901;ikafb25;C0050125;Anti Curse Booster [25 Grade];156
+1902;ikafb26;C0050126;Anti Curse Booster [26 Grade];156
+1903;ikafb27;C0050127;Anti Curse Booster [27 Grade];156
+1904;ikafb28;C0050128;Anti Curse Booster [28 Grade];156
+1905;ikafb29;C0050129;Anti Curse Booster [29 Grade];156
+1906;ikafb30;C0050130;Anti Curse Booster [30 Grade];156
+1907;ikafb31;C0050131;Anti Curse Booster [31 Grade];156
+1908;ikafb32;C0050132;Anti Curse Booster [32 Grade];156
+1909;ikafb33;C0050133;Anti Curse Booster [33 Grade];156
+1910;ikafb34;C0050134;Anti Curse Booster [34 Grade];156
+1911;ikafb35;C0050135;Anti Curse Booster [35 Grade];156
+1912;ikafb36;C0050136;Anti Curse Booster [36 Grade];156
+1913;ikafb37;C0050137;Anti Curse Booster [37 Grade];156
+1914;ikafb38;C0050138;Anti Curse Booster [38 Grade];156
+1915;ikafb39;C0050139;Anti Curse Booster [39 Grade];156
+1916;ikafb40;C0050140;Anti Curse Booster [40 Grade];156
+1917;ikafb41;C0050141;Anti Curse Booster [41 Grade];156
+1918;ikafb42;C0050142;Anti Curse Booster [42 Grade];156
+1919;ikafb43;C0050143;Anti Curse Booster [43 Grade];156
+1920;ikafb44;C0050144;Anti Curse Booster [44 Grade];156
+1921;ikafb45;C0050145;Anti Curse Booster [45 Grade];156
+1922;ikafb46;C0050146;Anti Curse Booster [46 Grade];156
+1923;ikafb47;C0050147;Anti Curse Booster [47 Grade];156
+1924;ikafb48;C0050148;Anti Curse Booster [48 Grade];156
+1925;ikafb49;C0050149;Anti Curse Booster [49 Grade];156
+1926;ikafb50;C0050150;Anti Curse Booster [50 Grade];156
+1927;ikafb51;C0050151;Anti Curse Booster [51 Grade];156
+1928;ikafb52;C0050152;Anti Curse Booster [52 Grade];156
+1929;ikafb53;C0050153;Anti Curse Booster [53 Grade];156
+1930;ikafb54;C0050154;Anti Curse Booster [54 Grade];156
+1931;ikafb55;C0050155;Anti Curse Booster [55 Grade];156
+1932;ikafb56;C0050156;Anti Curse Booster [56 Grade];156
+1933;ikafb57;C0050157;Anti Curse Booster [57 Grade];156
+1934;ikafb58;C0050158;Anti Curse Booster [58 Grade];156
+1935;ikafb59;C0050159;Anti Curse Booster [59 Grade];156
+1936;ikafb60;C0050160;Anti Curse Booster [60 Grade];156
+1937;ikafb61;C0050161;Anti Curse Booster [61 Grade];156
+1938;ikafb62;C0050162;Anti Curse Booster [62 Grade];156
+1939;ikafb63;C0050163;Anti Curse Booster [63 Grade];156
+1940;ikafb64;C0050164;Anti Curse Booster [64 Grade];156
+1941;ikafb65;C0050165;Anti Curse Booster [65 Grade];156
+1942;ikafb66;C0050166;Anti Curse Booster [66 Grade];156
+1943;ikafb67;C0050167;Anti Curse Booster [67 Grade];156
+1944;ikafb68;C0050168;Anti Curse Booster [68 Grade];156
+1945;ikafb69;C0050169;Anti Curse Booster [69 Grade];156
+1946;ikafb70;C0050170;Anti Curse Booster [70 Grade];156
+1947;ikafb71;C0050171;Anti Curse Booster [71 Grade];156
+1948;ikafb72;C0050172;Anti Curse Booster [72 Grade];156
+1949;ikafb73;C0050173;Anti Curse Booster [73 Grade];156
+1950;ikafb74;C0050174;Anti Curse Booster [74 Grade];156
+1951;ikafb75;C0050175;Anti Curse Booster [75 Grade];156
+1952;ikafb76;C0050176;Anti Curse Booster [76 Grade];156
+1953;ikafb77;C0050177;Anti Curse Booster [77 Grade];156
+1954;ikafb78;C0050178;Anti Curse Booster [78 Grade];156
+1955;ikafb79;C0050179;Anti Curse Booster [79 Grade];156
+1956;ikafb80;C0050180;Anti Curse Booster [80 Grade];156
+1957;ikafb81;C0050181;Anti Curse Booster [81 Grade];156
+1958;ikafb82;C0050182;Anti Curse Booster [82 Grade];156
+1959;ikafb83;C0050183;Anti Curse Booster [83 Grade];156
+1960;ikafb84;C0050184;Anti Curse Booster [84 Grade];156
+1961;ikafb85;C0050185;Anti Curse Booster [85 Grade];156
+1962;ikafb86;C0050186;Anti Curse Booster [86 Grade];156
+1963;ikafb87;C0050187;Anti Curse Booster [87 Grade];156
+1964;ikafb88;C0050188;Anti Curse Booster [88 Grade];156
+1965;ikafb89;C0050189;Anti Curse Booster [89 Grade];156
+1966;ikafb90;C0050190;Anti Curse Booster [90 Grade];156
+1967;ikafb91;C0050191;Anti Curse Booster [91 Grade];156
+1968;ikafb92;C0050192;Anti Curse Booster [92 Grade];156
+1969;ikafb93;C0050193;Anti Curse Booster [93 Grade];156
+1970;ikafb94;C0050194;Anti Curse Booster [94 Grade];156
+1971;ikafb95;C0050195;Anti Curse Booster [95 Grade];156
+1972;ikafb96;C0050196;Anti Curse Booster [96 Grade];156
+1973;ikafb97;C0050197;Anti Curse Booster [97 Grade];156
+1974;ikafb98;C0050198;Anti Curse Booster [98 Grade];156
+1975;ikafb99;C0050199;Anti Curse Booster [99 Grade];156
+1976;ikbtc01;C1130201;Certificate of Complete Discipline;154
+1977;ikctc01;C2130201;Certificate of Complete Discipline;155
+1978;ikatc01;C0130201;Certificate of Complete Discipline;156
+1979;ikexp02;C4170F02;Stealth Mantle;156

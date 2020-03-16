@@ -31,6 +31,8 @@ export class Melhoria {
 export class Equipamento {
   codigo: number;
   nome: string;
+  qtd: number;
+  slot: number;
   melhoria: Melhoria;
   imgId: number;
 

@@ -1,0 +1,1318 @@
+Index;Code;English Name
+0;00000;Young Flym
+1;00001;Young Flym
+2;00002;Young Flym
+3;00100;Wing
+4;00101;Wing
+5;00102;Wing
+6;00300;Digger Clan
+7;00301;Digger Clan
+8;00201;Flym
+9;00202;Flym
+10;00200;Flym
+11;00500;Stingbug
+12;00501;Stingbug
+13;00302;DiggerClan
+14;00600;Heavy Wing
+15;00400;Flym Guard
+16;00401;Flym Guard
+17;00402;Flym Guard
+18;00502;Stingbug
+19;00900;Marr
+20;00901;Marr
+21;00700;Demolith
+22;00701;Demolith
+23;00702;Demolith
+24;00802;Adult Stingbug
+25;00800;Adult Stingbug
+26;00801;Adult Stingbug
+27;00601;Heavy Wing
+28;00602;Heavy Wing
+29;00902;Marr
+30;00B00;Clan
+31;00A01;Splinter Brat
+32;00A02;Splinter Brat
+33;00A00;Splinter Brat
+34;00D00;Lunker
+35;00D01;Lunker
+36;00E01;Host Marr
+37;00E02;Host Marr
+38;00E00;Host Marr
+39;00C00;WarBeast
+40;00C01;WarBeast
+41;00D02;Lunker
+42;00F00;Ratmoth
+43;00F01;Ratmoth
+44;00F02;Ratmoth
+45;01000;Splinter
+46;00C02;WarBeast
+47;00B01;Clan
+48;00B02;Clan
+49;01100;Snatcher Cheat
+50;01001;Splinter
+51;01002;Splinter
+52;01200;Neo WarBeast
+53;01101;Snatcher Cheat
+54;01102;Snatcher Cheat
+55;01401;BoClan
+56;01402;BoClan
+57;01400;BoClan
+58;01201;Neo WarBeast
+59;01202;Neo WarBeast
+60;01301;Bloc Lunker
+61;01302;Bloc Lunker
+62;01300;Bloc Lunker
+63;01700;Vafer Nipper
+64;01701;Vafer Nipper
+65;01602;Argol
+66;01500;Big Ratmoth
+67;01501;Big Ratmoth
+68;01502;Big Ratmoth
+69;01600;Argol
+70;01601;Argol
+71;01702;Vafer Nipper
+72;01900;Cannival
+73;01B00;Bulky Lunker
+74;01B01;Bulky Lunker
+75;01A02;Argolquich
+76;01800;GaffTail
+77;01801;GaffTail
+78;01802;GaffTail
+79;01901;Cannival
+80;01902;Cannival
+81;01A00;Argolquich
+82;01A01;Argolquich
+83;01B02;Bulky Lunker
+84;01E00;Snatcher Hurl
+85;01E01;Snatcher Hurl
+86;01C01;Lapise
+87;01D02;Lava
+88;01C00;Lapise
+89;01C02;Lapise
+90;01D00;Lava
+91;01D01;Lava
+92;01E02;Snatcher Hurl
+93;01F00;Gaf
+94;01F01;Gaf
+95;01F02;Gaf
+96;02000;Twizer
+97;02001;Twizer
+98;02002;Twizer
+99;02300;Lizard
+100;02301;Lizard
+101;02101;Crawler Bunch
+102;02102;Crawler Bunch
+103;02202;Vafer Luther
+104;046A0;Lazhuardian Warrior
+105;02400;Grumble
+106;02401;Grumble
+107;02402;Grumble
+108;02100;Crawler Bunch
+109;02200;Vafer Luther
+110;02201;Vafer Luther
+111;02302;Lizard
+112;048A0;Spell Lazhuardian
+113;02700;Ghost
+114;02500;Rigor Lapise
+115;02501;Rigor Lapise
+116;02602;Ops Lava
+117;047A0;Lazhuardian
+118;02800;Grumble Hook
+119;02801;Grumble Hook
+120;02802;Grumble Hook
+121;02600;Ops Lava
+122;02601;Ops Lava
+123;02502;Rigor Lapise
+124;02701;Ghost
+125;02702;Ghost
+126;041A0;Brutal
+127;041A3;Mater Brutal
+128;04A00;Crystal
+129;04A01;Crystal
+130;04A02;Crystal
+131;02B00;Sandworm
+132;02B01;Sandworm
+133;02B02;Sandworm
+134;02900;Crawler Cast
+135;02901;Crawler Cast
+136;02902;Crawler Cast
+137;02A00;Anabola
+138;02A01;Anabola
+139;02A02;Anabola
+140;04B00;Controller Device
+141;04B01;Controller Device
+142;04B02;Controller Device
+143;02C00;Crook
+144;02C01;Crook
+145;02C02;Crook
+146;02D00;Villain Cannival
+147;02D01;Villain Cannival
+148;02D02;Villain Cannival
+149;046A1;Lazhuardian Warrior
+150;02E00;Hue Gaff
+151;02E01;Hue Gaff
+152;02E02;Hue Gaff
+153;02F00;Vafer Sly
+154;02F01;Vafer Sly
+155;02F02;Vafer Sly
+156;041A1;Brutal
+157;03200;Snatcher Bite
+158;03201;Snatcher Bite
+159;03202;Snatcher Bite
+160;03500;Snatcher Horn
+161;03501;Snatcher Horn
+162;03502;Snatcher Horn
+163;03000;Crawler Axle
+164;03001;Crawler Axle
+165;03002;Crawler Axle
+166;03100;Vafer Mortar
+167;03101;Vafer Mortar
+168;03102;Vafer Mortar
+169;03400;Vafer Brute
+170;03401;Vafer Brute
+171;03402;Vafer Brute
+172;03301;Heller
+173;03302;Heller
+174;047A1;Lazhuardian
+175;03800;Elder Lizard
+176;03801;Elder Lizard
+177;03802;Elder Lizard
+178;03B00;Armed Ghost
+179;03B01;Armed Ghost
+180;03B02;Armed Ghost
+181;03600;Crawler Maul
+182;03601;Crawler Maul
+183;03602;Crawler Maul
+184;03700;Clod
+185;03701;Clod
+186;03702;Clod
+187;03300;Heller
+188;0100C;Splinter Guard
+189;0110C;Snatcher Cheat Guard
+190;048A1;Spell Lazhuardian
+191;03A00;Robust Lava
+192;03A01;Robust Lava
+193;03A02;Robust Lava
+194;03900;Naiad Heller
+195;03901;Naiad Heller
+196;03902;Naiad Heller
+197;0120C;Neo WarBeast Guard
+198;0130C;Bloc Lunker Guard
+199;0150C;Big Ratmoth Guard
+200;03C00;Grumble Owl
+201;03C01;Grumble Owl
+202;03C02;Grumble Owl
+203;03E00;Meth Sandworm
+204;03E01;Meth Sandworm
+205;03E02;Meth Sandworm
+206;0160C;Argol Guard
+207;0170C;Vafer Niffer Guard
+208;046A2;Lazhuardian Warrior
+209;03D00;King Twizer
+210;03D01;King Twizer
+211;03D02;King Twizer
+212;03F00;Queen Crook
+213;03F01;Queen Crook
+214;03F02;Queen Crook
+215;04603;Lazhuardian Warrior
+216;01A0C;Argolquich Guard
+217;01D0C;Lava Guard
+218;041A2;Brutal
+219;04000;Anabola Cyst
+220;04001;Anabola Cyst
+221;04002;Anabola Cyst
+222;04200;Mit Clod
+223;04201;Mit Clod
+224;04202;Mit Clod
+225;0200C;Twizer Guard
+226;0240C;Grumble Guard
+227;0230C;Lizard Guard
+228;047A2;Lazhuardian
+229;04100;Brutal
+230;04101;Brutal
+231;04102;Brutal
+232;01004;Splinter Rex
+233;01005;Splinter Rex
+234;01006;Splinter Rex
+235;01104;Rook Snatcher
+236;01105;Rook Snatcher
+237;01106;Rook Snatcher
+238;04703;Lazhuardian
+239;0220C;Vafer Luther Guard
+240;01F0C;Gaf Guard
+241;0590B;Chuty
+242;048A2;SpelLazhuardian
+243;01204;WarBeast Kin
+244;01205;WarBeast Kin
+245;01206;WarBeast Kin
+246;01304;Vice Bloc Lunker
+247;01305;Vice Bloc Lunker
+248;01306;Vice Bloc Lunker
+249;01504;Frenzy Ratmoth
+250;01505;Frenzy Ratmoth
+251;01506;Frenzy Ratmoth
+252;02C0C;Crook Guard
+253;02D0C;Villain Cannival Guard
+254;04C0B;Hobo Sword
+255;04D0B;Hobo Might
+256;01604;Argol Drone
+257;01605;Argol Drone
+258;01606;Argol Drone
+259;01704;Freak Vafer Niffer
+260;01705;Freak Vafer Niffer
+261;01706;Freak Vafer Niffer
+262;04803;SpelLazhuardian
+263;03F0C;Queen Crook Guard
+264;03D0C;King Twizer Guard
+265;041A4;Mater Brutal
+266;04E0B;Draco
+267;01A04;Argol Wasp
+268;01A05;Argol Wasp
+269;01A06;Argol Wasp
+270;01D04;Great Lava
+271;01D05;Great Lava
+272;01D06;Great Lava
+273;0410C;Brutal Guard
+274;0420C;Mit Clod Guard
+275;04F0B;Hobo Cutter
+276;0500B;Hobo Turnpike
+277;04300;Crawler Rex
+278;04301;Crawler Rex
+279;04302;Crawler Rex
+280;04400;Vafer Rex
+281;04401;Vafer Rex
+282;04402;Vafer Rex
+283;04500;Snatcher Rex
+284;04501;Snatcher Rex
+285;04502;Snatcher Rex
+286;02404;Fierce Grumble
+287;02405;Fierce Grumble
+288;02406;Fierce Grumble
+289;02004;Twizer Rex
+290;02005;Twizer Rex
+291;02006;Twizer Rex
+292;02304;Lizard Khan
+293;02305;Lizard Khan
+294;02306;Lizard Khan
+295;0430C;Crawler Rex Guard
+296;0440C;Vafer Rex Guard
+297;0450C;Snatcher Rex Guard
+298;0510B;Passer Alpha
+299;01F04;GafMale
+300;01F05;GafMale
+301;01F06;GafMale
+302;02204;RashVafer Luther
+303;02205;RashVafer Luther
+304;02206;RashVafer Luther
+305;0520B;Hobo Blade
+306;0530B;Hobo Rover
+307;02C04;King Crook
+308;02C05;King Crook
+309;02C06;King Crook
+310;02D04;Rex Cannival
+311;02D05;Rex Cannival
+312;02D06;Rex Cannival
+313;0540B;Passer Beta
+314;0550B;Drako Konu
+315;03F04;Blood Queen Crook
+316;03F05;Blood Queen Crook
+317;03F06;Blood Queen Crook
+318;03D04;Blood King Twizer
+319;03D05;Blood King Twizer
+320;03D06;Blood King Twizer
+321;041A5;Mater Brutal
+322;0560B;Caliana Crew
+323;0570B;Caliana Atrock
+324;0560C;Caliana Crew
+325;0570C;Caliana Atrock
+326;04104;Brutal Rex
+327;04105;Brutal Rex
+328;04106;Brutal Rex
+329;04204;Heavy Mit Clod
+330;04205;Heavy Mit Clod
+331;04206;Heavy Mit Clod
+332;04304;Blood Crawler Rex
+333;04305;Blood Crawler Rex
+334;04306;Blood Crawler Rex
+335;04404;Blood Vafer Rex
+336;04405;Blood Vafer Rex
+337;04406;Blood Vafer Rex
+338;04504;Fierce Snatcher Rex
+339;04505;Fierce Snatcher Rex
+340;04506;Fierce Snatcher Rex
+341;05807;Caliana Princess
+342;04903;Holystone Keeper
+343;05A0B;Volcanic Demolith
+344;05B0B;Volcanic Lava
+345;05C0B;Grave Lapise
+346;05D0B;Volcanic Grumble
+347;05E0B;Sizzler
+348;05F0B;Ash
+349;0600B;Thorn Ash
+350;0610B;Blaze Bloc
+351;06F0B;Archer
+352;0700B;Scout
+353;0710B;Desperado
+354;0720B;Caster
+355;0730B;Psyper
+356;0740B;Commando
+357;0750B;Sniper
+358;0760B;Champion
+359;0770B;Hunter
+360;0780B;Gunner
+361;0790B;Summoner
+362;07A0B;Destroyer
+363;07B0B;Miler
+364;07C0B;Chandra
+365;07D0B;Knights
+366;07E0B;Gladius
+367;07F0B;Turncoat Archer
+368;0800B;Turncoat Scout
+369;0810B;Turncoat Desperado
+370;0820B;Turncoat Caster
+371;0830B;Turncoat Psyper
+372;0840B;Turncoat Commando
+373;0850B;Turncoat Sniper
+374;0860B;Turncoat Champion
+375;0870B;Turncoat Hunter
+376;0880B;Turncoat Gunner
+377;0890B;Turncoat Summoner
+378;08A0B;Turncoat Destroyer
+379;08B0B;Turncoat Miler
+380;08C0B;Turncoat Chandra
+381;08D0B;Turncoat Knight
+382;08E0B;Turncoat Gladius
+383;09407;Baal Hamon
+384;06E0C;Belphegor Guard
+385;06D07;Belphegor
+386;06203;Arslot
+387;06303;Pray Maul
+388;06403;Necro Metal
+389;06503;Berload
+390;0661B;Boggie Volt
+391;06703;Grave Stone
+392;0680B;Blade Pawn
+393;06903;Stone Knight
+394;06A03;Stone Bloc
+395;06B03;Hum BaBa
+396;06C03;Kur
+397;06D03;Belphegor
+398;06E03;Belphegor Guard
+399;08F03;Fire Tower
+400;09003;Tower
+401;09103;Rajuil Tower
+402;0920B;Assassin BuilderA
+403;0930B;Assassin BuilderB
+404;09403;Baal Hamon
+405;09507;Bel
+406;0960C;Bel Guard
+407;01508;Big Ratmoth
+408;01509;Big Ratmoth
+409;0150A;Big Ratmoth
+410;01908;Cannival
+411;01909;Cannival
+412;0190A;Cannival
+413;01B08;Bulky Lunker
+414;01B09;Bulky Lunker
+415;01B0A;Bulky Lunker
+416;01A08;Argolquich
+417;01A09;Argolquich
+418;01A0A;Argolquich
+419;02708;Ghost
+420;02709;Ghost
+421;0270A;Ghost
+422;02508;Rigor Lapise
+423;02509;Rigor Lapise
+424;0250A;Rigor Lapise
+425;02608;Ops Lava
+426;02609;Ops Lava
+427;0260A;Ops Lava
+428;02808;Grumble Hook
+429;02809;Grumble Hook
+430;0280A;Grumble Hook
+431;03B08;Armed Ghost
+432;03B09;Armed Ghost
+433;03B0A;Armed Ghost
+434;03A08;Robust Lava
+435;03A09;Robust Lava
+436;03A0A;Robust Lava
+437;03908;Naiad Heller
+438;03909;Naiad Heller
+439;0390A;Naiad Heller
+440;03E08;Meth Sandworm
+441;03E09;Meth Sandworm
+442;03E0A;Meth Sandworm
+443;04008;Anabola Cyst
+444;04009;Anabola Cyst
+445;0400A;Anabola Cyst
+446;04208;Mit Clod
+447;04209;Mit Clod
+448;0420A;Mit Clod
+449;04108;Brutal
+450;04109;Brutal
+451;0410A;Brutal
+452;02A0C;Anabola Guard
+453;04004;Heavy Anabola
+454;04005;Heavy Anabola
+455;04006;Heavy Anabola
+456;09704;Brath
+457;09705;Brath
+458;09706;Brath
+459;0970C;Brath Guard
+460;04713;Small Lazhuardian
+461;01B0B;Bulky Lunker
+462;09A04;Titi
+463;09A05;Titi
+464;09A06;Titi
+465;09804;Mati
+466;09805;Mati
+467;09806;Mati
+468;09B04;Coti
+469;09B05;Coti
+470;09B06;Coti
+471;09904;Wati
+472;09905;Wati
+473;09906;Wati
+474;09F0C;Cuty
+475;09F0C;Cuty
+476;09F0C;Cuty
+477;09D0C;Poty
+478;09D0C;Poty
+479;09D0C;Poty
+480;0A00C;Nuty
+481;0A00C;Nuty
+482;0A00C;Nuty
+483;09C0C;Toti
+484;09C0C;Toti
+485;09C0C;Toti
+486;0A10C;Shuty
+487;0A10C;Shuty
+488;0A10C;Shuty
+489;09E0C;Cati
+490;09E0C;Cati
+491;09E0C;Cati
+492;06F13;Archer
+493;07013;Scouter
+494;07113;Desperado
+495;07213;Caster
+496;07313;Psyper
+497;07413;Commando
+498;07513;Sniper
+499;07613;Champion
+500;07713;Hunter
+501;07813;Gunner
+502;07913;Summoner
+503;07A13;Destroyer
+504;07B13;Miler
+505;07C13;Chandra
+506;07D13;Knight
+507;07E13;Gladius
+508;0531B;Hobo Sniper
+509;0A20B;Core Holystone
+510;0A30B;Heart
+511;0A40B;Two Towers
+512;0A50B;Crystal Box
+513;0A60B;Rod
+514;0A70B;Memoria Gem
+515;0910B;LaJuil Tower
+516;0A90B;Bicone
+517;0AA0B;Soul Brazier
+518;0A31B;Heart
+519;0A32B;Heart
+520;0A33B;Heart
+521;0670B;Grave Stone
+522;0671B;Grave Stone
+523;0A71B;Memoria Gem
+524;0A72B;Memoria Gem
+525;0A73B;Memoria Gem
+526;09417;Baal Hamon
+527;0AB07;Rock Jaw
+528;0AC07;Blink
+529;0AD07;Soul Sinder
+530;0AE07;Spyfus
+531;0AF07;Taraven
+532;0B007;Dagnue
+533;0B107;Dagan
+534;0B207;Dagon
+535;0B30B;Calliana Archer
+536;07503;Turncoat Sniper
+537;08C1B;Turncoat Wizard
+538;07F13;Turncoat Adventurer
+539;0892B;Turncoat Warlock
+540;08013;Turncoat Dementor
+541;08B13;Turncoat Shield Miler
+542;08513;Turncoat Sentinel
+543;08C3B;Turncoat Astraler
+544;08D13;Turncoat Black Knights
+545;08713;Turncoat Stealer
+546;0891B;Turncoat Graser
+547;08E13;Turncoat Mercenery
+548;08023;Turncoat Phantom Shadow
+549;08413;Turncoat Armsman
+550;08113;Turncoat Infiltrator
+551;08D23;Turncoat Guardian
+552;08723;Turncoat Assassin
+553;08A23;Turncoat Assulter
+554;08813;Turncoat Striker
+555;08423;Turncoat Berserker
+556;0831B;Turncoat HolyChandra
+557;08613;Turncoat Templar
+558;0821B;Turncoat Dark Priest
+559;08A33;Tuncoat Punisher
+560;04F1B;Hobo Assassin
+561;0501B;Hobo Trooper
+562;0511B;Passer Gamma
+563;05213;Hobo Defender
+564;0541B;Passer Delta
+565;0B503;Scud
+566;0B603;Giant Scud
+567;0B70B;Marsh Scud
+568;0B803;Giant Marsh Scud
+569;06603;Boggie Volt
+570;06A0B;Stone Bloc
+571;0B403;Devistator
+572;05817;Calliana Queen
+573;001A0;Wing
+574;006A0;Heavy Wing
+575;000A0;Young Flym
+576;006A3;Dark Heavy Wing
+577;011B0;Snatcher Cheat
+578;002A0;Flym
+579;01EA0;Snatcher Hurl
+580;004A0;Flym Guard
+581;032A0;Snatcher Bite
+582;004A3;FlymChief
+583;0020C;FlymRex Guard
+584;018A0;GafTail
+585;024A0;Grumble
+586;002A3;Flym Rex
+587;01FA0;Gaf
+588;028A0;Grumble Hook
+589;03CA0;Grumble Aul
+590;02EA0;Hue Gaff
+591;0280C;Fierce Grumble Guard
+592;05DA3;Mator Grumble
+593;05AA0;Volcanic Demolish
+594;028A3;Fierce Grumble Hook
+595;05AA0;Volcanic Demolish
+596;00AA0;Splinter Brat
+597;016A0;Argol
+598;02EA3;Mater Hue Gaff
+599;05BA0;Volcanic Lava
+600;010A0;Splinter
+601;01AA0;Argolquich
+602;05DA0;Volcanic Grumble
+603;041B0;Brutal
+604;010AC;Splinter Guardsnp
+605;01DA0;Lava
+606;017A0;Vafer Nipper
+607;023A0;Lizard
+608;05AA3;Blood Demolis
+609;00AA3;Mator Splinter Brat
+610;021A0;Crawler Bunch
+611;022A0;Vafer Ruder
+612;05EA3;Sizzler Rex
+613;038A0;Elder Lizard
+614;026A0;Ops Lava
+615;029A0;Crawler Cast
+616;03AA0;Robust Lava
+617;02FA0;Vafer Sly
+618;030A0;Crawler Axle
+619;034A0;Vafer Barbar
+620;010A3;Splinter Rex
+621;038A3;Dark Elder Lizard
+622;036A3;Blood Crawler Maul
+623;02A0C;Anabola Guard
+624;03AA3;Great Robust Lava
+625;05FA0;Ash
+626;02CA0;Crook
+627;037A0;Clode
+628;04DA0;Hobo Might
+629;04CA0;Hobo Sword
+630;023AC;Lizard Kahn Guard
+631;042A0;Meat Clode
+632;060A0;Thorn Ash
+633;020A0;Twiser
+634;04FA0;Hobo Cutter
+635;050A0;Hobo TurnPike
+636;023A3;Lizard Kahn
+637;061A0;Blaze Bloc
+638;03FA0;Queen Crook
+639;051A0;Passer Alpha
+640;053A0;Hobo Rober
+641;03DA0;King Twiser
+642;054A3;Armed Passer Beta
+643;060A3;Blood Son Ash
+644;011A0;Snatcher Cheat
+645;02AA0;Anabola
+646;037A3;Dark Clode
+647;082A0;Turncoat Caster
+648;033A0;Heller
+649;052A3;Armed Hobo Blade
+650;039A0;Najad Heller
+651;035A0;Snatcher Horn
+652;040A0;AnabolaCyst
+653;056A0;Calliana Crew
+654;057A0;Calliana Atroc
+655;081A0;Turncoat Desperado
+656;042A3;Heavy Meat Clode
+657;0320C;Snatcher Horn Guard
+658;035A3;Snatcher Horn Rex
+659;039A3;Queen Naiad Heller
+660;045A3;Dark Snatcher Rex
+661;040A3;Queen Anabola Cyst
+662;08EA3;Turncoat Commander
+663;09203;Assassin Builder ?
+664;0AB0C;Rock Jaw
+665;0AF0C;Taraven
+666;0B30C;Calliana Archer
+667;0AC0C;BlinkGuard
+668;08AA0;Turncoat Destroyer
+669;0AD0C;Soul Sinder Guard
+670;04E1B;Drake Hatchling
+671;0B513;ScudLava
+672;0672D;Grave Stone
+673;06C1B;Curr
+674;06B13;Hum BaBa
+675;06C0B;Great Curr
+676;06B23;Giant Baba
+677;05A13;Infernal Demolis
+678;05B13;Infernal Lava
+679;05C13;Fever Lapis
+680;05D13;Infernal Grumble
+681;05E13;Volite
+682;06013;Burn Ash
+683;06113;Granite Block
+684;0B903;Santa Chooty
+685;04917;Mini HolyStoneKeeper
+686;09937;Big Wati
+687;0A03C;Big Uyle
+688;09D3C;Big Nuti
+689;09A37;Big Titi
+690;09F3C;Big Cuti
+691;09837;Big Mati
+692;0BA07;Big Walnut
+693;0B50B;Heavy Squad
+694;0BB23;Infernal Drako
+695;04707;Earth Quaker
+696;0470C;Earth Quaker Guard
+697;0A907;HugeBeacon
+698;04FA3;Hora Hobo Cutter
+699;053A3;Hora Hobo Rover
+700;064A3;Hora Necro Metal
+701;051A3;Hora Passer Alpha
+702;092A3;Hora Assassin Builder
+703;05BA3;Hora Infernal Lava
+704;05CA3;Hora Fever Lapis
+705;061A3;Hora Granite Block
+706;066A3;Hora Boggie Bolt
+707;0BBA3;Hora Infernal Draco
+708;059A3;Hora Chooty
+709;056A3;Hora Caliana Crew
+710;057A3;Hora Caliana Trog
+711;0B3A3;Hora Caliana Archer
+712;058A3;Hora Caliana Princess
+713;089A3;Hora Turncoat Warlock
+714;088A3;Hora Turncoat Striker
+715;08DA3;Hora Turncoat Dual Knight
+716;083A3;Hora Turncoat Holy Chandra
+717;07EA3;Hora Turncoat Mercenery
+718;01EA3;Hora Snatcher Hurl
+719;030A3;Hora Crawler Axel
+720;032A3;Hora Snatcher Rex
+721;043A3;Hora Crawler Rex
+722;044A3;Hora Vafer Rex
+723;03B07;Hora Armored Ghost
+724;0270C;Hora Ghost
+725;04D1C;Hora Hobo Might
+726;04C0C;Hora Hobo Sword
+727;0520C;Hora Hobo Blade
+728;0500C;Hora Hobo Turnpike
+729;05A0C;Hora Infernal Demolis
+730;05E0C;Hora Volide
+731;09A0C;Hora Titi
+732;0980C;Hora Marty
+733;0871C;Hora Turncoat Hunter
+734;0820C;Hora Turncoat Dark Priest
+735;0880C;Hora Turncoat Gunner
+736;0111C;Hora Snatcher Cheet
+737;0290C;Hora Crawler Cast
+738;0321C;Hora Snatcher Bite
+739;0360C;Hora Crawler Maul
+740;0340C;Hora Vafer Baba
+741;0310C;Hora Vafer Mortar
+742;03103;Vafer Scout
+743;0E503;Burning hands Vafer Baba
+744;0E203;Xelnakan Vafer Niffer
+745;0E803;Freak Vafer Sly
+746;13307;Xelnakan
+747;0E907;Blood Vafer Rex
+748;0E70B;Vafer Ranger
+749;0DF0B;Nine Tailed Snatcher Cheat
+750;0D803;Stuck Clan Snatcher Hurl
+751;0D60B;Evil Snatcher Bite
+752;0DC0B;Evil Snatcher Horn
+753;0DE03;Evil Snatcher Hornkzak
+754;0DA03;Evil Snatcher Rex
+755;0E007;EvilEyetotum
+756;04507;Stock
+757;02207;Trugar
+758;13E03;Varkrodem
+759;0E303;MuscleDance
+760;04307;Teledun
+761;04303;Crawler Rex
+762;03603;Crawler Maul
+763;02903;Crawler Cast
+764;02103;Crawler Bunch
+765;0300B;Crawler Axel
+766;01D17;Strayer
+767;01D03;BusterLava
+768;0EE03;AssassinBuilderClark
+769;0EC03;RedPlanetHora Khan
+770;0ED03;IzenRock
+771;0EB03;BlackCrowWarBeast
+772;0CB03;FrostClawLunker
+773;0BE03;DagnuYoungFlam
+774;00003;GigaYoungFlam
+775;01507;Vecioren
+776;08D03;Cora Temple Guard
+777;08903;Cora Disciple
+778;08B03;Bellato City Guard
+779;08503;Bellato MP
+780;08E03;Accretia Imperial Guard
+781;08803;Accretia Executioner
+782;13A07;Black Sign
+783;08807;Kent
+784;11507;Commandor Trashoo
+785;10403;Black sign Executor
+786;11303;ElephantMercernary
+787;10C0B;ToypelStriker
+788;11C0B;ToypelPhantomShadow
+789;10803;ThorHammerAssaulter
+790;10F03;BlackSignSquad Artillery
+791;11703;Black sign commanders
+792;11003;DeserterStriker
+793;10A03;DeserterPunisher
+794;11803;Izen'sMercernary
+795;13607;ArespelDread
+796;0FD07;Commander CirusGale
+797;10B07;RaulMesser
+798;0F10B;BloodiesGraser
+799;1010B;BloodiesArcher
+800;0F003;DeserterWarlock
+801;0FC03;DeserterTempler
+802;0FE0B;TempestAssassin
+803;0F403;TempestBlackKnights
+804;0B407;CarmenHeidiman
+805;12707;Commander LeonVolcove
+806;12307;Killxicheff
+807;11E0B;IntruderHolyChandra
+808;12B03;Deserter Hidden Soldier
+809;1290B;TombstoneInfiltrator
+810;13D03;TombstoneArmsMan
+811;12603;TombstoneBerserker
+812;12F03;Tower'sShieldMiler
+813;13103;Tower'sDevastator
+814;02403;GrumbleWalker
+815;06C13;CurrSoldier
+816;00C13;WhiteFang
+817;06213;VolcanicAthrop
+818;04E03;ElderDraco
+819;02303;SilverLizard
+820;0B703;StingScud
+821;0B523;GrandScud
+822;02413;SlaughterGrumble
+823;05F03;BombAsh
+824;02C03;BerserkerCrook
+825;03D03;LargoKingTwizer
+826;0981C;MartyEvil
+827;09A1C;TitiEvil
+828;09900;WatiKin
+829;09901;WatiKin
+830;09902;WatiKin
+831;0A100;ShootiKin
+832;0A101;ShootiKin
+833;0A102;ShootiKin
+834;09C00;TottiKin
+835;09C01;TottiKin
+836;09C02;TottiKin
+837;0A000;NootyKin
+838;0A001;NootyKin
+839;0A002;NootyKin
+840;05904;Demon Chooty
+841;05905;Demon Chooty
+842;05906;Demon Chooty
+843;1400B;Iron Petroler
+844;1460B;Metal Fly Hound
+845;14A03;Ancient Blader
+846;14B03;Sentinel Shooter
+847;14C03;Strider
+848;14D07;Eldi Croche
+849;1430B;Mutant Walker
+850;14903;Mutant Plant
+851;1440B;Rage Claw
+852;14203;Reaper
+853;14803;Rust
+854;14703;Curian
+855;14103;Mutant Type-2
+856;14503;Infected Beast
+857;14E03;Metal Elf Archer
+858;14F03;Metal Elf Gunner
+859;15003;Metal Elf Knight
+860;15103;Metal Elf Berserker
+861;15013;Metal Elf Royal GuardA
+862;15113;Metal Elf Royal GuardB
+863;13F0C;KweleSocomGuard
+864;15407;KweleSocom
+865;15503;NarumCrawlerDestructiveSoldier
+866;15603;CremleSnatcherArcher
+867;15703;CucraVafferLightWarrior
+868;15803;NarumCrawlerAdjutant
+869;15903;CremleSnatcherAdjutant
+870;15A03;CucraVafferAdjutant
+871;15B03;HighElgWarlock
+872;15C03;HighElfSorceress
+873;15D03;High Elf Archer
+874;15E03;HighElfKnight
+875;15E13;HighElfRoyalGuard
+876;15217;NarwenEdisil
+877;15F0B;Ugdrasilstrip
+878;15307;Jetso
+879;0B543;HoraScudLava
+880;0B71B;HoraMashScud
+881;0B607;HoraGiantScud
+882;0B61C;HoraGiantScudGuard
+883;06103;HoraGrenitBlock
+884;0BB07;HoraPernaldDraco
+885;0BB0C;HoraPernaldDracoGuard
+886;0620B;HoraAsrob
+887;0A913;HoraBicone
+888;04317;HoraBloodCrawlerRex
+889;0431C;HoraBloodCrawlerRexGuard
+890;0542B;HoraPasserDelta
+891;0B413;HoraDebisData
+892;09207;HoraAssassinBuilderX
+893;0920C;HoraAssassinBuilderXGuard
+894;02C13;HoraCrook
+895;03D07;HoraKingTwiser
+896;03D1C;HoraKingTwiserGuard
+897;0A513;HoraCrystalBox
+898;06C23;HoraGreatCurr
+899;14307;HoraHostHwiton
+900;1430C;HoraHostHwitonGuard
+901;04F03;HoraHoboCutter
+902;05003;HoraHoboTurnpike
+903;05207;HoraArmoredHoboBlade
+904;0521C;HoraArmoredHoboBloadeGuard
+905;0690B;HoraStoneKnight
+906;06807;HoraBladePawn
+907;0680C;HoraBloadePawnGuard
+908;06713;Hora Grave Stone
+909;0A74B;Hora Memoria Gem
+910;0911B;Hora Rajuil Tower
+911;03903;Hora Naiad Heller
+912;03907;Hora Queen Naiad Heller
+913;0390C;Hora Queen Naiad HellerGuard
+914;09427;Hora BaalHamon
+915;09437;Hora BaalHamon
+916;06E1C;Hora BaalHamon Guard
+917;0A75B;Hora Memoria Gem
+918;0A76B;Hora Memoria Gem
+919;0A77B;Hora Memoria Gem
+920;00E03;Sting Host Marr
+921;0190B;Big Horn Cannival
+922;01B03;Redfang Lunker
+923;01003;Fang Splinter
+924;0CA03;Black Demolis
+925;0C913;Blue Scale Klan
+926;13503;Red Haired Splinter
+927;04103;Hook Brutal
+928;0D403;Tyrant Lizard
+929;0D303;Thunder Lizard
+930;0D80B;Cremul Snatcher Scout
+931;16013;Cremul Snatcher Captain
+932;0290B;Naroom Crawler Scout
+933;16113;Naroom Crawler Captain
+934;0E10B;Kukra Vafer Gladiator
+935;16203;Kukra Vafer Captain
+936;16307;Ringleader BloodAxe
+937;09113;Lucky Cube
+938;0A503;Jewerly Cube
+939;16407;Golden Pig
+940;00903;Hive Marr
+941;0231B;Lizard Guardian
+942;0DC1B;Cremul Patrol
+943;0301B;Naroom Patrol
+944;0E60B;Kukra Patrol
+945;00F0B;Infected Ratmoth
+946;01503;Infected Big Ratmoth
+947;04E13;Rake Foot Draco
+948;16517;Endless Flame Draco
+949;00E13;Queen Hive Marr
+950;06A13;Ringleader RoyalGuard
+951;16703;Dark Clan Mercenery
+952;16803;Dark Clan Dementor
+953;16903;Dark Clan Striker
+954;16A03;Dark Clan Berserker
+955;16B03;Dark Clan Hidden Soldier
+956;16C03;Dark Clan HolyChandra
+957;16D03;Dark Clan Templar
+958;16E03;Dark Clan Assassin
+959;16F03;Dark Clan Warlock
+960;16603;Dragon Knight
+961;17413;Necro Metalian
+962;14013;Big Iron Patroler
+963;13F03;Metal Eater
+964;0ED07;Izen Cracker
+965;14303;King Mutant Warker
+966;1420B;Reaper Junior
+967;0B423;Devastator Rhea
+968;17807;Luo Regnum
+969;04403;Betrayer Vafer Mystic
+970;04313;Betrayer Crawler Priest
+971;04503;Betrayer Snatcher Mystic
+972;17503;Vengeful Vafer Spirit
+973;17613;Vengeful Crawler Spirit
+974;15613;Vengeful Snatcher Spirit
+975;17303;Herodian Black Box
+976;0250C;DagonGuard
+977;17907;SandWarm Hero
+978;17A07;MassSandWarm Hero
+979;17B07;Stocker Lava
+980;17C07;Sand StingBug
+981;17D07;GreatAnabola
+982;14343;Mutant Traveler
+983;0893B;CartellaBoss JinBark
+984;14E13;MetalElf Iserina
+985;08B1B;Researcher Aret
+986;10F0B;Deserted BlackSignGunner
+987;08D1B;Heretic MessArian
+988;06E13;Teraon
+989;0761B;DesertedSoldier Exesis
+990;07E1B;DesertedSoldier As02-R1-409518
+991;0741B;DesertedSoldier Ken
+992;0861B;DesertedSoldier Liand
+993;08B2B;DesertedSoldier Soo
+994;07A1B;DesertedSoldier As02-R1-370413
+995;0130B;TrialLunker
+996;06C33;Captain Clover
+997;02423;LittlePierceGrumble
+998;02313;LittleLizardKahn
+999;04003;LittleAnabola
+1000;01A0B;ArgolQuichGuardian
+1001;01A1B;ArgolQuichCloseGuardian
+1002;0471B;LazuwadianSoldier
+1003;0430B;CrawlerRexProtector
+1004;0450B;SnatcherRexProtector
+1005;0440B;VafferRexProtector
+1006;01D0B;LavaGuardian
+1007;01D1B;LavaCloseGuardian
+1008;1432B;Researcher Deadlime
+1009;14313;ChiefResearcher Smith
+1010;17E13;Contaminated Researcher
+1011;17F03;CoraNuclearWeapon
+1012;17F13;BellatoNuclearWeapon
+1013;02B07;Greater Warm
+1014;0C917;BigFoot Clan
+1015;06007;Volcanic Ash
+1016;17E17;Chief Researcher John F Carter
+1017;05827;Vindictive Spirit of Princess Lo
+1018;1800B;Wing Box
+1019;18103;Deathmose
+1020;18203;Hella Wing
+1021;18303;Elvin War Cannival
+1022;18403;Forehand Runner
+1023;18503;Rock Twizer
+1024;18603;Obelisk
+1025;18703;Flame Eater
+1026;18803;Elvin Riding Lunker
+1027;18903;Evin War Splinter
+1028;18A03;High Elf Ranger
+1029;18B0B;Metal Elf Sniper
+1030;18C03;Great Block
+1031;17003;Vafer Sharman
+1032;18D03;High Elf Guardner
+1033;18E0B;High Elf Sumerner
+1034;18F03;Metal Elf Assasin
+1035;19003;Metal Elf Destroyer
+1036;19113;High Elf Assaulter
+1037;19203;High Elf Druide
+1038;19303;High Elf Tamer
+1039;19403;High Elf Demolisher
+1040;19503;Metal Elf Mechanic Master
+1041;19603;Metal Elf Shield Guard
+1042;19703;Metal Elf Warload
+1043;15D13;High Elf Archer
+1044;15B0B;High Elf Warlock
+1045;17007;Vafer Sharman
+1046;1720C;Crawler Soul
+1047;03613;Crawler wounded
+1048;1880B;Elvin Riding Lunker
+1049;1830B;Elvin War Cannival
+1050;15C0C;High Elf Sorceress
+1051;15217;NarwenEdisil
+1052;18F13;Dead Metal Elf Assasin
+1053;14F13;Metal Elf Gunner
+1054;14E23;Metal Elf Archer
+1055;15107;Metal Elf Berserker
+1056;1950C;Metal Elf Mechanic master
+1057;18A13;Dead High Elf Ranger
+1058;19913;High Elf Arc Maji
+1059;14D17;Dead Eldi Croche
+1060;1970C;Metal Elf Warload
+1061;19A13;Ice Bogy Bolt
+1062;19B23;Fire Bogy Bolt
+1063;17103;Snatcher Diviner
+1064;06D17;Sealed Belphegor
+1065;04327;Sealed Teledun
+1066;06817;Sealed Hora Blade Pawn
+1067;0AF17;Sealed Taraven
+1068;09447;Sealed Hora Baal Hamon Guard
+1069;05837;Sealed Calliana Queen
+1070;0AD17;Sealed Soul Cinder
+1071;0B217;Sealed Dagon
+1072;0B117;Sealed Dagan
+1073;16527;Sealed Flame Draco
+1074;06E3C;Sealed Belphegor Guard
+1075;0681C;Sealed Hora Blade Pawn Guard
+1076;0AF1C;Sealed Taraven Guard
+1077;06E2C;Sealed Hora Baal Hamon Guard
+1078;0B31C;Sealed Calliana Archer
+1079;0AD1C;Sealed Soul Cinder Guard
+1080;0251C;Sealed Dagon Guard
+1081;02B10;Cloned Sandworm
+1082;02B11;Cloned Sandworm
+1083;02B12;Cloned Sandworm
+1084;02F10;Cloned Vafer Sly
+1085;02D11;Cloned Carnival
+1086;00A12;Cloned Splinter Brat
+1087;03B10;Cloned Armed Ghost
+1088;03611;Cloned CrawlerMaul
+1089;03612;Cloned CrawlerMaul
+1090;03A18;Cloned Robust Lava
+1091;03A19;Cloned Robust Lava
+1092;0391A;Cloned Naid Heller
+1093;04110;Cloned Brutal
+1094;04111;Cloned Brutal
+1095;04112;Cloned Brutal
+1096;04018;Cloned Anabola Cyst
+1097;03D09;Cloned King Tweezer
+1098;0421A;Cloned Meat Clode
+1099;04510;Cloned Snatcher Rex
+1100;04311;Cloned Crawler Rex
+1101;04412;Cloned Vafer Rex
+1102;05C08;Cloned Grave Lapise
+1103;05D09;Cloned Volcanic Grumble
+1104;05B0A;Cloned Volcanic Lava
+1105;0921B;Cloned Assasin BuilderA
+1106;04118;Cloned Brutal
+1107;04119;Cloned Brutal
+1108;0411A;Cloned Brulta
+1109;0361C;Sealed teledeon Guard
+1110;0B10C;Sealed Dagan Guard
+1111;04E0C;Sealed Flame Draco Guard
+1112;18F07;Metal Elf Assasin
+1113;14F0C;Metal Elf Gunner
+1114;0B51B;Cloned Heavy Scud
+1115;06003;Cloned Burn Ash
+1116;0191B;Cloned Big Horn Cannivals
+1117;01B13;Cloned Red Fanged Lunker
+1118;01013;Cloned Fang Splinter
+1119;0C903;Cloned Blue Scale Klan
+1120;04113;Cloned Hook Brutal
+1121;13513;Cloned Red Haired Splinter
+1122;0D413;Cloned Tyrant Lizard
+1123;0D313;Cloned Thunder Lizard
+1124;0021C;Flym
+1125;00207;Adult Flym
+1126;0190C;Cannival
+1127;01907;Giant Cannival
+1128;0252C;Rigor Lapise
+1129;02507;Heavy Rigor Lapise
+1130;0411C;Brutal
+1131;04107;Brutal Rex
+1132;0840C;Turncoat Comando
+1133;0860C;Turncoat Champion
+1134;08A0C;Turncoat Destroyer
+1135;08B07;Turncoat Miler Captain
+1136;08D07;Tuncoat Knight Captain
+1137;08E07;Tuncoat Gladius Captain
+1138;0921C;Assassin Builder ?
+1139;09217;Assassin Builder S
+1140;06B0C;Hum Baba
+1141;06B07;Grand Baba
+1142;0D40C;Tyrant Lizard
+1143;0D307;Thunder Lizard King
+1144;12717;Captain Lion Bolcoff
+1145;0FD17;Captain Siris Gale
+1146;11517;Captain Trashue
+1147;11E0C;Intruder Holy Chandra
+1148;0F40C;Tempest Black Knight
+1149;10C0C;Toypell Striker
+1150;0A203;Holy Crystal
+1151;18003;WingBox
+1152;08C03;Turncoat Chandra
+1153;08103;Turncoat Desperado
+1154;08913;Turncoat Summoner
+1155;08703;Turncoat Hunter
+1156;08003;Turncoat Scout
+1157;08823;Turncoat Gunner
+1158;12B13;Tombstone Hidden Soldier
+1159;0F013;Bloody Warlock
+1160;11013;Eigen Striker
+1161;12613;Tombstone Berserker
+1162;0FC13;Bloody Templer
+1163;10A13;Eigen Assaulter
+1164;18207;Bloody Heller Wing
+1165;18217;Hora Bloody Heller Wing
+1166;1820C;Heller Wing Guard
+1167;0E11B;Kukra Vafer Warrior
+1168;15513;Narum Crawler Suppression Soldie
+1169;17013;Novajan Vafer Sharman
+1170;18C1C;Inferno Block Guard
+1171;15623;Cremle Snatcher Archer
+1172;15713;Kukra Vafer Berserker
+1173;15813;Narum Crawler Commander
+1174;15913;Cremle Snatcher Commander
+1175;15A13;Kukra Vafer Commander
+1176;17113;Cremle Snatcher Magician
+1177;17203;Novajan Crawler Soul
+1178;16003;Cremle Snatcher Battalion Comman
+1179;16103;Narum Crawler Battalion Commande
+1180;16213;Kukra Vafer Battalion Commander
+1181;18C17;Inferno Block 
+1182;18E1B;Holy Elf Summoner
+1183;19213;Holy Elf Druid
+1184;19413;Dark Elf Demolisher
+1185;18C2C;HoraInferno Block Guard
+1186;19613;Dark Elf  Shield Guard
+1187;19513;Dark Elf Mechanic Master
+1188;18F23;Dark Elf Assassin
+1189;19223;Holy Elf Magician
+1190;15C13;Holy Elf Sosuris
+1191;14F23;Dark Elf Gunner
+1192;15123;Dark Elf Berserker
+1193;15023;Dark Elf Knight
+1194;15E23;Holy Elf Knight
+1195;15E33;Holy Elf Royal Guard
+1196;18C27;HoraInferno Block 
+1197;05903;Chuty
+1198;0A903;HugeBeacon
+1199;1401B;Frenzy Iron Patroller
+1200;14023;Novajan Iron Patroller
+1201;17313;Blackbox
+1202;14A13;Frenzy Sentinel Brader
+1203;14A23;Novajan Sentinel Blader
+1204;14B13;Frenzy Sentinel Shooter
+1205;14B23;Novajan Sentinel Shooter
+1206;14D27;Eldycloche
+1207;14D37;Eldycloche
+1208;17603;Crawler Ghost
+1209;17623;Novajan Crawler Ghost
+1210;17703;Snatcher Ghost
+1211;17713;Novajan Snatcher Ghost
+1212;14613;Frenzy Metal Fly Hound
+1213;14623;Novajan Metal Fly Hound
+1214;14033;Adult Iron Patroller
+1215;14003;Elven Iron Patroller
+1216;17507;Illusion Vafer Ghost
+1217;17517;Illusion vafer Ghost
+1218;17513;Novajan Vafer Ghost
+1219;17423;Frenzy Necro Metalion
+1220;17433;Novajan Necro Metalion
+1221;16327;Luo Regnum
+1222;17023;Vafer Magician
+1223;17033;Frenzy Betrayer Vafer Magician
+1224;17043;Novajan Vafer Magician
+1225;17243;Crawler Priest
+1226;17253;Frenzy Betrayer Crawler Priest
+1227;17263;Novajan Crawler Priest
+1228;17123;Snatcher Magician
+1229;17143;Frenzy Betrayer Snatcher Magicia
+1230;17133;Novajan Snatcher Magician
+1231;14C13;Frenzy Strider
+1232;14C23;Novajan Strider
+1233;13F13;Metal Eater
+1234;13F23;Novajan Metal Eater
+1235;05803;Caliana Hire
+1236;05613;Caliana Cruel
+1237;05703;Caliana Atren
+1238;0B303;Caliana Hunter
+1239;09213;Assassin BuilderV
+1240;05103;Passer Alpah Mu
+1241;05403;Passer Beta Mu
+1242;05303;Hovo Rover Revert
+1243;04F13;Hovo Cutter Revert
+1244;07F23;Turncoat Advanturer Commander
+1245;08C13;Turncoat Wizard Commander
+1246;08923;Turncoat Graser Commander
+1247;08817;Turncoat Striker Captain
+1248;0881C;Turncoat Striker Captain Guard)
+1249;08317;Turncoat Holy Chandra Captain
+1250;0831C;Turncoat Holy Chandra Captain Gu
+1251;08B17;Turncoat Shield Miler Captain
+1252;08B1C;Turncoat Shield Miler Captain
+1253;1760B;Crawler Ghost Soldier
+1254;1770B;Snatcher Ghost Soldier
+1255;1750B;Vafer Ghost Soldier
+1256;0EB0B;Black Mite War Beast
+1257;04123;hook Big Brulta
+1258;0090B;Strong Hive Marr
+1259;00923;Big Sting Host Marr
+1260;00E33;Strong Queen Hive Marr
+1261;0CA07;Eternal dark swamp Demolis
+1262;0CA0C;Eternal dark swamp Demolis
+1263;0C907;Eternal dark swamp scales Clan
+1264;0C90C;Eternal dark swamp scales Clan G
+1265;0CA13;Blue Dark Demolis
+1266;0D81B;Cremle Snatcher Soldier
+1267;1561B;Cremle Snatcher apprenticeship a
+1268;0D82B;Cremle Snatcher Guard
+1269;1552B;Narum Crawler Soldier
+1270;1551B;Narum Crawler Guard
+1271;01B23;Red Fang Lunker
+1272;13523;Red Haired Splinter
+1273;01033;Fanged SplinterKing
+1274;04E23;Raked Draco king
+1275;01917;Fierce bighorn Carnnibal
+1276;0191C;Fierce bighorn Carnnibal Guard
+1277;0EB07;Fierce Black Crow warbeast
+1278;0EB0C;Fierce black crow warbeast guard
+1279;13507;Red haired Splinterking
+1280;1351C;Red haired splinterking guard
+1281;04E07;Big Raked Draco
+1282;04E1C;Big Raked Draco Guard
+1283;14333;Mutant Whiten
+1284;1441B;Rage siecle
+1285;14323;King Mutant Whiten
+1286;14913;Mutant Trooper
+1287;1421B;Spector Junior
+1288;14213;Spector
+1289;0ED13;Izen Block
+1290;10413;Dark sign Unit executor
+1291;10F13;Dark Sign Unit Launcher
+1292;11713;Dark Sign Unit Commander
+1293;0ED17;Izen Crasher
+1294;13A17;Dark Sign
+1295;03923;Glasher Hellar
+1296;03303;Flow Hellar
+1297;03913;Prince Hellar
+1298;0270B;Dust Phantom
+1299;0621B;Dust Athrobe
+1300;14B0C;Sentinel BladerGuard
+1301;05E1B;Covenant Bolade
+1302;19B0B;Covenant Firebolt
+1303;14603;Dust Metal Hound
+1304;1820B;Covenant Hellawing
+1305;18C0C;Flame Inferno Guard
+1306;14043;Dust Iron Patroller
+1307;18713;Covenant Flameeater
+1308;18513;Rapid RockTwizer
+1309;1610C;Doom Crasherguard
+1310;18413;Covenant forehand runner
+1311;18113;Rapid Deathmoss
+1312;00E0C;Demon Curian Guard
+1313;14A07;Sentinel Blader
+1314;18C07;Flame Inferno
+1315;14707;Demon Curian 
+1316;16317;Doom Crasher

@@ -1,6 +1,6 @@
 <div class="row">
   <table class="table table-bordered table-hover" *ngIf="inventario">
-    <thead class="bg-primary">
+    <thead class="bg-default text-white">
     <tr>
       <th scope="col">Slot</th>
       <th scope="col">Item</th>
@@ -9,10 +9,10 @@
     </tr>
     </thead>
     <tbody>
-    <tr *ngFor="let i of inventario.itens">
-      <th scope="row">{{i.slot}}</th>
+    <tr *ngFor="let i of inventario.equipamentos; let idx = index">
+      <th scope="row" style="height: 5px !important">{{idx}}</th>
       <td>{{i.nome}}</td>
-      <td>{{i.quantidade}}</td>
+      <td>{{i.qtd}}</td>
       {{i.melhoria > 0 ? '+' + i.melhoria : 'Sem melhorias'}}
     </tr>
     </tbody>

@@ -1,0 +1,1862 @@
+Index;Server Code;Client Code;English Name;Image ID
+0;iibba01;C1010001;Fire Parsal WristletA;61
+1;iibba02;C1010002;Fire Parsal WristletB;61
+2;iibba03;C1010003;Fire Parsal WristletC;61
+3;iibba04;C1010004;Fire Parsal WristletD;61
+4;iibba05;C1010005;Fire Parsal WristletE;61
+5;iibba06;C1010006;Fire Parsal WristletF;61
+6;iibba07;C1010007;Fire Parsal WristletG;61
+7;iibba08;C1010008;Aqua Parsal WristletA;62
+8;iibba09;C1010009;Aqua Parsal WristletA;62
+9;iibba10;C1010010;Aqua Parsal WristletB;62
+10;iibba11;C1010011;Aqua Parsal WristletC;62
+11;iibba12;C1010012;Aqua Parsal WristletD;62
+12;iibba13;C1010013;Aqua Parsal WristletE;62
+13;iibba14;C1010014;Aqua Parsal WristletF;62
+14;iibba15;C1010015;Tera Parsal WristletA;63
+15;iibba16;C1010016;Tera Parsal WristletB;63
+16;iibba17;C1010017;Tera Parsal WristletC;63
+17;iibba18;C1010018;Tera Parsal WristletD;63
+18;iibba19;C1010019;Tera Parsal WristletE;63
+19;iibba20;C1010020;Tera Parsal WristletF;63
+20;iibba21;C1010021;Tera Parsal WristletG;63
+21;iibba22;C1010022;Wind Parsal WristletA;64
+22;iibba23;C1010023;Wind Parsal WristletB;64
+23;iibba24;C1010024;Wind Parsal WristletC;64
+24;iibba25;C1010025;Wind Parsal WristletD;64
+25;iibba26;C1010026;Wind Parsal WristletE;64
+26;iibba27;C1010027;Wind Parsal WristletF;64
+27;iibba28;C1010028;Wind Parsal WristletG;64
+28;iibba29;C1010029;Aqua Spirit WristletA;66
+29;iibba30;C1010030;Aqua Spirit WristletB;66
+30;iibba31;C1010031;Aqua Spirit WristletC;66
+31;iibba32;C1010032;Aqua Spirit WristletD;66
+32;iibba33;C1010033;Aqua Spirit WristletE;66
+33;iibba34;C1010034;Aqua Spirit WristletF;66
+34;iibba35;C1010035;Aqua Spirit WristletG;66
+35;iibba36;C1010036;Aqua Mind WristletA;70
+36;iibba37;C1010037;Aqua Mind WristletB;70
+37;iibba38;C1010038;Aqua Mind WristletC;70
+38;iibba39;C1010039;Aqua Mind WristletD;70
+39;iibba40;C1010040;Aqua Mind WristletE;70
+40;iibba41;C1010041;Aqua Mind WristletF;70
+41;iibba42;C1010042;Aqua Mind WristletG;70
+42;iibba43;C1010043;Fire Mind WristletA;69
+43;iibba44;C1010044;Fire Mind WristletB;69
+44;iibba45;C1010045;Fire Mind WristletC;69
+45;iibba46;C1010046;Fire Mind WristletD;69
+46;iibba47;C1010047;Fire Mind WristletE;69
+47;iibba48;C1010048;Fire Mind WristletF;69
+48;iibba49;C1010049;Fire Mind WristletG;69
+49;iibba50;C1010050;Aqua Ell WristletA;78
+50;iibba51;C1010051;Aqua Ell WristletB;78
+51;iibba52;C1010052;Aqua Ell WristletC;78
+52;iibba53;C1010053;Aqua Ell WristletD;78
+53;iibba54;C1010054;Aqua Ell WristletE;78
+54;iibba55;C1010055;Aqua Ell WristletF;78
+55;iibba56;C1010056;Aqua Ell WristletG;78
+56;iibba57;C1010057;Elemental Parsal Wristlet;77
+57;iibba58;C1010058;Elemental Parsal Wristlet;78
+58;iibba59;C1010059;Elemental Parsal Wristlet;79
+59;iibba60;C1010060;Elemental Parsal Wristlet;80
+60;iibba61;C1010061;Elemental Parsal Wristlet;77
+61;iibba62;C1010062;Elemental Parsal Wristlet;78
+62;iibba63;C1010063;Elemental Parsal Wristlet;79
+63;iibba64;C1010064;Elemental Parsal Wristlet;80
+64;iibba65;C1010065;Elemental Spirit Wristlet;77
+65;iibba66;C1010066;Elemental Spirit Wristlet;78
+66;iibba67;C1010067;Elemental Spirit Wristlet;79
+67;iibba68;C1010068;Elemental Spirit Wristlet;80
+68;iibba69;C1010069;Elemental Spirit Wristlet;77
+69;iibba70;C1010070;Elemental Spirit Wristlet;78
+70;iibba71;C1010071;Elemental Spirit Wristlet;79
+71;iibba72;C1010072;Elemental Spirit Wristlet;80
+72;iibba73;C1010073;Elemental Mind Wristlet;77
+73;iibba74;C1010074;Elemental Mind Wristlet;78
+74;iibba75;C1010075;Elemental Mind Wristlet;79
+75;iibba76;C1010076;Elemental Mind Wristlet;80
+76;iibba77;C1010077;Elemental Mind Wristlet;77
+77;iibba78;C1010078;Elemental Mind Wristlet;78
+78;iibba79;C1010079;Elemental Mind Wristlet;79
+79;iibba80;C1010080;Elemental Mind Wristlet;80
+80;iibba81;C1010081;Elemental Ell Wristlet;77
+81;iibba82;C1010082;Elemental Ell Wristlet;78
+82;iibba83;C1010083;Elemental Ell Wristlet;79
+83;iibba84;C1010084;Elemental Ell Wristlet;80
+84;iibba85;C1010085;Elemental Ell Wristlet;77
+85;iibba86;C1010086;Elemental Ell Wristlet;78
+86;iibba87;C1010087;Elemental Ell Wristlet;79
+87;iibba88;C1010088;Elemental Ell Wristlet;80
+88;iibba89;C1010089;Elemental Tomb LisletA;77
+89;iibba90;C1010090;Elemental Tomb LisletB;78
+90;iibba91;C1010091;Elemental Tomb LisletC;79
+91;iibba92;C1010092;Elemental Tomb LisletD;80
+92;iibba93;C1010093;Elemental Tomb LisletE;77
+93;iibba94;C1010094;Elemental Tomb LisletF;78
+94;iibba95;C1010095;Elemental Tomb LisletG;79
+95;iibba96;C1010096;Elemental Tomb LisletH;80
+96;iibba97;C1010097;Bellato Wristlet97;143
+97;iibba98;C1010098;Bellato Wristlet98;144
+98;iibba99;C1010099;Bellato Wristlet99;145
+99;iibbb01;C1010101;Bellato Wristlet100;0
+100;iibbb02;C1010102;Bellato Wristlet101;0
+101;iibbb03;C1010103;Bellato Wristlet102;0
+102;iibbb04;C1010104;Bellato Wristlet103;0
+103;iibbb05;C1010105;Bellato Wristlet104;0
+104;iibbb06;C1010106;Bellato Wristlet105;0
+105;iibbb07;C1010107;Bellato Wristlet106;0
+106;iibbb08;C1010108;Bellato Wristlet107;0
+107;iibbb09;C1010109;Bellato Wristlet108;0
+108;iibbb10;C1010110;Bellato Wristlet109;0
+109;iibbb11;C1010111;Bellato Wristlet110;0
+110;iibbb12;C1010112;Bellato Wristlet111;0
+111;iibbb13;C1010113;Bellato Wristlet112;0
+112;iibbb14;C1010114;Bellato Wristlet113;0
+113;iibbb15;C1010115;Bellato Wristlet114;0
+114;iibbb16;C1010116;Bellato Wristlet115;0
+115;iibbb17;C1010117;Bellato Wristlet116;0
+116;iibbb18;C1010118;Bellato Wristlet117;0
+117;iibbb19;C1010119;Bellato Wristlet118;0
+118;iibbb20;C1010120;Bellato Wristlet119;0
+119;iibbb21;C1010121;Bellato Wristlet120;0
+120;iibbb22;C1010122;Bellato Wristlet121;0
+121;iibbb23;C1010123;Bellato Wristlet122;0
+122;iibbb24;C1010124;Bellato Wristlet123;0
+123;iibbb25;C1010125;Bellato Wristlet124;0
+124;iibbb26;C1010126;Bellato Wristlet125;0
+125;iibbb27;C1010127;Bellato Wristlet126;0
+126;iibbb28;C1010128;Bellato Wristlet127;0
+127;iibbb29;C1010129;Bellato Wristlet128;0
+128;iibbb30;C1010130;Bellato Wristlet129;0
+129;iibbb31;C1010131;Bellato Wristlet130;0
+130;iibbb32;C1010132;Bellato Wristlet131;0
+131;iibbb33;C1010133;Bellato Wristlet132;0
+132;iibbb34;C1010134;Bellato Wristlet133;0
+133;iibbb35;C1010135;Bellato Wristlet134;0
+134;iibbb36;C1010136;Bellato Wristlet135;0
+135;iibbb37;C1010137;Bellato Wristlet136;0
+136;iibbb38;C1010138;Bellato Wristlet137;0
+137;iibbb39;C1010139;Bellato Wristlet138;0
+138;iibbb40;C1010140;Bellato Wristlet139;0
+139;iibbb41;C1010141;Bellato Wristlet140;0
+140;iibbb42;C1010142;Bellato Wristlet141;0
+141;iibbb43;C1010143;Bellato Wristlet142;0
+142;iibbb44;C1010144;Bellato Wristlet143;0
+143;iibbb45;C1010145;Bellato Wristlet144;0
+144;iibbb46;C1010146;Bellato Wristlet145;0
+145;iibbb47;C1010147;Bellato Wristlet146;0
+146;iibbb48;C1010148;Bellato Wristlet147;0
+147;iibbb49;C1010149;Bellato Wristlet148;0
+148;iibbb50;C1010150;Bellato Wristlet149;0
+149;iibbb51;C1010151;Bellato Wristlet150;0
+150;iibbb52;C1010152;Bellato Wristlet151;0
+151;iibbb53;C1010153;Bellato Wristlet152;0
+152;iibbb54;C1010154;Bellato Wristlet153;0
+153;iibbb55;C1010155;Bellato Wristlet154;0
+154;iibbb56;C1010156;Bellato Wristlet155;0
+155;iibbb57;C1010157;Bellato Wristlet156;0
+156;iibbb58;C1010158;Bellato Wristlet157;0
+157;iibbb59;C1010159;Bellato Wristlet158;0
+158;iibbb60;C1010160;Bellato Wristlet159;0
+159;iibbb61;C1010161;Bellato Wristlet160;0
+160;iibbb62;C1010162;Bellato Wristlet161;0
+161;iibbb63;C1010163;Bellato Wristlet162;0
+162;iibbb64;C1010164;Bellato Wristlet163;0
+163;iibbb65;C1010165;Bellato Wristlet164;0
+164;iibbb66;C1010166;Bellato Wristlet165;0
+165;iibbb67;C1010167;Bellato Wristlet166;0
+166;iibbb68;C1010168;Bellato Wristlet167;0
+167;iibbb69;C1010169;Bellato Wristlet168;0
+168;iibbb70;C1010170;Bellato Wristlet169;0
+169;iibbb71;C1010171;Bellato Wristlet170;0
+170;iibbb72;C1010172;Bellato Wristlet171;0
+171;iibbb73;C1010173;Bellato Wristlet172;0
+172;iibbb74;C1010174;Bellato Wristlet173;0
+173;iibbb75;C1010175;Bellato Wristlet174;0
+174;iibbb76;C1010176;Bellato Wristlet175;0
+175;iibbb77;C1010177;Bellato Wristlet176;0
+176;iibbb78;C1010178;Bellato Wristlet177;0
+177;iibbb79;C1010179;Bellato Wristlet178;0
+178;iibbb80;C1010180;Bellato Wristlet179;0
+179;iibbb81;C1010181;Bellato Wristlet180;0
+180;iibbb82;C1010182;Bellato Wristlet181;0
+181;iibbb83;C1010183;Bellato Wristlet182;0
+182;iibbb84;C1010184;Bellato Wristlet183;0
+183;iibbb85;C1010185;Bellato Wristlet184;0
+184;iibbb86;C1010186;Bellato Wristlet185;0
+185;iibbb87;C1010187;Bellato Wristlet186;0
+186;iibbb88;C1010188;Bellato Wristlet187;0
+187;iibbb89;C1010189;Bellato Wristlet188;0
+188;iibbb90;C1010190;Bellato Wristlet189;0
+189;iibbb91;C1010191;Bellato Wristlet190;0
+190;iibbb92;C1010192;Bellato Wristlet191;0
+191;iibbb93;C1010193;Bellato Wristlet192;0
+192;iibbb94;C1010194;Bellato Wristlet193;0
+193;iibbb95;C1010195;Bellato Wristlet194;0
+194;iibbb96;C1010196;Bellato Wristlet195;0
+195;iibbb97;C1010197;Bellato Wristlet196;0
+196;iibbb98;C1010198;Bellato Wristlet197;0
+197;iibbb99;C1010199;Bellato Wristlet198;0
+198;iibbc01;C1010201;Bellato Wristlet199;0
+199;iibbc02;C1010202;Bellato Wristlet200;0
+200;iibbc03;C1010203;Bellato Wristlet201;0
+201;iibbc04;C1010204;Bellato Wristlet202;0
+202;iibbc05;C1010205;Bellato Wristlet203;0
+203;iibbc06;C1010206;Bellato Wristlet204;0
+204;iibbc07;C1010207;Bellato Wristlet205;0
+205;iibbc08;C1010208;Bellato Wristlet206;0
+206;iibbc09;C1010209;Bellato Wristlet207;0
+207;iibbc10;C1010210;Bellato Wristlet208;0
+208;iibbc11;C1010211;Bellato Wristlet209;0
+209;iibbc12;C1010212;Bellato Wristlet210;0
+210;iibbc13;C1010213;Bellato Wristlet211;0
+211;iibbc14;C1010214;Bellato Wristlet212;0
+212;iibbc15;C1010215;Bellato Wristlet213;0
+213;iibbc16;C1010216;Bellato Wristlet214;0
+214;iibbc17;C1010217;Bellato Wristlet215;0
+215;iibbc18;C1010218;Bellato Wristlet216;0
+216;iibbc19;C1010219;Bellato Wristlet217;0
+217;iibbc20;C1010220;Bellato Wristlet218;0
+218;iibbc21;C1010221;Bellato Wristlet219;0
+219;iibbc22;C1010222;Bellato Wristlet220;0
+220;iibbc23;C1010223;Bellato Wristlet221;0
+221;iibbc24;C1010224;Bellato Wristlet222;0
+222;iibbc25;C1010225;Bellato Wristlet223;0
+223;iibbc26;C1010226;Bellato Wristlet224;0
+224;iibbc27;C1010227;Bellato Wristlet225;0
+225;iibbc28;C1010228;Bellato Wristlet226;0
+226;iibbc29;C1010229;Bellato Wristlet227;0
+227;iibbc30;C1010230;Bellato Wristlet228;0
+228;iibbc31;C1010231;Bellato Wristlet229;0
+229;iibbc32;C1010232;Bellato Wristlet230;0
+230;iibbc33;C1010233;Bellato Wristlet231;0
+231;iibbc34;C1010234;Bellato Wristlet232;0
+232;iibbc35;C1010235;Bellato Wristlet233;0
+233;iibbc36;C1010236;Bellato Wristlet234;0
+234;iibbc37;C1010237;Bellato Wristlet235;0
+235;iibbc38;C1010238;Bellato Wristlet236;0
+236;iibbc39;C1010239;Bellato Wristlet237;0
+237;iibbc40;C1010240;Bellato Wristlet238;0
+238;iibbc41;C1010241;Bellato Wristlet239;0
+239;iibbc42;C1010242;Bellato Wristlet240;0
+240;iibbc43;C1010243;Bellato Wristlet241;0
+241;iibbc44;C1010244;Bellato Wristlet242;0
+242;iibbc45;C1010245;Bellato Wristlet243;0
+243;iibbc46;C1010246;Bellato Wristlet244;0
+244;iibbc47;C1010247;Bellato Wristlet245;0
+245;iibbc48;C1010248;Bellato Wristlet246;0
+246;iibbc49;C1010249;Bellato Wristlet247;0
+247;iibbc50;C1010250;Bellato Wristlet248;0
+248;iibbc51;C1010251;Bellato Wristlet249;0
+249;iibbc52;C1010252;Bellato Wristlet250;0
+250;iibbc53;C1010253;Bellato Wristlet251;0
+251;iibbc54;C1010254;Bellato Wristlet252;0
+252;iibbc55;C1010255;Bellato Wristlet253;0
+253;iibbc56;C1010256;Bellato Wristlet254;0
+254;iibbc57;C1010257;Bellato Wristlet255;0
+255;iibbc58;C1010258;Elemental Parsal Wristlet;77
+256;iicca01;C2020001;Fire Stuff ArmletA;81
+257;iicca02;C2020002;Fire Stuff ArmletB;81
+258;iicca03;C2020003;Fire Stuff ArmletC;81
+259;iicca04;C2020004;Fire Stuff ArmletD;81
+260;iicca05;C2020005;Fire Stuff ArmletE;81
+261;iicca06;C2020006;Fire Stuff ArmletF;81
+262;iicca07;C2020007;Fire Stuff ArmletG;81
+263;iicca08;C2020008;Aqua Stuff ArmletA;82
+264;iicca09;C2020009;Aqua Stuff ArmletB;82
+265;iicca10;C2020010;Aqua Stuff ArmletC;82
+266;iicca11;C2020011;Aqua Stuff ArmletD;82
+267;iicca12;C2020012;Aqua Stuff ArmletE;82
+268;iicca13;C2020013;Aqua Stuff ArmletF;82
+269;iicca14;C2020014;Aqua Stuff ArmletG;82
+270;iicca15;C2020015;Tera Stuff ArmletA;83
+271;iicca16;C2020016;Tera Stuff ArmletB;83
+272;iicca17;C2020017;Tera Stuff ArmletC;83
+273;iicca18;C2020018;Tera Stuff ArmletD;83
+274;iicca19;C2020019;Tera Stuff ArmletE;83
+275;iicca20;C2020020;Tera Stuff ArmletF;83
+276;iicca21;C2020021;Tera Stuff ArmletG;83
+277;iicca22;C2020022;Wind Stuff ArmletA;84
+278;iicca23;C2020023;Wind Stuff ArmletB;84
+279;iicca24;C2020024;Wind Stuff ArmletC;84
+280;iicca25;C2020025;Wind Stuff ArmletD;84
+281;iicca26;C2020026;Wind Stuff ArmletE;84
+282;iicca27;C2020027;Wind Stuff ArmletF;84
+283;iicca28;C2020028;Wind Stuff ArmletG;84
+284;iicca29;C2020029;Aqua Mild ArmletA;86
+285;iicca30;C2020030;Aqua Mild ArmletB;86
+286;iicca31;C2020031;Aqua Mild ArmletC;86
+287;iicca32;C2020032;Aqua Mild ArmletD;86
+288;iicca33;C2020033;Aqua Mild ArmletE;86
+289;iicca34;C2020034;Aqua Mild ArmletF;86
+290;iicca35;C2020035;Aqua Mild ArmletG;86
+291;iicca36;C2020036;Tera Cus ArmletA;91
+292;iicca37;C2020037;Tera Cus ArmletB;91
+293;iicca38;C2020038;Tera Cus ArmletC;91
+294;iicca39;C2020039;Tera Cus ArmletD;91
+295;iicca40;C2020040;Tera Cus ArmletE;91
+296;iicca41;C2020041;Tera Cus ArmletF;91
+297;iicca42;C2020042;Tera Cus ArmletG;91
+298;iicca43;C2020043;Aqua Cus ArmletA;90
+299;iicca44;C2020044;Aqua Cus ArmletB;90
+300;iicca45;C2020045;Aqua Cus ArmletC;90
+301;iicca46;C2020046;Aqua Cus ArmletD;90
+302;iicca47;C2020047;Aqua Cus ArmletE;90
+303;iicca48;C2020048;Aqua Cus ArmletF;90
+304;iicca49;C2020049;Aqua Cus ArmletG;90
+305;iicca50;C2020050;Wind Cus ArmletA;92
+306;iicca51;C2020051;Wind Cus ArmletB;92
+307;iicca52;C2020052;Wind Cus ArmletC;92
+308;iicca53;C2020053;Wind Cus ArmletD;92
+309;iicca54;C2020054;Wind Cus ArmletE;92
+310;iicca55;C2020055;Wind Cus ArmletF;92
+311;iicca56;C2020056;Wind Cus ArmletG;92
+312;iicca57;C2020057;Fire Cus ArmletA;89
+313;iicca58;C2020058;Fire Cus ArmletB;89
+314;iicca59;C2020059;Fire Cus ArmletC;89
+315;iicca60;C2020060;Fire Cus ArmletD;89
+316;iicca61;C2020061;Fire Cus ArmletE;89
+317;iicca62;C2020062;Fire Cus ArmletF;89
+318;iicca63;C2020063;Fire Cus ArmletG;89
+319;iicca64;C2020064;Fire Glow ArmletA;93
+320;iicca65;C2020065;Fire Glow ArmletB;93
+321;iicca66;C2020066;Fire Glow ArmletC;93
+322;iicca67;C2020067;Fire Glow ArmletD;93
+323;iicca68;C2020068;Fire Glow ArmletE;93
+324;iicca69;C2020069;Fire Glow ArmletF;93
+325;iicca70;C2020070;Fire Glow ArmletG;93
+326;iicca71;C2020071;Aqua Glow ArmletA;98
+327;iicca72;C2020072;Aqua Glow ArmletB;98
+328;iicca73;C2020073;Aqua Glow ArmletC;98
+329;iicca74;C2020074;Aqua Glow ArmletD;98
+330;iicca75;C2020075;Aqua Glow ArmletE;98
+331;iicca76;C2020076;Aqua Glow ArmletF;98
+332;iicca77;C2020077;Aqua Glow ArmletG;98
+333;iicca78;C2020078;Elemental Stuff Armlet;97
+334;iicca79;C2020079;Elemental Stuff Armlet;100
+335;iicca80;C2020080;Elemental Stuff Armlet;99
+336;iicca81;C2020081;Elemental Stuff Armlet;98
+337;iicca82;C2020082;Elemental Stuff Armlet;97
+338;iicca83;C2020083;Elemental Stuff Armlet;100
+339;iicca84;C2020084;Elemental Stuff Armlet;99
+340;iicca85;C2020085;Elemental Stuff Armlet;98
+341;iicca86;C2020086;Elemental Mild Armlet;97
+342;iicca87;C2020087;Elemental Mild Armlet;100
+343;iicca88;C2020088;Elemental Mild Armlet;99
+344;iicca89;C2020089;Elemental Mild Armlet;98
+345;iicca90;C2020090;Elemental Mild Armlet;97
+346;iicca91;C2020091;Elemental Mild Armlet;100
+347;iicca92;C2020092;Elemental Mild Armlet;99
+348;iicca93;C2020093;Elemental Mild Armlet;98
+349;iicca94;C2020094;Elemental Cus Armlet;97
+350;iicca95;C2020095;Elemental Cus Armlet;100
+351;iicca96;C2020096;Elemental Cus Armlet;99
+352;iicca97;C2020097;Elemental Cus Armlet;98
+353;iicca98;C2020098;Elemental Cus Armlet;97
+354;iicca99;C2020099;Elemental Cus Armlet;100
+355;iiccb01;C2020101;Elemental Cus Armlet;99
+356;iiccb02;C2020102;Elemental Cus Armlet;98
+357;iiccb03;C2020103;Elemental Glow Armlet;97
+358;iiccb04;C2020104;Elemental Glow Armlet;100
+359;iiccb05;C2020105;Elemental Glow Armlet;99
+360;iiccb06;C2020106;Elemental Glow Armlet;98
+361;iiccb07;C2020107;Elemental Glow Armlet;97
+362;iiccb08;C2020108;Elemental Glow Armlet;100
+363;iiccb09;C2020109;Elemental Glow Armlet;99
+364;iiccb10;C2020110;Elemental Glow Armlet;98
+365;iiccb11;C2020111;Elemental Dan ArmletA;99
+366;iiccb12;C2020112;Elemental Dan ArmletB;98
+367;iiccb13;C2020113;Elemental Dan ArmletC;98
+368;iiccb14;C2020114;Elemental Dan ArmletD;98
+369;iiccb15;C2020115;Elemental Dan ArmletE;97
+370;iiccb16;C2020116;Elemental Dan ArmletF;97
+371;iiccb17;C2020117;Elemental Dan ArmletG;97
+372;iicpc01;C20F0201;Cafe Only Ring;208
+373;iicpc02;C20F0202;Cafe Only Ring;209
+374;iicpc03;C20F0203;Cafe Only Ring;210
+375;iiccb21;C2020121;Cora Armlet120;0
+376;iiccb22;C2020122;Cora Armlet121;0
+377;iiccb23;C2020123;Cora Armlet122;0
+378;iiccb24;C2020124;Cora Armlet123;0
+379;iiccb25;C2020125;Cora Armlet124;0
+380;iiccb26;C2020126;Cora Armlet125;0
+381;iiccb27;C2020127;Cora Armlet126;0
+382;iiccb28;C2020128;Cora Armlet127;0
+383;iiccb29;C2020129;Cora Armlet128;0
+384;iiccb30;C2020130;Cora Armlet129;0
+385;iiccb31;C2020131;Cora Armlet130;0
+386;iiccb32;C2020132;Cora Armlet131;0
+387;iiccb33;C2020133;Cora Armlet132;0
+388;iiccb34;C2020134;Cora Armlet133;0
+389;iiccb35;C2020135;Cora Armlet134;0
+390;iiccb36;C2020136;Cora Armlet135;0
+391;iiccb37;C2020137;Cora Armlet136;0
+392;iiccb38;C2020138;Cora Armlet137;0
+393;iiccb39;C2020139;Cora Armlet138;0
+394;iiccb40;C2020140;Cora Armlet139;0
+395;iiccb41;C2020141;Cora Armlet140;0
+396;iiccb42;C2020142;Cora Armlet141;0
+397;iiccb43;C2020143;Cora Armlet142;0
+398;iiccb44;C2020144;Cora Armlet143;0
+399;iiccb45;C2020145;Cora Armlet144;0
+400;iiccb46;C2020146;Cora Armlet145;0
+401;iiccb47;C2020147;Cora Armlet146;0
+402;iiccb48;C2020148;Cora Armlet147;0
+403;iiccb49;C2020149;Cora Armlet148;0
+404;iiccb50;C2020150;Cora Armlet149;0
+405;iiccb51;C2020151;Cora Armlet150;0
+406;iiccb52;C2020152;Cora Armlet151;0
+407;iiccb53;C2020153;Cora Armlet152;0
+408;iiccb54;C2020154;Cora Armlet153;0
+409;iiccb55;C2020155;Cora Armlet154;0
+410;iiccb56;C2020156;Cora Armlet155;0
+411;iiccb57;C2020157;Cora Armlet156;0
+412;iiccb58;C2020158;Cora Armlet157;0
+413;iiccb59;C2020159;Cora Armlet158;0
+414;iiccb60;C2020160;Cora Armlet159;0
+415;iiccb61;C2020161;Cora Armlet160;0
+416;iiccb62;C2020162;Cora Armlet161;0
+417;iiccb63;C2020163;Cora Armlet162;0
+418;iiccb64;C2020164;Cora Armlet163;0
+419;iiccb65;C2020165;Cora Armlet164;0
+420;iiccb66;C2020166;Cora Armlet165;0
+421;iiccb67;C2020167;Cora Armlet166;0
+422;iiccb68;C2020168;Cora Armlet167;0
+423;iiccb69;C2020169;Cora Armlet168;0
+424;iiccb70;C2020170;Cora Armlet169;0
+425;iiccb71;C2020171;Cora Armlet170;0
+426;iiccb72;C2020172;Cora Armlet171;0
+427;iiccb73;C2020173;Cora Armlet172;0
+428;iiccb74;C2020174;Cora Armlet173;0
+429;iiccb75;C2020175;Cora Armlet174;0
+430;iiccb76;C2020176;Cora Armlet175;0
+431;iiccb77;C2020177;Cora Armlet176;0
+432;iiccb78;C2020178;Cora Armlet177;0
+433;iiccb79;C2020179;Cora Armlet178;0
+434;iiccb80;C2020180;Cora Armlet179;0
+435;iiccb81;C2020181;Cora Armlet180;0
+436;iiccb82;C2020182;Cora Armlet181;0
+437;iiccb83;C2020183;Cora Armlet182;0
+438;iiccb84;C2020184;Cora Armlet183;0
+439;iiccb85;C2020185;Cora Armlet184;0
+440;iiccb86;C2020186;Cora Armlet185;0
+441;iiccb87;C2020187;Cora Armlet186;0
+442;iiccb88;C2020188;Cora Armlet187;0
+443;iiccb89;C2020189;Cora Armlet188;0
+444;iiccb90;C2020190;Cora Armlet189;0
+445;iiccb91;C2020191;Cora Armlet190;0
+446;iiccb92;C2020192;Cora Armlet191;0
+447;iiccb93;C2020193;Cora Armlet192;0
+448;iiccb94;C2020194;Cora Armlet193;0
+449;iiccb95;C2020195;Cora Armlet194;0
+450;iiccb96;C2020196;Cora Armlet195;0
+451;iiccb97;C2020197;Cora Armlet196;0
+452;iiccb98;C2020198;Cora Armlet197;0
+453;iiccb99;C2020199;Cora Armlet198;0
+454;iiccc01;C2020201;Cora Armlet199;0
+455;iiccc02;C2020202;Cora Armlet200;0
+456;iiccc03;C2020203;Cora Armlet201;0
+457;iiccc04;C2020204;Cora Armlet202;0
+458;iiccc05;C2020205;Cora Armlet203;0
+459;iiccc06;C2020206;Cora Armlet204;0
+460;iiccc07;C2020207;Cora Armlet205;0
+461;iiccc08;C2020208;Cora Armlet206;0
+462;iiccc09;C2020209;Cora Armlet207;0
+463;iiccc10;C2020210;Cora Armlet208;0
+464;iiccc11;C2020211;Cora Armlet209;0
+465;iiccc12;C2020212;Cora Armlet210;0
+466;iiccc13;C2020213;Cora Armlet211;0
+467;iiccc14;C2020214;Cora Armlet212;0
+468;iiccc15;C2020215;Cora Armlet213;0
+469;iiccc16;C2020216;Cora Armlet214;0
+470;iiccc17;C2020217;Cora Armlet215;0
+471;iiccc18;C2020218;Cora Armlet216;0
+472;iiccc19;C2020219;Cora Armlet217;0
+473;iiccc20;C2020220;Cora Armlet218;0
+474;iiccc21;C2020221;Cora Armlet219;0
+475;iiccc22;C2020222;Cora Armlet220;0
+476;iiccc23;C2020223;Cora Armlet221;0
+477;iiccc24;C2020224;Cora Armlet222;0
+478;iiccc25;C2020225;Cora Armlet223;0
+479;iiccc26;C2020226;Cora Armlet224;0
+480;iiccc27;C2020227;Cora Armlet225;0
+481;iiccc28;C2020228;Cora Armlet226;0
+482;iiccc29;C2020229;Cora Armlet227;0
+483;iiccc30;C2020230;Cora Armlet228;0
+484;iiccc31;C2020231;Cora Armlet229;0
+485;iiccc32;C2020232;Cora Armlet230;0
+486;iiccc33;C2020233;Cora Armlet231;0
+487;iiccc34;C2020234;Cora Armlet232;0
+488;iiccc35;C2020235;Cora Armlet233;0
+489;iiccc36;C2020236;Cora Armlet234;0
+490;iiccc37;C2020237;Cora Armlet235;0
+491;iiccc38;C2020238;Cora Armlet236;0
+492;iiccc39;C2020239;Cora Armlet237;0
+493;iiccc40;C2020240;Cora Armlet238;0
+494;iiccc41;C2020241;Cora Armlet239;0
+495;iiccc42;C2020242;Cora Armlet240;0
+496;iiccc43;C2020243;Cora Armlet241;0
+497;iiccc44;C2020244;Cora Armlet242;0
+498;iiccc45;C2020245;Cora Armlet243;0
+499;iiccc46;C2020246;Cora Armlet244;0
+500;iiccc47;C2020247;Cora Armlet245;0
+501;iiccc48;C2020248;Cora Armlet246;0
+502;iiccc49;C2020249;Cora Armlet247;0
+503;iiccc50;C2020250;Cora Armlet248;0
+504;iiccc51;C2020251;Cora Armlet249;0
+505;iiccc52;C2020252;Cora Armlet250;0
+506;iiccc53;C2020253;Cora Armlet251;0
+507;iiccc54;C2020254;Cora Armlet252;0
+508;iiccc55;C2020255;Cora Armlet253;0
+509;iiccc56;C2020256;Cora Armlet254;0
+510;iiccc57;C2020257;Cora Armlet255;0
+511;iiccc58;C2020258;Cora Armlet256;0
+512;iiaaa01;C0000001;Fire Normal BracerA;101
+513;iiaaa02;C0000002;Fire Normal BracerB;101
+514;iiaaa03;C0000003;Fire Normal BracerC;101
+515;iiaaa04;C0000004;Fire Normal BracerD;101
+516;iiaaa05;C0000005;Fire Normal BracerE;101
+517;iiaaa06;C0000006;Fire Normal BracerF;101
+518;iiaaa07;C0000007;Fire Normal BracerG;101
+519;iiaaa08;C0000008;Aqua Normal BracerA;102
+520;iiaaa09;C0000009;Aqua Normal BracerB;102
+521;iiaaa10;C0000010;Aqua Normal BracerC;102
+522;iiaaa11;C0000011;Aqua Normal BracerD;102
+523;iiaaa12;C0000012;Aqua Normal BracerE;102
+524;iiaaa13;C0000013;Aqua Normal BracerF;102
+525;iiaaa14;C0000014;Aqua Normal BracerG;102
+526;iiaaa15;C0000015;Tera Normal BracerA;103
+527;iiaaa16;C0000016;Tera Normal BracerB;103
+528;iiaaa17;C0000017;Tera Normal BracerC;103
+529;iiaaa18;C0000018;Tera Normal BracerD;103
+530;iiaaa19;C0000019;Tera Normal BracerE;103
+531;iiaaa20;C0000020;Tera Normal BracerF;103
+532;iiaaa21;C0000021;Tera Normal BracerG;103
+533;iiaaa22;C0000022;Wind Normal BracerA;104
+534;iiaaa23;C0000023;Wind Normal BracerB;104
+535;iiaaa24;C0000024;Wind Normal BracerC;104
+536;iiaaa25;C0000025;Wind Normal BracerD;104
+537;iiaaa26;C0000026;Wind Normal BracerE;104
+538;iiaaa27;C0000027;Wind Normal BracerF;104
+539;iiaaa28;C0000028;Wind Normal BracerG;104
+540;iiaaa29;C0000029;Fire Double BracerA;105
+541;iiaaa30;C0000030;Fire Double BracerB;105
+542;iiaaa31;C0000031;Fire Double BracerC;105
+543;iiaaa32;C0000032;Fire Double BracerD;105
+544;iiaaa33;C0000033;Fire Double BracerE;105
+545;iiaaa34;C0000034;Fire Double BracerF;105
+546;iiaaa35;C0000035;Fire Double BracerG;105
+547;iiaaa36;C0000036;Fire Pliant BracerA;105
+548;iiaaa37;C0000037;Fire Pliant BracerB;105
+549;iiaaa38;C0000038;Fire Pliant BracerC;105
+550;iiaaa39;C0000039;Fire Pliant BracerD;105
+551;iiaaa40;C0000040;Fire Pliant BracerE;105
+552;iiaaa41;C0000041;Fire Pliant BracerF;105
+553;iiaaa42;C0000042;Fire Pliant BracerG;105
+554;iiaaa43;C0000043;Fire Solid BracerA;105
+555;iiaaa44;C0000044;Fire Solid BracerB;105
+556;iiaaa45;C0000045;Fire Solid BracerC;105
+557;iiaaa46;C0000046;Fire Solid BracerD;105
+558;iiaaa47;C0000047;Fire Solid BracerE;105
+559;iiaaa48;C0000048;Fire Solid BracerF;105
+560;iiaaa49;C0000049;Fire Solid BracerG;105
+561;iiaaa50;C0000050;Aqua Double BracerA;106
+562;iiaaa51;C0000051;Aqua Double BracerB;106
+563;iiaaa52;C0000052;Aqua Double BracerC;106
+564;iiaaa53;C0000053;Aqua Double BracerD;106
+565;iiaaa54;C0000054;Aqua Double BracerE;106
+566;iiaaa55;C0000055;Aqua Double BracerF;106
+567;iiaaa56;C0000056;Aqua Double BracerG;106
+568;iiaaa57;C0000057;Aqua Pliant BracerA;106
+569;iiaaa58;C0000058;Aqua Pliant BracerB;106
+570;iiaaa59;C0000059;Aqua Pliant BracerC;106
+571;iiaaa60;C0000060;Aqua Pliant BracerD;106
+572;iiaaa61;C0000061;Aqua Pliant BracerE;106
+573;iiaaa62;C0000062;Aqua Pliant BracerF;106
+574;iiaaa63;C0000063;Aqua Pliant BracerG;106
+575;iiaaa64;C0000064;Tera Double BracerA;107
+576;iiaaa65;C0000065;Tera Double BracerB;107
+577;iiaaa66;C0000066;Tera Double BracerC;107
+578;iiaaa67;C0000067;Tera Double BracerD;107
+579;iiaaa68;C0000068;Tera Double BracerE;107
+580;iiaaa69;C0000069;Tera Double BracerF;107
+581;iiaaa70;C0000070;Tera Double BracerG;107
+582;iiaaa71;C0000071;Aqua Hue BracerA;110
+583;iiaaa72;C0000072;Aqua Hue BracerB;110
+584;iiaaa73;C0000073;Aqua Hue BracerC;110
+585;iiaaa74;C0000074;Aqua Hue BracerD;110
+586;iiaaa75;C0000075;Aqua Hue BracerE;110
+587;iiaaa76;C0000076;Aqua Hue BracerF;110
+588;iiaaa77;C0000077;Aqua Hue BracerG;110
+589;iiaaa78;C0000078;Wind Hue BracerA;112
+590;iiaaa79;C0000079;Wind Hue BracerB;112
+591;iiaaa80;C0000080;Wind Hue BracerC;112
+592;iiaaa81;C0000081;Wind Hue BracerD;112
+593;iiaaa82;C0000082;Wind Hue BracerE;112
+594;iiaaa83;C0000083;Wind Hue BracerF;112
+595;iiaaa84;C0000084;Wind Hue BracerG;112
+596;iiaaa85;C0000085;Fire Hue BracerA;109
+597;iiaaa86;C0000086;Fire Hue BracerB;109
+598;iiaaa87;C0000087;Fire Hue BracerC;109
+599;iiaaa88;C0000088;Fire Hue BracerD;109
+600;iiaaa89;C0000089;Fire Hue BracerE;109
+601;iiaaa90;C0000090;Fire Hue BracerF;109
+602;iiaaa91;C0000091;Fire Hue BracerG;109
+603;iiaaa92;C0000092;Tera Hue BracerA;111
+604;iiaaa93;C0000093;Tera Hue BracerB;111
+605;iiaaa94;C0000094;Tera Hue BracerC;111
+606;iiaaa95;C0000095;Tera Hue BracerD;111
+607;iiaaa96;C0000096;Tera Hue BracerE;111
+608;iiaaa97;C0000097;Tera Hue BracerF;111
+609;iiaaa98;C0000098;Tera Hue BracerG;111
+610;iiaaa99;C0000099;Fire Burn BracerA;113
+611;iiaab01;C0000101;Fire Burn BracerB;113
+612;iiaab02;C0000102;Fire Burn BracerC;113
+613;iiaab03;C0000103;Fire Burn BracerD;113
+614;iiaab04;C0000104;Fire Burn BracerE;113
+615;iiaab05;C0000105;Fire Burn BracerF;113
+616;iiaab06;C0000106;Fire Burn BracerG;113
+617;iiaab07;C0000107;Aqua Burn BracerA;114
+618;iiaab08;C0000108;Aqua Burn BracerB;114
+619;iiaab09;C0000109;Aqua Burn BracerC;114
+620;iiaab10;C0000110;Aqua Burn BracerD;114
+621;iiaab11;C0000111;Aqua Burn BracerE;114
+622;iiaab12;C0000112;Aqua Burn BracerF;114
+623;iiaab13;C0000113;Aqua Burn BracerG;114
+624;iiaab14;C0000114;Wind Power BracerA;120
+625;iiaab15;C0000115;Wind Power BracerB;120
+626;iiaab16;C0000116;Wind Power BracerC;120
+627;iiaab17;C0000117;Wind Power BracerD;120
+628;iiaab18;C0000118;Wind Power BracerE;120
+629;iiaab19;C0000119;Wind Power BracerF;120
+630;iiaab20;C0000120;Wind Power BracerG;120
+631;iiaab21;C0000121;Aqua Power BracerA;118
+632;iiaab22;C0000122;Aqua Power BracerB;118
+633;iiaab23;C0000123;Aqua Power BracerC;118
+634;iiaab24;C0000124;Aqua Power BracerD;118
+635;iiaab25;C0000125;Aqua Power BracerE;118
+636;iiaab26;C0000126;Aqua Power BracerF;118
+637;iiaab27;C0000127;Aqua Power BracerG;118
+638;iiaab28;C0000128;Fire Power BracerA;117
+639;iiaab29;C0000129;Fire Power BracerB;117
+640;iiaab30;C0000130;Fire Power BracerC;117
+641;iiaab31;C0000131;Fire Power BracerD;117
+642;iiaab32;C0000132;Fire Power BracerE;117
+643;iiaab33;C0000133;Fire Power BracerF;117
+644;iiaab34;C0000134;Fire Power BracerG;117
+645;iiaab35;C0000135;Elemental Normal Bracer;117
+646;iiaab36;C0000136;Elemental Normal Bracer;118
+647;iiaab37;C0000137;Elemental Normal Bracer;119
+648;iiaab38;C0000138;Elemental Normal Bracer;120
+649;iiaab39;C0000139;Elemental Normal Bracer;117
+650;iiaab40;C0000140;Elemental Normal Bracer;118
+651;iiaab41;C0000141;Elemental Normal Bracer;119
+652;iiaab42;C0000142;Elemental Normal Bracer;120
+653;iiaab43;C0000143;Elemental Pliant Bracer;117
+654;iiaab44;C0000144;Elemental Pliant Bracer;118
+655;iiaab45;C0000145;Elemental Pliant Bracer;119
+656;iiaab46;C0000146;Elemental Pliant Bracer;120
+657;iiaab47;C0000147;Elemental Pliant Bracer;117
+658;iiaab48;C0000148;Elemental Pliant Bracer;118
+659;iiaab49;C0000149;Elemental Pliant Bracer;119
+660;iiaab50;C0000150;Elemental Pliant Bracer;120
+661;iiaab51;C0000151;Elemental Hue Bracer;117
+662;iiaab52;C0000152;Elemental Hue Bracer;118
+663;iiaab53;C0000153;Elemental Hue Bracer;119
+664;iiaab54;C0000154;Elemental Hue Bracer;120
+665;iiaab55;C0000155;Elemental Hue Bracer;117
+666;iiaab56;C0000156;Elemental Hue Bracer;118
+667;iiaab57;C0000157;Elemental Hue Bracer;119
+668;iiaab58;C0000158;Elemental Hue Bracer;120
+669;iiaab59;C0000159;Elemental Power Bracer;117
+670;iiaab60;C0000160;Elemental Power Bracer;118
+671;iiaab61;C0000161;Elemental Power Bracer;119
+672;iiaab62;C0000162;Elemental Power Bracer;120
+673;iiaab63;C0000163;Elemental Power Bracer;117
+674;iiaab64;C0000164;Elemental Power Bracer;118
+675;iiaab65;C0000165;Elemental Power Bracer;119
+676;iiaab66;C0000166;Elemental Power Bracer;120
+677;iiaab67;C0000167;Elemental Mighty BraceletA;117
+678;iiaab68;C0000168;Elemental Mighty BraceletB;118
+679;iiaab69;C0000169;Elemental Mighty BraceletC;119
+680;iiaab70;C0000170;Elemental Mighty BraceletD;120
+681;iiaab71;C0000171;Elemental Mighty BraceletE;117
+682;iiaab72;C0000172;Elemental Mighty BraceletF;118
+683;iiaab73;C0000173;Elemental Mighty BraceletG;119
+684;iiaab74;C0000174;Elemental Mighty BraceletH;120
+685;iiaab75;C0000175;Ancient melee;149
+686;iiaab76;C0000176;Ancient range;151
+687;iiaab77;C0000177;Ancient launcher;150
+688;iiaab78;C0000178;Accretia Ring177;0
+689;iiaab79;C0000179;Accretia Ring178;0
+690;iiaab80;C0000180;Accretia Ring179;0
+691;iiaab81;C0000181;Accretia Ring180;0
+692;iiaab82;C0000182;Accretia Ring181;0
+693;iiaab83;C0000183;Accretia Ring182;0
+694;iiaab84;C0000184;Accretia Ring183;0
+695;iiaab85;C0000185;Accretia Ring184;0
+696;iiaab86;C0000186;Accretia Ring185;0
+697;iiaab87;C0000187;Accretia Ring186;0
+698;iiaab88;C0000188;Accretia Ring187;0
+699;iiaab89;C0000189;Accretia Ring188;0
+700;iiaab90;C0000190;Accretia Ring189;0
+701;iiaab91;C0000191;Accretia Ring190;0
+702;iiaab92;C0000192;Accretia Ring191;0
+703;iiaab93;C0000193;Accretia Ring192;0
+704;iiaab94;C0000194;Accretia Ring193;0
+705;iiaab95;C0000195;Accretia Ring194;0
+706;iiaab96;C0000196;Accretia Ring195;0
+707;iiaab97;C0000197;Accretia Ring196;0
+708;iiaab98;C0000198;Accretia Ring197;0
+709;iiaab99;C0000199;Accretia Ring198;0
+710;iiaac01;C0000201;Accretia Ring199;0
+711;iiaac02;C0000202;Accretia Ring200;0
+712;iiaac03;C0000203;Accretia Ring201;0
+713;iiaac04;C0000204;Accretia Ring202;0
+714;iiaac05;C0000205;Accretia Ring203;0
+715;iiaac06;C0000206;Accretia Ring204;0
+716;iiaac07;C0000207;Accretia Ring205;0
+717;iiaac08;C0000208;Accretia Ring206;0
+718;iiaac09;C0000209;Accretia Ring207;0
+719;iiaac10;C0000210;Accretia Ring208;0
+720;iiaac11;C0000211;Accretia Ring209;0
+721;iiaac12;C0000212;Accretia Ring210;0
+722;iiaac13;C0000213;Accretia Ring211;0
+723;iiaac14;C0000214;Accretia Ring212;0
+724;iiaac15;C0000215;Accretia Ring213;0
+725;iiaac16;C0000216;Accretia Ring214;0
+726;iiaac17;C0000217;Accretia Ring215;0
+727;iiaac18;C0000218;Accretia Ring216;0
+728;iiaac19;C0000219;Accretia Ring217;0
+729;iiaac20;C0000220;Accretia Ring218;0
+730;iiaac21;C0000221;Accretia Ring219;0
+731;iiaac22;C0000222;Accretia Ring220;0
+732;iiaac23;C0000223;Accretia Ring221;0
+733;iiaac24;C0000224;Accretia Ring222;0
+734;iiaac25;C0000225;Accretia Ring223;0
+735;iiaac26;C0000226;Accretia Ring224;0
+736;iiaac27;C0000227;Accretia Ring225;0
+737;iiaac28;C0000228;Accretia Ring226;0
+738;iiaac29;C0000229;Accretia Ring227;0
+739;iiaac30;C0000230;Accretia Ring228;0
+740;iiaac31;C0000231;Accretia Ring229;0
+741;iiaac32;C0000232;Accretia Ring230;0
+742;iiaac33;C0000233;Accretia Ring231;0
+743;iiaac34;C0000234;Accretia Ring232;0
+744;iiaac35;C0000235;Accretia Ring233;0
+745;iiaac36;C0000236;Accretia Ring234;0
+746;iiaac37;C0000237;Accretia Ring235;0
+747;iiaac38;C0000238;Accretia Ring236;0
+748;iiaac39;C0000239;Accretia Ring237;0
+749;iiaac40;C0000240;Accretia Ring238;0
+750;iiaac41;C0000241;Accretia Ring239;0
+751;iiaac42;C0000242;Accretia Ring240;0
+752;iiaac43;C0000243;Accretia Ring241;0
+753;iiaac44;C0000244;Accretia Ring242;0
+754;iiaac45;C0000245;Accretia Ring243;0
+755;iiaac46;C0000246;Accretia Ring244;0
+756;iiaac47;C0000247;Accretia Ring245;0
+757;iiaac48;C0000248;Accretia Ring246;0
+758;iiaac49;C0000249;Accretia Ring247;0
+759;iiaac50;C0000250;Accretia Ring248;0
+760;iiaac51;C0000251;Accretia Ring249;0
+761;iiaac52;C0000252;Accretia Ring250;0
+762;iiaac53;C0000253;Accretia Ring251;0
+763;iiaac54;C0000254;Accretia Ring252;0
+764;iiaac55;C0000255;Accretia Ring253;0
+765;iiaac56;C0000256;Accretia Ring254;0
+766;iiaac57;C0000257;Accretia Ring255;0
+767;iiaac58;C0000258;Accretia Ring256;0
+768;iixxx00;D7171700;AmLo Ring;121
+769;iixxx01;D7171701;CEO Ring;121
+770;iixxx02;D7171702;Munggu Ring;121
+771;iixxx03;D7171703;Wedding Ring;124
+772;iijpe01;C90F0401;RING of SEGA;125
+773;iijpe02;C90F0402;SEGA RING;126
+774;iichr01;C2071101;Christmas Elementatl Ring1;127
+775;iichr02;C2071102;Christmas Elemental Ring2;128
+776;iichr03;C2071103;Christmas Elemental Ring3;129
+777;iichr04;C2071104;Christmas Elemental Ring4;130
+778;iichr05;C2071105;Christmas Elemental Ring5;131
+779;iichr06;C2071106;Christmas Elemental Ring6;132
+780;iiarc01;C0110201;The Arcane Ring;139
+781;iijre01;C9110401;Segaring Red;140
+782;iijbu01;C9011401;Segaring Blue;141
+783;iired01;D1040301;Red Roar Ring[B-A];152
+784;iired02;D1040302;Red Roar Ring[B-B];152
+785;iired03;D1040303;Red Roar Ring[B-C];152
+786;iired04;D1040304;Red Roar Ring[C-A];152
+787;iired05;D1040305;Red Roar Ring[C-B];152
+788;iired06;D1040306;Red Roar Ring[C-C];152
+789;iired07;D1040307;Red Roar Ring[A-A];152
+790;iired08;D1040308;Red Roar Ring[A-B];152
+791;iired09;D1040309;Red Roar Ring[A-C];152
+792;iibbd01;C1010301;Elemental Sprits ResletH11;80
+793;iibbd02;C1010302;Elemental Sprits ResletH21;80
+794;iibbd03;C1010303;Elemental Sprits ResletH31;80
+795;iibbd04;C1010304;Elemental Sprits ResletH41;80
+796;iibbd05;C1010305;Elemental Sprits ResletH51;80
+797;iibbd06;C1010306;Elemental Sprits ResletH12;80
+798;iibbd07;C1010307;Elemental Sprits ResletH22;80
+799;iibbd08;C1010308;Elemental Sprits ResletH32;80
+800;iibbd09;C1010309;Elemental Sprits ResletH42;80
+801;iibbd10;C1010310;Elemental Sprits ResletH52;80
+802;iibbd11;C1010311;Elemental Sprits ResletH13;80
+803;iibbd12;C1010312;Elemental Sprits ResletH23;80
+804;iibbd13;C1010313;Elemental Sprits ResletH33;80
+805;iibbd14;C1010314;Elemental Sprits ResletH43;80
+806;iibbd15;C1010315;Elemental Sprits ResletH53;80
+807;iibbd16;C1010316;Elemental Sprits ResletH14;80
+808;iibbd17;C1010317;Elemental Sprits ResletH24;80
+809;iibbd18;C1010318;Elemental Sprits ResletH34;80
+810;iibbd19;C1010319;Elemental Sprits ResletH44;80
+811;iibbd20;C1010320;Elemental Sprits ResletH54;80
+812;iibbd21;C1010321;Elemental Sprits ResletH15;80
+813;iibbd22;C1010322;Elemental Sprits ResletH25;80
+814;iibbd23;C1010323;Elemental Sprits ResletH35;80
+815;iibbd24;C1010324;Elemental Sprits ResletH45;80
+816;iibbd25;C1010325;Elemental Sprits ResletH55;80
+817;iibbd26;C1010326;Elemental Mind ResletH11;80
+818;iibbd27;C1010327;Elemental Mind ResletH21;80
+819;iibbd28;C1010328;Elemental Mind ResletH31;80
+820;iibbd29;C1010329;Elemental Mind ResletH41;80
+821;iibbd30;C1010330;Elemental Mind ResletH51;80
+822;iibbd31;C1010331;Elemental Mind ResletH12;80
+823;iibbd32;C1010332;Elemental Mind ResletH22;80
+824;iibbd33;C1010333;Elemental Mind ResletH32;80
+825;iibbd34;C1010334;Elemental Mind ResletH42;80
+826;iibbd35;C1010335;Elemental Mind ResletH52;80
+827;iibbd36;C1010336;Elemental Mind ResletH13;80
+828;iibbd37;C1010337;Elemental Mind ResletH23;80
+829;iibbd38;C1010338;Elemental Mind ResletH33;80
+830;iibbd39;C1010339;Elemental Mind ResletH43;80
+831;iibbd40;C1010340;Elemental Mind ResletH53;80
+832;iibbd41;C1010341;Elemental Mind ResletH14;80
+833;iibbd42;C1010342;Elemental Mind ResletH24;80
+834;iibbd43;C1010343;Elemental Mind ResletH34;80
+835;iibbd44;C1010344;Elemental Mind ResletH44;80
+836;iibbd45;C1010345;Elemental Mind ResletH54;80
+837;iibbd46;C1010346;Elemental Mind ResletH15;80
+838;iibbd47;C1010347;Elemental Mind ResletH25;80
+839;iibbd48;C1010348;Elemental Mind ResletH35;80
+840;iibbd49;C1010349;Elemental Mind ResletH45;80
+841;iibbd50;C1010350;Elemental Mind ResletH55;80
+842;iibbd51;C1010351;Elemental El ResletH1;80
+843;iibbd52;C1010352;Elemental El ResletH2;80
+844;iibbd53;C1010353;Elemental El ResletH3;80
+845;iibbd54;C1010354;Elemental El ResletH4;80
+846;iibbd55;C1010355;Elemental El ResletH5;80
+847;iibbd56;C1010356;Elemental Tome ResletH11;80
+848;iibbd57;C1010357;Elemental Tome ResletH21;80
+849;iibbd58;C1010358;Elemental Tome ResletH31;80
+850;iibbd59;C1010359;Elemental Tome ResletH41;80
+851;iibbd60;C1010360;Elemental Tome ResletH51;80
+852;iibbd61;C1010361;Elemental Tome ResletH12;80
+853;iibbd62;C1010362;Elemental Tome ResletH22;80
+854;iibbd63;C1010363;Elemental Tome ResletH32;80
+855;iibbd64;C1010364;Elemental Tome ResletH42;80
+856;iibbd65;C1010365;Elemental Tome ResletH52;80
+857;iibbd66;C1010366;Elemental Tome ResletH13;80
+858;iibbd67;C1010367;Elemental Tome ResletH23;80
+859;iibbd68;C1010368;Elemental Tome ResletH33;80
+860;iibbd69;C1010369;Elemental Tome ResletH43;80
+861;iibbd70;C1010370;Elemental Tome ResletH53;80
+862;iibbd71;C1010371;Elemental Tome ResletH14;80
+863;iibbd72;C1010372;Elemental Tome ResletH24;80
+864;iibbd73;C1010373;Elemental Tome ResletH34;80
+865;iibbd74;C1010374;Elemental Tome ResletH44;80
+866;iibbd75;C1010375;Elemental Tome ResletH54;80
+867;iibbd76;C1010376;Elemental Tome ResletH15;80
+868;iibbd77;C1010377;Elemental Tome ResletH25;80
+869;iibbd78;C1010378;Elemental Tome ResletH35;80
+870;iibbd79;C1010379;Elemental Tome ResletH45;80
+871;iibbd80;C1010380;Elemental Tome ResletH55;80
+872;iiccd01;C2020301;Elemental Mild ArmletH1;98
+873;iiccd02;C2020302;Elemental Mild ArmletH2;98
+874;iiccd03;C2020303;Elemental Mild ArmletH3;97
+875;iiccd04;C2020304;Elemental Mild ArmletH4;98
+876;iiccd05;C2020305;Elemental Mild ArmletH5;98
+877;iiccd06;C2020306;Elemental Cuss ArmletH1;97
+878;iiccd07;C2020307;Elemental Cuss ArmletH2;98
+879;iiccd08;C2020308;Elemental Cuss ArmletH3;98
+880;iiccd09;C2020309;Elemental Cuss ArmletH4;97
+881;iiccd10;C2020310;Elemental Cuss ArmletH5;98
+882;iiccd11;C2020311;Elemental Den ArmletG1;98
+883;iiccd12;C2020312;Elemental Den ArmletG2;97
+884;iiccd13;C2020313;Elemental Den ArmletG3;98
+885;iiccd14;C2020314;Elemental Den ArmletG4;98
+886;iiccd15;C2020315;Elemental Den ArmletG5;97
+887;iiaad01;C0000301;Elemental Pliant BraceletH11;120
+888;iiaad02;C0000302;Elemental Pliant BraceletH21;120
+889;iiaad03;C0000303;Elemental Pliant BraceletH31;120
+890;iiaad04;C0000304;Elemental Pliant BraceletH41;120
+891;iiaad05;C0000305;Elemental Pliant BraceletH51;120
+892;iiaad06;C0000306;Elemental Pliant BraceletH12;120
+893;iiaad07;C0000307;Elemental Pliant BraceletH22;120
+894;iiaad08;C0000308;Elemental Pliant BraceletH32;120
+895;iiaad09;C0000309;Elemental Pliant BraceletH42;120
+896;iiaad10;C0000310;Elemental Pliant BraceletH52;120
+897;iiaad11;C0000311;Elemental Pliant BraceletH13;120
+898;iiaad12;C0000312;Elemental Pliant BraceletH23;120
+899;iiaad13;C0000313;Elemental Pliant BraceletH33;120
+900;iiaad14;C0000314;Elemental Pliant BraceletH43;120
+901;iiaad15;C0000315;Elemental Pliant BraceletH53;120
+902;iiaad16;C0000316;Elemental Pliant BraceletH14;120
+903;iiaad17;C0000317;Elemental Pliant BraceletH24;120
+904;iiaad18;C0000318;Elemental Pliant BraceletH34;120
+905;iiaad19;C0000319;Elemental Pliant BraceletH44;120
+906;iiaad20;C0000320;Elemental Pliant BraceletH54;120
+907;iiaad21;C0000321;Elemental Pliant BraceletH15;120
+908;iiaad22;C0000322;Elemental Pliant BraceletH25;120
+909;iiaad23;C0000323;Elemental Pliant BraceletH35;120
+910;iiaad24;C0000324;Elemental Pliant BraceletH45;120
+911;iiaad25;C0000325;Elemental Pliant BraceletH55;120
+912;iiaad26;C0000326;Elemental Hue BraceletH11;120
+913;iiaad27;C0000327;Elemental Hue BraceletH21;120
+914;iiaad28;C0000328;Elemental Hue BraceletH31;120
+915;iiaad29;C0000329;Elemental Hue BraceletH41;120
+916;iiaad30;C0000330;Elemental Hue BraceletH51;120
+917;iiaad31;C0000331;Elemental Hue BraceletH12;120
+918;iiaad32;C0000332;Elemental Hue BraceletH22;120
+919;iiaad33;C0000333;Elemental Hue BraceletH32;120
+920;iiaad34;C0000334;Elemental Hue BraceletH42;120
+921;iiaad35;C0000335;Elemental Hue BraceletH52;120
+922;iiaad36;C0000336;Elemental Hue BraceletH13;120
+923;iiaad37;C0000337;Elemental Hue BraceletH23;120
+924;iiaad38;C0000338;Elemental Hue BraceletH33;120
+925;iiaad39;C0000339;Elemental Hue BraceletH43;120
+926;iiaad40;C0000340;Elemental Hue BraceletH53;120
+927;iiaad41;C0000341;Elemental Hue BraceletH14;120
+928;iiaad42;C0000342;Elemental Hue BraceletH24;120
+929;iiaad43;C0000343;Elemental Hue BraceletH34;120
+930;iiaad44;C0000344;Elemental Hue BraceletH44;120
+931;iiaad45;C0000345;Elemental Hue BraceletH54;120
+932;iiaad46;C0000346;Elemental Hue BraceletH15;120
+933;iiaad47;C0000347;Elemental Hue BraceletH25;120
+934;iiaad48;C0000348;Elemental Hue BraceletH35;120
+935;iiaad49;C0000349;Elemental Hue BraceletH45;120
+936;iiaad50;C0000350;Elemental Hue BraceletH55;120
+937;iiaad51;C0000351;Elemental Power BraceletH1;120
+938;iiaad52;C0000352;Elemental Power BraceletH2;120
+939;iiaad53;C0000353;Elemental Power BraceletH3;120
+940;iiaad54;C0000354;Elemental Power BraceletH4;120
+941;iiaad55;C0000355;Elemental Power BraceletH5;120
+942;iiaad56;C0000356;Elemental Mighty BraceletH11;120
+943;iiaad57;C0000357;Elemental Mighty BraceletH21;120
+944;iiaad58;C0000358;Elemental Mighty BraceletH31;120
+945;iiaad59;C0000359;Elemental Mighty BraceletH41;120
+946;iiaad60;C0000360;Elemental Mighty BraceletH51;120
+947;iiaad61;C0000361;Elemental Mighty BraceletH12;120
+948;iiaad62;C0000362;Elemental Mighty BraceletH22;120
+949;iiaad63;C0000363;Elemental Mighty BraceletH32;120
+950;iiaad64;C0000364;Elemental Mighty BraceletH42;120
+951;iiaad65;C0000365;Elemental Mighty BraceletH52;120
+952;iiaad66;C0000366;Elemental Mighty BraceletH13;120
+953;iiaad67;C0000367;Elemental Mighty BraceletH23;120
+954;iiaad68;C0000368;Elemental Mighty BraceletH33;120
+955;iiaad69;C0000369;Elemental Mighty BraceletH43;120
+956;iiaad70;C0000370;Elemental Mighty BraceletH53;120
+957;iiaad71;C0000371;Elemental Mighty BraceletH14;120
+958;iiaad72;C0000372;Elemental Mighty BraceletH24;120
+959;iiaad73;C0000373;Elemental Mighty BraceletH34;120
+960;iiaad74;C0000374;Elemental Mighty BraceletH44;120
+961;iiaad75;C0000375;Elemental Mighty BraceletH54;120
+962;iiaad76;C0000376;Elemental Mighty BraceletH15;120
+963;iiaad77;C0000377;Elemental Mighty BraceletH25;120
+964;iiaad78;C0000378;Elemental Mighty BraceletH35;120
+965;iiaad79;C0000379;Elemental Mighty BraceletH45;120
+966;iiaad80;C0000380;Elemental Mighty BraceletH55;120
+967;iicsa01;C2120001;Beginners Ring;157
+968;iixqu01;D7101401;Symbol of Novus Ring;159
+969;iibrz01;C1111901;RFOnline Commercialize Ring;161
+970;iibev01;C1041501;Winner's BraceletA;162
+971;iiaev01;C0041501;Winner's BraceletB;163
+972;iibev02;C1041502;Winner's BraceletA;162
+973;iiaev02;C0041502;Winner's BraceletB;163
+974;iibhh01;C1070701;DarkFog Master's Ring;178
+975;iibhh02;C1070702;DarkFog Master's Ring;178
+976;iibhh03;C1070703;DarkFog Master's Ring;178
+977;iibhh04;C1070704;DarkFog Master's Ring;178
+978;iibhh05;C1070705;DarkFog Master's Ring;178
+979;iibhg01;C1070601;Infinite Memory's Ring;179
+980;iibhg02;C1070602;Infinite Memory's Ring;179
+981;iibhg03;C1070603;Infinite Memory's Ring;179
+982;iibhg04;C1070604;Infinite Memory's Ring;179
+983;iibhg05;C1070605;Infinite Memory's Ring;179
+984;iibhq01;C1071001;DarkHall Queen's Ring;180
+985;iibhq02;C1071002;DarkHall Queen's Ring;180
+986;iibhq03;C1071003;DarkHall Queen's Ring;180
+987;iibhq04;C1071004;DarkHall Queen's Ring;180
+988;iibhq05;C1071005;DarkHall Queen's Ring;180
+989;iibhb01;C1070101;BaalHamon's Ring;181
+990;iibhb02;C1070102;BaalHamon's Ring;181
+991;iibhb03;C1070103;Hora BaalHamon's Ring;181
+992;iibhb04;C1070104;Hora BaalHamon's Ring;181
+993;iibhb05;C1070105;Hora BaalHamon's Ring;181
+994;iichh01;C2070701;DarkFog Master's Ring;178
+995;iichh02;C2070702;DarkFog Master's Ring;178
+996;iichh03;C2070703;DarkFog Master's Ring;178
+997;iichh04;C2070704;DarkFog Master's Ring;178
+998;iichh05;C2070705;DarkFog Master's Ring;178
+999;iichg01;C2070601;Infinite Memory's Ring;179
+1000;iichg02;C2070602;Infinite Memory's Ring;179
+1001;iichg03;C2070603;Infinite Memory's Ring;179
+1002;iichg04;C2070604;Infinite Memory's Ring;179
+1003;iichg05;C2070605;Infinite Memory's Ring;179
+1004;iichq01;C2071001;DarkHall Queen's Ring;180
+1005;iichq02;C2071002;DarkHall Queen's Ring;180
+1006;iichq03;C2071003;DarkHall Queen's Ring;180
+1007;iichq04;C2071004;DarkHall Queen's Ring;180
+1008;iichq05;C2071005;DarkHall Queen's Ring;180
+1009;iichb01;C2070101;BaalHamon's Ring;181
+1010;iichb02;C2070102;BaalHamon's Ring;181
+1011;iichb03;C2070103;Hora BaalHamon's Ring;181
+1012;iichb04;C2070104;Hora BaalHamon's Ring;181
+1013;iichb05;C2070105;Hora BaalHamon's Ring;181
+1014;iiahh01;C0070701;DarkFog Master's Ring;178
+1015;iiahh02;C0070702;DarkFog Master's Ring;178
+1016;iiahh03;C0070703;DarkFog Master's Ring;178
+1017;iiahh04;C0070704;DarkFog Master's Ring;178
+1018;iiahh05;C0070705;DarkFog Master's Ring;178
+1019;iiahg01;C0070601;Infinite Memory's Ring;179
+1020;iiahg02;C0070602;Infinite Memory's Ring;179
+1021;iiahg03;C0070603;Infinite Memory's Ring;179
+1022;iiahg04;C0070604;Infinite Memory's Ring;179
+1023;iiahg05;C0070605;Infinite Memory's Ring;179
+1024;iiahq01;C0071001;DarkHall Queen's Ring;180
+1025;iiahq02;C0071002;DarkHall Queen's Ring;180
+1026;iiahq03;C0071003;DarkHall Queen's Ring;180
+1027;iiahq04;C0071004;DarkHall Queen's Ring;180
+1028;iiahq05;C0071005;DarkHall Queen's Ring;180
+1029;iiahb01;C0070101;BaalHamon's Ring;181
+1030;iiahb02;C0070102;BaalHamon's Ring;181
+1031;iiahb03;C0070103;Hora BaalHamon's Ring;181
+1032;iiahb04;C0070104;Hora BaalHamon's Ring;181
+1033;iiahb05;C0070105;Hora BaalHamon's Ring;181
+1034;iibna01;C10D0001;Starved Beast's Ring;182
+1035;iibna02;C10D0002;Starved Beast's Ring;182
+1036;iibna03;C10D0003;Starved Beast's Ring;182
+1037;iibna04;C10D0004;Violent Wild's Earring;183
+1038;iibna05;C10D0005;Violent Wild's Earring;183
+1039;iibna06;C10D0006;Violent Wild's Earring;183
+1040;iibna07;C10D0007;Fluctuating Beast Vital's Earring;184
+1041;iibna08;C10D0008;Fluctuating Beast Vital's Earring;184
+1042;iibna09;C10D0009;Fluctuating Beast Vital's Earring;184
+1043;iibna10;C10D0010;Outcasted Marauder's Earring;185
+1044;iibna11;C10D0011;Outcasted Marauder's Earring;185
+1045;iibna12;C10D0012;Outcasted Marauder's Earring;185
+1046;iibna13;C10D0013;Liberated Outcast's Ring;186
+1047;iibna14;C10D0014;Liberated Outcast's Ring;186
+1048;iibna15;C10D0015;Liberated Outcast's Ring;186
+1049;iibna16;C10D0016;Dead Outcast's Ring;187
+1050;iibna17;C10D0017;Dead Outcast's Ring;187
+1051;iibna18;C10D0018;Dead Outcast's Ring;187
+1052;iicna01;C20D0001;Starved Beast's Ring;182
+1053;iicna02;C20D0002;Starved Beast's Ring;182
+1054;iicna03;C20D0003;Starved Beast's Ring;182
+1055;iicna04;C20D0004;Violent Wild's Earring;183
+1056;iicna05;C20D0005;Violent Wild's Earring;183
+1057;iicna06;C20D0006;Violent Wild's Earring;183
+1058;iicna07;C20D0007;Fluctuating Beast Vital's Earring;184
+1059;iicna08;C20D0008;Fluctuating Beast Vital's Earring;184
+1060;iicna09;C20D0009;Fluctuating Beast Vital's Earring;184
+1061;iicna10;C20D0010;Outcasted Marauder's Earring;185
+1062;iicna11;C20D0011;Outcasted Marauder's Earring;185
+1063;iicna12;C20D0012;Outcasted Marauder's Earring;185
+1064;iicna13;C20D0013;Liberated Outcast's Ring;186
+1065;iicna14;C20D0014;Liberated Outcast's Ring;186
+1066;iicna15;C20D0015;Liberated Outcast's Ring;186
+1067;iicna16;C20D0016;Dead Outcast's Ring;187
+1068;iicna17;C20D0017;Dead Outcast's Ring;187
+1069;iicna18;C20D0018;Dead Outcast's Ring;187
+1070;iiana01;C00D0001;Starved Beast's Ring;182
+1071;iiana02;C00D0002;Starved Beast's Ring;182
+1072;iiana03;C00D0003;Starved Beast's Ring;182
+1073;iiana04;C00D0004;Violent Wild's Earring;183
+1074;iiana05;C00D0005;Violent Wild's Earring;183
+1075;iiana06;C00D0006;Violent Wild's Earring;183
+1076;iiana07;C00D0007;Fluctuating Beast Vital's Earring;184
+1077;iiana08;C00D0008;Fluctuating Beast Vital's Earring;184
+1078;iiana09;C00D0009;Fluctuating Beast Vital's Earring;184
+1079;iiana10;C00D0010;Outcasted Marauder's Earring;185
+1080;iiana11;C00D0011;Outcasted Marauder's Earring;185
+1081;iiana12;C00D0012;Outcasted Marauder's Earring;185
+1082;iiana13;C00D0013;Liberated Outcast's Ring;186
+1083;iiana14;C00D0014;Liberated Outcast's Ring;186
+1084;iiana15;C00D0015;Liberated Outcast's Ring;186
+1085;iiana16;C00D0016;Dead Outcast's Ring;187
+1086;iiana17;C00D0017;Dead Outcast's Ring;187
+1087;iiana18;C00D0018;Dead Outcast's Ring;187
+1088;iidgn01;C3060D01;Dagnu's Ring;190
+1089;iidgn02;C3060D02;Dagan's Ring;191
+1090;iiquc01;D0140201;Divinity's Ring;159
+1091;iibka01;C10A0001;Solid Khan's Bracelet;192
+1092;iibka02;C10A0002;Fierce Khan's Bracelet;192
+1093;iicka01;C20A0001;Solid Khan's Bracelet;192
+1094;iicka02;C20A0002;Pliable Khan's Bracelet;192
+1095;iicka03;C20A0003;Fierce Khan's Bracelet;192
+1096;iiaka01;C00A0001;Solid Khan's Bracelet;192
+1097;iiaka02;C00A0002;Fierce Khan's Bracelet;192
+1098;iibbd81;C1010381;KeeperSlayer Guard Leacelet;80
+1099;iibbd82;C1010382;KeeperSlayer Guard Leacelet;80
+1100;iibbd83;C1010383;KeeperSlayer Guard Leacelet;80
+1101;iiccd16;C2020316;KeeperSlayer Charge Armlet;98
+1102;iiccd17;C2020317;KeeperSlayer Charge Armlet;98
+1103;iiccd18;C2020318;KeeperSlayer Charge Armlet;98
+1104;iiccd19;C2020319;KeeperSlayer Den Armlet;97
+1105;iiccd20;C2020320;KeeperSlayer Den Armlet;97
+1106;iiccd21;C2020321;KeeperSlayer Den Armlet;97
+1107;iiaad81;C0000381;KeeperSlayer Mammoth Bracelet;120
+1108;iiaad82;C0000382;KeeperSlayer Mammoth Bracelet;120
+1109;iiaad83;C0000383;KeeperSlayer Mammoth Bracelet;120
+1110;iibbx81;C1011781;Harvest Festival MoonRabbit Leacelet;80
+1111;iibbx82;C1011782;Harvest Festival MoonRabbit Leacelet;80
+1112;iibbx83;C1011783;Harvest Festival MoonRabbit Leacelet;80
+1113;iiccx16;C2021716;Harvest Festival MoonRabbit ArmletA;98
+1114;iiccx17;C2021717;Harvest Festival MoonRabbit ArmletA;98
+1115;iiccx18;C2021718;Harvest Festival MoonRabbit ArmletA;98
+1116;iiccx19;C2021719;Harvest Festival MoonRabbit ArmletB;97
+1117;iiccx20;C2021720;Harvest Festival MoonRabbit ArmletB;97
+1118;iiccx21;C2021721;Harvest Festival MoonRabbit ArmletB;97
+1119;iiaax81;C0001781;Harvest Festival MoonRabbit Bracelet;120
+1120;iiaax82;C0001782;Harvest Festival MoonRabbit Bracelet;120
+1121;iiaax83;C0001783;Harvest Festival MoonRabbit Bracelet;120
+1122;iiqsa01;D0120001;Volcano Expedition Commemoration Ring;194
+1123;iiqsa02;D0120002;Elan Expedition Commemoration Ring;198
+1124;iiqsa03;D0120003;Ring of Chooty Slayer;199
+1125;iiqsa04;D0120004;Patience of Nazaal;201
+1126;iiqsa05;D0120005;Breath of Nazaal;201
+1127;iibol01;C10E0B01;2008 Beijing Olympic Commemoration Medal;214
+1128;iibol02;C10E0B02;2008 Beijing Olympic Commemoration Medal;214
+1129;iicsa02;C2120002;RingA of Middle Class;215
+1130;iixxx04;D7171704;Avoidance Ring for Adventurer;121
+1131;iicsa04;C2120004;Beginners Ring;157
+1132;iicsa03;C2120003;RingB of Middle Class;215
+1133;iiglb01;C60B0101;Hungry WildBeast Ring LowClass;215
+1134;iiglb02;C60B0102;Hungry WildBeast Ring MiddleClass;215
+1135;iiglb03;C60B0103;Hungry WildBeast Ring HighClass;215
+1136;iiglc01;C60B0201;Hungry WildBeast Ring LowClass;215
+1137;iiglc02;C60B0202;Hungry WildBeast Ring MiddleClass;215
+1138;iiglc03;C60B0203;Hungry WildBeast Ring HighClass;215
+1139;iigla01;C60B0001;Hungry WildBeast Ring LowClass;215
+1140;iigla02;C60B0002;Hungry WildBeast Ring MiddleClass;215
+1141;iigla03;C60B0003;Hungry WildBeast Ring HighClass;215
+1142;iiglb04;C60B0104;Waved WildBeast Life's Ring LowClass;215
+1143;iiglb05;C60B0105;Waved WildBeast Life's Ring MiddleClass;215
+1144;iiglb06;C60B0106;Waved WildBeast Life's Ring HighClass;215
+1145;iiglc04;C60B0204;Waved WildBeast Life's Ring LowClass;215
+1146;iiglc05;C60B0205;Waved WildBeast Life's Ring MiddleClass;215
+1147;iiglc06;C60B0206;Waved WildBeast Life's Ring HighClass;215
+1148;iigla04;C60B0004;Waved WildBeast Life's Ring LowClass;215
+1149;iigla05;C60B0005;Waved WildBeast Life's Ring MiddleClass;215
+1150;iigla06;C60B0006;Waved WildBeast Life's Ring HighClass;215
+1151;iiglb07;C60B0107;Possessed nature's ring LowClass;215
+1152;iiglb08;C60B0108;Possessed nature's ring MiddleClass;215
+1153;iiglb09;C60B0109;Possessed nature's ring HighClass;215
+1154;iiglc07;C60B0207;Possessed nature's ring LowClass;215
+1155;iiglc08;C60B0208;Possessed nature's ring MiddleClass;215
+1156;iiglc09;C60B0209;Possessed nature's ring HighClass;215
+1157;iigla07;C60B0007;Possessed nature's ring LowClass;215
+1158;iigla08;C60B0008;Possessed nature's ring MiddleClass;215
+1159;iigla09;C60B0009;Possessed nature's ring HighClass;215
+1160;iiglb10;C60B0110;Exiled Plunderer's ring LowClass;215
+1161;iiglb11;C60B0111;Exiled Plunderer's ring MiddleClass;215
+1162;iiglb12;C60B0112;Exiled Plunderer's ring HIghClass;215
+1163;iiglc10;C60B0210;Exiled Plunderer's ring LowClass;215
+1164;iiglc11;C60B0211;Exiled Plunderer's ring MiddleClass;215
+1165;iiglc12;C60B0212;Exiled Plunderer's ring HIghClass;215
+1166;iigla10;C60B0010;Exiled Plunderer's ring LowClass;215
+1167;iigla11;C60B0011;Exiled Plunderer's ring MiddleClass;215
+1168;iigla12;C60B0012;Exiled Plunderer's ring HIghClass;215
+1169;iiglb13;C60B0113;Released Purgee's Ring LowClass;215
+1170;iiglb14;C60B0114;Released Purgee's Ring MiddleClass;215
+1171;iiglb15;C60B0115;Released Purgee's Ring HighClass;215
+1172;iiglc13;C60B0213;Released Purgee's Ring LowClass;215
+1173;iiglc14;C60B0214;Released Purgee's Ring MiddleClass;215
+1174;iiglc15;C60B0215;Released Purgee's Ring HighClass;215
+1175;iigla13;C60B0013;Released Purgee's Ring LowClass;215
+1176;iigla14;C60B0014;Released Purgee's Ring MiddleClass;215
+1177;iigla15;C60B0015;Released Purgee's Ring HighClass;215
+1178;iiglb16;C60B0116;Dead Purgee's Ring LowClass;215
+1179;iiglb17;C60B0117;Dead Purgee's Ring MiddleClass;215
+1180;iiglb18;C60B0118;Dead Purgee's Ring HighClass;215
+1181;iiglc16;C60B0216;Dead Purgee's Ring LowClass;215
+1182;iiglc17;C60B0217;Dead Purgee's Ring MiddleClass;215
+1183;iiglc18;C60B0218;Dead Purgee's Ring HighClass;215
+1184;iigla16;C60B0016;Dead Purgee's Ring LowClass;215
+1185;iigla17;C60B0017;Dead Purgee's Ring MiddleClass;215
+1186;iigla18;C60B0018;Dead Purgee's Ring HighClass;215
+;;;;101
+;;;;101
+;;;;101
+;;;;101
+;;;;101
+;;;;101
+;;;;102
+;;;;102
+;;;;102
+;;;;102
+;;;;102
+;;;;102
+;;;;102
+;;;;103
+;;;;103
+;;;;103
+;;;;103
+;;;;103
+;;;;103
+;;;;103
+;;;;104
+;;;;104
+;;;;104
+;;;;104
+;;;;104
+;;;;104
+;;;;104
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;105
+;;;;106
+;;;;106
+;;;;106
+;;;;106
+;;;;106
+;;;;106
+;;;;106
+;;;;106
+;;;;106
+;;;;106
+;;;;106
+;;;;106
+;;;;106
+;;;;106
+;;;;107
+;;;;107
+;;;;107
+;;;;107
+;;;;107
+;;;;107
+;;;;107
+;;;;110
+;;;;110
+;;;;110
+;;;;110
+;;;;110
+;;;;110
+;;;;110
+;;;;112
+;;;;112
+;;;;112
+;;;;112
+;;;;112
+;;;;112
+;;;;112
+;;;;109
+;;;;109
+;;;;109
+;;;;109
+;;;;109
+;;;;109
+;;;;109
+;;;;111
+;;;;111
+;;;;111
+;;;;111
+;;;;111
+;;;;111
+;;;;111
+;;;;113
+;;;;113
+;;;;113
+;;;;113
+;;;;113
+;;;;113
+;;;;113
+;;;;114
+;;;;114
+;;;;114
+;;;;114
+;;;;114
+;;;;114
+;;;;114
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;118
+;;;;118
+;;;;118
+;;;;118
+;;;;118
+;;;;118
+;;;;118
+;;;;117
+;;;;117
+;;;;117
+;;;;117
+;;;;117
+;;;;117
+;;;;117
+;;;;117
+;;;;118
+;;;;119
+;;;;120
+;;;;117
+;;;;118
+;;;;119
+;;;;120
+;;;;117
+;;;;118
+;;;;119
+;;;;120
+;;;;117
+;;;;118
+;;;;119
+;;;;120
+;;;;117
+;;;;118
+;;;;119
+;;;;120
+;;;;117
+;;;;118
+;;;;119
+;;;;120
+;;;;117
+;;;;118
+;;;;119
+;;;;120
+;;;;117
+;;;;118
+;;;;119
+;;;;120
+;;;;117
+;;;;118
+;;;;119
+;;;;120
+;;;;117
+;;;;118
+;;;;119
+;;;;120
+;;;;149
+;;;;151
+;;;;150
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;0
+;;;;121
+;;;;121
+;;;;121
+;;;;124
+;;;;125
+;;;;126
+;;;;127
+;;;;128
+;;;;129
+;;;;130
+;;;;131
+;;;;132
+;;;;139
+;;;;140
+;;;;141
+;;;;152
+;;;;152
+;;;;152
+;;;;152
+;;;;152
+;;;;152
+;;;;152
+;;;;152
+;;;;152
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;80
+;;;;98
+;;;;98
+;;;;97
+;;;;98
+;;;;98
+;;;;97
+;;;;98
+;;;;98
+;;;;97
+;;;;98
+;;;;98
+;;;;97
+;;;;98
+;;;;98
+;;;;97
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;120
+;;;;157
+;;;;159
+;;;;161
+;;;;162
+;;;;163
+;;;;162
+;;;;163
+;;;;178
+;;;;178
+;;;;178
+;;;;178
+;;;;178
+;;;;179
+;;;;179
+;;;;179
+;;;;179
+;;;;179
+;;;;180
+;;;;180
+;;;;180
+;;;;180
+;;;;180
+;;;;181
+;;;;181
+;;;;181
+;;;;181
+;;;;181
+;;;;178
+;;;;178
+;;;;178
+;;;;178
+;;;;178
+;;;;179
+;;;;179
+;;;;179
+;;;;179
+;;;;179
+;;;;180
+;;;;180
+;;;;180
+;;;;180
+;;;;180
+;;;;181
+;;;;181
+;;;;181
+;;;;181
+;;;;181
+;;;;178
+;;;;178
+;;;;178
+;;;;178
+;;;;178
+;;;;179
+;;;;179
+;;;;179
+;;;;179
+;;;;179
+;;;;180
+;;;;180
+;;;;180
+;;;;180
+;;;;180
+;;;;181
+;;;;181
+;;;;181
+;;;;181
+;;;;181
+;;;;182
+;;;;182
+;;;;182
+;;;;183
+;;;;183
+;;;;183
+;;;;184
+;;;;184
+;;;;184
+;;;;185
+;;;;185
+;;;;185
+;;;;186
+;;;;186
+;;;;186
+;;;;187
+;;;;187
+;;;;187
+;;;;182
+;;;;182
+;;;;182
+;;;;183
+;;;;183
+;;;;183
+;;;;184
+;;;;184
+;;;;184
+;;;;185
+;;;;185
+;;;;185
+;;;;186
+;;;;186
+;;;;186
+;;;;187
+;;;;187
+;;;;187
+;;;;182
+;;;;182
+;;;;182
+;;;;183
+;;;;183
+;;;;183
+;;;;184
+;;;;184
+;;;;184
+;;;;185
+;;;;185
+;;;;185
+;;;;186
+;;;;186
+;;;;186
+;;;;187
+;;;;187
+;;;;187
+;;;;190
+;;;;191
+;;;;159
+;;;;192
+;;;;192
+;;;;192
+;;;;192
+;;;;192
+;;;;192
+;;;;192
+;;;;80
+;;;;80
+;;;;80
+;;;;98
+;;;;98
+;;;;98
+;;;;97
+;;;;97
+;;;;97
+;;;;120
+;;;;120
+;;;;120
+;;;;80
+;;;;80
+;;;;80
+;;;;98
+;;;;98
+;;;;98
+;;;;97
+;;;;97
+;;;;97
+;;;;120
+;;;;120
+;;;;120
+;;;;194
+;;;;198
+;;;;199
+;;;;201
+;;;;201
+;;;;214
+;;;;214
+;;;;215
+;;;;121
+;;;;157
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215
+;;;;215

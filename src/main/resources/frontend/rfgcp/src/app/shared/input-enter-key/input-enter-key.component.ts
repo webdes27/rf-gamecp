@@ -1,4 +1,4 @@
-import {Component, HostListener, Input, OnInit} from '@angular/core';
+import {Component, EventEmitter, HostListener, Input, OnInit, Output} from '@angular/core';
 
 @Component({
   selector: 'app-input-enter-key',
@@ -7,9 +7,9 @@ import {Component, HostListener, Input, OnInit} from '@angular/core';
 })
 export class InputEnterKeyComponent implements OnInit {
 
-  @Input() nome: string;
+  private nome: string;
   private noFoco: boolean;
-  @Input() submit: any;
+  @Output() submit = new EventEmitter();
   @Input() label: string = null;
   @Input() placeholder: string;
 
@@ -21,7 +21,7 @@ export class InputEnterKeyComponent implements OnInit {
   @HostListener('window:keyup', ['$event'])
   keyListener(event: KeyboardEvent) {
     if (event.key === 'Enter' && this.noFoco) {
-      this.submit();
+      this.submit.emit(this.nome);
     }
   }
 

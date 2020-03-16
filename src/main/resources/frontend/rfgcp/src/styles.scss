@@ -18,6 +18,11 @@ body {
   border-color: #f4c03e !important
 }
 
+.bg-default {
+  background-color: rgba(1, 115, 167, 1);
+  color: white;
+}
+
 .btn-primary:hover {
   background-color: #f4c03e !important;
   outline: #f4c03e !important;
@@ -29,7 +34,13 @@ body {
 }
 
 h1, h2, h3, h4, h5, p {
-  color: #8D8E8E;
+  color: #828282;
+}
+
+.td-primary {
+  th,td {
+    color: #828282;
+  }
 }
 
 .shine {
@@ -99,4 +110,14 @@ h1, h2, h3, h4, h5, p {
 
 .green {
   background-color: #0F0;
+}
+
+.bg-bellato {
+  background-color: #CC6699;
+}
+.bg-accretia {
+  background-color: #919191;
+}
+.bg-cora {
+  background-color: #9933CC;
 }

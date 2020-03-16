@@ -1,0 +1,47 @@
+Index;Server Code;Client Code;English Name;Image ID
+0;ixbdn25;C1030D25;Battle Dungeon Gate;1
+1;ixbdp25;C1030F25;Battle Dungeon Gate;1
+2;ixbdn20;C1030D20;Battle Dungeon Gate;1
+3;ixbdp20;C1030F20;Battle Dungeon Gate;1
+4;ixkey01;CA041801;Gateway Generating Key;2
+5;ixkey02;CA041802;Gateway Generating Key;2
+6;ixkey03;CA041803;Gateway Generating Key;2
+7;ixkey04;CA041804;Gateway Generating Key;2
+8;ixkey05;CA041805;Gateway Generating Key;2
+9;ixkey06;CA041806;Gateway Generating Key;2
+10;ixkey07;CA041807;Gateway Generating Key;2
+11;ixkey08;CA041808;Gateway Generating Key;2
+12;ixkey09;CA041809;Gateway Generating Key;2
+13;ixkey10;CA041810;Gateway Generating Key;2
+14;ixkey11;CA041811;Gateway Generating Key;2
+15;ixkey12;CA041812;Gateway Generating Key;2
+16;ixkey13;CA041813;Gateway Generating Key;2
+17;ixkey14;CA041814;Gateway Generating Key;2
+18;ixkey15;CA041815;Gateway Generating Key;2
+19;ixkey16;CA041816;Gateway Generating Key;2
+20;ixkey17;CA041817;Gateway Generating Key;2
+21;ixkey18;CA041818;Gateway Generating Key;2
+22;ixkey19;CA041819;Gateway Generating Key;2
+23;ixkey20;CA041820;Gateway Generating Key;2
+24;ixkey21;CA041821;Gateway Generating Key;2
+25;ixkey22;CA041822;Gateway Generating Key;2
+26;ixkey23;CA041823;Gateway Generating Key;2
+27;ixkey24;CA041824;Gateway Generating Key;2
+28;ixkey25;CA041825;Gateway Generating Key;3
+29;ixkey26;CA041826;Gateway Generating Key;3
+30;ixkey27;CA041827;Gateway Generating Key;3
+31;ixkey28;CA041828;Gateway Generating Key;3
+32;ixkey29;CA041829;Gateway Generating Key;3
+33;ixkey30;CA041830;Gateway Generating Key;3
+34;ixkey31;CA041831;Gateway Generating Key;3
+35;ixkey32;CA041832;Gateway Creating Key;3
+36;ixbde25;C1030425;Shiny Gate;1
+37;ixbde35;C1030435;Event Dungeon31~35;1
+38;ixbde40;C1030440;Event Dungeon36~40;1
+39;ixbee25;C1040425;Event Dungeon30;1
+40;ixbee35;C1040435;Event Dungeon35;1
+41;ixbee40;C1040440;Event Dungeon40;1
+42;ixins01;C80D1201;Gateway creation key;1
+43;ixins02;C80D1202;Gateway creation key;1
+44;ixins03;C80D1203;A dimension tranfer Gate Creation Key[The Present];1
+45;ixins04;C80D1204;A dimension tranfer Gate Creation Key[The Future];1

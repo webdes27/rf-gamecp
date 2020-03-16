@@ -1,0 +1,324 @@
+Index;Server Code;Client Code;English Name;Image ID
+0;irriu01;D1081401;Fetalium;1
+1;irriu02;D1081402;Lutalium;2
+2;irriu03;D1081403;Ostalium;3
+3;irriu04;D1081404;Haitalium;4
+4;irriu05;D1081405;Firstalium;5
+5;irrio01;D1080E01;Cotalrio;6
+6;irrio02;D1080E02;Lotalrio;7
+7;irrio03;D1080E03;Iritalrio;8
+8;irrio04;D1080E04;Metalrio;9
+9;irrio05;D1080E05;Utalrio;10
+10;irrus01;D1141201;Baytalrous;11
+11;irrus02;D1141202;Niotalrous;12
+12;irrus03;D1141203;Teitalrous;13
+13;irrus04;D1141204;Dutalrous;14
+14;irrus05;D1141205;Protalrous;15
+15;irria01;D1080001;Crotalian;16
+16;irria02;D1080002;Motalian;17
+17;irria03;D1080003;Tutalian;18
+18;irria04;D1080004;Setalian;19
+19;irria05;D1080005;Newtalian;20
+20;irtal01;D3000B01;Keen Talic;21
+21;irtal02;D3000B02;Destruction Talic;22
+22;irtal03;D3000B03;Darkness Talic;23
+23;irtal04;D3000B04;Chaos Talic;24
+24;irtal05;D3000B05;Hatred Talic;25
+25;irtal06;D3000B06;Favor Talic;26
+26;irtal07;D3000B07;Wisdom Talic;27
+27;irtal08;D3000B08;SacredFire Talic;28
+28;irtal09;D3000B09;Belief Talic;29
+29;irtal10;D3000B10;Guard Talic;30
+30;irtal11;D3000B11;Glory Talic;31
+31;irtal12;D3000B12;Grace Talic;32
+32;irtal13;D3000B13;Mercy Talic;33
+33;irtal14;D3000B14;Restoration Talic;34
+34;irgef01;C6040501;Ruby;35
+35;irgef02;C6040502;Light Ruby;36
+36;irgef03;C6040503;Fire Ruby;37
+37;irgea01;C6040001;Crystal;38
+38;irgea02;C6040002;Water Crystal;39
+39;irgea03;C6040003;Ice Crystal;40
+40;irget01;C6041301;Topaz;41
+41;irget02;C6041302;Terra Topaz;42
+42;irget03;C6041303;Poison Topaz;43
+43;irgew01;C6041601;Obsidian;44
+44;irgew02;C6041602;Lightning Obsidian;45
+45;irgew03;C6041603;Wind Obsidian;46
+46;irjad01;C9000301;Lucky Jade;47
+47;irjad02;C9000302;Promise Jade;48
+48;irjad03;C9000303;Wealth Jade;49
+49;irjad04;C9000304;Talk Jade;50
+50;irjad05;C9000305;Separation Jade;51
+51;irebl01;C4010B01;Black ExcelSiar Piece;52
+52;irere01;C4110401;Red ExcelSiar Piece;53
+53;irebu01;C4011401;Blue ExcelSiar Piece;54
+54;iregr01;C4061101;Green ExcelSiar Piece;55
+55;ireyl01;C4180B01;Yellow ExcelSiar Piece;56
+56;irepu01;C40F1401;Purple ExcelSiar Piece;57
+57;irewh01;C4160701;White ExcelSiar Piece;58
+58;irebw01;C4011601;Brown ExcelSiar Piece;59
+59;ireol01;C40E0B01;Olive ExcelSiar Piece;60
+60;irena01;C40D0001;Navy ExcelSiar Piece;61
+61;irchr01;C2071101;Christmas JadeOfWealth;62
+62;irchr02;C2071102;Christmas JadeOfSecession;63
+63;irval01;D5000B01;Flowers;64
+64;irgef04;C6040504;Salamander Ruby;65
+65;irgea04;C6040004;Angel Crystal;66
+66;irget04;C6041304;Elemental Topaz;67
+67;irgew04;C6041604;Truth Obsidian;68
+68;ircsa01;C2120001;Lucky Ruby;69
+69;ircsa02;C2120002;Lucky Crystal;70
+70;ircsa03;C2120003;Lucky Topaz;71
+71;ircsa04;C2120004;Lucky Obsidian;72
+72;irres01;D1041201;Red Stone;75
+73;ircsa05;C2120005;Abundance Jade 24Hrs;73
+74;ircsa06;C2120006;Abundance Jade 144Hrs;73
+75;ircsa07;C2120007;Abundance Jade 336Hrs;73
+76;ircsa08;C2120008;Abundance Jade 720Hrs;73
+77;ircsa09;C2120009;Relief Jade 24Hrs;74
+78;ircsa10;C2120010;Relief Jade 144Hrs;74
+79;ircsa11;C2120011;Relief Jade 336Hrs;74
+80;ircsa12;C2120012;Relief Jade 720Hrs;74
+81;ircht01;C2071301;Blue Powder;77
+82;irbls01;C10B1201;Blue Stone;76
+83;irskl01;D20A0B01;Ard-Rune Stone;79
+84;irevn01;C4150D01;Jade of Relief[Event];78
+85;irmap01;CC000F01;Black Sparking Stone;80
+86;irmap03;CC000F03;Soul Flame Stone;81
+87;irbud01;C1140301;Lucky Beads 1Hr;82
+88;irbud02;C1140302;Blessed Beads 10Mins;83
+89;irbud03;C1140303;Blessed Beads 30Mins;83
+90;irbud04;C1140304;Blessed Beads 1Hr;83
+91;irbud05;C1140305;Intelligent Beads 10Mins;84
+92;irbud06;C1140306;Intelligent Beads 30Mins;84
+93;irbud07;C1140307;Intelligent Beads 1Hr;84
+94;irbud08;C1140308;Buddhist Statue of Abundance;85
+95;irpre01;CF110401;Premium Card;86
+96;ircsa13;C2120013;Abundance Jade 6Hrs;73
+97;ircsa14;C2120014;Abundance Jade 12Hrs;73
+98;ircsa15;C2120015;Abundance Jade 20Hrs;73
+99;ircsa16;C2120016;Abundance Jade 30Hrs;73
+100;ircsa17;C2120017;Relief Jade 6Hrs;74
+101;ircsa18;C2120018;Relief Jade 12Hrs;74
+102;ircsa19;C2120019;Relief Jade 20Hrs;74
+103;ircsa20;C2120020;Relief Jade 30Hrs;74
+104;irhst01;C7121301;Holystone Piece;87
+105;ircry01;C2111801;Talic's Crystal;88
+106;ircsa21;C2120021;Jade of Abundance: Usage time between: 6PM - 1AM;73
+107;ircsa22;C2120022;Jade of Abundance: Usage time between: 6AM - 1PM;73
+108;ircsa23;C2120023;Cartella Rank;89
+109;ircry02;C2111802;Pexion Crystal[Eldicroche's Horn];90
+110;irsry01;D2111801;Developers reflective document;91
+111;irhst02;C7121302;Brilliant Halostone Piece;111
+112;irhst03;C7121303;Shining Halostone Piece;112
+113;irhst04;C7121304;Transparent Halostone Piece;113
+114;irhst05;C7121305;Linguistic Halostone Piece;114
+115;irhst06;C7121306;Dreaming Halostone Piece;115
+116;irhst07;C7121307;Silence Halostone Piece;116
+117;irhst08;C7121308;Iron Halostone Piece;117
+118;irhsm02;C7120C02;Brilliant Halostone;118
+119;irhsm03;C7120C03;Shining Halostone;119
+120;irhsm04;C7120C04;Transparent Halostone;120
+121;irhsm05;C7120C05;Linguistic Halostone;121
+122;irhsm06;C7120C06;Dreaming Halostone;122
+123;irhsm07;C7120C07;Silence Halostone;123
+124;irhsm08;C7120C08;Iron Halostone;124
+125;irwav01;D6001501;Halomental Wave;134
+126;ircsa24;C2120024;Wrapping Charm;92
+127;ircsa25;C2120025;Trading Charm;93
+128;ircsa26;C2120026;Clairvoyance Charm;94
+129;ircsa27;C2120027;Sprint Charm;95
+130;ircsa28;C2120028;Merchant's Charm;96
+131;ircsa29;C2120029;Gaining Charm;97
+132;ircsa30;C2120030;Leader's Charm;98
+133;ircsa31;C2120031;Ignorance Charm;99
+134;ircsa32;C2120032;Favor Charm;100
+135;ircsa33;C2120033;Holy Charm;101
+136;ircsa34;C2120034;Recoveryy Charm;102
+137;ircsa35;C2120035;Sympathy Charm;103
+138;ircsa36;C2120036;Burst Generator;104
+139;ircsa37;C2120037;Protect Generator;105
+140;ircsa38;C2120038;Thorns Generator;106
+141;ircsa39;C2120039;Perfect Generator;107
+142;ircsa40;C2120040;Penzer Generator;108
+143;ircsa41;C2120041;Aggressive Generator;109
+144;ircsa42;C2120042;Silence Generator;110
+145;irstl01;D2130B01;Jade of Capture 1% Gain;134
+146;irstl02;D2130B02;Jade of Capture 3% Gain;134
+147;irstl03;D2130B03;Jade of Capture 5% Gain;134
+148;irstl04;D2130B04;Jade of Capture 7% Gain;134
+149;irstl05;D2130B05;Jade of Capture 9% Gain;134
+150;irchm01;C2070C01;Wrapping Charm;92
+151;irchm02;C2070C02;Trading Charm;93
+152;irchm03;C2070C03;Clairvoyance Charm;94
+153;irchm04;C2070C04;Sprint Charm;95
+154;irchm05;C2070C05;Gaining Charm;97
+155;irchm06;C2070C06;Leader's Charm;98
+156;irchm07;C2070C07;Recovery Charm;102
+157;irchm08;C2070C08;Burst Generator;104
+158;irchm09;C2070C09;Protect Generator;105
+159;irchm10;C2070C10;Thorns Generator;106
+160;irchm11;C2070C11;Aggressive Generator;109
+161;irchm12;C2070C12;Wrapping Charm;92
+162;irchm13;C2070C13;Trading Charm;93
+163;irchm14;C2070C14;Clairvoyance Charm;94
+164;irchm15;C2070C15;Sprint Charm;95
+165;irchm16;C2070C16;Gaining Charm;97
+166;irchm17;C2070C17;Leader's Charm;98
+167;irchm18;C2070C18;Recovery Charm;102
+168;irchm19;C2070C19;Burst Generator;104
+169;irchm20;C2070C20;Protect Generator;105
+170;irchm21;C2070C21;Thorns Generator;106
+171;irchm22;C2070C22;Aggressive Generator;109
+172;irchm23;C2070C23;Wrapping Charm;92
+173;irchm24;C2070C24;Trading Charm;93
+174;irchm25;C2070C25;Clairvoyance Charm;94
+175;irchm26;C2070C26;Sprint Charm;95
+176;irchm27;C2070C27;Gaining Charm;97
+177;irchm28;C2070C28;Leader's Charm;98
+178;irchm29;C2070C29;Recovery Charm;102
+179;irchm30;C2070C30;Burst Generator;104
+180;irchm31;C2070C31;Protect Generator;105
+181;irchm32;C2070C32;Thorns Generator;106
+182;irchm33;C2070C33;Aggressive Generator;109
+183;irqsa01;D0120001;Cartella Seal;125
+184;irqsa03;D0120003;Cartella Lab Permit;128
+185;irqsa04;D0120004;Adventurer's Note;129
+186;irqsa05;D0120005;Order of Military Merit;128
+187;irqsa07;D0120007;Jade of Punishment;130
+188;irqsa08;D0120008;Jade of Vitality;131
+189;irqsa09;D0120009;EXP 100% Increase Jade [7days];130
+190;irqsa10;D0120010;Item Looting 100% Increase Jade [7days];131
+191;ircpc01;C20F0201;Cafe Only Aggressor;136
+192;ircpc02;C20F0202;Cafe Only Silencer;137
+193;ircpc03;C20F0203;Cafe Only Premium Card;86
+194;irchm34;C2070C34;Seed 2 Hours;138
+195;irchm35;C2070C35;Seed 4 Hours;138
+196;irchm36;C2070C36;Seed 6 Hours;138
+197;irchm37;C2070C37;Seed 12 Hours;138
+198;irchm38;C2070C38;Honored Clairvoyance Charm;94
+199;irchm39;C2070C39;Honored Sprint Charm;95
+200;irchm40;C2070C40;Honored Leader's Charm;98
+201;irchm41;C2070C41;Honored Recovery Charm;102
+202;irchm42;C2070C42;Honored Burst Generator;104
+203;irchm43;C2070C43;Honored Project Generator;105
+204;irchm44;C2070C44;Honored Aggressive Generator;109
+205;irchm45;C2070C45;Honored Silence Generator;110
+206;irmap04;CC000F04;Piece of Manes;139
+207;irmap05;CC000F05;Piece of Heat;140
+208;irmap06;CC000F06;Piece of Sand;141
+209;irmap07;CC000F07;Piece of Abyss;142
+210;irmap08;CC000F08;Piece of Gunsmoke;143
+211;irmap09;CC000F09;Piece of Mystery;144
+212;irmap10;CC000F10;Piece of Revenge;145
+213;irmap11;CC000F11;Piece of Doll;146
+214;irmap12;CC000F12;Piece of Nightmare;147
+215;irmap13;CC000F13;Piece of Illusion;148
+216;irmap14;CC000F14;Crystal Artifact;132
+217;irres02;D1041202;Red Stone Piece;75
+218;irchm46;C2070C46;Clairvoyance Charm;94
+219;irchm47;C2070C47;Sprint Charm;95
+220;irchm48;C2070C48;Leader's Charm;98
+221;irchm49;C2070C49;Holy Charm;101
+222;irchm50;C2070C50;Recovery Charm;102
+223;irchm51;C2070C51;Burst Generator;104
+224;irchm52;C2070C52;Project Generator;105
+225;irchm53;C2070C53;Perfect Generator;107
+226;irchm54;C2070C54;Penzer Generator;108
+227;irchm55;C2070C55;Aggressive Generator;109
+228;irchm56;C2070C56;Silence Generator;110
+229;irchm57;C2070C57;Sympathy Charm;103
+230;ircry03;C2111803;Talic crystal compressed pack;89
+231;ircme55;C20C0455;MAU blessing;108
+232;irpre02;CF110402;PC cafe special premium card 1;167
+233;irpre03;CF110403;PC cafe special premium card 2;167
+234;irpre04;CF110404;PC cafe special premium card 3;167
+235;irpre05;CF110405;PC cafe special premium card 4;167
+236;irpre06;CF110406;PC cafe special premium card 5;167
+237;irpre07;CF110407;PC cafe special premium card 6;167
+238;irpre08;CF110408;PC cafe special premium card 7;167
+239;irpre09;CF110409;PC cafe special premium card 8;167
+240;irpre10;CF110410;PC cafe special premium card 9;167
+241;irpre11;CF110411;PC cafe special premium card 10;167
+242;irpre12;CF110412;PC cafe special premium card 11;167
+243;irpre13;CF110413;PC cafe special premium card 12;167
+244;irpre14;CF110414;PC cafe special premium card 13;167
+245;irpre15;CF110415;PC cafe special premium card 14;167
+246;irpre16;CF110416;PC cafe special premium card 15;167
+247;irpre17;CF110417;PC cafe special premium card 16;167
+248;irpre18;CF110418;PC cafe special premium card 17;167
+249;irpre19;CF110419;PC cafe special premium card 18;167
+250;irrtn01;D1130D01;MAU equipment blessing for a returnee;108
+251;iruge01;D4060401;Shiny Ruby of Luck;162
+252;iruge02;D4060402;Shiny Crystal of Luck;163
+253;iruge03;D4060403;Shiny Gold Jade of Luck;164
+254;iruge04;D4060404;Shiny Black Jade of Luck;165
+255;ircha01;C2070001;Charm of Clairvoyance 30 Days;150
+256;ircha02;C2070002;Charm of Speeding 30 Days;151
+257;ircha03;C2070003;Charm of Leader 30 Days;152
+258;ircha04;C2070004;Charm of Holiness 30 Days;153
+259;ircha05;C2070005;Charm of Restoration 30 Days;154
+260;ircha06;C2070006;Charm of Sympathy 30 Days;155
+261;ircha07;C2070007;Burst Generator 30 Days;156
+262;ircha08;C2070008;Protect Generator 30 Days;157
+263;ircha09;C2070009;Perfect Generator 30 Days;158
+264;ircha10;C2070010;Panzer Generator 30 Days;159
+265;ircha11;C2070011;Aggressive Generator 30 Days;160
+266;ircha12;C2070012;Silence Generator 30 Days;161
+267;ircha13;C2070013;Charm of Clairvoyance 14days[Cash];150
+268;ircha14;C2070014;Charm of Speeding 14days[Cash];151
+269;ircha15;C2070015;Charm of Leader 14days[Cash];152
+270;ircha16;C2070016;Charm of Holiness 14days[Cash];153
+271;ircha17;C2070017;Charm of Restoration 14days [Cash];154
+272;ircha18;C2070018;Charm of Sympathy 14days[Cash];155
+273;ircha19;C2070019;Burst Generator 14days [Cash];156
+274;ircha20;C2070020;Protect Generator 14days [Cash];157
+275;ircha21;C2070021;Perfect Generator 14days [Cash];158
+276;ircha22;C2070022;Penger Generator 14days [Cash];159
+277;ircha23;C2070023;Aggressive Generator 14days [Cash];160
+278;ircha24;C2070024;Silence Generator 14days [Cash];161
+279;ircha25;C2070025;High Level Charm of Speeding 14days[Cash];151
+280;ircha26;C2070026;High Level Charm of Leader 14days[Cash];152
+281;ircha27;C2070027;High Level Charm of Holiness 14days[Cash];153
+282;ircha28;C2070028;High Level Charm of Restoration 14days [Cash];154
+283;ircha29;C2070029;High Level Charm of Sympathy 14days[Cash];155
+284;ircha30;C2070030;High Level Burst Generator 14days [Cash];156
+285;ircha31;C2070031;High Level Protect Generator 14days [Cash];157
+286;ircha32;C2070032;High Level Perfect Generator 14days [Cash];158
+287;ircha33;C2070033;High Level Penger Generator 14days [Cash];159
+288;ircha34;C2070034;High Level Aggressive Generator 14days [Cash];160
+289;ircha35;C2070035;High Level Silence Generator 14days [Cash];161
+290;ircha36;C2070036;Middle Level Charm of Speeding 14days[Cash];151
+291;ircha37;C2070037;Middle Level Charm of Leader 14days[Cash];152
+292;ircha38;C2070038;Middle Level Charm of Holiness 14days[Cash];153
+293;ircha39;C2070039;Middle Level Charm of Restoration 14days [Cash];154
+294;ircha40;C2070040;Middle Level Charm of Sympathy 14days[Cash];155
+295;ircha41;C2070041;Middle Level Burst Generator 14days [Cash];156
+296;ircha42;C2070042;Middle Level Protect Generator 14days [Cash];157
+297;ircha43;C2070043;Middle Level Perfect Generator 14days [Cash];158
+298;ircha44;C2070044;Middle Level Penger Generator 14days [Cash];159
+299;ircha45;C2070045;Middle Level Aggressive Generator 14days [Cash];160
+300;ircha46;C2070046;Middle Level Silence Generator 14days [Cash];161
+301;ircja01;C2090001;Middle Level Jade of Abundance ;73
+302;ircja02;C2090002;Middle Level Jade of Relief ;74
+303;ircja03;C2090003;Middle Level Jade of Abundance ;73
+304;ircja04;C2090004;Middle Level Jade of Relief ;74
+305;ircja05;C2090005;High Level Jade of Abundance ;73
+306;ircja06;C2090006;High Level Jade of Relief ;74
+307;ircja07;C2090007;High Level Jade of Abundance ;73
+308;ircja08;C2090008;High Level Jade of Relief ;74
+309;irpre20;CF110420;Premium Card of Beginner;86
+310;irpch01;CF020701;Charm of Speeding ;95
+311;irpch02;CF020702;Charm of Leader ;98
+312;irpch03;CF020703;Charm of Holiness ;101
+313;irpch04;CF020704;Charm of Restoration ;102
+314;ircys01;C2181201;Talic Crystal of Ignorance [Normal];21
+315;ircys02;C2181202;Talic Crystal of Favor [Normal];26
+316;ircys03;C2181203;Talic Crystal of Ignorance [B Class];21
+317;ircys04;C2181204;Talic Crystal of Favor [B Class];26
+318;ircys05;C2181205;Talic Crystal of Ignorance [C Class];21
+319;ircys06;C2181206;Talic Crystal of Favor [C Class];26
+320;ircja09;C2090009;Jade of Communication 2Hrs;50
+321;ircja10;C2090010;Jade of Communication 6Hrs;50
+322;ircja11;C2090011;Jade of Communication 24Hrs;50

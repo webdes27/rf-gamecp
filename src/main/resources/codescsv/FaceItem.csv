@@ -1,0 +1,81 @@
+Index;Server Code;Client Code;English Name
+0;ifdbf01;C3010501;Default Bellato Male Face1
+1;ifdbf02;C3010502;Default Bellato Male Face2
+2;ifdbf03;C3010503;Default Bellato Male Face3
+3;ifdbf04;C3010504;Default Bellato Male Face4
+4;ifdbf05;C3010505;Default Bellato Male Face5
+5;ifdbf06;C3010506;Default Bellato Male Face6
+6;ifdbf07;C3010507;Default Bellato Male Face7
+7;ifdbf08;C3010508;Default Bellato Male Face8
+8;ifdbf09;C3010509;Default Bellato Male Face9
+9;ifdbf10;C3010510;Default Bellato Male Face10
+10;ifdbf11;C3010511;Default Bellato Male Face11
+11;ifdbf12;C3010512;Default Bellato Male Face12
+12;ifdbf13;C3010513;Default Bellato Male Face13
+13;ifdbf14;C3010514;Default Bellato Male Face14
+14;ifdbf15;C3010515;Default Bellato Male Face15
+15;ifdbf16;C3010516;Default Bellato Male Face16
+16;ifdbm01;C3010C01;Default Bellato Female Face1
+17;ifdbm02;C3010C02;Default Bellato Female Face2
+18;ifdbm03;C3010C03;Default Bellato Female Face3
+19;ifdbm04;C3010C04;Default Bellato Female Face4
+20;ifdbm05;C3010C05;Default Bellato Female Face5
+21;ifdbm06;C3010C06;Default Bellato Female Face6
+22;ifdbm07;C3010C07;Default Bellato Female Face7
+23;ifdbm08;C3010C08;Default Bellato Female Face8
+24;ifdbm09;C3010C09;Default Bellato Female Face9
+25;ifdbm10;C3010C10;Default Bellato Female Face10
+26;ifdbm11;C3010C11;Default Bellato Female Face11
+27;ifdbm12;C3010C12;Default Bellato Female Face12
+28;ifdbm13;C3010C13;Default Bellato Female Face13
+29;ifdbm14;C3010C14;Default Bellato Female Face14
+30;ifdbm15;C3010C15;Default Bellato Female Face15
+31;ifdbm16;C3010C16;Default Bellato Female Face16
+32;ifdcf01;C3020501;Default Cora Male Face1
+33;ifdcf02;C3020502;Default Cora Male Face2
+34;ifdcf03;C3020503;Default Cora Male Face3
+35;ifdcf04;C3020504;Default Cora Male Face4
+36;ifdcf05;C3020505;Default Cora Male Face5
+37;ifdcf06;C3020506;Default Cora Male Face6
+38;ifdcf07;C3020507;Default Cora Male Face7
+39;ifdcf08;C3020508;Default Cora Male Face8
+40;ifdcf09;C3020509;Default Cora Male Face9
+41;ifdcf10;C3020510;Default Cora Male Face10
+42;ifdcf11;C3020511;Default Cora Male Face11
+43;ifdcf12;C3020512;Default Cora Male Face12
+44;ifdcf13;C3020513;Default Cora Male Face13
+45;ifdcf14;C3020514;Default Cora Male Face14
+46;ifdcf15;C3020515;Default Cora Male Face15
+47;ifdcf16;C3020516;Default Cora Male Face16
+48;ifdcm01;C3020C01;Default Cora Female Face1
+49;ifdcm02;C3020C02;Default Cora Female Face2
+50;ifdcm03;C3020C03;Default Cora Female Face3
+51;ifdcm04;C3020C04;Default Cora Female Face4
+52;ifdcm05;C3020C05;Default Cora Female Face5
+53;ifdcm06;C3020C06;Default Cora Female Face6
+54;ifdcm07;C3020C07;Default Cora Female Face7
+55;ifdcm08;C3020C08;Default Cora Female Face8
+56;ifdcm09;C3020C09;Default Cora Female Face9
+57;ifdcm10;C3020C10;Default Cora Female Face10
+58;ifdcm11;C3020C11;Default Cora Female Face11
+59;ifdcm12;C3020C12;Default Cora Female Face12
+60;ifdcm13;C3020C13;Default Cora Female Face13
+61;ifdcm14;C3020C14;Default Cora Female Face14
+62;ifdcm15;C3020C15;Default Cora Female Face15
+63;ifdcm16;C3020C16;Default Cora Female Face16
+64;ifda001;C3000100;Default Accretia Face1
+65;ifda002;C3000200;Default Accretia Face2
+66;ifda003;C3000300;Default Accretia Face3
+67;ifda004;C3000400;Default Accretia Face4
+68;ifda005;C3000500;Default Accretia Face5
+69;ifda006;C3000600;Default Accretia Face6
+70;ifda007;C3000700;Default Accretia Face7
+71;ifda008;C3000800;Default Accretia Face8
+72;ifda009;C3000900;Default Accretia Face9
+73;ifda010;C3001000;Default Accretia Face10
+74;ifda011;C3001100;Default Accretia Face11
+75;ifda012;C3001200;Default Accretia Face12
+76;ifda013;C3001300;Default Accretia Face13
+77;ifda014;C3001400;Default Accretia Face14
+78;ifda015;C3001500;Default Accretia Face15
+79;ifda016;C3001600;Default Accretia Face16

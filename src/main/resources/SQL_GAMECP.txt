@@ -27,8 +27,6 @@ GO
 
 
 
-
-
 USE [GameCP]
 GO
 
@@ -58,8 +56,36 @@ REFERENCES [dbo].[tbl_role] ([id])
 GO
 
 
-
-
 INSERT GameCP.dbo.tbl_role (name) VALUES ('ROLE_ADMIN');
 INSERT GameCP.dbo.tbl_role (name) VALUES ('ROLE_USER');
 
+
+USE [RF_User]
+GO
+
+/****** Object:  View [dbo].[vban_list]    Script Date: 03/14/2020 21:07:05 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE VIEW [dbo].[vban_list]
+AS
+SELECT TOP (100)  PERCENT CONVERT(varchar, U.id) AS nome_usuario, B.dtStartDate AS data_inicio, B.nPeriod AS periodo,
+ B.szReason AS razao, B.GMWriter AS GM,LEFT(W.Personagens,Len(W.Personagens)-1) As "personagens"
+FROM RF_User.dbo.tbl_UserBan AS B INNER JOIN
+                      RF_User.dbo.tbl_UserAccount AS U ON U.serial = B.nAccountSerial
+                      LEFT JOIN (
+                      SELECT DISTINCT BASE2.Serial, BASE2.Account,
+                      (
+                      SELECT BASE1.Name + ',' AS [text()]
+                      FROM RF_World.dbo.tbl_base AS BASE1
+                      WHERE BASE1.Serial = BASE2.Serial
+                      ORDER BY BASE1.Serial
+                      FOR XML PATH ('')
+                      ) AS Personagens
+                       FROM RF_World.dbo.tbl_base AS BASE2
+                      ) AS W ON W.Account = CONVERT(varchar, U.id) ORDER BY data_inicio DESC
+
+GO

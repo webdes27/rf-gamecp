@@ -125,7 +125,7 @@
         </div>
         <div class="col-12">
           <span class="text-white" *ngIf="equipeDetalhe?.melhoria">Melhorias</span><br/>
-          <img [src]="'assets/talics/t-'+talica+'.png'" class="img-fluid"
+          <img [src]="'assets/talics/t-'+getTalica(talica)+'.png'" class="img-fluid"
                alt="Tálica de upgrade" *ngFor="let talica of equipeDetalhe?.melhoria?.talica">
         </div>
       </div>

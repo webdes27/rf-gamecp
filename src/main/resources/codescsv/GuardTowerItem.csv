@@ -1,0 +1,64 @@
+Index;Server Code;Client Code;English Name;Image ID
+0;gtbb000;A1010000;Bellato Guard Tower;1
+1;gtbb001;A1010100;Light Guard Tower;1
+2;gtbb002;A1010200;Guard Tower;1
+3;gtbb003;A1010300;Advanced Guard Tower;1
+4;gtbb004;A1010400;Epochal Guard Tower;1
+5;gtbb005;A1010500;Intense Epochal Guard Tower;1
+6;gtbb006;A1010600;Hedge Hawk;1
+7;gtbb007;A1010700;Advanced Hedge Hawk;1
+8;gtbb008;A1010800;Intense Epochal Guard Tower T1;1
+9;gtbb009;A1010900;Intense Epochal Guard Tower T2;1
+10;gtbb010;A1011000;Hedge Hawk T1;1
+11;gtbb011;A1011100;Hedge Hawk T2;1
+12;gtbb012;A1011200;Advanced Hedge Hawk T1;1
+13;gtbb013;A1011300;Advanced Hedge Hawk T2;1
+14;gtbb014;A1011400;Dark Hedge Hawk;1
+15;gtbb015;A1011500;Advanced Dark Hedge Hawk;1
+16;gtbb016;A1011600;Shining Hawk;1
+17;gtbb017;A1011700;Shining Hawk II;1
+18;gtbb018;A1011800;Guard Tower;1
+19;gtbb019;A1011900;Guard Tower;1
+20;gtbb020;A1012000;Guard Tower;1
+21;gtcc000;A2020000;Cora Guard Tower;4
+22;gtcc001;A2020100;Light Guard Tower;4
+23;gtcc002;A2020200;Guard Tower;4
+24;gtcc003;A2020300;Advanced Guard Tower;4
+25;gtcc004;A2020400;Epochal Guard Tower;4
+26;gtcc005;A2020500;Intense Epochal Guard Tower;4
+27;gtcc006;A2020600;Plasma Lance;4
+28;gtcc007;A2020700;Advanced Plasma Lance;4
+29;gtcc008;A2020800;Intense Epochal Guard Tower T1;4
+30;gtcc009;A2020900;Intense Epochal Guard Tower;4
+31;gtcc010;A2021000;Plasma Lance T1;4
+32;gtcc011;A2021100;Plasma Lance T2;4
+33;gtcc012;A2021200;Advanced Plasma Lance T1;4
+34;gtcc013;A2021300;Advanced Plasma Lance T2;4
+35;gtcc014;A2021400;Dark lance;4
+36;gtcc015;A2021500;Advanced Dark lance;4
+37;gtcc016;A2021600;Shining lance;4
+38;gtcc017;A2021700;Shining lance?;4
+39;gtcc018;A2021800;Guard Tower;4
+40;gtcc019;A2021900;Guard Tower;4
+41;gtcc020;A2022000;Guard Tower;4
+42;gtaa000;A0000000;Accretia Guard Tower;7
+43;gtaa001;A0000100;Light Guard Tower;7
+44;gtaa002;A0000200;Guard Tower;7
+45;gtaa003;A0000300;Advanced Guard Tower;7
+46;gtaa004;A0000400;Epochal Guard Tower;7
+47;gtaa005;A0000500;Intense Epochal Guard Tower;7
+48;gtaa006;A0000600;Linear Canon;7
+49;gtaa007;A0000700;Advanced Linear Canon;7
+50;gtaa008;A0000800;Intense Epochal Guard Tower T1;7
+51;gtaa009;A0000900;Intense Epochal Guard Tower T2;7
+52;gtaa010;A0001000;Linear Cannon T1;7
+53;gtaa011;A0001100;Linear Cannon T2;7
+54;gtaa012;A0001200;Advanced Linear Cannon T1;7
+55;gtaa013;A0001300;Advanced Linear Cannon T2;7
+56;gtaa014;A0001400;Dark linear canon;7
+57;gtaa015;A0001500;Advanced Dark linear canon;7
+58;gtaa016;A0001600;Shining canon;7
+59;gtaa017;A0001700;Shining canon custom;7
+60;gtaa018;A0001800;Guard Tower;7
+61;gtaa019;A0001900;Guard Tower;7
+62;gtaa020;A0002000;Guard Tower;7

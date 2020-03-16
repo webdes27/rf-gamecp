@@ -1,5 +1,5 @@
 import {Component, Input, OnInit, Renderer2, ViewEncapsulation} from '@angular/core';
-import {Equipamento, Personagem} from '../../@core/model/personagem.model';
+import {Equipamento, Personagem, Talica} from '../../@core/model/personagem.model';
 import {takeWhile} from 'rxjs/operators';
 
 declare const $: any;
@@ -33,5 +33,10 @@ export class DetalhePersonagemComponent implements OnInit {
     }
     this.equipeDetalhe = equip;
     detalhe.toggleClass("d-none");
+  }
+
+  getTalica(nomeTalica) {
+    const s = Object.keys(Talica).find(t => t === nomeTalica);
+    return Talica[nomeTalica];
   }
 }

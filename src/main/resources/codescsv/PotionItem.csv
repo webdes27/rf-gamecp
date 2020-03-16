@@ -1,0 +1,447 @@
+Index;Server Code;Client Code;English Name;Image ID
+0;ipbhp01;C1070F01;Bless HP Potion 100;1
+1;ipbhp02;C1070F02;Bless HP Potion 250;2
+2;ipbhp03;C1070F03;Bless HP Potion 500;3
+3;ipbhp04;C1070F04;Bless HP Potion 1000;4
+4;ipbhp05;C1070F05;Bless HP Potion 2000;5
+5;ipbhp06;C1070F06;Bless HP Potion 3000;6
+6;ipbhp07;C1070F07;Bless HP Potion 4000;7
+7;ipbhp08;C1070F08;Bless HP Potion 5000;8
+8;ipchp01;C2070F01;Pope HP Potion 100;9
+9;ipchp02;C2070F02;Pope HP Potion 250;10
+10;ipchp03;C2070F03;Pope HP Potion 500;11
+11;ipchp04;C2070F04;Pope HP Potion 1000;12
+12;ipchp05;C2070F05;Pope HP Potion 2000;13
+13;ipchp06;C2070F06;Pope HP Potion 3000;14
+14;ipchp07;C2070F07;Pope HP Potion 4000;15
+15;ipchp08;C2070F08;Pope HP Potion 5000;16
+16;ipahp01;C0070F01;Aid HP Charger 100;17
+17;ipahp02;C0070F02;Aid HP Charger 250;18
+18;ipahp03;C0070F03;Aid HP Charger 500;19
+19;ipahp04;C0070F04;Aid HP Charger 1000;20
+20;ipahp05;C0070F05;Aid HP Charger 2000;21
+21;ipahp06;C0070F06;Aid HP Charger 3000;22
+22;ipahp07;C0070F07;Aid HP Charger 4000;23
+23;ipahp08;C0070F08;Aid HP Charger 5000;24
+24;ipbfp01;C1050F01;Aid FP Potion 50;25
+25;ipbfp02;C1050F02;Aid FP Potion 125;26
+26;ipbfp03;C1050F03;Aid FP Potion 250;27
+27;ipbfp04;C1050F04;Aid FP Potion 500;28
+28;ipbfp05;C1050F05;Aid FP Potion 1000;29
+29;ipbfp06;C1050F06;Aid FP Potion 1500;30
+30;ipbfp07;C1050F07;Aid FP Potion 2000;31
+31;ipbfp08;C1050F08;Aid FP Potion 2500;32
+32;ipcfp01;C2050F01;Priest FP Potion 50;33
+33;ipcfp02;C2050F02;Priest FP Potion 125;34
+34;ipcfp03;C2050F03;Priest FP Potion 250;35
+35;ipcfp04;C2050F04;Priest FP Potion 500;36
+36;ipcfp05;C2050F05;Priest FP Potion 1000;37
+37;ipcfp06;C2050F06;Priest FP Potion 1500;38
+38;ipcfp07;C2050F07;Priest FP Potion 2000;39
+39;ipcfp08;C2050F08;Priest FP Potion 2500;40
+40;ipafp01;C0050F01;Mirror FP Charger 50;41
+41;ipafp02;C0050F02;Mirror FP Charger 125;42
+42;ipafp03;C0050F03;Mirror FP Charger 250;43
+43;ipafp04;C0050F04;Mirror FP Charger 500;44
+44;ipafp05;C0050F05;Mirror FP Charger 1000;45
+45;ipafp06;C0050F06;Mirror FP Charger 1500;46
+46;ipafp07;C0050F07;Mirror FP Charger 2000;47
+47;ipafp08;C0050F08;Mirror FP Charger 2500;48
+48;ipbsp01;C1120F01;Care Stamina Potion 100;49
+49;ipbsp02;C1120F02;Care Stamina Potion 200;50
+50;ipbsp03;C1120F03;Care Stamina Potion 400;51
+51;ipbsp04;C1120F04;Care Stamina Potion 800;52
+52;ipcsp01;C2120F01;Bishop Stamina Potion 100;53
+53;ipcsp02;C2120F02;Bishop Stamina Potion 200;54
+54;ipcsp03;C2120F03;Bishop Stamina Potion 400;55
+55;ipcsp04;C2120F04;Bishop Stamina Potion 800;56
+56;ipasp01;C0120F01;Optimus Stamina Charger 100;57
+57;ipasp02;C0120F02;Optimus Stamina Charger 200;58
+58;ipasp03;C0120F03;Optimus Stamina Charger 400;59
+59;ipasp04;C0120F04;Optimus Stamina Charger 800;60
+60;ipbad00;C1000300;Adrenalin Potion;61
+61;ipcad00;C2000300;Adrenalin Potion ;62
+62;ipaad00;C0000300;Over Drive Charger;63
+63;ipbhp00;C1070F00;Training Bless HP Potion 100;1
+64;ipchp00;C2070F00;Training Pope HP Potion 100;9
+65;ipahp00;C0070F00;Training Venom HP Charger 100;17
+66;ipbfp00;C1050F00;Training Aid FP Potion 50;25
+67;ipcfp00;C2050F00;Training Priest FP Potion 50;33
+68;ipafp00;C0050F00;Training Mirror FP Charger 50;41
+69;ipbsp00;C1120F00;Training Care Stamina Potion 100;49
+70;ipcsp00;C2120F00;Training Bishop Stamina Potion 100;53
+71;ipasp00;C0120F00;Training Optimus Stamina Charger 100;57
+72;ipbcu00;C1021400;Cure Potion ;64
+73;ipccu00;C2021400;Cure Potion ;65
+74;ipacu00;C0021400;Cure Charger ;66
+75;ipbnp01;C10D0F01;Bless HP Potion 100;1
+76;ipbnp02;C10D0F02;Bless HP Potion 250;2
+77;ipbnp03;C10D0F03;Bless HP Potion 500;3
+78;ipbnp04;C10D0F04;Bless HP Potion 1000;4
+79;ipbnp05;C10D0F05;Bless HP Potion 2000;5
+80;ipbnp06;C10D0F06;Bless HP Potion 3000;6
+81;ipbnp07;C10D0F07;Bless HP Potion 4000;7
+82;ipbnp08;C10D0F08;Bless HP Potion 5000;8
+83;ipcnp01;C20D0F01;Pope HP Potion 100;9
+84;ipcnp02;C20D0F02;Pope HP Potion 250;10
+85;ipcnp03;C20D0F03;Pope HP Potion 500;11
+86;ipcnp04;C20D0F04;Pope HP Potion 1000;12
+87;ipcnp05;C20D0F05;Pope HP Potion 2000;13
+88;ipcnp06;C20D0F06;Pope HP Potion 3000;14
+89;ipcnp07;C20D0F07;Pope HP Potion 4000;15
+90;ipcnp08;C20D0F08;Pope HP Potion 5000;16
+91;ipanp01;C00D0F01;Aid HP Charger 100;17
+92;ipanp02;C00D0F02;Aid HP Charger 250;18
+93;ipanp03;C00D0F03;Aid HP Charger 500;19
+94;ipanp04;C00D0F04;Aid HP Charger 1000;20
+95;ipanp05;C00D0F05;Aid HP Charger 2000;21
+96;ipanp06;C00D0F06;Aid HP Charger 3000;22
+97;ipanp07;C00D0F07;Aid HP Charger 4000;23
+98;ipanp08;C00D0F08;Aid HP Charger 5000;24
+99;ipeee01;C4040401;Chestnut;67
+100;ipeee02;C4040402;Jujube;68
+101;ipeee03;C4040403;Red-ripe Persimmon;69
+102;ipeee04;C4040404;Pine Needled Rice Cake;70
+103;ipeee05;C4040405;Pine Needled Mugwort Rice Cake;71
+104;ipeee06;C4040406;SuperChestnut;67
+105;ipbad01;C1000301;Advanced Adrenalin Potion;61
+106;ipcad01;C2000301;Advanced Adrenalin Potion;62
+107;ipaad01;C0000301;Advanced Over Drive Charger;63
+108;ipeee07;C4040407;Groundnut;72
+109;ipeee08;C4040408;Walnut;73
+110;ipeee09;C4040409;Pine Nut;74
+111;ipbax01;C1001701;Burst Potion;99
+112;ipbax02;C1001702;Burst Potion;100
+113;ipbax03;C1001703;Offense Charger;101
+114;ipbdx01;C1031701;Protect Potion;102
+115;ipbdx02;C1031702;Protect Potion;103
+116;ipbdx03;C1031703;Defense Charger;104
+117;ipbco01;C1020E01;Composed Potion;75
+118;ipcco01;C2020E01;Composed Potion;76
+119;ipaco01;C0020E01;Composed Charger;77
+120;iptwe01;D3160401;Candy;85
+121;iptwe02;D3160402;ChristmasCandy;86
+122;ipeex01;C4041701;Cake;91
+123;ipeex02;C4041702;DeliciousCandy;92
+124;ipeex03;C4041703;DeliciousChristmasCandy;93
+125;ipeex04;C4041704;DeliciousCake;94
+126;ipeex05;C4041705;Christmas AttackPowerIncrease50Potion;95
+127;ipeex06;C4041706;Christmas DefensePowerIncrease50Potion;96
+128;ipeex07;C4041707;Advanced Composed Potion;97
+129;ipeex08;C4041708;Advanced Composed Potion;98
+130;ipbco02;C1020E02;Advanced Composed Charger;75
+131;ipcco02;C2020E02;GuangWooPotion;76
+132;ipaco02;C0020E02;JikNeoSacredWater;77
+133;ipdbr01;C3011101;OGokBab;113
+134;ipdbr02;C3011102;Yaksik;114
+135;ipdbr03;C3011103;Fullmoon Offensive Potion;97
+136;ipdbr04;C3011104;Fullmoon Defensive Potion;98
+137;ipdbr05;C3011105;Fullmoon Composed Potion;115
+138;ipbch01;C1020701;BlessHPPotion 4000;117
+139;ipcch01;C2020701;PopeHPPotion 4000;118
+140;ipach01;C0020701;AidHPPotion 4000;119
+141;ipbhp10;C1070F10;BlessHPPotion+3200;6
+142;ipchp10;C2070F10;PopeHPPotion+3200;14
+143;ipahp10;C0070F10;AidHPCharger+3200;22
+144;ipbhp20;C1070F20;BlessHPPotion+3500;6
+145;ipchp20;C2070F20;PopeHPPotion+3500;14
+146;ipahp20;C0070F20;AidHPCharger+3500;22
+147;ipcha01;C2070001;Chaos Potion;125
+148;ipcha02;C2070002;Chaos Potion;127
+149;ipcha03;C2070003;Chaos Charger;129
+150;ipcha04;C2070004;Chaos CurePotion;126
+151;ipcha05;C2070005;Chaos CurePotion;128
+152;ipcha06;C2070006;Chaos CureCharger;130
+153;ipbde04;C1030404;Small Protect Potion;102
+154;ipbde05;C1030405;Small Protect Potion;103
+155;ipbde06;C1030406;Small Defense Charger;104
+156;ipbae01;C1000401;Bust Potion[Quest];99
+157;ipbae02;C1000402;Bust Potion[Quest];100
+158;ipbae03;C1000403;Offense Charger[Quest];101
+159;ipbde01;C1030401;Protect Potion[Quest];102
+160;ipbde02;C1030402;Protect Potion[Quest];103
+161;ipbde03;C1030403;Defense Charger[Quest];104
+162;ipbhx00;C1071700;Training BlessHPPotion+250;2
+163;ipchx00;C2071700;Training PopeHPPotion+250;10
+164;ipahx00;C0071700;Training AidHPCharger+250;18
+165;ipcsa01;C2120001;Burst Potion[Premium];134
+166;ipcsa02;C2120002;Burst Potion[Premium];135
+167;ipcsa03;C2120003;Offense Charger[Premium];136
+168;ipcsa04;C2120004;Protect Potion[Premium];137
+169;ipcsa05;C2120005;Protect Potion[Premium];138
+170;ipcsa06;C2120006;Defense Charger[Premium];139
+171;ipcsa07;C2120007;Composed Potion[Premium];140
+172;ipcsa08;C2120008;Composed Potion[Premium];141
+173;ipcsa09;C2120009;Composed Charger[Premium];142
+174;ipcsa10;C2120010;BlessHPPotion+2500[Premium];143
+175;ipcsa11;C2120011;PopeHPPotion+2500[Premium];144
+176;ipcsa12;C2120012;AidHPCharger+2500[Premium];145
+177;ipcsa13;C2120013;BlessHPPotion+4000[Premium];146
+178;ipcsa14;C2120014;PopeHPPotion+4000[Premium];147
+179;ipcsa15;C2120015;AidHPCharger+4000[Premium];148
+180;ipcsa16;C2120016;Burst Protect Potion;152
+181;ipcsa17;C2120017;Burst Protect Potion;153
+182;ipcsa18;C2120018;Burst Protect Charger;154
+183;ipcsa19;C2120019;Critical Potion;156
+184;ipcsa20;C2120020;Critical Potion;157
+185;ipcsa21;C2120021;Critical Charger;158
+186;ipcsa22;C2120022;BuildUp Potion;159
+187;ipcsa23;C2120023;BuildUp Potion;160
+188;ipcsa24;C2120024;BuildUp Charger;161
+189;ipcsa25;C2120025;QuickSkill Potion;162
+190;ipcsa26;C2120026;QuickSkill Potion;163
+191;ipcsa27;C2120027;QuickSkill Charger;164
+192;ipcsa28;C2120028;Stealth Potion;165
+193;ipcsa29;C2120029;StealthPotion;166
+194;ipcsa30;C2120030;Stealth Charger;167
+195;ipcsa31;C2120031;Smart Potion;168
+196;ipcsa32;C2120032;Smart Potion;169
+197;ipcsa33;C2120033;Smart Charger;170
+198;ipcsa34;C2120034;Cure Potion;171
+199;ipcsa35;C2120035;Cure Potion;172
+200;ipcsa36;C2120036;Cure Charger;173
+201;ipcsa37;C2120037;Cure Potion[Premium];174
+202;ipcsa38;C2120038;Cure Potion[Premium];175
+203;ipcsa39;C2120039;Cure Charger[Premium];176
+204;ipcsa40;C2120040;Bust Critical Potion;177
+205;ipcsa41;C2120041;Bust Critical Potion;178
+206;ipcsa42;C2120042;Offense Critical Charger;179
+207;ipcsa43;C2120043;BuildUp Protect Potion;180
+208;ipcsa44;C2120044;BuildUp Protect Potion;181
+209;ipcsa45;C2120045;BuildUp Defense Charger;182
+210;ipcsa46;C2120046;Bust QuickSkill Potion;183
+211;ipcsa47;C2120047;Bust QuickSkill Potion;184
+212;ipcsa48;C2120048;Offense QuickSkill Charger;185
+213;ipcsa49;C2120049;Bust Composed Potion;186
+214;ipcsa50;C2120050;Bust Composed Potion;187
+215;ipcsa51;C2120051;Offense Composed Charger;188
+216;ipcsa52;C2120052;BuildUp Protect Potion[Premium];189
+217;ipcsa53;C2120053;BuildUp Protect Potion[Premium];190
+218;ipcsa54;C2120054;BuildUp Defense Charger[Premium];191
+219;ipcsa55;C2120055;Bust Composed QuickSkill Potion;192
+220;ipcsa56;C2120056;Bust Composed QuickSkill Potion;193
+221;ipcsa57;C2120057;Offense Composed QuickSkill Charger;194
+222;ipcsa58;C2120058;Bust Composed Smart Potion;195
+223;ipcsa59;C2120059;Bust Composed Smart Potion;196
+224;ipcsa60;C2120060;Offense Composed Smart Charger;197
+225;ipcsa61;C2120061;Bust Protect Composed Potion;198
+226;ipcsa62;C2120062;Bust Protect Composed Potion;199
+227;ipcsa63;C2120063;Offense Defense Composed Charger;200
+228;ipcsa64;C2120064;Bust Protect Composed QuickSkill Potion;201
+229;ipcsa65;C2120065;Bust Protect Composed QuickSkill Potion;202
+230;ipcsa66;C2120066;Offense Defense Composed QuickSkill Charger;203
+231;ipcsa67;C2120067;Bust Smart Composed QuickSkill Potion;204
+232;ipcsa68;C2120068;Bust Smart Composed QuickSkill Potion;205
+233;ipcsa69;C2120069;Offense Smart Composed QuickSkill Charger;206
+234;ipcsa70;C2120070;BlessHPPotion+5000[Premium];207
+235;ipcsa71;C2120071;PopeHPPotion+5000[Premium];208
+236;ipcsa72;C2120072;AidHPCharger+5000[Premium];209
+237;ipwem01;D6040C01;Lone Wolf;232
+238;ipwef01;D6040501;Fox's Mark;233
+239;ipcsa73;C2120073;ClassRedefine Capsule;230
+240;ipbad02;C1000302;Maximum Adrenalin Potion;234
+241;ipcad02;C2000302;Maximum Adrenalin Potion;235
+242;ipaad02;C0000302;Maximum Adrenalin Charger;236
+243;ipbde07;C1030407;Maximum Protection Potion;237
+244;ipbde08;C1030408;Maximum Protection Potion;238
+245;ipbde09;C1030409;Maximum Protection Charger;239
+246;ipdrw01;C3111601;Concentrated Poison;240
+247;ipdrw02;C3111602;Berserker's Vial;241
+248;ipdrw03;C3111603;Cremul Snatcher's Cast Net;242
+249;ipncl01;CD020B01;AfterEffect Recovery Capsule;261
+250;ipacu01;C0021401;Cure Charger;66
+251;ipbfp09;C1050F09;AidFPPotion+50;25
+252;ipbfp10;C1050F10;AidFPPotion+125;26
+253;ipbfp11;C1050F11;AidFPPotion+250;27
+254;ipbfp12;C1050F12;AidFPPotion+500;28
+255;ipbfp13;C1050F13;AidFPPotion+1000;29
+256;ipbfp14;C1050F14;AidFPPotion+1500;30
+257;ipbfp15;C1050F15;AidFPPotion+2000;31
+258;ipbfp16;C1050F16;AidFPPotion+2500;32
+259;ipcfp09;C2050F09;PriestFPPotion+50;33
+260;ipcfp10;C2050F10;PriestFPPotion+125;34
+261;ipcfp11;C2050F11;PriestFPPotion+250;35
+262;ipcfp12;C2050F12;PriestFPPotion+500;36
+263;ipcfp13;C2050F13;PriestFPPotion+1000;37
+264;ipcfp14;C2050F14;PriestFPPotion+1500;38
+265;ipcfp15;C2050F15;PriestFPPotion+2000;39
+266;ipcfp16;C2050F16;PriestFPPotion+2500;40
+267;ipafp09;C0050F09;MirrorFPCharger+50;41
+268;ipafp10;C0050F10;MirrorFPCharger+125;42
+269;ipafp11;C0050F11;MirrorFPCharger+250;43
+270;ipafp12;C0050F12;MirrorFPCharger+500;44
+271;ipafp13;C0050F13;MirrorFPCharger+1000;45
+272;ipafp14;C0050F14;MirrorFPCharger+1500;46
+273;ipafp15;C0050F15;MirrorFPCharger+2000;47
+274;ipafp16;C0050F16;MirrorFPCharger+2500;48
+275;ipche01;C2070401;NameChange Potion;265
+276;ipcal01;C2000B01;Summon Potion;263
+277;ipwhp01;D6070F01;Teleport Potion;264
+278;ipexp01;C4170F01;Gain 1%EXP Potion;241
+279;ipexp02;C4170F02;Gain 100millionEXP Potion;241
+280;ipgag01;C6000601;DefenceGauge recovery potion;268
+281;iprun01;D1140D01;Exile Rune;276
+282;iprun02;D1140D02;Destruction Rune;274
+283;iprun03;D1140D03;Oblivion Rune;280
+284;iprun04;D1140D04;Restraint Rune;279
+285;iprun05;D1140D05;Darkness Rune;273
+286;iprun06;D1140D06;Convert Rune;278
+287;iprun07;D1140D07;Swift Rune;277
+288;iprun08;D1140D08;Escape Rune;281
+289;iprun09;D1140D09;Defense Rune;275
+290;ipgag02;C6000602;DefenseGauge recovery potion 150;268
+291;ipgag03;C6000603;DefenseGauge recovery potion 100;268
+292;ipgag04;C6000604;DefenseGauge recovery potion 50;268
+293;ipgag05;C6000605;DefenseGauge recovery potion 40;268
+294;ipgag06;C6000606;DefenseGauge recovery potion 30;268
+295;ipgag07;C6000607;DefenseGauge recovery potion 20;268
+296;ipgag08;C6000608;DefenseGauge recovery potion 10;268
+297;ipftr01;C5131101;Trap Detector 5secs;282
+298;ipftr02;C5131102;Trap Detector 1minute;283
+299;ipabc01;C0010201;Elf's Blood;298
+300;ipabc02;C0010202;Elf's Tear;299
+301;ipcsb01;C2120101;Increase EXP gained by 50% for 30 min.;286
+302;ipcsb02;C2120102;Increase EXP gained by 100% for 1 hr.;286
+303;ipcsb03;C2120103;x1 PT gains.;291
+304;ipcsb04;C2120104;x2 PT gains.;292
+305;ipcsb05;C2120105;x4 PT gains.;293
+306;ipcsb06;C2120106;Increase DROP RATE by 50% for 30 min.;288
+307;ipcsb07;C2120107;Increase DROP RATE by 100% for 1 hr.;288
+308;ipcsb08;C2120108;x2 MINE RATE for 30 min.;289
+309;ipcsb09;C2120109;x4 MINE RATE for 30 min.;289
+310;ipgag09;C6000609;Upgrade DefenseGauge recovery potion;295
+311;ipcsa74;C2120074;Original place revival potion.;294
+312;ipdou01;C30E1401;Capsule of Double Potion Buff;289
+313;ipexp03;C4170F03;Small EXP gain potion;241
+314;ipqsa01;D0120001;Queen Crook Leg Food;300
+315;ipqsa07;D0120007;Najaal's Crystal;306
+316;ipqsa08;D0120008;Ironman's Potion;307
+317;ipqsa09;D0120009;Customized BloodSucker;308
+318;ipqsa10;D0120010;EXP Potion;309
+319;ipevn01;C4150D01;Chocolate [Valentine Day Item];313
+320;ipevn02;C4150D02;Love Bouquet [Valentine Day Item];314
+321;ipevn03;C4150D03;Movement Speed+ Potion;315
+322;ipevn04;C4150D04;Candy [White Day Item];316
+323;ipbpc01;C10F0201;Cafe Only Burst Potion;335
+324;ipcpc01;C20F0201;Cafe Only Burst Potion;336
+325;ipapc01;C00F0201;Cafe Only Offence Charger;337
+326;ipbpc02;C10F0202;Cafe Only Protect Potion;338
+327;ipcpc02;C20F0202;Cafe Only Protect Potion;339
+328;ipapc02;C00F0202;Cafe Only Defence Charger;340
+329;ipbpc03;C10F0203;Cafe Only Composed Potion;341
+330;ipcpc03;C20F0203;Cafe Only Composed Potion;342
+331;ipapc03;C00F0203;Cafe Only Composed Charger;343
+332;ipbpc04;C10F0204;Cafe Only Smart Potion;344
+333;ipcpc04;C20F0204;Cafe Only Smart Potion;345
+334;ipapc04;C00F0204;Cafe Only Smart Charger;346
+335;ipbpc05;C10F0205;Cafe Only BlessHPPotion+2000;326
+336;ipbpc06;C10F0206;Cafe Only BlessHPPotion+3000;327
+337;ipbpc07;C10F0207;Cafe Only BlessHPPotion+4000;328
+338;ipcpc05;C20F0205;Cafe Only PopeHPPotion+2000;329
+339;ipcpc06;C20F0206;Cafe Only PopeHPPotion+3000;330
+340;ipcpc07;C20F0207;Cafe Only PopeHPPotion+4000;331
+341;ipapc05;C00F0205;Cafe Only AidHPCharger+2000;332
+342;ipapc06;C00F0206;Cafe Only AidHPCharger+3000;333
+343;ipapc07;C00F0207;Cafe Only AidHPCharger+4000;334
+344;ipsav01;D2001501;Warehouse Expansion Capsule;353
+345;ipcsa94;C2120094;Favored cure potion 1Lv;347
+346;ipcsa95;C2120095;Favored cure potion 2Lv;348
+347;ipcsa96;C2120096;Favored cure potion 3Lv;349
+348;ipcsa97;C2120097;Favored Freedom Potion 1Lv;350
+349;ipcsa98;C2120098;Favored Freedom Potion 2Lv;351
+350;ipcsa99;C2120099;Favored Freedom Potion 3Lv;352
+351;ipbhp09;C1070F09;BlessHPPotion+4000[Special];7
+352;ipbhp11;C1070F11;BlessHPPotion+5000[Special];8
+353;ipchp09;C2070F09;PopeHPPotion+4000[Special];15
+354;ipchp11;C2070F11;PopeHPPotion+5000[Special];16
+355;ipahp09;C0070F09;AidHPPotion+4000[Special];23
+356;ipahp11;C0070F11;AidHPPotion+5000[Special];24
+357;ipexp04;C4170F04;7% EXP Gain Potion;241
+358;ipexp05;C4170F05;Small EXP Gain Potion;241
+359;ipqsa11;D0120011;DNA Capsule of Dream;268
+360;ipqsa12;D0120012;DNA Capsule of Defense;268
+361;ipqsa13;D0120013;DNA Capsule of Iron Amor;268
+362;ipqsa14;D0120014;DNA Capsule of Wild;268
+363;ipqsa15;D0120015;DNA Capsule of Double Width;268
+364;ipqsa16;D0120016;DNA Capsule of Disjoint;268
+365;ipqsa17;D0120017;DNA Capsule of Sense;268
+366;ipqsa18;D0120018;DNA Capsule of Hide;268
+367;ipqsa19;D0120019;DNA Capsule of Speed of Light;268
+368;ipqsa20;D0120020;DNA Capsule of Silence;268
+369;ipqsa21;D0120021;Buildup Burst Project Potion[Quest];192
+370;ipqsa22;D0120022;Buildup Burst Project Potion[Quest];193
+371;ipqsa23;D0120023;Buildup Offense Defense Potion[Quest];194
+372;ipqsa24;D0120024;5% EXP Gain Potion;241
+373;ipevn05;C4150D05;Roast Chestnut;382
+374;ipevn06;C4150D06;Roast Sweet Potato;383
+375;ipevn07;C4150D07;Hot Chocolate;381
+376;ipftr03;C5131103;Trap Detector 30seconds;282
+377;ipgld01;C60B0301;Gold Capsule+1;385
+378;ipgld02;C60B0302;Gold Capsule+2;386
+379;ipgld03;C60B0303;Gold Capsule+3;387
+380;ipgld04;C60B0304;Gold Capsule+4;388
+381;ipgld05;C60B0305;Gold Capsule+5;389
+382;ipgld06;C60B0306;Gold Capsule+6;390
+383;ipgld07;C60B0307;Gold Capsule+7;391
+384;ipgld08;C60B0308;Gold Capsule+8;392
+385;ipgld09;C60B0309;Gold Capsule+9;393
+386;ipgld10;C60B0310;Gold Capsule+10;394
+387;ipgld11;C60B0311;Gold Capsule+11;395
+388;ipgld12;C60B0312;Gold Capsule+12;396
+389;ipgld13;C60B0313;Gold Capsule+13;397
+390;ipgld14;C60B0314;Gold Capsule+14;398
+391;ipgld15;C60B0315;Gold Capsule+15;399
+392;ipgld16;C60B0316;Gold Capsule+16;400
+393;ipgld17;C60B0317;Gold Capsule+17;401
+394;ipgld18;C60B0318;Gold Capsule+18;402
+395;ipgld19;C60B0319;Gold Capsule+19;403
+396;ipgld20;C60B0320;Gold Capsule+21;405
+397;ipgld21;C60B0321;Gold Capsule+22;406
+398;ipgld22;C60B0322;Gold Capsule+23;407
+399;ipgld23;C60B0323;Gold Capsule+24;408
+400;ipgld24;C60B0324;Gold Capsule+25;409
+401;ipgld25;C60B0325;Gold Capsule+26;410
+402;ipgld26;C60B0326;Gold Capsule+27;411
+403;ipgld27;C60B0327;Gold Capsule+28;412
+404;ipgld28;C60B0328;Gold Capsule+29;413
+405;ipgld29;C60B0329;Gold Capsule+3000;415
+406;ipgld30;C60B0330;Gold Capsule+4000;416
+407;ipgld31;C60B0331;Gold Capsule+4500;425
+408;ipgld32;C60B0332;Gold Capsule+5000;417
+409;ipgld33;C60B0333;Gold Capsule+5500;426
+410;ipgld34;C60B0334;Gold Capsule+6000;418
+411;ipgld35;C60B0335;Gold Capsule+6500;419
+412;ipgld36;C60B0336;Gold Capsule+7000;420
+413;ipgld37;C60B0337;Gold Capsule+7500;427
+414;ipgld38;C60B0338;Gold Capsule+10000;428
+415;ipgld39;C60B0339;Gold Capsule+12500;429
+416;ipgld40;C60B0340;Gold Capsule+15000;430
+417;ipgld41;C60B0341;Gold Capsule+17500;431
+418;ipgld42;C60B0342;Gold Capsule+20000;432
+419;ipgld43;C60B0343;Gold Capsule+30000;433
+420;ipmas01;CC001201;Proximity PT restriction release potion;352
+421;ipmas02;CC001202;Long range PT restriction release potion;352
+422;ipmas03;CC001203;Defense PT restriction release potion;352
+423;ipmas04;CC001204;Force PT restriction release potion;352
+424;ipmas05;CC001205;Shield PT restriction release potion;352
+425;ipmas06;CC001206;Race specilization PT restriction release potion;352
+426;ipmas07;CC001207;All PT restriction release potion;352
+427;ipcsb10;C2120110;Super Critical Potion[Cash];156
+428;ipcsb11;C2120111;Super Critical Potion[Cash];157
+429;ipcsb12;C2120112;Super Critical Charger[Cash];158
+430;ipcsb13;C2120113;Super Smart Potion[Cash];168
+431;ipcsb14;C2120114;Super Smart Potion[Cash];169
+432;ipcsb15;C2120115;Super Smart Charger[Cash];170
+433;ipcal02;C2000B02;Instant Insuperable Summon Potion ;446
+434;ipwhp02;D6070F02;Instant Insuperable Movement Potion;447
+435;ipcsb16;C2120116;Invisible Potion;448
+436;ipcsb17;C2120117;Invisible Potion;448
+437;ipcsb18;C2120118;Invisible Charger;448
+438;ipcsb19;C2120119;Quick Revival Potion;449
+439;ipgld44;C60B0344;Gold Capsule+1000;450
+440;ipsup01;D2140F01;Insuperable Movement Potion;447
+441;ipcal03;C2000B03;Battle Summon Potion;455
+442;ipwhp03;D6070F03;Battle Instant Movement Potion;456
+443;ipwed01;D6040301;Wedding Ring;457
+444;ipfhp01;C5070F01;Hissy Potion;458
+445;ipcur01;C2141101;Neutralizing Potion;459

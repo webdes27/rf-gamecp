@@ -1,0 +1,418 @@
+Index;Server Code;Client Code;English Name
+0;bxlow01;5B0E1601;Bamboo in a Lover
+1;bxchr01;52071101;Small GiftBox
+2;bxchr02;52071102;GiftBox
+3;bxchr03;52071103;Big GiftBox
+4;bxdbr01;53011101;Walnut
+5;bxwhi01;66070801;GiftBox
+6;bxbch01;51020701;Box of Triumph
+7;bxcch01;52020701;Box of Dicem
+8;bxach01;50020701;Box of Kesar
+9;bxscr01;62021101;Symbol of Warrior
+10;bxgem01;56040C01;Master's Small Gift
+11;bxgem02;56040C02;Master's Gift
+12;bxgem03;56040C03;Master's Large Gift
+13;bxxts01;67131201;Test Server Only WarriorWeaponPiece
+14;bxxts02;67131202;Test Server Only LauncherStaffPiece
+15;bxxts03;67131203;Test Server Only RangerWeaponPiece
+16;bxxts04;67131204;Test Server Only SetItemPiece
+17;bxxts05;67131205;Test Server Only UniformItemPiece
+18;bxcsa01;52120001;Celebration Lucky Box of Partial Commercialization <Small>
+19;bxcsa02;52120002;Celebration Lucky Box of Partial Commercialization <Medium>
+20;bxcsa03;52120003;Celebration Lucky Box of Partial Commercialization <Large>
+21;bxcsa04;52120004;Celebration Lucky Box of Partial Commercialization <Small>
+22;bxcsa05;52120005;Celebration Lucky Box of Partial Commercialization <Medium>
+23;bxcsa06;52120006;Celebration Lucky Box of Partial Commercialization <Large>
+24;bxcsa07;52120007;Celebration Lucky Box of Partial Commercialization <Small>
+25;bxcsa08;52120008;Celebration Lucky Box of Partial Commercialization <Medium>
+26;bxcsa09;52120009;Celebration Lucky Box of Partial Commercialization <Large>
+27;bxchu00;52071400;ThanksGiving LargeGift Set
+28;bxchu01;52071401;ThanksGiving Gift Set
+29;bxcjh01;52090701;Inventer's Accessories Box
+30;bxcsa10;52120010;Favor Received Box<Small>
+31;bxcsa11;52120011;Favor Received Box<Medium>
+32;bxcsa12;52120012;Favor Received Box<Large>
+33;bxcsa13;52120013;Favor Received Box<Small>
+34;bxcsa14;52120014;Favor Received Box<Medium>
+35;bxcsa15;52120015;Favor Received Box<Large>
+36;bxcsa16;52120016;Favor Received Box<Small>
+37;bxcsa17;52120017;Favor Received Box<Medium>
+38;bxcsa18;52120018;Favor Received Box<Large>
+39;bxcsa19;52120019;Ignorance Good Box<Small>
+40;bxcsa20;52120020;Ignorance Good Box<Medium>
+41;bxcsa21;52120021;Ignorance Good Box<Large>
+42;bxcsa22;52120022;Ignorance Good Box<Small>
+43;bxcsa23;52120023;Ignorance Good Box<Medium>
+44;bxcsa24;52120024;Ignorance Good Box<Large>
+45;bxcsa25;52120025;Ignorance Good Box<Small>
+46;bxcsa26;52120026;Ignorance Good Box<Medium>
+47;bxcsa27;52120027;Ignorance Good Box<Large>
+48;bxcsa28;52120028;Socket Box
+49;bxgem04;56040C04;Master's Recycling box
+50;bxdha00;53070000;Hora DarkHall's OldBox
+51;bxdha01;53070001;Hora DarkHall's OldBox
+52;bxdha02;53070002;Hora DarkHall's OldBox
+53;bxdha03;53070003;Hora DarkHall's HelmetBox
+54;bxdha04;53070004;Hora DarkHall's HelmetBox
+55;bxdha05;53070005;Hora DarkHall's HelmetBox
+56;bxdha06;53070006;Hora DarkHall's ArmorBox
+57;bxdha07;53070007;Hora DarkHall's ArmorBox
+58;bxdha08;53070008;Hora DarkHall's ArmorBox
+59;bxdha09;53070009;Hora DarkHall's LegBox
+60;bxdha10;53070010;Hora DarkHall's LegBox
+61;bxdha11;53070011;Hora DarkHall's LegBox
+62;bxdha12;53070012;Hora DarkHall's GauntletBox
+63;bxdha13;53070013;Hora DarkHall's GauntletBox
+64;bxdha14;53070014;Hora DarkHall's GauntletBox
+65;bxdha15;53070015;Hora DarkHall's ShoesBox
+66;bxdha16;53070016;Hora DarkHall's ShoesBox
+67;bxdha17;53070017;Hora DarkHall's ShoesBox
+68;bxdha18;53070018;Hora DarkHall's WeaponBox
+69;bxdha19;53070019;Hora DarkHall's WeaponBox
+70;bxdha20;53070020;Hora DarkHall's WeaponBox
+71;bxdha21;53070021;Hora DarkHall's TreasureBox
+72;bxdha22;53070022;Hora DarkHall's TreasureBox
+73;bxdha23;53070023;Hora DarkHall's TreasureBox
+74;bxknb01;5A0D0101;Hidden Magical Dark Beam Saber
+75;bxswb01;62160101;Hidden Magical Dark Beam Sword
+76;bxaxb01;50170101;Hidden Magical Dark Bullova
+77;bxmab01;5C000101;Hidden Magical Dark Beam Pressure
+78;bxspb01;620F0101;Hidden Magical Black Lance
+79;bxbob01;510E0101;Hidden Magical Black Siege Bow
+80;bxfib01;55080101;Hidden Magical Dark Gatling
+81;bxlub01;5B140101;Hidden Magical Dark Flame Launcher
+82;bxstb01;62130101;Hidden Magical Dark Staff
+83;bxbih01;51080701;Hidden Magical Helmet
+84;bxcih01;52080701;Hidden Magical Helmet
+85;bxaih01;50080701;Hidden Magical Helmet
+86;bxbiu01;51081401;Hidden Magical Shirts
+87;bxciu01;52081401;Hidden Magical Shirts
+88;bxaiu01;50081401;Hidden Magical Shirts
+89;bxbil01;51080B01;Hidden Magical Pants
+90;bxcil01;52080B01;Hidden Magical Pants
+91;bxail01;50080B01;Hidden Magical Pants
+92;bxbig01;51080601;Hidden Magical Gloves
+93;bxcig01;52080601;Hidden Magical Gloves
+94;bxaig01;50080601;Hidden Magical Gloves
+95;bxbis01;51081201;Hidden Magical Shoes
+96;bxcis01;52081201;Hidden Magical Shoes
+97;bxais01;50081201;Hidden Magical Shoes
+98;bxbih00;51080700;Blocked Magical Helmet
+99;bxcih00;52080700;Blocked Magical Helmet
+100;bxaih00;50080700;Blocked Magical Helmet
+101;bxbiu00;51081400;Blocked Magical Shirts
+102;bxciu00;52081400;Blocked Magical Shirts
+103;bxaiu00;50081400;Blocked Magical Shirts
+104;bxbil00;51080B00;Blocked Magical Pants
+105;bxcil00;52080B00;Blocked Magical Pants
+106;bxail00;50080B00;Blocked Magical Pants
+107;bxbig00;51080600;Blocked Magical Gloves
+108;bxcig00;52080600;Blocked Magical Gloves
+109;bxaig00;50080600;Blocked Magical Gloves
+110;bxbis00;51081200;Blocked Magical Shoes
+111;bxcis00;52081200;Blocked Magical Shoes
+112;bxais00;50081200;Blocked Magical Shoes
+113;bxbud01;51140301;BeadBox
+114;bxtal01;63000B01;Mysterious TreasureBox[Defense]
+115;bxtal02;63000B02;Blessed Mysterious TreasureBox[Defense]
+116;bxtal03;63000B03;Mysterious TreasureBox[Offense]
+117;bxtal04;63000B04;Blessed Mysterious TreasureBox[Offense]
+118;bxbwc50;51160250;Union Warrior RewardBox 50LV
+119;bxbrc50;51110250;Union Ranger RewardBox 50LV
+120;bxbfc50;51050250;Union Force RewardBox 50LV
+121;bxcwc50;52160250;Alliance Warrior RewardBox 50LV
+122;bxcrc50;52110250;Alliance Ranger RewardBox 50LV
+123;bxcfc50;52050250;Alliance Force RewardBox 50LV
+124;bxawc50;50160250;Emperial Warrior RewardBox 50LV
+125;bxarc50;50110250;Emperial Ranger RewardBox 50LV
+126;bxafc50;50050250;Emperial Launcher RewardBox 50LV
+127;bxbwc53;51160253;Union Warrior RewardBox 53LV
+128;bxbrc53;51110253;Union Ranger RewardBox 53LV
+129;bxbfc53;51050253;Union Force RewardBox 53LV
+130;bxcwc53;52160253;Alliance Warrior RewardBox 53LV
+131;bxcrc53;52110253;Alliance Ranger RewardBox 53LV
+132;bxcfc53;52050253;Alliance Force RewardBox 53LV
+133;bxawc53;50160253;Emperial Warrior RewardBox 53LV
+134;bxarc53;50110253;Emperial Ranger RewardBox 53LV
+135;bxafc53;50050253;Emperial Launcher RewardBox 53LV
+136;bxbwc55;51160255;Union Warrior RewardBox 55LV
+137;bxbrc55;51110255;Union Ranger RewardBox 55LV
+138;bxbfc55;51050255;Union Force RewardBox 55LV
+139;bxcwc55;52160255;Alliance Warrior RewardBox 55LV
+140;bxcrc55;52110255;Alliance Ranger RewardBox 55LV
+141;bxcfc55;52050255;Alliance Force RewardBox 55LV
+142;bxawc55;50160255;Emperial Warrior RewardBox 55LV
+143;bxarc55;50110255;Emperial Ranger RewardBox 55LV
+144;bxafc55;50050255;Emperial Launcher RewardBox 55LV
+145;bxrel01;61040B01;Novajan's Ancient Remain
+146;bxbab50;51000150;Small Union RewardBox
+147;bxcab50;52000150;Small Alliance RewardBox
+148;bxaab50;50000150;Small Emperial RewardBox
+149;bxspr50;620F1150;Superior Favor Box
+150;bxspr53;620F1153;53 Superior Favor Box
+151;bxspr55;620F1155;55 Superior Favor Box
+152;bxleo01;5B040E01;Leon's Weapon Parts Box
+153;bxleo02;5B040E02;Leon's Weapon Parts Box
+154;bxleo03;5B040E03;Leon's Weapon Parts Box
+155;bxleo04;5B040E04;Leon's Weapon Parts Box
+156;bxbno50;510D0E50;Union Normal RewardBox 50LV
+157;bxbno53;510D0E53;Union Normal RewardBox 53LV
+158;bxbno55;510D0E55;Union Normal RewardBox 55LV
+159;bxcno50;520D0E50;Alliance Normal RewardBox 50LV
+160;bxcno53;520D0E53;Alliance Normal RewardBox 53LV
+161;bxcno55;520D0E55;Alliance Normal RewardBox 55LV
+162;bxano50;500D0E50;Emperial Normal RewardBox 50LV
+163;bxano53;500D0E53;Emperial Normal RewardBox 53LV
+164;bxano55;500D0E55;Emperial Normal RewardBox 55LV
+165;bxcou01;520E1401;Cash DiscountCoupon Box
+166;bxbgb01;51060101;Case for Auxilliary Equipment
+167;bxqsa01;60120001;Level40 C Class WeaponBox
+168;bxqsa02;60120002;Level40 C Class WeaponBox
+169;bxqsa03;60120003;Level40 C Class WeaponBox
+170;bxqsa04;60120004;Level40 C Class WeaponBox
+171;bxqsa05;60120005;Set Armor Box
+172;bxqsa06;60120006;Set Armor Box
+173;bxqsa07;60120007;Set Armor Box
+174;bxbsh50;51120750;Union Shield AwardBox 50LV
+175;bxbsh53;51120753;Union Shield AwardBox 53LV
+176;bxbsh55;51120755;Union Shield AwardBox 55LV
+177;bxcsh50;52120750;Alliance Shield AwardBox 50LV
+178;bxcsh53;52120753;Alliance Shield AwardBox 53LV
+179;bxcsh55;52120755;Alliance Shield AwardBox 55LV
+180;bxash50;50120750;Empire Shield AwardBox 50LV
+181;bxash53;50120753;Empire Shield AwardBox 53LV
+182;bxash55;50120755;Empire Shield AwardBox 55LV
+183;bxcsa29;52120029;Favor Lucky Box<Small>
+184;bxcsa30;52120030;Favor Lucky Box<Medium>
+185;bxcsa31;52120031;Favor Lucky Box<Large>
+186;bxcsa32;52120032;Favor Lucky Box<Small>
+187;bxcsa33;52120033;Favor Lucky Box<Medium>
+188;bxcsa34;52120034;Favor Lucky Box<Large>
+189;bxcsa35;52120035;Favor Lucky Box<Small>
+190;bxcsa36;52120036;Favor Lucky Box<Medium>
+191;bxcsa37;52120037;Favor Lucky Box<Large>
+192;bxcsa38;52120038;Fullmoon Box
+193;bxcsa39;52120039;Fullmoon Box
+194;bxcsa40;52120040;Fullmoon Box
+195;bxcsa41;52120041;Wisdom Lucky Box<Small>
+196;bxcsa42;52120042;Wisdom Lucky Box<Medium>
+197;bxcsa43;52120043;Wisdom Lucky Box<Large>
+198;bxcsa44;52120044;Wisdom Lucky Box<Small>
+199;bxcsa45;52120045;Wisdom Lucky Box<Medium>
+200;bxcsa46;52120046;Wisdom Lucky Box<Large>
+201;bxcsa47;52120047;Wisdom Lucky Box<Small>
+202;bxcsa48;52120048;Wisdom Lucky Box<Medium>
+203;bxcsa49;52120049;Wisdom Lucky Box<Large>
+204;bxcsa50;52120050;Dark Lucky Box<Small>
+205;bxcsa51;52120051;Dark Lucky Box<Medium>
+206;bxcsa52;52120052;Dark Lucky Box<Large>
+207;bxcsa53;52120053;Dark Lucky Box<Small>
+208;bxcsa54;52120054;Dark Lucky Box<Medium>
+209;bxcsa55;52120055;Dark Lucky Box<Large>
+210;bxcsa56;52120056;Dark Lucky Box<Small>
+211;bxcsa57;52120057;Dark Lucky Box<Medium>
+212;bxcsa58;52120058;Dark Lucky Box<Large>
+213;bxcsa59;52120059;Grace Lucky Box<Small>
+214;bxcsa60;52120060;Grace Lucky Box<Medium>
+215;bxcsa61;52120061;Grace Lucky Box<Large>
+216;bxcsa62;52120062;Grace Lucky Box<Small>
+217;bxcsa63;52120063;Grace Lucky Box<Medium>
+218;bxcsa64;52120064;Grace Lucky Box<Large>
+219;bxcsa65;52120065;Grace Lucky Box<Small>
+220;bxcsa66;52120066;Grace Lucky Box<Medium>
+221;bxcsa67;52120067;Grace Lucky Box<Large>
+222;bxcsa68;52120068;Mercy Lucky Box<Small>
+223;bxcsa69;52120069;Mercy Lucky Box<Medium>
+224;bxcsa70;52120070;Mercy Lucky Box<Large>
+225;bxcsa71;52120071;Mercy Lucky Box<Small>
+226;bxcsa72;52120072;Mercy Lucky Box<Medium>
+227;bxcsa73;52120073;Mercy Lucky Box<Large>
+228;bxcsa74;52120074;Mercy Lucky Box<Small>
+229;bxcsa75;52120075;Mercy Lucky Box<Medium>
+230;bxcsa76;52120076;Mercy Lucky Box<Large>
+231;bxcsa77;52120077;Level40 Award Box
+232;bxcsa78;52120078;Level40 Award Box
+233;bxcsa79;52120079;Leve40 Award Box
+234;bxcsa80;52120080;Level45 Award Box
+235;bxcsa81;52120081;Level45 Award Box
+236;bxcsa82;52120082;Level45 Award Box
+237;bxcsa83;52120083;Full Moon Box
+238;bxcsa84;52120084;Full Moon Box
+239;bxcsa85;52120085;Full Moon Box
+240;bxcsa86;52120086;Lucky Chaos Box <Small> 
+241;bxcsa87;52120087;Lucky Chaos Box <Medium> 
+242;bxcsa88;52120088;Lucky Chaos Box <Large> 
+243;bxcsa89;52120089;Lucky Chaos Box <Small> 
+244;bxcsa90;52120090;Lucky Chaos Box <Medium> 
+245;bxcsa91;52120091;Lucky Chaos Box <Large> 
+246;bxcsa92;52120092;Lucky Chaos Box <Small> 
+247;bxcsa93;52120093;Lucky Chaos Box <Medium> 
+248;bxcsa94;52120094;Lucky Chaos Box <Large> 
+249;bxcsa95;52120095;National Foundation Day
+250;bxcsa96;52120096;National Foundation Day
+251;bxcsa97;52120097;National Foundation Day
+252;bxcsa98;52120098;Christmas Socks
+253;bxcsa99;52120099;Christmas Socks
+254;bxcsb00;52120100;Christmas Socks
+255;bxcsb01;52120101;Elimental Amulet Gamble Box
+256;bxcsb02;52120102;Elimental Amulet Gamble Box
+257;bxcsb03;52120103;Elimental Amulet Gamble Box
+258;bxcsb04;52120104;Elimental Amulet Gamble Box
+259;bxcsb05;52120105;Elimental Amulet Gamble Box
+260;bxcsb06;52120106;Elimental Amulet Gamble Box
+261;bxcsb07;52120107;Elimental Amulet Gamble Box
+262;bxcsb08;52120108;Elimental Amulet Gamble Box
+263;bxcsb09;52120109;Elimental Amulet Gamble Box
+264;bxcsb10;52120110;Elimental Ring Gamble Box
+265;bxcsb11;52120111;Elimental Ring Gamble Box
+266;bxcsb12;52120112;Elimental Ring Gamble Box
+267;bxcsb13;52120113;Elimental Ring Gamble Box
+268;bxcsb14;52120114;Elimental Ring Gamble Box
+269;bxcsb15;52120115;Elimental Ring Gamble Box
+270;bxcsb16;52120116;Elimental ring Gamble Box
+271;bxcsb17;52120117;Elimental Ring Gamble Box
+272;bxcsb18;52120118;Elimental Ring Gamble Box
+273;bxcsb19;52120119;Herodian Gene information chip box
+274;bxcsb20;52120120;Hunger Beast Earring Gamble Box
+275;bxcsb21;52120121;Hunger Beast Earring Gamble Box
+276;bxcsb22;52120122;Hunger Beast Earring Gamble Box
+277;bxcsb23;52120123;Earring Gamble Box of Wiggled Beast Life
+278;bxcsb24;52120124;Earring Gamble Box of Wiggled Beast Life
+279;bxcsb25;52120125;Earring Gamble Box of Wiggled Beast Life
+280;bxcsb26;52120126;Earring Gamble Box of Fierce Beast
+281;bxcsb27;52120127;Earring Gamble Box of Fierce Beast
+282;bxcsb28;52120128;Earring Gamble Box of Fierce Beast
+283;bxcsb29;52120129;Exiled Plunderer's Earring Gamble Box
+284;bxcsb30;52120130;Exiled Plunderer's Earring Gamble Box
+285;bxcsb31;52120131;Exiled Plunderer's Earring Gamble Box
+286;bxcsb32;52120132;Liberated Exile's Earring Gamble Box
+287;bxcsb33;52120133;Liberated Exile's Earring Gamble Box
+288;bxcsb34;52120134;Liberated Exile's Earring Gamble Box
+289;bxcsb35;52120135;Dead Exile's Ring Gamble Box
+290;bxcsb36;52120136;Dead Exile's Ring Gamble Box
+291;bxcsb37;52120137;Dead Exile's Ring Gamble Box
+292;bxcsb38;52120138;Jewelry Box
+293;bxcsb39;52120139;Hunger Beast Earring Gamble Box
+294;bxcsb40;52120140;Hunger Beast Earring Gamble Box
+295;bxcsb41;52120141;Hunger Beast Earring Gamble Box
+296;bxcsb42;52120142;Earring Gamble Box of Wiggled Beast Life
+297;bxcsb43;52120143;Earring Gamble Box of Wiggled Beast Life
+298;bxcsb44;52120144;Earring Gamble Box of Wiggled Beast Life
+299;bxcsb45;52120145;Earring Gamble Box of Fierce Beast
+300;bxcsb46;52120146;Earring Gamble Box of Fierce Beast
+301;bxcsb47;52120147;Earring Gamble Box of Fierce Beast
+302;bxcsb48;52120148;Exiled Plunderer's Earring Gamble Box
+303;bxcsb49;52120149;Exiled Plunderer's Earring Gamble Box
+304;bxcsb50;52120150;Exiled Plunderer's Earring Gamble Box
+305;bxcsb51;52120151;Liberated Exile's Earring Gamble Box
+306;bxcsb52;52120152;Liberated Exile's Earring Gamble Box
+307;bxcsb53;52120153;Liberated Exile's Earring Gamble Box
+308;bxcsb54;52120154;Dead Exile's Ring Gamble Box
+309;bxcsb55;52120155;Dead Exile's Ring Gamble Box
+310;bxcsb56;52120156;Dead Exile's Ring Gamble Box
+311;bxcsb57;52120157;Hunger Beast Earring Gamble Box
+312;bxcsb58;52120158;Hunger Beast Earring Gamble Box
+313;bxcsb59;52120159;Hunger Beast Earring Gamble Box
+314;bxcsb60;52120160;Earring Gamble Box of Wiggled Beast Life
+315;bxcsb61;52120161;Earring Gamble Box of Wiggled Beast Life
+316;bxcsb62;52120162;Earring Gamble Box of Wiggled Beast Life
+317;bxcsb63;52120163;Earring Gamble Box of Fierce Beast
+318;bxcsb64;52120164;Earring Gamble Box of Fierce Beast
+319;bxcsb65;52120165;Earring Gamble Box of Fierce Beast
+320;bxcsb66;52120166;Exiled Plunderer's Earring Gamble Box
+321;bxcsb67;52120167;Exiled Plunderer's Earring Gamble Box
+322;bxcsb68;52120168;Exiled Plunderer's Earring Gamble Box
+323;bxcsb69;52120169;Earring Gamble Box of Fierce Beast
+324;bxcsb70;52120170;Earring Gamble Box of Fierce Beast
+325;bxcsb71;52120171;Earring Gamble Box of Fierce Beast
+326;bxcsb72;52120172;Dead Exile's Ring Gamble Box
+327;bxcsb73;52120173;Dead Exile's Ring Gamble Box
+328;bxcsb74;52120174;Dead Exile's Ring Gamble Box
+329;bxres01;61041201;Red Stone Box
+330;bxbul01;51140B01;Intense Projectile Box
+331;bxbul02;51140B02;Intense Projectile Box
+332;bxbul03;51140B03;Intense Projectile Box
+333;bxcjh02;52090702;Blood booster part box
+334;bxcjh03;52090703;Aiming Booster part Box
+335;bxcsc01;52120201;Small Favor Protection Box 
+336;bxcsc02;52120202;Medium Favor Protection Box 
+337;bxcsc03;52120203;Large Favor Protection Box 
+338;bxcsc04;52120204;Small Favor Protection Box 
+339;bxcsc05;52120205;Medium Favor Protection Box 
+340;bxcsc06;52120206;Large Favor Protection Box 
+341;bxcsc07;52120207;Small Favor Protection Box 
+342;bxcsc08;52120208;Medium Favor Protection Box 
+343;bxcsc09;52120209;Large Favor Protection Box 
+344;bxcjh04;52090704;Superior Option Changer Box
+345;bxgol01;560E0B01;Hero gold box
+346;bxgol02;560E0B02;Beginner's gold box 30Lv
+347;bxgol03;560E0B03;Shiny gold box
+348;bxgol04;560E0B04;Gold bar box
+349;bxgol05;560E0B05;Beginner's gold box 40Lv
+350;bxbwc57;51160257;Union Warrior RewardBox 57LV
+351;bxbrc57;51110257;Union Ranger RewardBox 57LV
+352;bxbfc57;51050257;Union Force RewardBox 57LV
+353;bxcwc57;52160257;Alliance Warrior RewardBox 57LV
+354;bxcrc57;52110257;Alliance Ranger RewardBox 57LV
+355;bxcfc57;52050257;Alliance Force RewardBox 57LV
+356;bxawc57;50160257;Empire Warrior RewardBox 57LV
+357;bxarc57;50110257;Empire Ranger RewardBox 57LV
+358;bxafc57;50050257;Empire Launcher RewardBox Lv57
+359;bxbwc60;51160260;Union Warrior RewardBox 60LV
+360;bxbrc60;51110260;Union Ranger RewardBox 60LV
+361;bxbfc60;51050260;Union Force RewardBox 60LV
+362;bxcwc60;52160260;Alliance Warrior RewardBox 60LV
+363;bxcrc60;52110260;Alliance Ranger RewardBox 60LV
+364;bxcfc60;52050260;Alliance Force RewardBox 60LV
+365;bxawc60;50160260;Empire Warrior RewardBox 60LV
+366;bxarc60;50110260;Empire Ranger RewardBox 60LV
+367;bxafc60;50050260;Empire Launcher RewardBox Lv60
+368;bxbwc63;51160263;Union Warrior RewardBox 63LV
+369;bxbrc63;51110263;Union Ranger RewardBox 63LV
+370;bxbfc63;51050263;Union Force RewardBox 63LV
+371;bxcwc63;52160263;Alliance Warrior RewardBox 63LV
+372;bxcrc63;52110263;Alliance Ranger RewardBox 63LV
+373;bxcfc63;52050263;Alliance Force RewardBox 63LV
+374;bxawc63;50160263;Empire Warrior RewardBox 63LV
+375;bxarc63;50110263;Empire Ranger RewardBox 63LV
+376;bxafc63;50050263;Empire Launcher RewardBox Lv63
+377;bxbwc65;51160265;Union Warrior RewardBox 65LV
+378;bxbrc65;51110265;Union Ranger RewardBox 65LV
+379;bxbfc65;51050265;Union Force RewardBox 65LV
+380;bxcwc65;52160265;Alliance Warrior RewardBox 65LV
+381;bxcrc65;52110265;Alliance Ranger RewardBox 65LV
+382;bxcfc65;52050265;Alliance Force RewardBox 65LV
+383;bxawc65;50160265;Empire Warrior RewardBox 65LV
+384;bxarc65;50110265;Empire Ranger RewardBox 65LV
+385;bxafc65;50050265;Empire Launcher RewardBox Lv65
+386;bxron01;610E0D01;Leon's Lucky Box
+387;bxron02;610E0D02;Leon's Lucky Box
+388;bxron03;610E0D03;Leon's Lucky Box
+389;bxron04;610E0D04;Leon's Lucky Box
+390;bxron05;610E0D05;Leon's Lucky Box
+391;bxron06;610E0D06;Leon's Lucky Box
+392;bxron07;610E0D07;Leon's Lucky Box
+393;bxron08;610E0D08;Leon's Lucky Box
+394;bxron09;610E0D09;Leon's Lucky Box
+395;bxeup01;54140F01;Blessed Jewery Box
+396;bxeup02;54140F02;Blessed Jewery Box
+397;bxeup03;54140F03;Blessed Jewery Box
+398;bxbbb01;51010101;Lottery Box[Jade]
+399;bxbbb02;51010102;Lottery Box[Cham&Generator]
+400;bxbbb03;51010103;Lottery Box[Cham&Generator]
+401;bxbbb04;51010104;Lottery Box[Cham&Generator]
+402;bxbbb05;51010105;Lottery Box[Cash]
+403;bxbbb06;51010105;Lottery Box[Cash]
+404;bxbbb07;51010105;Lottery Box[Cash]
+405;bxsau01;62001401;Superior Lucky Box <Small>
+406;bxsau02;62001402;Superior Lucky Box <Medium>
+407;bxsau03;62001403;Superior Lucky Box <Large>
+408;bxsau04;62001404;Superior Lucky Box <Small>
+409;bxsau05;62001405;Superior Lucky Box <Medium>
+410;bxsau06;62001406;Superior Lucky Box <Large>
+411;bxsau07;62001407;Superior Lucky Box <Small>
+412;bxsau08;62001408;Superior Lucky Box <Medium>
+413;bxsau09;62001409;Superior Lucky Box <Large>
+414;bxeup04;54140F04;Blessed lucky Jeweiry Box
+415;bxeup05;54140F05;Blessed lucky Jeweiry Box
+416;bxeup06;54140F06;Blessed lucky Jeweiry Box

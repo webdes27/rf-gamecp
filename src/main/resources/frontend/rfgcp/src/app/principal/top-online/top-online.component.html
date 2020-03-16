@@ -2,10 +2,10 @@
   <h4>Top 30 Jogadores por tempo jogado</h4>
   <hr style="width: -webkit-fill-available;"/>
 
-  <table class="table table-bordered table-dark mt-2">
-    <thead class="text-center">
+  <table class="table table-bordered mt-2">
+    <thead class="text-center bg-default">
     <th>Rank</th>
-    <th>Status</th>
+<!--    <th>Status</th>-->
     <th>Raça</th>
     <th>Nível</th>
     <th>Nome do Personagem</th>
@@ -14,9 +14,9 @@
     <th>Pt Contribuição</th>
     <th>Guilda</th>
     </thead>
-    <tbody *ngFor="let t of topOnline" class="text-center">
-      <td>{{t.rank}}</td>
-      <td ><div class="circle red" [class.green]="t.status"></div></td>
+    <tbody *ngFor="let t of topOnline; let i = index" class="text-center">
+      <td>{{i + 1}}</td>
+<!--      <td ><div class="circle red" [class.green]="t.status"></div></td>-->
       <td>{{t.raca}}</td>
       <td>{{t.nivel}}</td>
       <td>{{t.nomePersonagem}}</td>

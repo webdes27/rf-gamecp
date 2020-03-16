@@ -1,13 +1,8 @@
-interface Item {
-  slot: number;
-  nome: string;
-  quantidade: number;
-  melhoria: number;
-}
+import {Equipamento} from "./personagem.model";
 
 export class Inventario {
-  itens: Item[];
-  constructor(item?: Item[]) {
-    this.itens = item;
+  equipamentos: Equipamento[];
+  constructor(equipamentos?: Equipamento[]) {
+    this.equipamentos = equipamentos;
   }
 }

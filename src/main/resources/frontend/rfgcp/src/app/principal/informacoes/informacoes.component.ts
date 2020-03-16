@@ -12,15 +12,18 @@ export class InformacoesComponent implements OnInit, OnDestroy {
 
   private stats: ServerStats;
   private alive = true;
+  private loaded: boolean;
 
-  constructor(private serverService: ServerService) {
-
-  }
+  constructor(private serverService: ServerService) {}
 
   ngOnInit(): void {
+    this.loaded = false;
     this.serverService.getEstatisticas()
       .pipe(takeWhile(() => this.alive))
-      .subscribe(stats => this.stats = stats);
+      .subscribe(stats => {
+        this.stats = stats;
+        this.loaded = true;
+      }, error => this.loaded = true);
   }
 
   ngOnDestroy(): void {

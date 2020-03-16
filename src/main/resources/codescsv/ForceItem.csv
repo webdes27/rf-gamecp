@@ -1,0 +1,95 @@
+Index;Server Code;Client Code;English Name;Image ID
+0;icfla00;C50B0000;Training Prism Shard;25
+1;icala00;C00B0000;Training Ice Shard;41
+2;ictla00;D30B0000;Training Vein Fall;57
+3;icwla00;D60B0000;Training Spark;73
+4;icdls01;C30B1201;Celerity;1
+5;icdls02;C30B1202;Sacrifice;2
+6;icdls03;C30B1203;Tempo;3
+7;icdms01;C30C1201;Adept;4
+8;icdms02;C30C1202;Vista;5
+9;icdms03;C30C1203;Velocity ;6
+10;icdhs01;C3071201;Acuity;7
+11;icdhs02;C3071202;Torment;8
+12;icdhs03;C3071203;Conservation ;9
+13;icdts01;C3131201;Not Available;10
+14;icdts02;C3131202;Not Available;11
+15;icdts03;C3131203;Not Available;12
+16;ichls01;C70B1201;Focus;13
+17;ichls02;C70B1202;Energize;14
+18;ichls03;C70B1203;Soul Vitality;15
+19;ichms01;C70C1201;Resistance;16
+20;ichms02;C70C1202;Healing;17
+21;ichms03;C70C1203;Velocity ;18
+22;ichhs01;C7071201;Agility;19
+23;ichhs02;C7071202;Aegis;20
+24;ichhs03;C7071203;Conservation ;21
+25;ichts01;C7131201;Not Available;22
+26;ichts02;C7131202;Not Available;23
+27;ichts03;C7131203;Not Available;24
+28;icfla01;C50B0001;Prism Shard;25
+29;icfla02;C50B0002;Fire Wall;26
+30;icfla03;C50B0003;Fire Ball;27
+31;icfla04;C50B0004;Flash Beam;28
+32;icfma01;C50C0001;Flame Arrow;29
+33;icfma02;C50C0002;Circle of Fire;30
+34;icfma03;C50C0003;Fire Bomb;31
+35;icfma04;C50C0004;Radiant Fall;32
+36;icfha01;C5070001;Blaze Pearl;33
+37;icfha02;C5070002;Solar Blade;34
+38;icfha03;C5070003;Blaze Lance;35
+39;icfha04;C5070004;Meteor Swarm;36
+40;icfta01;C5130001;Not Available;37
+41;icfta02;C5130002;Not Available;38
+42;icfta03;C5130003;Not Available;39
+43;icfta04;C5130004;Not Available;40
+44;icala01;C00B0001;Ice Shard;41
+45;icala02;C00B0002;Geyser;42
+46;icala03;C00B0003;Blind Sight;43
+47;icala04;C00B0004;Weakness;44
+48;icama01;C00C0001;Frost Arrow;45
+49;icama02;C00C0002;Aqua Blade;46
+50;icama03;C00C0003;Vulnerability;47
+51;icama04;C00C0004;Enfeeblement;48
+52;icaha01;C0070001;Raging Wave;49
+53;icaha02;C0070002;Frost Nova;50
+54;icaha03;C0070003;Sloth;51
+55;icaha04;C0070004;Slow;52
+56;icata01;C0130001;Not Available;53
+57;icata02;C0130002;Not Available;54
+58;icata03;C0130003;Not Available;55
+59;icata04;C0130004;Not Available;56
+60;ictla01;D30B0001;Vein Fall;57
+61;ictla02;D30B0002;Poison Mist;58
+62;ictla03;D30B0003;Suppress;59
+63;ictla04;D30B0004;Repress;60
+64;ictma01;D30C0001;Rock Blade;61
+65;ictma02;D30C0002;Poison Bloom;62
+66;ictma03;D30C0003;Stifle;63
+67;ictma04;D30C0004;Entangle;64
+68;ictha01;D3070001;Venom;65
+69;ictha02;D3070002;Sand Storm;66
+70;ictha03;D3070003;Restrain;67
+71;ictha04;D3070004;Contain;68
+72;ictta01;D3130001;Not Available;69
+73;ictta02;D3130002;Not Available;70
+74;ictta03;D3130003;Not Available;71
+75;ictta04;D3130004;Not Available;72
+76;icwla01;D60B0001;Spark;73
+77;icwla02;D60B0002;Wind Shear;74
+78;icwla03;D60B0003;Counter;75
+79;icwla04;D60B0004;Dispel;76
+80;icwma01;D60C0001;Lightning Bolt;77
+81;icwma02;D60C0002;Air Blast;78
+82;icwma03;D60C0003;Refresh;79
+83;icwma04;D60C0004;Sight;80
+84;icwha01;D6070001;Wind Blast;81
+85;icwha02;D6070002;Chain Lightning;82
+86;icwha03;D6070003;Individual Cancellation;83
+87;icwha04;D6070004;Offensive Cancellation;84
+88;icwta01;D6130001;Gravity Field;85
+89;icwta02;D6130002;Thunder Bird;86
+90;icwta03;D6130003;Defensive Cancellation;87
+91;icwta04;D6130004;Surcease;88
+92;icaex00;C0041700;Training Weakness;89
+93;ictex00;D3041700;Training Mute Soul;90

@@ -1,20 +1,27 @@
-<div class="row py-5">
+<div class="row py-5" style="overflow-y: auto; max-height: 100%">
   <div class="container">
     <h3>Buscar {{equipamento ? 'Equipamento' : 'Inventário'}}</h3>
     <hr/>
     <div class="col-12 form-group">
-      <app-input-enter-key [nome]="nome" placeholder="Nome do jogador" [submit]="submit()"
+      <app-input-enter-key placeholder="Nome do jogador" (submit)="submit($event)"
                            [label]="'Buscar' + (equipamento ? ' equipamento ' : ' inventário ') + 'de jogador'">
       </app-input-enter-key>
     </div>
     <div class="p-4" *ngIf="personagem && equipamento">
       <app-detalhe-personagem [personagem]="personagem" [pessoal]="false" [grid]="true" *ngIf="personagem.nome; else notFound"></app-detalhe-personagem>
       <ng-template #notFound>
-        <p>Nenhum personagem encontrado com este nome.</p>
+        <div class="p-4">
+          <p>Nenhum personagem encontrado com este nome.</p>
+        </div>
       </ng-template>
     </div>
     <div class="p-4" *ngIf="inventario && !equipamento">
-      <app-inventario [inventario]="inventario"></app-inventario>
+      <app-inventario [inventario]="inventario" *ngIf="inventario.equipamentos; else notFound"></app-inventario>
+      <ng-template #notFound>
+        <div class="p-4">
+          <p>Nenhum personagem encontrado com este nome.</p>
+        </div>
+      </ng-template>
     </div>
   </div>
 </div>

@@ -1,0 +1,13 @@
+Index;Server Code;Client Code;English Name
+0;tibp000;710F0000;Cartella Air Transpo Ticket: Bellato HQ to Ether Platfrom
+1;ticp000;720F0000;Cartella Air Transpo Ticket: Cora HQ to Ether Platfrom
+2;tiap000;700F0000;Cartella Air Transpo Ticket: Accretia HQ to Ether Platform
+3;tipb000;7F010000;Cartella Air Transpo Ticket: Ether Platform to Bellato HQ
+4;tipc000;7F020000;Cartella Air Transpo Ticket: Ether Platform to Cora HQ
+5;tipa000;7F000000;Cartella Air Transpo Ticket: Ether Platform to Accretia HQ
+6;tibp001;710F0100;Cartella Air Transpo Ticket: Bellato HQ to Ether Platfrom
+7;ticp001;720F0100;Cartella Air Transpo Ticket: Cora HQ to Ether Platfrom
+8;tiap001;700F0100;Cartella Air Transpo Ticket: Accretia HQ to Ether Platform
+9;tipb001;7F010100;Cartella Air Transpo Ticket: Ether Platform to Bellato HQ
+10;tipc001;7F020100;Cartella Air Transpo Ticket: Ether Platform to Cora HQ
+11;tipa001;7F000100;Cartella Air Transpo Ticket: Ether Platform to Accretia HQ

@@ -5,6 +5,7 @@ import io.jsonwebtoken.security.Keys;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.http.ResponseCookie;
 import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Component;
 
@@ -69,10 +70,13 @@ public class JwtTokenProvider {
     }
 
     public void invalidateToken(HttpServletResponse response) {
-        Cookie cookie = new Cookie("SID", null);
-        cookie.setPath("/");
-//        cookie.setSecure(true);
-        cookie.setHttpOnly(true);
-        response.addCookie(cookie);
+        ResponseCookie cookie = ResponseCookie.from("SID", "")
+                .maxAge(0)
+                .sameSite("Lax")
+                .httpOnly(true)
+                .secure(false)
+                .path("/")
+                .build();
+        response.addHeader("Set-Cookie", cookie.toString());
     }
 }

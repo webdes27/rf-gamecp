@@ -1,19 +1,19 @@
 export class Banido {
-  nomePersonagem: string;
+  personagens: string;
   dataInicio: Date;
-  dataTermino: Date;
+  periodo: number;
   nomeUsuario: string;
-  GM: string;
+  gm: string;
   razao: string;
 
 
-  constructor(nomePersonagem?: string, dataInicio?: Date, dataTermino?: Date,
-              nomeUsuario?: string, GM?: string, razao?: string) {
-    this.nomePersonagem = nomePersonagem;
+  constructor(personagens?: string, dataInicio?: Date, periodo?: number,
+              nomeUsuario?: string, gm?: string, razao?: string) {
+    this.personagens = personagens;
     this.dataInicio = dataInicio;
-    this.dataTermino = dataTermino;
+    this.periodo = periodo;
     this.nomeUsuario = nomeUsuario;
-    this.GM = GM;
+    this.gm = gm;
     this.razao = razao;
   }
 }

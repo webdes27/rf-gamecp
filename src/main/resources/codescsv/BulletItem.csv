@@ -1,0 +1,396 @@
+Index;Server Code;Client Code;English Name;Image ID
+0;ibbow01;C10E1601;Arrow;1
+1;ibbow02;C10E1602;Fire Arrow;2
+2;ibbow03;C10E1603;Ice Arrow;3
+3;ibbow04;C10E1604;Poison Arrow;4
+4;ibbow05;C10E1605;Multi Arrow;5
+5;ibbow06;C10E1606;Mineral Arrow;6
+6;ibbow07;C10E1607;Exploding Arrow;7
+7;ibbow08;C10E1608;Bolt;8
+8;ibbow09;C10E1609;Fire Bolt;9
+9;ibbow10;C10E1610;Ice Bolt;10
+10;ibbow11;C10E1611;Poison Bolt;11
+11;ibbow12;C10E1612;Multi Bolt;12
+12;ibbow13;C10E1613;Mineral Bolt;13
+13;ibbow14;C10E1614;Exploding Bolt;14
+14;ibbow15;C10E1615;Beam Cell;15
+15;ibbow16;C10E1616;Advanced Beam Cell;16
+16;ibbow17;C10E1617;Giga Arrow;1
+17;ibbow18;C10E1618;Giga Fire Arrow;2
+18;ibbow19;C10E1619;Giga Ice Arrow;3
+19;ibbow20;C10E1620;Giga Poison Arrow;4
+20;ibbow21;C10E1621;Giga Multi Arrow;5
+21;ibbow22;C10E1622;Giga Mineral Arrow;6
+22;ibbow23;C10E1623;Giga Exploding Arrow;7
+23;ibbow24;C10E1624;Giga Bolt;8
+24;ibbow25;C10E1625;Giga Fire Bolt;9
+25;ibbow26;C10E1626;Giga Ice Bolt;10
+26;ibbow27;C10E1627;Giga Poison Bolt;11
+27;ibbow28;C10E1628;Giga Multi Bolt;12
+28;ibbow29;C10E1629;Giga Mineral Bolt;13
+29;ibbow30;C10E1630;Giga Exploding Bolt;14
+30;ibbow31;C10E1631;Giga Beam Cell;15
+31;ibbow32;C10E1632;Giga Advanced Beam Cell;16
+32;ibbow33;C10E1633;Tera Arrow;1
+33;ibbow34;C10E1634;Tera Fire Arrow;2
+34;ibbow35;C10E1635;Tera Ice Arrow;3
+35;ibbow36;C10E1636;Tera Poison Arrow;4
+36;ibbow37;C10E1637;Tera Multi Arrow;5
+37;ibbow38;C10E1638;Tera Mineral Arrow;6
+38;ibbow39;C10E1639;Tera Exploding Arrow;7
+39;ibbow40;C10E1640;Tera Bolt;8
+40;ibbow41;C10E1641;Tera Fire Bolt;9
+41;ibbow42;C10E1642;Tera Ice Bolt;10
+42;ibbow43;C10E1643;Tera Poison Bolt;11
+43;ibbow44;C10E1644;Tera Multi Bolt;12
+44;ibbow45;C10E1645;Tera Mineral Bolt;13
+45;ibbow46;C10E1646;Tera Exploding Bolt;14
+46;ibbow47;C10E1647;Tera Beam Cell;15
+47;ibbow48;C10E1648;Tera Advanced Beam Cell;16
+48;ibbow49;C10E1649;Bullet;0
+49;ibbow50;C10E1650;Bullet;0
+50;ibbow51;C10E1651;Bullet;0
+51;ibbow52;C10E1652;Bullet;0
+52;ibbow53;C10E1653;Bullet;0
+53;ibbow54;C10E1654;Bullet;0
+54;ibbow55;C10E1655;Bullet;0
+55;ibbow56;C10E1656;Bullet;0
+56;ibbow57;C10E1657;Bullet;0
+57;ibbow58;C10E1658;Bullet;0
+58;ibbow59;C10E1659;Bullet;0
+59;ibbow60;C10E1660;Bullet;0
+60;ibbow61;C10E1661;Bullet;0
+61;ibbow62;C10E1662;Bullet;0
+62;ibbow63;C10E1663;Bullet;0
+63;ibbow64;C10E1664;Bullet;0
+64;ibbow65;C10E1665;Bullet;0
+65;ibbow66;C10E1666;Bullet;0
+66;ibbow67;C10E1667;Bullet;0
+67;ibbow68;C10E1668;Bullet;0
+68;ibbow69;C10E1669;Bullet;0
+69;ibbow70;C10E1670;Bullet;0
+70;ibbow71;C10E1671;Bullet;0
+71;ibbow72;C10E1672;Bullet;0
+72;ibbow73;C10E1673;Bullet;0
+73;ibbow74;C10E1674;Bullet;0
+74;ibbow75;C10E1675;Bullet;0
+75;ibbow76;C10E1676;Bullet;0
+76;ibbow77;C10E1677;Bullet;0
+77;ibbow78;C10E1678;Bullet;0
+78;ibbow79;C10E1679;Bullet;0
+79;ibbow80;C10E1680;Bullet;0
+80;ibbow81;C10E1681;Bullet;0
+81;ibbow82;C10E1682;Bullet;0
+82;ibbow83;C10E1683;Bullet;0
+83;ibbow84;C10E1684;Bullet;0
+84;ibbow85;C10E1685;Bullet;0
+85;ibbow86;C10E1686;Bullet;0
+86;ibbow87;C10E1687;Bullet;0
+87;ibbow88;C10E1688;Bullet;0
+88;ibbow89;C10E1689;Bullet;0
+89;ibbow90;C10E1690;Bullet;0
+90;ibbow91;C10E1691;Bullet;0
+91;ibbow92;C10E1692;Bullet;0
+92;ibbow93;C10E1693;Bullet;0
+93;ibbow94;C10E1694;Bullet;0
+94;ibbow95;C10E1695;Bullet;0
+95;ibbow96;C10E1696;Bullet;0
+96;ibbow97;C10E1697;Bullet;0
+97;ibbow98;C10E1698;Bullet;0
+98;ibbow99;C10E1699;Bullet;0
+99;ibbow00;C10E1600;Training Arrow;1
+100;ibfir01;C5081101;Magazine;17
+101;ibfir02;C5081102;Mineral Magazine;18
+102;ibfir03;C5081103;Energy Magazine;19
+103;ibfir04;C5081104;Laser Magazine;20
+104;ibfir05;C5081105;Vulcan Magazine;21
+105;ibfir06;C5081106;Venom Magazine;22
+106;ibfir07;C5081107;Exploding Magazine;23
+107;ibfir08;C5081108;Nuclear Rocket;24
+108;ibfir09;C5081109;Electric Rocket;25
+109;ibfir10;C5081110;Cross Rocket;26
+110;ibfir11;C5081111;Venom Rocket;27
+111;ibfir12;C5081112;Cyclone Rocket;28
+112;ibfir13;C5081113;Flash Rocket;29
+113;ibfir14;C5081114;Point Rocket;30
+114;ibfir15;C5081115;Liquid Fuel;31
+115;ibfir16;C5081116;Ceramic Rocket;32
+116;ibfir17;C5081117;Giga Magazine;17
+117;ibfir18;C5081118;Giga Mineral Magazine;18
+118;ibfir19;C5081119;Giga Energy Magazine;19
+119;ibfir20;C5081120;Giga Laser Magazine;20
+120;ibfir21;C5081121;Giga Vulcan Magazine;21
+121;ibfir22;C5081122;Giga Venom Magazine;22
+122;ibfir23;C5081123;Giga Exploding Magazine;23
+123;ibfir24;C5081124;Giga Nuclear Rocket;24
+124;ibfir25;C5081125;Giga Electric Rocket;25
+125;ibfir26;C5081126;Giga Cross Rocket;26
+126;ibfir27;C5081127;Giga Venom Rocket;27
+127;ibfir28;C5081128;Giga Cyclone Rocket;28
+128;ibfir29;C5081129;Giga Flash Rocket;29
+129;ibfir30;C5081130;Giga Point Rocket;30
+130;ibfir31;C5081131;Giga Liquid Fuel;31
+131;ibfir32;C5081132;Giga Ceramic Rocket;32
+132;ibfir33;C5081133;Tera Magazine;17
+133;ibfir34;C5081134;Tera Mineral Magazine;18
+134;ibfir35;C5081135;Tera Energy Magazine;19
+135;ibfir36;C5081136;Tera Laser Magazine;20
+136;ibfir37;C5081137;Tera Vulcan Magazine;21
+137;ibfir38;C5081138;Tera Venom Magazine;22
+138;ibfir39;C5081139;Tera Exploding Magazine;23
+139;ibfir40;C5081140;Tera Nuclear Rocket;24
+140;ibfir41;C5081141;Tera Electric Rocket;25
+141;ibfir42;C5081142;Tera Cross Rocket;26
+142;ibfir43;C5081143;Tera Venom Rocket;27
+143;ibfir44;C5081144;Tera Cyclone Rocket;28
+144;ibfir45;C5081145;Tera Flash Rocket;29
+145;ibfir46;C5081146;Tera Point Rocket;30
+146;ibfir47;C5081147;Tera Liquid Fuel;31
+147;ibfir48;C5081148;Tera Ceramic Rocket;32
+148;ibfir49;C5081149;Bullet;0
+149;ibfir50;C5081150;Bullet;0
+150;ibfir51;C5081151;Acid Grenade;33
+151;ibfir52;C5081152;Piklin Grenade;34
+152;ibfir53;C5081153;Smog Grenade;35
+153;ibfir54;C5081154;Shock Wave;36
+154;ibfir55;C5081155;Mental Break;37
+155;ibfir56;C5081156;Stun Grenade;38
+156;ibfir57;C5081157;Acid Shower;39
+157;ibfir58;C5081158;Breaking Strength;40
+158;ibfir59;C5081159;Microrom Gas;41
+159;ibfir60;C5081160;Resist Break;42
+160;ibfir61;C5081161;Limited Force;43
+161;ibfir62;C5081162;Impact Explosion;44
+162;ibfir63;C5081163;Flash Wave;45
+163;ibfir64;C5081164;Holding Web;46
+164;ibfir65;C5081165;Virus Inject;47
+165;ibfir66;C5081166;Mind Control;48
+166;ibfir67;C5081167;Exploding Vulcan Magizine;49
+167;ibfir68;C5081168;Giga Exploding Vulcan Magizine;49
+168;ibfir69;C5081169;Ice Liquid Fuel;50
+169;ibfir70;C5081170;Giga Ice Liquid Fuel;50
+170;ibfir71;C5081171;Tera Ice Liquid Fuel;50
+171;ibfir72;C5081172;Poison Liquid Fuel;51
+172;ibfir73;C5081173;Giga Poison Liquid Fuel;51
+173;ibfir74;C5081174;Tera Poison Liquid Fuel;51
+174;ibfir75;C5081175;Mineral Liquid Fuel;52
+175;ibfir76;C5081176;Giga Mineral Liquid Fuel;52
+176;ibfir77;C5081177;Tera Mineral Liquid Fuel;52
+177;ibfir78;C5081178;Ice Magizine;53
+178;ibfir79;C5081179;Giga Ice Magizine;53
+179;ibfir80;C5081180;Terra Ice Magazine;53
+180;ibfir81;C5081181;Cure Grenade;54
+181;ibfir82;C5081182;Healing Grenade;55
+182;ibfir83;C5081183;Bullet;0
+183;ibfir84;C5081184;Bullet;0
+184;ibfir85;C5081185;Bullet;0
+185;ibfir86;C5081186;Bullet;0
+186;ibfir87;C5081187;Bullet;0
+187;ibfir88;C5081188;Bullet;0
+188;ibfir89;C5081189;Bullet;0
+189;ibfir90;C5081190;Bullet;0
+190;ibfir91;C5081191;Bullet;0
+191;ibfir92;C5081192;Bullet;0
+192;ibfir93;C5081193;Bullet;0
+193;ibfir94;C5081194;Bullet;0
+194;ibfir95;C5081195;Bullet;0
+195;ibfir96;C5081196;Bullet;0
+196;ibfir97;C5081197;Bullet;0
+197;ibfir98;C5081198;Bullet;0
+198;ibfir99;C5081199;Bullet;0
+199;ibfir00;C5081100;Training Magazine;17
+200;ibxxx00;D7171700;Almighty Magazine1;17
+201;ibxxx01;D7171701;Almighty Magazine10;17
+202;ibxxx02;D7171702;Almighty Arrow1;1
+203;ibxxx03;D7171703;Almighty Arrow10;1
+204;ibdbr01;C3011101;??? Arrow;1
+205;ibdbr02;C3011102;??? Fire Arrow;2
+206;ibdbr03;C3011103;??? Ice Arrow;3
+207;ibdbr04;C3011104;??? Poison Arrow;4
+208;ibdbr05;C3011105;??? Mineral Arrow;6
+209;ibdbr06;C3011106;??? Exploding Arrow;7
+210;ibdbr07;C3011107;??? Bolt;8
+211;ibdbr08;C3011108;??? Fire Bolt;9
+212;ibdbr09;C3011109;??? Ice Bolt;10
+213;ibdbr10;C3011110;??? Poison Bolt;11
+214;ibdbr11;C3011111;??? Mineral Bolt;13
+215;ibdbr12;C3011112;??? Exploding Bolt;14
+216;ibdbr13;C3011113;??? Beam Cell;15
+217;ibdbr14;C3011114;??? Advanced Beam Cell;16
+218;ibdbr15;C3011115;??? Magizine;17
+219;ibdbr16;C3011116;??? Mineral Magizine;18
+220;ibdbr17;C3011117;??? Energy Magizine;19
+221;ibdbr18;C3011118;??? Laser Magizine;20
+222;ibdbr19;C3011119;??? Vulcan Magizine;21
+223;ibdbr20;C3011120;??? Vanum Magizine;22
+224;ibdbr21;C3011121;??? Exploding Magizine;23
+225;ibdbr22;C3011122;??? Nuclear Rocket;24
+226;ibdbr23;C3011123;??? Electric Rocket;25
+227;ibdbr24;C3011124;??? Cross Rocket;26
+228;ibdbr25;C3011125;??? Vanum Rocket;27
+229;ibdbr26;C3011126;??? Cyclon Rocket;28
+230;ibdbr27;C3011127;??? Flash Rocket;29
+231;ibdbr28;C3011128;??? Point Rocket;30
+232;ibdbr29;C3011129;??? Fire Liquid Fuel;31
+233;ibdbr30;C3011130;??? Ceramic Rocket;32
+234;ibdbr31;C3011131;??? Acid Grenade;33
+235;ibdbr32;C3011132;??? Pikrin Grenade;34
+236;ibdbr33;C3011133;??? Smog Grenade;35
+237;ibdbr34;C3011134;??? Shock Wave;36
+238;ibdbr35;C3011135;??? Mental Break;37
+239;ibdbr36;C3011136;??? Stun Grenade;38
+240;ibdbr37;C3011137;??? Acid Shower;39
+241;ibdbr38;C3011138;??? Breaking Strength;40
+242;ibdbr39;C3011139;??? Microm Gas;41
+243;ibdbr40;C3011140;??? Register Break;42
+244;ibdbr41;C3011141;??? Limited Force;43
+245;ibdbr42;C3011142;??? Impact Explosion;44
+246;ibdbr43;C3011143;??? Flash Wave;45
+247;ibdbr44;C3011144;??? Holding Web;46
+248;ibdbr45;C3011145;??? Virus Inject;47
+249;ibdbr46;C3011146;??? Mind Control;48
+250;ibdbr47;C3011147;??? Exploding Vulcan Magizine;49
+251;ibdbr48;C3011148;??? Ice Liquid Fuel;50
+252;ibdbr49;C3011149;??? Poison Liquid Fuel;51
+253;ibdbr50;C3011150;??? Mineral Liquid Fuel;52
+254;ibdbr51;C3011151;??? Ice Magizine;53
+255;ibxxx04;D7171704;Terra Fire Arrow;2
+256;ibxxx05;D7171705;Terra Ice Arrow;3
+257;ibxxx06;D7171706;Terra Poison Arrow;4
+258;ibxxx07;D7171707;Terra Mineral Arrow;6
+259;ibxxx08;D7171708;Terra Exploding Arrow;7
+260;ibxxx09;D7171709;Terra Fire Bolt;9
+261;ibxxx10;D7171710;Terra Ice Bolt;10
+262;ibxxx11;D7171711;Terra Poison Bolt;11
+263;ibxxx12;D7171712;Terra Mineral Bolt;13
+264;ibxxx13;D7171713;Terra Exploding Bolt;14
+265;ibxxx14;D7171714;Terra Advanced Beam Cell;16
+266;ibxxx15;D7171715;Terra Mineral Magazine;18
+267;ibxxx16;D7171716;Terra Energy Magazine;19
+268;ibxxx17;D7171717;Terra Venom Magazine;22
+269;ibxxx18;D7171718;Terra Exploding Magazine;23
+270;ibxxx19;D7171719;Terra Nuclear Rocket;24
+271;ibxxx20;D7171720;Terra Electric Rocket;25
+272;ibxxx21;D7171721;Terra Cross Rocket;26
+273;ibxxx22;D7171722;Terra Venom Rocket;27
+274;ibxxx23;D7171723;Terra Cyclone Rocket;28
+275;ibxxx24;D7171724;Terra Flash Rocket;29
+276;ibxxx25;D7171725;Terra Point Rocket;30
+277;ibxxx26;D7171726;Terra Liquid Fuel;31
+278;ibxxx27;D7171727;Terra Seramic Rocket;32
+279;ibxxx28;D7171728;Terra Ice Liquid Fuel;50
+280;ibxxx29;D7171729;Terra Poison Liquid Fuel;51
+281;ibxxx30;D7171730;Terra Mineral Liquid Fuel;52
+282;ibxxx31;D7171731;Terra Ice Magazine;53
+283;ibcsa01;C2120001;Slim Fire Arrow;56
+284;ibcsa02;C2120002;Slim Ice Arrow;57
+285;ibcsa03;C2120003;Slim Poison Arrow;58
+286;ibcsa04;C2120004;Slim Mineral Arrow;59
+287;ibcsa05;C2120005;Slim Exploding Arrow;60
+288;ibcsa06;C2120006;Slim Fire Bolt;61
+289;ibcsa07;C2120007;Slim Ice Bolt;62
+290;ibcsa08;C2120008;Slim Poison Bolt;63
+291;ibcsa09;C2120009;Slim Mineral Bolt;64
+292;ibcsa10;C2120010;Slim Exploding Bolt;65
+293;ibcsa11;C2120011;Slim Advanced Beam Cell;66
+294;ibcsa12;C2120012;Slim Mineral Magazine;67
+295;ibcsa13;C2120013;Slim Energy Magazine;68
+296;ibcsa14;C2120014;Slim Venom Magazine;69
+297;ibcsa15;C2120015;Slim Exploding Magazine;70
+298;ibcsa16;C2120016;Slim Nuclear Rocket;71
+299;ibcsa17;C2120017;Slim Electric Rocket;72
+300;ibcsa18;C2120018;Slim Cross Rocket;73
+301;ibcsa19;C2120019;Slim Venom Rocket;74
+302;ibcsa20;C2120020;Slim Cyclone Rocket;75
+303;ibcsa21;C2120021;Slim Flash Rocket;76
+304;ibcsa22;C2120022;Slim Point Rocket;77
+305;ibcsa23;C2120023;Slim Liquid Fuel;78
+306;ibcsa24;C2120024;Slim Seramic Rocket;79
+307;ibcsa25;C2120025;Slim Ice Liquid Fuel;80
+308;ibcsa26;C2120026;Slim Poison Liquid Fuel;81
+309;ibcsa27;C2120027;Slim Mineral Liquid Fuel;82
+310;ibcsa28;C2120028;Slim Ice Magazine;83
+311;ibcsa29;C2120029;Slim Exploding Vulcan Magazine;70
+312;ibfex01;C5041701;Training Acid Grenade;33
+313;ibfex02;C5041702;Training Teargas Grenade;34
+314;ibfex03;C5041703;Training Smog Grenade;35
+315;ibfex04;C5041704;Training Shock Wave;36
+316;ibevt01;C4151301;Snow Battery 5;84
+317;ibevt02;C4151302;Snow Battery 10;85
+318;ibevt03;C4151303;Snow Battery 15;86
+319;ibevt04;C4151304;Snow Battery 20;87
+320;ibcsa30;C2120030;Mega Fire Arrow;56
+321;ibcsa31;C2120031;Mega Ice Arrow;57
+322;ibcsa32;C2120032;Mega Poison Arrow;58
+323;ibcsa33;C2120033;Mega Mineral Arrow;59
+324;ibcsa34;C2120034;Mega Exploding Arrow;60
+325;ibcsa35;C2120035;Mega Fire Bolt;61
+326;ibcsa36;C2120036;Mega Ice Bolt;62
+327;ibcsa37;C2120037;Mega Poison Bolt;63
+328;ibcsa38;C2120038;Mega Mineral Bolt;64
+329;ibcsa39;C2120039;Mega Exploding Bolt;65
+330;ibcsa40;C2120040;Mega Advanced Beam Cell;66
+331;ibcsa41;C2120041;Mega Mineral Magazine;67
+332;ibcsa42;C2120042;Mega Energy Magazine;68
+333;ibcsa43;C2120043;Mega Venom Magazine;69
+334;ibcsa44;C2120044;Mega Exploding Magazine;70
+335;ibcsa45;C2120045;Mega Nuclear Rocket;71
+336;ibcsa46;C2120046;Mega Electric Rocket;72
+337;ibcsa47;C2120047;Mega Cross Rocket;73
+338;ibcsa48;C2120048;Mega Venom Rocket;74
+339;ibcsa49;C2120049;Mega Cyclone Rocket;75
+340;ibcsa50;C2120050;Mega Flash Rocket;76
+341;ibcsa51;C2120051;Mega Point Rocket;77
+342;ibcsa52;C2120052;Mega Liquid Fuel;78
+343;ibcsa53;C2120053;Mega Ceramic Rocket;79
+344;ibcsa54;C2120054;Mega Ice Liquid Fuel;80
+345;ibcsa55;C2120055;Mega Poison Liquid Fuel;81
+346;ibcsa56;C2120056;Mega Mineral Liquid Fuel;82
+347;ibcsa57;C2120057;Mega Ice Magazine;83
+348;ibcsa58;C2120058;Mega Exploding Vulcan Magazine;70
+349;ibcsa59;C2120059;Ceramic Advanced Beam Cell;16
+350;ibcsa60;C2120060;Fire Advanced Beam Cell;88
+351;ibcsa61;C2120061;Ice Advanced Beam Cell;89
+352;ibcsa62;C2120062;Poison Advanced Beam Cell;90
+353;ibcsa63;C2120063;Mineral Advanced Beam Cell;91
+354;ibcsa64;C2120064;Ceramic Exploding Vulcan Magazine;23
+355;ibcsa65;C2120065;Fire Exploding Vulcan Magazine;92
+356;ibcsa66;C2120066;Ice Exploding Vulcan Magazine;93
+357;ibcsa67;C2120067;Poison Exploding Vulcan Magazine;94
+358;ibcsa68;C2120068;Mineral Exploding Vulcan Magazine;95
+359;ibcsa99;C2120099;Ceramic Advanced Beam Cell;16
+360;ibcsb00;C2120100;Fire Advanced Beam Cell;88
+361;ibcsb01;C2120101;Ice Advanced Beam Cell;89
+362;ibcsb02;C2120102;Poison Advanced Beam Cell;90
+363;ibcsb03;C2120103;Mineral Advanced Beam Cell;91
+364;ibcsb04;C2120104;Ceramic Exploding Vulcan Magazine;23
+365;ibcsb05;C2120105;Fire Exploding Vulcan Magazine;92
+366;ibcsb06;C2120106;Ice Exploding Vulcan Magazine;93
+367;ibcsb07;C2120107;Poison Exploding Vulcan Magazine;94
+368;ibcsb08;C2120108;Mineral Exploding Vulcan Magazine;95
+369;ibint01;C80D1301;Intense Advanced Beam Cell;16
+370;ibint02;C80D1302;Intense Exploding Vulcun Magazine;49
+371;ibint03;C80D1303;Intense Ceramic Rocket;32
+372;ibint04;C80D1304;Intense Liquid Fuel;31
+373;ibcsb09;C2120109;Slim Acid Grenade[Cash];128
+374;ibcsb10;C2120110;Slim Peaklin Grenade[Cash];129
+375;ibcsb11;C2120111;Slim Smog Grenade[Cash];130
+376;ibcsb12;C2120112;Slim Shock Wave[Cash];131
+377;ibcsb13;C2120113;Slim Mental Wave[Cash];132
+378;ibcsb14;C2120114;Slim Stun Grenade[Cash];133
+379;ibcsb15;C2120115;Slim Acid Shower[Cash];134
+380;ibcsb16;C2120116;Slim Breaking Strength[Cash];135
+381;ibcsb17;C2120117;Slim Microm Gas[Cash];136
+382;ibcsb18;C2120118;Slim Resist Break[Cash];137
+383;ibcsb19;C2120119;Slim Limited Force[Cash];138
+384;ibcsb20;C2120120;Slim Impact Explosion[Cash];139
+385;ibcsb21;C2120121;Slim Flash Wave[Cash];140
+386;ibcsb22;C2120122;Slim Holding Web[Cash];141
+387;ibcsb23;C2120123;Slim Virus Inject[Cash];142
+388;ibcsb24;C2120124;Slim Mind Control[Cash];143
+389;ibcsb25;C2120125;Slim Cure Grenade[Cash];144
+390;ibcsb26;C2120126;Slim Healing Grenade[Cash];145
+391;ibgld01;C60B0301;Purse Charger [2%];96
+392;ibgld02;C60B0302;Purse Charger [3%];96
+393;ibgld03;C60B0303;Purse Charger [4%];96
+394;ibgld04;C60B0304;Purse Charger [5%];96

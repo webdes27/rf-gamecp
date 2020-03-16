@@ -4,20 +4,20 @@
     <div class="card-body">
       <div class="row">
         <div class="col-12">
-          <div class="circle grey"></div>
-          <div class="mr-3 ml-2 d-inline-flex size-1">Accretia</div>
+          <div class="circle grey" [class.d-none]="!loaded"></div>
+          <div class="mr-3 ml-2 d-inline-flex size-1" [class.shine]="!loaded">Accretia</div>
           <span>{{stats?.acc}}</span>
         </div>
 
         <div class="col-12">
-          <div class="circle pink"></div>
-          <div class="mr-3 ml-2 d-inline-flex size-1">Bellato</div>
+          <div class="circle pink" [class.d-none]="!loaded"></div>
+          <div class="mr-3 ml-2 d-inline-flex size-1" [class.shine]="!loaded">Bellato</div>
           <span>{{stats?.bell}}</span>
         </div>
 
         <div class="col-12">
-          <div class="circle purple"></div>
-          <div class="mr-3 ml-2 d-inline-flex size-1">Cora</div>
+          <div class="circle purple" [class.d-none]="!loaded"></div>
+          <div class="mr-3 ml-2 d-inline-flex size-1" [class.shine]="!loaded">Cora</div>
           <span>{{stats?.cora}}</span>
         </div>
 
@@ -29,14 +29,14 @@
     <div class="card-body">
       <div class="row">
         <div class="col-12">
-          <div class="circle bg-success"></div>
-          <div class="mr-3 ml-2 d-inline-flex size-2">Média de usuários</div>
+          <div class="circle bg-success" [class.d-none]="!loaded"></div>
+          <div class="mr-3 ml-2 d-inline-flex size-2" [class.shine]="!loaded">Média de usuários</div>
           <span>{{stats?.avgOn}}</span>
         </div>
 
         <div class="col-12">
-          <div class="circle bg-success"></div>
-          <div class="mr-3 ml-2 d-inline-flex size-2">Máximo online</div>
+          <div class="circle bg-success" [class.d-none]="!loaded"></div>
+          <div class="mr-3 ml-2 d-inline-flex size-2" [class.shine]="!loaded">Máximo online</div>
           <span>{{stats?.maxOn}}</span>
         </div>
 
@@ -48,26 +48,26 @@
     <div class="card-body">
       <div class="row">
         <div class="col-12">
-          <div class="circle bg-info"></div>
-          <div class="mr-3 ml-2 d-inline-flex size-3">Total de contas</div>
+          <div class="circle bg-info" [class.d-none]="!loaded"></div>
+          <div class="mr-3 ml-2 d-inline-flex size-3" [class.shine]="!loaded">Total de contas</div>
           <span>{{stats?.totalContas}}</span>
         </div>
 
         <div class="col-12">
-          <div class="circle pink"></div>
-          <div class="mr-3 ml-2 d-inline-flex size-3">Total de personagens</div>
+          <div class="circle pink" [class.d-none]="!loaded"></div>
+          <div class="mr-3 ml-2 d-inline-flex size-3" [class.shine]="!loaded">Total de personagens</div>
           <span>{{stats?.totalPersonagens}}</span>
         </div>
 
         <div class="col-12">
-          <div class="circle bg-success"></div>
-          <div class="mr-3 ml-2 d-inline-flex size-3">Personagens existentes</div>
+          <div class="circle bg-success" [class.d-none]="!loaded"></div>
+          <div class="mr-3 ml-2 d-inline-flex size-3" [class.shine]="!loaded">Personagens existentes</div>
           <span>{{stats?.personagensExistentes}}</span>
         </div>
 
         <div class="col-12">
-          <div class="circle bg-dark"></div>
-          <div class="mr-3 ml-2 d-inline-flex size-3">Personagens deletados</div>
+          <div class="circle bg-dark" [class.d-none]="!loaded"></div>
+          <div class="mr-3 ml-2 d-inline-flex size-3" [class.shine]="!loaded">Personagens deletados</div>
           <span>{{stats?.personagensDeletados}}</span>
         </div>
       </div>

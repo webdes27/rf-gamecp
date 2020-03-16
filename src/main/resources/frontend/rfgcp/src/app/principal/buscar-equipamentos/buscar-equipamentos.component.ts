@@ -14,7 +14,6 @@ export class BuscarEquipamentosComponent implements OnInit {
 
   private personagem: Personagem;
   private nome: string;
-  private noFoco: boolean;
   private alive = true;
   @Input() equipamento = true;
   private inventario: Inventario;
@@ -23,16 +22,16 @@ export class BuscarEquipamentosComponent implements OnInit {
 
   ngOnInit() {}
 
-  submit() {
-    if (this.nome) {
+  submit(nome) {
+    if (nome) {
       if (this.equipamento) {
-        this.personagemService.getEquipamentos(this.nome)
+        this.personagemService.getEquipamentos(nome)
           .pipe(takeWhile(() => this.alive))
           .subscribe(per => {
             this.personagem = per;
           });
       } else {
-        this.personagemService.getInventario(this.nome)
+        this.personagemService.getInventario(nome)
           .pipe(takeWhile(() => this.alive))
           .subscribe(inventario => {
             console.log(inventario);
@@ -43,10 +42,10 @@ export class BuscarEquipamentosComponent implements OnInit {
     }
   }
 
-  @HostListener('window:keyup', ['$event'])
-  keyListener(event: KeyboardEvent) {
-    if (event.key === 'Enter' && this.noFoco) {
-      this.submit();
-    }
-  }
+  // @HostListener('window:keyup', ['$event'])
+  // keyListener(event: KeyboardEvent) {
+  //   if (event.key === 'Enter' && this.noFoco) {
+  //     this.submit();
+  //   }
+  // }
 }

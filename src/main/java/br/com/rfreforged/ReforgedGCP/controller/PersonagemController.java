@@ -1,6 +1,7 @@
 package br.com.rfreforged.ReforgedGCP.controller;
 
 import br.com.rfreforged.ReforgedGCP.dao.PersonagemDAO;
+import br.com.rfreforged.ReforgedGCP.model.Inventario;
 import br.com.rfreforged.ReforgedGCP.model.Personagem;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -27,4 +28,8 @@ public class PersonagemController {
         return personagemDAO.buscaEquipamento(nomePersonagem);
     }
 
+    @GetMapping("/inventario/{nomePersonagem}")
+    public Inventario getInventarioByNomePerso(@PathVariable String nomePersonagem) {
+        return personagemDAO.getInventarioByNomePerso(nomePersonagem);
+    }
 }

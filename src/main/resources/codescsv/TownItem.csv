@@ -1,0 +1,79 @@
+Index;Server Code;Client Code;English Name;Image ID
+0;iqbbb00;C1010100;Training Bellato HQ;1
+1;iqccc00;C2020200;Training Cora HQ;2
+2;iqaaa00;C0000000;Training Accretia HQ;3
+3;iqbbb01;C1010101;Bellato HQ;1
+4;iqccc01;C2020201;Cora HQ;2
+5;iqaaa01;C0000001;Accretia HQ;3
+6;iqbbb02;C1010102;Bellato Outpost;1
+7;iqccc02;C2020202;Cora Outpost;2
+8;iqaaa02;C0000002;Accretia Outpost;3
+9;iqbnn01;C10D0D01;Solus Settlement;1
+10;iqbnn02;C10D0D02;Anacaade Settlement;1
+11;iqcnn01;C20D0D01;Haram Stockade;2
+12;iqcnn02;C20D0D02;Numerus Stockade;2
+13;iqann01;C00D0D01;Armory-213;3
+14;iqann02;C00D0D02;Armory-117;3
+15;iqres01;D1041201;Crag Mine Field;3
+16;iqell01;C40B0B01;Elan Plateru Scroll;3
+17;iqtwe01;D3160401;????;4
+18;iqcsa01;C2120001;Ether Scroll;5
+19;iqcsa02;C2120002;Ether Scroll;6
+20;iqcsa03;C2120003;Ether Scroll;7
+21;iqcsa04;C2120004;Location Tracing Scroll[RookSnatcher];8
+22;iqcsa05;C2120005;Location Tracing Scroll[SplinterRex];9
+23;iqcsa06;C2120006;Location Tracing Scroll[SplinterRex];10
+24;iqcsa07;C2120007;Location Tracing Scroll[FrenzyRatmoth];11
+25;iqcsa08;C2120008;Location Tracing Scroll[FrenzyRatmoth];12
+26;iqcsa09;C2120009;Location Tracing Scroll[FrenzyRatmoth];13
+27;iqcsa10;C2120010;Location Tracing Scroll[ViceBlockLunker];14
+28;iqcsa11;C2120011;Location Tracing Scroll[WarBeastKin];15
+29;iqcsa12;C2120012;Location Tracing Scroll[WarBeastKin];16
+30;iqcsa13;C2120013;Location Tracing Scroll[ArgolDrone];17
+31;iqcsa14;C2120014;Location Tracing Scroll[ArgolDrone];18
+32;iqcsa15;C2120015;Location Tracing Scroll[PrickViperNiper];19
+33;iqcsa16;C2120016;Location Tracing Scroll[GafMale];20
+34;iqcsa17;C2120017;Location Tracing Scroll[GafMale];21
+35;iqcsa18;C2120018;Location Tracing Scroll[RexCannibal];22
+36;iqcsa19;C2120019;Location Tracing Scroll[RexCannibal];23
+37;iqcsa20;C2120020;Location Tracing Scroll[LizardKhan];24
+38;iqcsa21;C2120021;Location Tracing Scroll[ArgolWasp];25
+39;iqcsa22;C2120022;Location Tracing Scroll[ArgolWasp];26
+40;iqcsa23;C2120023;Location Tracing Scroll[TweezerRex];27
+41;iqcsa24;C2120024;Location Tracing Scroll[GreatLava];28
+42;iqcsa25;C2120025;Location Tracing Scroll[BloodKingTweezer];29
+43;iqcsa26;C2120026;Location Tracing Scroll[BloodKingTweezer];30
+44;iqcsa27;C2120027;Location Tracing Scroll[KingCrook];31
+45;iqcsa28;C2120028;Location Tracing Scroll[RashViperRuder];32
+46;iqcsa29;C2120029;Location Tracing Scroll[BloodQueenCrook];33
+47;iqcsa30;C2120030;Location Tracing Scroll[PierceGrumble];34
+48;iqcsa31;C2120031;Location Tracing Scroll[HeavyMeatClod];35
+49;iqcsa32;C2120032;Location Tracing Scroll[HeavyAnabola];36
+50;iqcsa33;C2120033;Location Tracing Scroll[BrutalRex];37
+51;iqcsa34;C2120034;Location Tracing Scroll[BrutalRex];38
+52;iqcsa35;C2120035;Location Tracing Scroll[BrutalRex];39
+53;iqcsa36;C2120036;Location Tracing Scroll[BloodViperRex];40
+54;iqcsa37;C2120037;Location Tracing Scroll[BloodCrawlerRex];41
+55;iqcsa38;C2120038;Location Tracing Scroll[FierceSnatcherRex];43
+56;iqcsa39;C2120039;Location Tracing Scroll[Brath];44
+57;iqcsa40;C2120040;Location Tracing Scroll[Brath];45
+58;iqcsa41;C2120041;Location Tracing Scroll[Brath];46
+59;iqcsa42;C2120042;Location Tracing Scroll[Belphegor];47
+60;iqcsa43;C2120043;Location Tracing Scroll[Rock Jaw];48
+61;iqcsa44;C2120044;Location Tracing Scroll[Taraven];49
+62;iqcsa45;C2120045;Location Tracing Scroll[Blink];50
+63;iqcsa46;C2120046;Location Tracing Scroll[Dagon];51
+64;iqcsa47;C2120047;Location Tracing Scroll[SoulSinder];52
+65;iqcsa48;C2120048;Location Tracing Scroll[CalianaQueen];53
+66;iqcsa49;C2120049;Location Tracing Scroll[Dagan];54
+67;iqcsa50;C2120050;Location Tracing Scroll[Dagnue];55
+68;iqcsa51;C2120051;Location Tracing Scroll[CaliBoss-Charm];56
+69;iqcsa52;C2120052;Location Tracing Scroll[CaliBoss-White];42
+70;iqcsa53;C2120053;Beast's Mountain Scroll;3
+71;iqcsa54;C2120054;Outcast's Land Scroll;3
+72;iqcsa55;C2120055;Location Tracking Scroll[FlameDraco];57
+73;iqcsa56;C2120056;Location Tracking Scroll[Ringleader-BloodAxe];58
+74;iqcsa57;C2120057;Cartella Laboratory Scroll;3
+75;iqbpc01;C10F0201;Cafe Only HQ Return Scroll;59
+76;iqcpc01;C20F0201;Cafe Only HQ Return Scroll;59
+77;iqapc01;C00F0201;Cafe Only HQ Return Scroll;59

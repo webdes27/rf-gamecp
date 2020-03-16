@@ -1,0 +1,1117 @@
+Index;Server Code;Client Code;English Name;Image ID
+0;iabba01;C1010001;Fire Parsal AppendixA;1
+1;iabba02;C1010002;Fire Parsal AppendixB;1
+2;iabba03;C1010003;Fire Parsal AppendixC;1
+3;iabba04;C1010004;Fire Parsal AppendixD;1
+4;iabba05;C1010005;Fire Parsal AppendixE;1
+5;iabba06;C1010006;Fire Parsal AppendixF;1
+6;iabba07;C1010007;Fire Parsal AppendixG;1
+7;iabba08;C1010008;Aqua Parsal AppendixA;2
+8;iabba09;C1010009;Aqua Parsal AppendixB;2
+9;iabba10;C1010010;Aqua Parsal AppendixC;2
+10;iabba11;C1010011;Aqua Parsal AppendixD;2
+11;iabba12;C1010012;Aqua Parsal AppendixE;2
+12;iabba13;C1010013;Aqua Parsal AppendixF;2
+13;iabba14;C1010014;Aqua Parsal AppendixG;2
+14;iabba15;C1010015;Tera Parsal AppendixA;3
+15;iabba16;C1010016;Tera Parsal AppendixB;3
+16;iabba17;C1010017;Tera Parsal AppendixC;3
+17;iabba18;C1010018;Tera Parsal AppendixD;3
+18;iabba19;C1010019;Tera Parsal AppendixE;3
+19;iabba20;C1010020;Tera Parsal AppendixF;3
+20;iabba21;C1010021;Tera Parsal AppendixG;3
+21;iabba22;C1010022;Wind Parsal AppendixA;4
+22;iabba23;C1010023;Wind Parsal AppendixB;4
+23;iabba24;C1010024;Wind Parsal AppendixC;4
+24;iabba25;C1010025;Wind Parsal AppendixD;4
+25;iabba26;C1010026;Wind Parsal AppendixE;4
+26;iabba27;C1010027;Wind Parsal AppendixF;4
+27;iabba28;C1010028;Wind Parsal AppendixG;4
+28;iabba29;C1010029;Fire Spirit AppendixA;5
+29;iabba30;C1010030;Fire Spirit AppendixB;5
+30;iabba31;C1010031;Fire Spirit AppendixC;5
+31;iabba32;C1010032;Fire Spirit AppendixD;5
+32;iabba33;C1010033;Fire Spirit AppendixE;5
+33;iabba34;C1010034;Fire Spirit AppendixF;5
+34;iabba35;C1010035;Fire Spirit AppendixG;5
+35;iabba36;C1010036;Aqua Mind AppendixA;10
+36;iabba37;C1010037;Aqua Mind AppendixB;10
+37;iabba38;C1010038;Aqua Mind AppendixC;10
+38;iabba39;C1010039;Aqua Mind AppendixD;10
+39;iabba40;C1010040;Aqua Mind AppendixE;10
+40;iabba41;C1010041;Aqua Mind AppendixF;10
+41;iabba42;C1010042;Aqua Mind AppendixG;10
+42;iabba43;C1010043;Fire Mind AppendixA;9
+43;iabba44;C1010044;Fire Mind AppendixB;9
+44;iabba45;C1010045;Fire Mind AppendixC;9
+45;iabba46;C1010046;Fire Mind AppendixD;9
+46;iabba47;C1010047;Fire Mind AppendixE;9
+47;iabba48;C1010048;Fire Mind AppendixF;9
+48;iabba49;C1010049;Fire Mind AppendixG;9
+49;iabba50;C1010050;Tera Mind AppendixA;11
+50;iabba51;C1010051;Tera Mind AppendixB;11
+51;iabba52;C1010052;Tera Mind AppendixC;11
+52;iabba53;C1010053;Tera Mind AppendixD;11
+53;iabba54;C1010054;Tera Mind AppendixE;11
+54;iabba55;C1010055;Tera Mind AppendixF;11
+55;iabba56;C1010056;Tera Mind AppendixG;11
+56;iabba57;C1010057;Wind Mind AppendixA;12
+57;iabba58;C1010058;Wind Mind AppendixB;12
+58;iabba59;C1010059;Wind Mind AppendixC;12
+59;iabba60;C1010060;Wind Mind AppendixD;12
+60;iabba61;C1010061;Wind Mind AppendixE;12
+61;iabba62;C1010062;Wind Mind AppendixF;12
+62;iabba63;C1010063;Wind Mind AppendixG;12
+63;iabba64;C1010064;Aqua Ell AppendixA;14
+64;iabba65;C1010065;Aqua Ell AppendixB;14
+65;iabba66;C1010066;Aqua Ell AppendixC;14
+66;iabba67;C1010067;Aqua Ell AppendixD;14
+67;iabba68;C1010068;Aqua Ell AppendixE;14
+68;iabba69;C1010069;Aqua Ell AppendixF;14
+69;iabba70;C1010070;Aqua Ell AppendixG;14
+70;iabba71;C1010071;Fire Ell AppendixA;17
+71;iabba72;C1010072;Fire Ell AppendixB;17
+72;iabba73;C1010073;Fire Ell AppendixC;17
+73;iabba74;C1010074;Fire Ell AppendixD;17
+74;iabba75;C1010075;Fire Ell AppendixE;17
+75;iabba76;C1010076;Fire Ell AppendixF;17
+76;iabba77;C1010077;Fire Ell AppendixG;17
+77;iabba78;C1010078;Elemental Parsal Appendix;17
+78;iabba79;C1010079;Elemental Parsal Appendix;18
+79;iabba80;C1010080;Elemental Parsal Appendix;19
+80;iabba81;C1010081;Elemental Parsal Appendix;20
+81;iabba82;C1010082;Elemental Parsal Appendix;17
+82;iabba83;C1010083;Elemental Parsal Appendix;18
+83;iabba84;C1010084;Elemental Parsal Appendix;19
+84;iabba85;C1010085;Elemental Parsal Appendix;20
+85;iabba86;C1010086;Elemental Spirit Appendix;17
+86;iabba87;C1010087;Elemental Spirit Appendix;18
+87;iabba88;C1010088;Elemental Spirit Appendix;19
+88;iabba89;C1010089;Elemental Spirit Appendix;20
+89;iabba90;C1010090;Elemental Spirit Appendix;17
+90;iabba91;C1010091;Elemental Spirit Appendix;18
+91;iabba92;C1010092;Elemental Spirit Appendix;19
+92;iabba93;C1010093;Elemental Spirit Appendix;20
+93;iabba94;C1010094;Elemental Mind Appendix;17
+94;iabba95;C1010095;Elemental Mind Appendix;18
+95;iabba96;C1010096;Elemental Mind Appendix;19
+96;iabba97;C1010097;Elemental Mind Appendix;20
+97;iabba98;C1010098;Elemental Mind Appendix;17
+98;iabba99;C1010099;Elemental Mind Appendix;18
+99;iabbb01;C1010101;Elemental Mind Appendix;19
+100;iabbb02;C1010102;Elemental Mind Appendix;20
+101;iabbb03;C1010103;Elemental Ell Appendix;17
+102;iabbb04;C1010104;Elemental Ell Appendix;18
+103;iabbb05;C1010105;Elemental Ell Appendix;19
+104;iabbb06;C1010106;Elemental Ell Appendix;20
+105;iabbb07;C1010107;Elemental Ell Appendix;17
+106;iabbb08;C1010108;Elemental Ell Appendix;18
+107;iabbb09;C1010109;Elemental Ell Appendix;19
+108;iabbb10;C1010110;Elemental Ell Appendix;20
+109;iabbb11;C1010111;Elemental Tomb AppendixA;17
+110;iabbb12;C1010112;Elemental Tomb AppendixB;18
+111;iabbb13;C1010113;Elemental Tomb AppendixC;18
+112;iabbb14;C1010114;Elemental Tomb AppendixD;18
+113;iabbb15;C1010115;Elemental Tomb AppendixE;19
+114;iabbb16;C1010116;Elemental Tomb AppendixF;19
+115;iabbb17;C1010117;Elemental Tomb AppendixG;19
+116;iabpc01;C10F0201;[PC Cafe Only] Amulet;205
+117;iabpc02;C10F0202;[PC Cafe Only] Amulet;206
+118;iabpc03;C10F0203;[PC Cafe Only] Amulet;207
+119;iabbb21;C1010121;Bellato Appendix120;0
+120;iabbb22;C1010122;Bellato Appendix121;0
+121;iabbb23;C1010123;Bellato Appendix122;0
+122;iabbb24;C1010124;Bellato Appendix123;0
+123;iabbb25;C1010125;Bellato Appendix124;0
+124;iabbb26;C1010126;Bellato Appendix125;0
+125;iabbb27;C1010127;Bellato Appendix126;0
+126;iabbb28;C1010128;Bellato Appendix127;0
+127;iabbb29;C1010129;Bellato Appendix128;0
+128;iabbb30;C1010130;Bellato Appendix129;0
+129;iabbb31;C1010131;Bellato Appendix130;0
+130;iabbb32;C1010132;Bellato Appendix131;0
+131;iabbb33;C1010133;Bellato Appendix132;0
+132;iabbb34;C1010134;Bellato Appendix133;0
+133;iabbb35;C1010135;Bellato Appendix134;0
+134;iabbb36;C1010136;Bellato Appendix135;0
+135;iabbb37;C1010137;Bellato Appendix136;0
+136;iabbb38;C1010138;Bellato Appendix137;0
+137;iabbb39;C1010139;Bellato Appendix138;0
+138;iabbb40;C1010140;Bellato Appendix139;0
+139;iabbb41;C1010141;Bellato Appendix140;0
+140;iabbb42;C1010142;Bellato Appendix141;0
+141;iabbb43;C1010143;Bellato Appendix142;0
+142;iabbb44;C1010144;Bellato Appendix143;0
+143;iabbb45;C1010145;Bellato Appendix144;0
+144;iabbb46;C1010146;Bellato Appendix145;0
+145;iabbb47;C1010147;Bellato Appendix146;0
+146;iabbb48;C1010148;Bellato Appendix147;0
+147;iabbb49;C1010149;Bellato Appendix148;0
+148;iabbb50;C1010150;Bellato Appendix149;0
+149;iabbb51;C1010151;Bellato Appendix150;0
+150;iabbb52;C1010152;Bellato Appendix151;0
+151;iabbb53;C1010153;Bellato Appendix152;0
+152;iabbb54;C1010154;Bellato Appendix153;0
+153;iabbb55;C1010155;Bellato Appendix154;0
+154;iabbb56;C1010156;Bellato Appendix155;0
+155;iabbb57;C1010157;Bellato Appendix156;0
+156;iabbb58;C1010158;Bellato Appendix157;0
+157;iabbb59;C1010159;Bellato Appendix158;0
+158;iabbb60;C1010160;Bellato Appendix159;0
+159;iabbb61;C1010161;Bellato Appendix160;0
+160;iabbb62;C1010162;Bellato Appendix161;0
+161;iabbb63;C1010163;Bellato Appendix162;0
+162;iabbb64;C1010164;Bellato Appendix163;0
+163;iabbb65;C1010165;Bellato Appendix164;0
+164;iabbb66;C1010166;Bellato Appendix165;0
+165;iabbb67;C1010167;Bellato Appendix166;0
+166;iabbb68;C1010168;Bellato Appendix167;0
+167;iabbb69;C1010169;Bellato Appendix168;0
+168;iabbb70;C1010170;Bellato Appendix169;0
+169;iabbb71;C1010171;Bellato Appendix170;0
+170;iabbb72;C1010172;Bellato Appendix171;0
+171;iabbb73;C1010173;Bellato Appendix172;0
+172;iabbb74;C1010174;Bellato Appendix173;0
+173;iabbb75;C1010175;Bellato Appendix174;0
+174;iabbb76;C1010176;Bellato Appendix175;0
+175;iabbb77;C1010177;Bellato Appendix176;0
+176;iabbb78;C1010178;Bellato Appendix177;0
+177;iabbb79;C1010179;Bellato Appendix178;0
+178;iabbb80;C1010180;Bellato Appendix179;0
+179;iabbb81;C1010181;Bellato Appendix180;0
+180;iabbb82;C1010182;Bellato Appendix181;0
+181;iabbb83;C1010183;Bellato Appendix182;0
+182;iabbb84;C1010184;Bellato Appendix183;0
+183;iabbb85;C1010185;Bellato Appendix184;0
+184;iabbb86;C1010186;Bellato Appendix185;0
+185;iabbb87;C1010187;Bellato Appendix186;0
+186;iabbb88;C1010188;Bellato Appendix187;0
+187;iabbb89;C1010189;Bellato Appendix188;0
+188;iabbb90;C1010190;Bellato Appendix189;0
+189;iabbb91;C1010191;Bellato Appendix190;0
+190;iabbb92;C1010192;Bellato Appendix191;0
+191;iabbb93;C1010193;Bellato Appendix192;0
+192;iabbb94;C1010194;Bellato Appendix193;0
+193;iabbb95;C1010195;Bellato Appendix194;0
+194;iabbb96;C1010196;Bellato Appendix195;0
+195;iabbb97;C1010197;Bellato Appendix196;0
+196;iabbb98;C1010198;Bellato Appendix197;0
+197;iabbb99;C1010199;Bellato Appendix198;0
+198;iabbc01;C1010201;Bellato Appendix199;0
+199;iabbc02;C1010202;Bellato Appendix200;0
+200;iabbc03;C1010203;Bellato Appendix201;0
+201;iabbc04;C1010204;Bellato Appendix202;0
+202;iabbc05;C1010205;Bellato Appendix203;0
+203;iabbc06;C1010206;Bellato Appendix204;0
+204;iabbc07;C1010207;Bellato Appendix205;0
+205;iabbc08;C1010208;Bellato Appendix206;0
+206;iabbc09;C1010209;Bellato Appendix207;0
+207;iabbc10;C1010210;Bellato Appendix208;0
+208;iabbc11;C1010211;Bellato Appendix209;0
+209;iabbc12;C1010212;Bellato Appendix210;0
+210;iabbc13;C1010213;Bellato Appendix211;0
+211;iabbc14;C1010214;Bellato Appendix212;0
+212;iabbc15;C1010215;Bellato Appendix213;0
+213;iabbc16;C1010216;Bellato Appendix214;0
+214;iabbc17;C1010217;Bellato Appendix215;0
+215;iabbc18;C1010218;Bellato Appendix216;0
+216;iabbc19;C1010219;Bellato Appendix217;0
+217;iabbc20;C1010220;Bellato Appendix218;0
+218;iabbc21;C1010221;Bellato Appendix219;0
+219;iabbc22;C1010222;Bellato Appendix220;0
+220;iabbc23;C1010223;Bellato Appendix221;0
+221;iabbc24;C1010224;Bellato Appendix222;0
+222;iabbc25;C1010225;Bellato Appendix223;0
+223;iabbc26;C1010226;Bellato Appendix224;0
+224;iabbc27;C1010227;Bellato Appendix225;0
+225;iabbc28;C1010228;Bellato Appendix226;0
+226;iabbc29;C1010229;Bellato Appendix227;0
+227;iabbc30;C1010230;Bellato Appendix228;0
+228;iabbc31;C1010231;Bellato Appendix229;0
+229;iabbc32;C1010232;Bellato Appendix230;0
+230;iabbc33;C1010233;Bellato Appendix231;0
+231;iabbc34;C1010234;Bellato Appendix232;0
+232;iabbc35;C1010235;Bellato Appendix233;0
+233;iabbc36;C1010236;Bellato Appendix234;0
+234;iabbc37;C1010237;Bellato Appendix235;0
+235;iabbc38;C1010238;Bellato Appendix236;0
+236;iabbc39;C1010239;Bellato Appendix237;0
+237;iabbc40;C1010240;Bellato Appendix238;0
+238;iabbc41;C1010241;Bellato Appendix239;0
+239;iabbc42;C1010242;Bellato Appendix240;0
+240;iabbc43;C1010243;Bellato Appendix241;0
+241;iabbc44;C1010244;Bellato Appendix242;0
+242;iabbc45;C1010245;Bellato Appendix243;0
+243;iabbc46;C1010246;Bellato Appendix244;0
+244;iabbc47;C1010247;Bellato Appendix245;0
+245;iabbc48;C1010248;Bellato Appendix246;0
+246;iabbc49;C1010249;Bellato Appendix247;0
+247;iabbc50;C1010250;Bellato Appendix248;0
+248;iabbc51;C1010251;Bellato Appendix249;0
+249;iabbc52;C1010252;Bellato Appendix250;0
+250;iabbc53;C1010253;Bellato Appendix251;0
+251;iabbc54;C1010254;Bellato Appendix252;0
+252;iabbc55;C1010255;Bellato Appendix253;0
+253;iabbc56;C1010256;Bellato Appendix254;0
+254;iabbc57;C1010257;Bellato Appendix255;0
+255;iabbc58;C1010258;Bellato Appendix256;0
+256;iacca01;C2020001;Fire Stuff EarringA;21
+257;iacca02;C2020002;Fire Stuff EarringB;21
+258;iacca03;C2020003;Fire Stuff EarringC;21
+259;iacca04;C2020004;Fire Stuff EarringD;21
+260;iacca05;C2020005;Fire Stuff EarringE;21
+261;iacca06;C2020006;Fire Stuff EarringF;21
+262;iacca07;C2020007;Fire Stuff EarringG;21
+263;iacca08;C2020008;Aqua Stuff EarringA;22
+264;iacca09;C2020009;Aqua Stuff EarringB;22
+265;iacca10;C2020010;Aqua Stuff EarringC;22
+266;iacca11;C2020011;Aqua Stuff EarringD;22
+267;iacca12;C2020012;Aqua Stuff EarringE;22
+268;iacca13;C2020013;Aqua Stuff EarringF;22
+269;iacca14;C2020014;Aqua Stuff EarringG;22
+270;iacca15;C2020015;Tera Stuff EarringA;23
+271;iacca16;C2020016;Tera Stuff EarringB;23
+272;iacca17;C2020017;Tera Stuff EarringC;23
+273;iacca18;C2020018;Tera Stuff EarringD;23
+274;iacca19;C2020019;Tera Stuff EarringE;23
+275;iacca20;C2020020;Tera Stuff EarringF;23
+276;iacca21;C2020021;Tera Stuff EarringG;23
+277;iacca22;C2020022;Wind Stuff EarringA;24
+278;iacca23;C2020023;Wind Stuff EarringB;24
+279;iacca24;C2020024;Wind Stuff EarringC;24
+280;iacca25;C2020025;Wind Stuff EarringD;24
+281;iacca26;C2020026;Wind Stuff EarringE;24
+282;iacca27;C2020027;Wind Stuff EarringF;24
+283;iacca28;C2020028;Wind Stuff EarringG;24
+284;iacca29;C2020029;Fire Mild EarringA;25
+285;iacca30;C2020030;Fire Mild EarringB;25
+286;iacca31;C2020031;Fire Mild EarringC;25
+287;iacca32;C2020032;Fire Mild EarringD;25
+288;iacca33;C2020033;Fire Mild EarringE;25
+289;iacca34;C2020034;Fire Mild EarringF;25
+290;iacca35;C2020035;Fire Mild EarringG;25
+291;iacca36;C2020036;Aqua Cus EarringA;30
+292;iacca37;C2020037;Aqua Cus EarringB;30
+293;iacca38;C2020038;Aqua Cus EarringC;30
+294;iacca39;C2020039;Aqua Cus EarringD;30
+295;iacca40;C2020040;Aqua Cus EarringE;30
+296;iacca41;C2020041;Aqua Cus EarringF;30
+297;iacca42;C2020042;Aqua Cus EarringG;30
+298;iacca43;C2020043;Fire Cus EarringA;29
+299;iacca44;C2020044;Fire Cus EarringB;29
+300;iacca45;C2020045;Fire Cus EarringC;29
+301;iacca46;C2020046;Fire Cus EarringD;29
+302;iacca47;C2020047;Fire Cus EarringE;29
+303;iacca48;C2020048;Fire Cus EarringF;29
+304;iacca49;C2020049;Fire Cus EarringG;29
+305;iacca50;C2020050;Fire Glow EarringA;37
+306;iacca51;C2020051;Fire Glow EarringB;37
+307;iacca52;C2020052;Fire Glow EarringC;37
+308;iacca53;C2020053;Fire Glow EarringD;37
+309;iacca54;C2020054;Fire Glow EarringE;37
+310;iacca55;C2020055;Fire Glow EarringF;37
+311;iacca56;C2020056;Fire Glow EarringG;37
+312;iacca57;C2020057;Elemental Stuff Earring;37
+313;iacca58;C2020058;Elemental Stuff Earring;40
+314;iacca59;C2020059;Elemental Stuff Earring;39
+315;iacca60;C2020060;Elemental Stuff Earring;38
+316;iacca61;C2020061;Elemental Stuff Earring;37
+317;iacca62;C2020062;Elemental Stuff Earring;40
+318;iacca63;C2020063;Elemental Stuff Earring;39
+319;iacca64;C2020064;Elemental Stuff Earring;38
+320;iacca65;C2020065;Elemental Mild Earring;37
+321;iacca66;C2020066;Elemental Mild Earring;40
+322;iacca67;C2020067;Elemental Mild Earring;39
+323;iacca68;C2020068;Elemental Mild Earring;38
+324;iacca69;C2020069;Elemental Mild Earring;37
+325;iacca70;C2020070;Elemental Mild Earring;40
+326;iacca71;C2020071;Elemental Mild Earring;39
+327;iacca72;C2020072;Elemental Mild Earring;38
+328;iacca73;C2020073;Elemental Cus Earring;37
+329;iacca74;C2020074;Elemental Cus Earring;40
+330;iacca75;C2020075;Elemental Cus Earring;39
+331;iacca76;C2020076;Elemental Cus Earring;38
+332;iacca77;C2020077;Elemental Cus Earring;37
+333;iacca78;C2020078;Elemental Cus Earring;40
+334;iacca79;C2020079;Elemental Cus Earring;39
+335;iacca80;C2020080;Elemental Cus Earring;38
+336;iacca81;C2020081;Elemental Glow Earring;37
+337;iacca82;C2020082;Elemental Glow Earring;40
+338;iacca83;C2020083;Elemental Glow Earring;39
+339;iacca84;C2020084;Elemental Glow Earring;38
+340;iacca85;C2020085;Elemental Glow Earring;37
+341;iacca86;C2020086;Elemental Glow Earring;40
+342;iacca87;C2020087;Elemental Glow Earring;39
+343;iacca88;C2020088;Elemental Glow Earring;38
+344;iacca89;C2020089;Elemental Dan EarringA;37
+345;iacca90;C2020090;Elemental Dan EarringB;40
+346;iacca91;C2020091;Elemental Dan EarringC;39
+347;iacca92;C2020092;Elemental Dan EarringD;38
+348;iacca93;C2020093;Elemental Dan EarringE;37
+349;iacca94;C2020094;Elemental Dan EarringF;40
+350;iacca95;C2020095;Elemental Dan EarringG;39
+351;iacca96;C2020096;Elemental Dan EarringH;38
+352;iacca97;C2020097;Knight Walker M;146
+353;iacca98;C2020098;Knight Walker R;147
+354;iacca99;C2020099;Knight Walker F;148
+355;iacpc01;C20F0201;[PC Cafe Only] Amulet;208
+356;iacpc02;C20F0202;[PC Cafe Only] Amulet;209
+357;iacpc03;C20F0203;[PC Cafe Only] Amulet;210
+358;iaccb04;C2020104;Cora Earring103;0
+359;iaccb05;C2020105;Cora Earring104;0
+360;iaccb06;C2020106;Cora Earring105;0
+361;iaccb07;C2020107;Cora Earring106;0
+362;iaccb08;C2020108;Cora Earring107;0
+363;iaccb09;C2020109;Cora Earring108;0
+364;iaccb10;C2020110;Cora Earring109;0
+365;iaccb11;C2020111;Cora Earring110;0
+366;iaccb12;C2020112;Cora Earring111;0
+367;iaccb13;C2020113;Cora Earring112;0
+368;iaccb14;C2020114;Cora Earring113;0
+369;iaccb15;C2020115;Cora Earring114;0
+370;iaccb16;C2020116;Cora Earring115;0
+371;iaccb17;C2020117;Cora Earring116;0
+372;iaccb18;C2020118;Cora Earring117;0
+373;iaccb19;C2020119;Cora Earring118;0
+374;iaccb20;C2020120;Cora Earring119;0
+375;iaccb21;C2020121;Cora Earring120;0
+376;iaccb22;C2020122;Cora Earring121;0
+377;iaccb23;C2020123;Cora Earring122;0
+378;iaccb24;C2020124;Cora Earring123;0
+379;iaccb25;C2020125;Cora Earring124;0
+380;iaccb26;C2020126;Cora Earring125;0
+381;iaccb27;C2020127;Cora Earring126;0
+382;iaccb28;C2020128;Cora Earring127;0
+383;iaccb29;C2020129;Cora Earring128;0
+384;iaccb30;C2020130;Cora Earring129;0
+385;iaccb31;C2020131;Cora Earring130;0
+386;iaccb32;C2020132;Cora Earring131;0
+387;iaccb33;C2020133;Cora Earring132;0
+388;iaccb34;C2020134;Cora Earring133;0
+389;iaccb35;C2020135;Cora Earring134;0
+390;iaccb36;C2020136;Cora Earring135;0
+391;iaccb37;C2020137;Cora Earring136;0
+392;iaccb38;C2020138;Cora Earring137;0
+393;iaccb39;C2020139;Cora Earring138;0
+394;iaccb40;C2020140;Cora Earring139;0
+395;iaccb41;C2020141;Cora Earring140;0
+396;iaccb42;C2020142;Cora Earring141;0
+397;iaccb43;C2020143;Cora Earring142;0
+398;iaccb44;C2020144;Cora Earring143;0
+399;iaccb45;C2020145;Cora Earring144;0
+400;iaccb46;C2020146;Cora Earring145;0
+401;iaccb47;C2020147;Cora Earring146;0
+402;iaccb48;C2020148;Cora Earring147;0
+403;iaccb49;C2020149;Cora Earring148;0
+404;iaccb50;C2020150;Cora Earring149;0
+405;iaccb51;C2020151;Cora Earring150;0
+406;iaccb52;C2020152;Cora Earring151;0
+407;iaccb53;C2020153;Cora Earring152;0
+408;iaccb54;C2020154;Cora Earring153;0
+409;iaccb55;C2020155;Cora Earring154;0
+410;iaccb56;C2020156;Cora Earring155;0
+411;iaccb57;C2020157;Cora Earring156;0
+412;iaccb58;C2020158;Cora Earring157;0
+413;iaccb59;C2020159;Cora Earring158;0
+414;iaccb60;C2020160;Cora Earring159;0
+415;iaccb61;C2020161;Cora Earring160;0
+416;iaccb62;C2020162;Cora Earring161;0
+417;iaccb63;C2020163;Cora Earring162;0
+418;iaccb64;C2020164;Cora Earring163;0
+419;iaccb65;C2020165;Cora Earring164;0
+420;iaccb66;C2020166;Cora Earring165;0
+421;iaccb67;C2020167;Cora Earring166;0
+422;iaccb68;C2020168;Cora Earring167;0
+423;iaccb69;C2020169;Cora Earring168;0
+424;iaccb70;C2020170;Cora Earring169;0
+425;iaccb71;C2020171;Cora Earring170;0
+426;iaccb72;C2020172;Cora Earring171;0
+427;iaccb73;C2020173;Cora Earring172;0
+428;iaccb74;C2020174;Cora Earring173;0
+429;iaccb75;C2020175;Cora Earring174;0
+430;iaccb76;C2020176;Cora Earring175;0
+431;iaccb77;C2020177;Cora Earring176;0
+432;iaccb78;C2020178;Cora Earring177;0
+433;iaccb79;C2020179;Cora Earring178;0
+434;iaccb80;C2020180;Cora Earring179;0
+435;iaccb81;C2020181;Cora Earring180;0
+436;iaccb82;C2020182;Cora Earring181;0
+437;iaccb83;C2020183;Cora Earring182;0
+438;iaccb84;C2020184;Cora Earring183;0
+439;iaccb85;C2020185;Cora Earring184;0
+440;iaccb86;C2020186;Cora Earring185;0
+441;iaccb87;C2020187;Cora Earring186;0
+442;iaccb88;C2020188;Cora Earring187;0
+443;iaccb89;C2020189;Cora Earring188;0
+444;iaccb90;C2020190;Cora Earring189;0
+445;iaccb91;C2020191;Cora Earring190;0
+446;iaccb92;C2020192;Cora Earring191;0
+447;iaccb93;C2020193;Cora Earring192;0
+448;iaccb94;C2020194;Cora Earring193;0
+449;iaccb95;C2020195;Cora Earring194;0
+450;iaccb96;C2020196;Cora Earring195;0
+451;iaccb97;C2020197;Cora Earring196;0
+452;iaccb98;C2020198;Cora Earring197;0
+453;iaccb99;C2020199;Cora Earring198;0
+454;iaccc01;C2020201;Cora Earring199;0
+455;iaccc02;C2020202;Cora Earring200;0
+456;iaccc03;C2020203;Cora Earring201;0
+457;iaccc04;C2020204;Cora Earring202;0
+458;iaccc05;C2020205;Cora Earring203;0
+459;iaccc06;C2020206;Cora Earring204;0
+460;iaccc07;C2020207;Cora Earring205;0
+461;iaccc08;C2020208;Cora Earring206;0
+462;iaccc09;C2020209;Cora Earring207;0
+463;iaccc10;C2020210;Cora Earring208;0
+464;iaccc11;C2020211;Cora Earring209;0
+465;iaccc12;C2020212;Cora Earring210;0
+466;iaccc13;C2020213;Cora Earring211;0
+467;iaccc14;C2020214;Cora Earring212;0
+468;iaccc15;C2020215;Cora Earring213;0
+469;iaccc16;C2020216;Cora Earring214;0
+470;iaccc17;C2020217;Cora Earring215;0
+471;iaccc18;C2020218;Cora Earring216;0
+472;iaccc19;C2020219;Cora Earring217;0
+473;iaccc20;C2020220;Cora Earring218;0
+474;iaccc21;C2020221;Cora Earring219;0
+475;iaccc22;C2020222;Cora Earring220;0
+476;iaccc23;C2020223;Cora Earring221;0
+477;iaccc24;C2020224;Cora Earring222;0
+478;iaccc25;C2020225;Cora Earring223;0
+479;iaccc26;C2020226;Cora Earring224;0
+480;iaccc27;C2020227;Cora Earring225;0
+481;iaccc28;C2020228;Cora Earring226;0
+482;iaccc29;C2020229;Cora Earring227;0
+483;iaccc30;C2020230;Cora Earring228;0
+484;iaccc31;C2020231;Cora Earring229;0
+485;iaccc32;C2020232;Cora Earring230;0
+486;iaccc33;C2020233;Cora Earring231;0
+487;iaccc34;C2020234;Cora Earring232;0
+488;iaccc35;C2020235;Cora Earring233;0
+489;iaccc36;C2020236;Cora Earring234;0
+490;iaccc37;C2020237;Cora Earring235;0
+491;iaccc38;C2020238;Cora Earring236;0
+492;iaccc39;C2020239;Cora Earring237;0
+493;iaccc40;C2020240;Cora Earring238;0
+494;iaccc41;C2020241;Cora Earring239;0
+495;iaccc42;C2020242;Cora Earring240;0
+496;iaccc43;C2020243;Cora Earring241;0
+497;iaccc44;C2020244;Cora Earring242;0
+498;iaccc45;C2020245;Cora Earring243;0
+499;iaccc46;C2020246;Cora Earring244;0
+500;iaccc47;C2020247;Cora Earring245;0
+501;iaccc48;C2020248;Cora Earring246;0
+502;iaccc49;C2020249;Cora Earring247;0
+503;iaccc50;C2020250;Cora Earring248;0
+504;iaccc51;C2020251;Cora Earring249;0
+505;iaccc52;C2020252;Cora Earring250;0
+506;iaccc53;C2020253;Cora Earring251;0
+507;iaccc54;C2020254;Cora Earring252;0
+508;iaccc55;C2020255;Cora Earring253;0
+509;iaccc56;C2020256;Cora Earring254;0
+510;iaccc57;C2020257;Cora Earring255;0
+511;iaccc58;C2020258;Cora Earring256;0
+512;iaaaa01;C0000001;Fire Normal HeadsetA;41
+513;iaaaa02;C0000002;Fire Normal HeadsetB;41
+514;iaaaa03;C0000003;Fire Normal HeadsetC;41
+515;iaaaa04;C0000004;Fire Normal HeadsetD;41
+516;iaaaa05;C0000005;Fire Normal HeadsetE;41
+517;iaaaa06;C0000006;Fire Normal HeadsetF;41
+518;iaaaa07;C0000007;Fire Normal HeadsetG;41
+519;iaaaa08;C0000008;Aqua Normal HeadsetA;42
+520;iaaaa09;C0000009;Aqua Normal HeadsetB;42
+521;iaaaa10;C0000010;Aqua Normal HeadsetC;42
+522;iaaaa11;C0000011;Aqua Normal HeadsetD;42
+523;iaaaa12;C0000012;Aqua Normal HeadsetE;42
+524;iaaaa13;C0000013;Aqua Normal HeadsetF;42
+525;iaaaa14;C0000014;Aqua Normal HeadsetG;42
+526;iaaaa15;C0000015;Tera Normal HeadsetA;43
+527;iaaaa16;C0000016;Tera Normal HeadsetB;43
+528;iaaaa17;C0000017;Tera Normal HeadsetC;43
+529;iaaaa18;C0000018;Tera Normal HeadsetD;43
+530;iaaaa19;C0000019;Tera Normal HeadsetE;43
+531;iaaaa20;C0000020;Tera Normal HeadsetF;43
+532;iaaaa21;C0000021;Tera Normal HeadsetG;43
+533;iaaaa22;C0000022;Wind Normal HeadsetA;44
+534;iaaaa23;C0000023;Wind Normal HeadsetB;44
+535;iaaaa24;C0000024;Wind Normal HeadsetC;44
+536;iaaaa25;C0000025;Wind Normal HeadsetD;44
+537;iaaaa26;C0000026;Wind Normal HeadsetE;44
+538;iaaaa27;C0000027;Wind Normal HeadsetF;44
+539;iaaaa28;C0000028;Wind Normal HeadsetG;44
+540;iaaaa29;C0000029;Fire Double HeadsetA;45
+541;iaaaa30;C0000030;Fire Double HeadsetB;45
+542;iaaaa31;C0000031;Fire Double HeadsetC;45
+543;iaaaa32;C0000032;Fire Double HeadsetD;45
+544;iaaaa33;C0000033;Fire Double HeadsetE;45
+545;iaaaa34;C0000034;Fire Double HeadsetF;45
+546;iaaaa35;C0000035;Fire Double HeadsetG;45
+547;iaaaa36;C0000036;Fire Pliant HeadsetA;45
+548;iaaaa37;C0000037;Fire Pliant HeadsetB;45
+549;iaaaa38;C0000038;Fire Pliant HeadsetC;45
+550;iaaaa39;C0000039;Fire Pliant HeadsetD;45
+551;iaaaa40;C0000040;Fire Pliant HeadsetE;45
+552;iaaaa41;C0000041;Fire Pliant HeadsetF;45
+553;iaaaa42;C0000042;Fire Pliant HeadsetG;45
+554;iaaaa43;C0000043;Fire Solid HeadsetA;45
+555;iaaaa44;C0000044;Fire Solid HeadsetB;45
+556;iaaaa45;C0000045;Fire Solid HeadsetC;45
+557;iaaaa46;C0000046;Fire Solid HeadsetD;45
+558;iaaaa47;C0000047;Fire Solid HeadsetE;45
+559;iaaaa48;C0000048;Fire Solid HeadsetF;45
+560;iaaaa49;C0000049;Fire Solid HeadsetG;45
+561;iaaaa50;C0000050;Aqua Double HeadsetA;46
+562;iaaaa51;C0000051;Aqua Double HeadsetB;46
+563;iaaaa52;C0000052;Aqua Double HeadsetC;46
+564;iaaaa53;C0000053;Aqua Double HeadsetD;46
+565;iaaaa54;C0000054;Aqua Double HeadsetE;46
+566;iaaaa55;C0000055;Aqua Double HeadsetF;46
+567;iaaaa56;C0000056;Aqua Double HeadsetG;46
+568;iaaaa57;C0000057;Aqua Pliant HeadsetA;46
+569;iaaaa58;C0000058;Aqua Pliant HeadsetB;46
+570;iaaaa59;C0000059;Aqua Pliant HeadsetC;46
+571;iaaaa60;C0000060;Aqua Pliant HeadsetD;46
+572;iaaaa61;C0000061;Aqua Pliant HeadsetE;46
+573;iaaaa62;C0000062;Aqua Pliant HeadsetF;46
+574;iaaaa63;C0000063;Aqua Pliant HeadsetG;46
+575;iaaaa64;C0000064;Tera Double HeadsetA;47
+576;iaaaa65;C0000065;Tera Double HeadsetB;47
+577;iaaaa66;C0000066;Tera Double HeadsetC;47
+578;iaaaa67;C0000067;Tera Double HeadsetD;47
+579;iaaaa68;C0000068;Tera Double HeadsetE;47
+580;iaaaa69;C0000069;Tera Double HeadsetF;47
+581;iaaaa70;C0000070;Tera Double HeadsetG;47
+582;iaaaa71;C0000071;Tera Hue HeadsetA;51
+583;iaaaa72;C0000072;Tera Hue HeadsetB;51
+584;iaaaa73;C0000073;Tera Hue HeadsetC;51
+585;iaaaa74;C0000074;Tera Hue HeadsetD;51
+586;iaaaa75;C0000075;Tera Hue HeadsetE;51
+587;iaaaa76;C0000076;Tera Hue HeadsetF;51
+588;iaaaa77;C0000077;Tera Hue HeadsetG;51
+589;iaaaa78;C0000078;Fire Hue HeadsetA;49
+590;iaaaa79;C0000079;Fire Hue HeadsetB;49
+591;iaaaa80;C0000080;Fire Hue HeadsetC;49
+592;iaaaa81;C0000081;Fire Hue HeadsetD;49
+593;iaaaa82;C0000082;Fire Hue HeadsetE;49
+594;iaaaa83;C0000083;Fire Hue HeadsetF;49
+595;iaaaa84;C0000084;Fire Hue HeadsetG;49
+596;iaaaa85;C0000085;Wind Hue HeadsetA;52
+597;iaaaa86;C0000086;Wind Hue HeadsetB;52
+598;iaaaa87;C0000087;Wind Hue HeadsetC;52
+599;iaaaa88;C0000088;Wind Hue HeadsetD;52
+600;iaaaa89;C0000089;Wind Hue HeadsetE;52
+601;iaaaa90;C0000090;Wind Hue HeadsetF;52
+602;iaaaa91;C0000091;Wind Hue HeadsetG;52
+603;iaaaa92;C0000092;Aqua Hue HeadsetA;50
+604;iaaaa93;C0000093;Aqua Hue HeadsetB;50
+605;iaaaa94;C0000094;Aqua Hue HeadsetC;50
+606;iaaaa95;C0000095;Aqua Hue HeadsetD;50
+607;iaaaa96;C0000096;Aqua Hue HeadsetE;50
+608;iaaaa97;C0000097;Aqua Hue HeadsetF;50
+609;iaaaa98;C0000098;Aqua Hue HeadsetG;50
+610;iaaaa99;C0000099;Wind Burn HeadsetA;56
+611;iaaab01;C0000101;Wind Burn HeadsetB;56
+612;iaaab02;C0000102;Wind Burn HeadsetC;56
+613;iaaab03;C0000103;Wind Burn HeadsetD;56
+614;iaaab04;C0000104;Wind Burn HeadsetE;56
+615;iaaab05;C0000105;Wind Burn HeadsetF;56
+616;iaaab06;C0000106;Wind Burn HeadsetG;56
+617;iaaab07;C0000107;Aqua Burn HeadsetA;54
+618;iaaab08;C0000108;Aqua Burn HeadsetB;54
+619;iaaab09;C0000109;Aqua Burn HeadsetC;54
+620;iaaab10;C0000110;Aqua Burn HeadsetD;54
+621;iaaab11;C0000111;Aqua Burn HeadsetE;54
+622;iaaab12;C0000112;Aqua Burn HeadsetF;54
+623;iaaab13;C0000113;Aqua Burn HeadsetG;54
+624;iaaab14;C0000114;Fire Power HeadsetA;57
+625;iaaab15;C0000115;Fire Power HeadsetB;57
+626;iaaab16;C0000116;Fire Power HeadsetC;57
+627;iaaab17;C0000117;Fire Power HeadsetD;57
+628;iaaab18;C0000118;Fire Power HeadsetE;57
+629;iaaab19;C0000119;Fire Power HeadsetF;57
+630;iaaab20;C0000120;Fire Power HeadsetG;57
+631;iaaab21;C0000121;Aqua Power HeadsetA;58
+632;iaaab22;C0000122;Aqua Power HeadsetB;58
+633;iaaab23;C0000123;Aqua Power HeadsetC;58
+634;iaaab24;C0000124;Aqua Power HeadsetD;58
+635;iaaab25;C0000125;Aqua Power HeadsetE;58
+636;iaaab26;C0000126;Aqua Power HeadsetF;58
+637;iaaab27;C0000127;Aqua Power HeadsetG;58
+638;iaaab28;C0000128;Fire Top HeadsetA;57
+639;iaaab29;C0000129;Fire Top HeadsetB;57
+640;iaaab30;C0000130;Fire Top HeadsetC;57
+641;iaaab31;C0000131;Fire Top HeadsetD;57
+642;iaaab32;C0000132;Fire Top HeadsetE;57
+643;iaaab33;C0000133;Fire Top HeadsetF;57
+644;iaaab34;C0000134;Fire Top HeadsetG;57
+645;iaaab35;C0000135;Elemental Normal Headset;57
+646;iaaab36;C0000136;Elemental Normal Headset;58
+647;iaaab37;C0000137;Elemental Normal Headset;59
+648;iaaab38;C0000138;Elemental Normal Headset;60
+649;iaaab39;C0000139;Elemental Normal Headset;57
+650;iaaab40;C0000140;Elemental Normal Headset;58
+651;iaaab41;C0000141;Elemental Normal Headset;59
+652;iaaab42;C0000142;Elemental Normal Headset;60
+653;iaaab43;C0000143;Elemental Pliant Headset;57
+654;iaaab44;C0000144;Elemental Pliant Headset;58
+655;iaaab45;C0000145;Elemental Pliant Headset;59
+656;iaaab46;C0000146;Elemental Pliant Headset;60
+657;iaaab47;C0000147;Elemental Pliant Headset;57
+658;iaaab48;C0000148;Elemental Pliant Headset;58
+659;iaaab49;C0000149;Elemental Pliant Headset;59
+660;iaaab50;C0000150;Elemental Pliant Headset;60
+661;iaaab51;C0000151;Elemental Hue Headset;57
+662;iaaab52;C0000152;Elemental Hue Headset;58
+663;iaaab53;C0000153;Elemental Hue Headset;59
+664;iaaab54;C0000154;Elemental Hue Headset;60
+665;iaaab55;C0000155;Elemental Hue Headset;57
+666;iaaab56;C0000156;Elemental Hue Headset;58
+667;iaaab57;C0000157;Elemental Hue Headset;59
+668;iaaab58;C0000158;Elemental Hue Headset;60
+669;iaaab59;C0000159;Elemental Power Headset;57
+670;iaaab60;C0000160;Elemental Power Headset;58
+671;iaaab61;C0000161;Elemental Power Headset;59
+672;iaaab62;C0000162;Elemental Power Headset;60
+673;iaaab63;C0000163;Elemental Power Headset;57
+674;iaaab64;C0000164;Elemental Power Headset;58
+675;iaaab65;C0000165;Elemental Power Headset;59
+676;iaaab66;C0000166;Elemental Power Headset;60
+677;iaapc01;C00F0201;Amulet for PC caf? only;211
+678;iaapc02;C00F0202;Amulet for PC caf? only;212
+679;iaapc03;C00F0203;Amulet for PC caf? only;213
+680;iaaab70;C0000170;Accretia Headset169;0
+681;iaaab71;C0000171;Accretia Headset170;0
+682;iaaab72;C0000172;Accretia Headset171;0
+683;iaaab73;C0000173;Accretia Headset172;0
+684;iaaab74;C0000174;Accretia Headset173;0
+685;iaaab75;C0000175;Accretia Headset174;0
+686;iaaab76;C0000176;Accretia Headset175;0
+687;iaaab77;C0000177;Accretia Headset176;0
+688;iaaab78;C0000178;Accretia Headset177;0
+689;iaaab79;C0000179;Accretia Headset178;0
+690;iaaab80;C0000180;Accretia Headset179;0
+691;iaaab81;C0000181;Accretia Headset180;0
+692;iaaab82;C0000182;Accretia Headset181;0
+693;iaaab83;C0000183;Accretia Headset182;0
+694;iaaab84;C0000184;Accretia Headset183;0
+695;iaaab85;C0000185;Accretia Headset184;0
+696;iaaab86;C0000186;Accretia Headset185;0
+697;iaaab87;C0000187;Accretia Headset186;0
+698;iaaab88;C0000188;Accretia Headset187;0
+699;iaaab89;C0000189;Accretia Headset188;0
+700;iaaab90;C0000190;Accretia Headset189;0
+701;iaaab91;C0000191;Accretia Headset190;0
+702;iaaab92;C0000192;Accretia Headset191;0
+703;iaaab93;C0000193;Accretia Headset192;0
+704;iaaab94;C0000194;Accretia Headset193;0
+705;iaaab95;C0000195;Accretia Headset194;0
+706;iaaab96;C0000196;Accretia Headset195;0
+707;iaaab97;C0000197;Accretia Headset196;0
+708;iaaab98;C0000198;Accretia Headset197;0
+709;iaaab99;C0000199;Accretia Headset198;0
+710;iaaac01;C0000201;Accretia Headset199;0
+711;iaaac02;C0000202;Accretia Headset200;0
+712;iaaac03;C0000203;Accretia Headset201;0
+713;iaaac04;C0000204;Accretia Headset202;0
+714;iaaac05;C0000205;Accretia Headset203;0
+715;iaaac06;C0000206;Accretia Headset204;0
+716;iaaac07;C0000207;Accretia Headset205;0
+717;iaaac08;C0000208;Accretia Headset206;0
+718;iaaac09;C0000209;Accretia Headset207;0
+719;iaaac10;C0000210;Accretia Headset208;0
+720;iaaac11;C0000211;Accretia Headset209;0
+721;iaaac12;C0000212;Accretia Headset210;0
+722;iaaac13;C0000213;Accretia Headset211;0
+723;iaaac14;C0000214;Accretia Headset212;0
+724;iaaac15;C0000215;Accretia Headset213;0
+725;iaaac16;C0000216;Accretia Headset214;0
+726;iaaac17;C0000217;Accretia Headset215;0
+727;iaaac18;C0000218;Accretia Headset216;0
+728;iaaac19;C0000219;Accretia Headset217;0
+729;iaaac20;C0000220;Accretia Headset218;0
+730;iaaac21;C0000221;Accretia Headset219;0
+731;iaaac22;C0000222;Accretia Headset220;0
+732;iaaac23;C0000223;Accretia Headset221;0
+733;iaaac24;C0000224;Accretia Headset222;0
+734;iaaac25;C0000225;Accretia Headset223;0
+735;iaaac26;C0000226;Accretia Headset224;0
+736;iaaac27;C0000227;Accretia Headset225;0
+737;iaaac28;C0000228;Accretia Headset226;0
+738;iaaac29;C0000229;Accretia Headset227;0
+739;iaaac30;C0000230;Accretia Headset228;0
+740;iaaac31;C0000231;Accretia Headset229;0
+741;iaaac32;C0000232;Accretia Headset230;0
+742;iaaac33;C0000233;Accretia Headset231;0
+743;iaaac34;C0000234;Accretia Headset232;0
+744;iaaac35;C0000235;Accretia Headset233;0
+745;iaaac36;C0000236;Accretia Headset234;0
+746;iaaac37;C0000237;Accretia Headset235;0
+747;iaaac38;C0000238;Accretia Headset236;0
+748;iaaac39;C0000239;Accretia Headset237;0
+749;iaaac40;C0000240;Accretia Headset238;0
+750;iaaac41;C0000241;Accretia Headset239;0
+751;iaaac42;C0000242;Accretia Headset240;0
+752;iaaac43;C0000243;Accretia Headset241;0
+753;iaaac44;C0000244;Accretia Headset242;0
+754;iaaac45;C0000245;Accretia Headset243;0
+755;iaaac46;C0000246;Accretia Headset244;0
+756;iaaac47;C0000247;Accretia Headset245;0
+757;iaaac48;C0000248;Accretia Headset246;0
+758;iaaac49;C0000249;Accretia Headset247;0
+759;iaaac50;C0000250;Accretia Headset248;0
+760;iaaac51;C0000251;Accretia Headset249;0
+761;iaaac52;C0000252;Accretia Headset250;0
+762;iaaac53;C0000253;Accretia Headset251;0
+763;iaaac54;C0000254;Accretia Headset252;0
+764;iaaac55;C0000255;Accretia Headset253;0
+765;iaaac56;C0000256;Accretia Headset254;0
+766;iaaac57;C0000257;Accretia Headset255;0
+767;iaaac58;C0000258;Accretia Headset256;0
+768;iaxxx00;D7171700;AmLo Headset;1
+769;iaxxx01;D7171701;CEO Headset;1
+770;iaxxx02;D7171702;Munggu Headset;1
+771;iaxxx03;D7171703;Odin Pendant;121
+772;iaxxx04;D7171704;Odin Pendant;121
+773;iaxxx05;D7171705;Deeper Odin Pendant;122
+774;iaxxx06;D7171706;Odin Pendant;121
+775;iaxxx07;D7171707;Odin Pendant;121
+776;iaxxx08;D7171708;Wedding Necklace;123
+777;iaxxx09;D7171709;Encourage Accessory;122
+778;iachr01;C2071101;Christmas Elemental Amulet1;133
+779;iachr02;C2071102;Christmas Elemental Amulet2;134
+780;iachr03;C2071103;Christmas Elemental Amulet3;135
+781;iachr04;C2071104;Christmas Elemental Amulet4;136
+782;iachr05;C2071105;Christmas Elemental Amulet5;137
+783;iachr06;C2071106;Christmas Elemental Amulet6;138
+784;iaxxx10;D7171710;Differ Odin PandentJ;122
+785;iared01;D1040301;4800 Red Roar Amulet[B-A];153
+786;iared02;D1040302;4800 Red Roar Amulet[B-B];153
+787;iared03;D1040303;4800 Red Roar Amulet[B-C];153
+788;iared04;D1040304;4800 Red Roar Amulet[C-A];153
+789;iared05;D1040305;4800 Red Roar Amulet[C-B];153
+790;iared06;D1040306;4800 Red Roar Amulet[C-C];153
+791;iared07;D1040307;4800 Red Roar Amulet[A-A];153
+792;iared08;D1040308;4800 Red Roar Amulet[A-B];153
+793;iabbd01;C1010301;Elemental Splitz AppendixH1;20
+794;iabbd02;C1010302;Elemental Splitz AppendixH2;20
+795;iabbd03;C1010303;Elemental Splitz AppendixH3;20
+796;iabbd04;C1010304;Elemental Splitz AppendixH4;20
+797;iabbd05;C1010305;Elemental Splitz AppendixH5;20
+798;iabbd06;C1010306;Elemental Mind AppendixH1;20
+799;iabbd07;C1010307;Elemental Mind AppendixH2;20
+800;iabbd08;C1010308;Elemental Mind AppendixH3;20
+801;iabbd09;C1010309;Elemental Mind AppendixH4;20
+802;iabbd10;C1010310;Elemental Mind AppendixH5;20
+803;iabbd11;C1010311;Elemental Tome AppendixH1;19
+804;iabbd12;C1010312;Elemental Tome AppendixH2;19
+805;iabbd13;C1010313;Elemental Tome AppendixH3;19
+806;iabbd14;C1010314;Elemental Tome AppendixH4;19
+807;iabbd15;C1010315;Elemental Tome AppendixH5;19
+808;iaccd01;C2020301;Elemental Mild EarringH11;38
+809;iaccd02;C2020302;Elemental Mild EarringH21;38
+810;iaccd03;C2020303;Elemental Mild EarringH31;38
+811;iaccd04;C2020304;Elemental Mild EarringH41;38
+812;iaccd05;C2020305;Elemental Mild EarringH51;38
+813;iaccd06;C2020306;Elemental Mild EarringH12;38
+814;iaccd07;C2020307;Elemental Mild EarringH22;38
+815;iaccd08;C2020308;Elemental Mild EarringH32;38
+816;iaccd09;C2020309;Elemental Mild EarringH42;38
+817;iaccd10;C2020310;Elemental Mild EarringH52;38
+818;iaccd11;C2020311;Elemental Mild EarringH13;38
+819;iaccd12;C2020312;Elemental Mild EarringH23;38
+820;iaccd13;C2020313;Elemental Mild EarringH33;38
+821;iaccd14;C2020314;Elemental Mild EarringH43;38
+822;iaccd15;C2020315;Elemental Mild EarringH53;38
+823;iaccd16;C2020316;Elemental Mild EarringH14;38
+824;iaccd17;C2020317;Elemental Mild EarringH24;38
+825;iaccd18;C2020318;Elemental Mild EarringH34;38
+826;iaccd19;C2020319;Elemental Mild EarringH44;38
+827;iaccd20;C2020320;Elemental Mild EarringH54;38
+828;iaccd21;C2020321;Elemental Mild EarringH15;38
+829;iaccd22;C2020322;Elemental Mild EarringH25;38
+830;iaccd23;C2020323;Elemental Mild EarringH35;38
+831;iaccd24;C2020324;Elemental Mild EarringH45;38
+832;iaccd25;C2020325;Elemental Mild EarringH55;38
+833;iaccd26;C2020326;Elemental Curse EarringH11;38
+834;iaccd27;C2020327;Elemental Curse EarringH21;38
+835;iaccd28;C2020328;Elemental Curse EarringH31;38
+836;iaccd29;C2020329;Elemental Curse EarringH41;38
+837;iaccd30;C2020330;Elemental Curse EarringH51;38
+838;iaccd31;C2020331;Elemental Curse EarringH12;38
+839;iaccd32;C2020332;Elemental Curse EarringH22;38
+840;iaccd33;C2020333;Elemental Curse EarringH32;38
+841;iaccd34;C2020334;Elemental Curse EarringH42;38
+842;iaccd35;C2020335;Elemental Curse EarringH52;38
+843;iaccd36;C2020336;Elemental Curse EarringH13;38
+844;iaccd37;C2020337;Elemental Curse EarringH23;38
+845;iaccd38;C2020338;Elemental Curse EarringH33;38
+846;iaccd39;C2020339;Elemental Curse EarringH43;38
+847;iaccd40;C2020340;Elemental Curse EarringH53;38
+848;iaccd41;C2020341;Elemental Curse EarringH14;38
+849;iaccd42;C2020342;Elemental Curse EarringH24;38
+850;iaccd43;C2020343;Elemental Curse EarringH34;38
+851;iaccd44;C2020344;Elemental Curse EarringH44;38
+852;iaccd45;C2020345;Elemental Curse EarringH54;38
+853;iaccd46;C2020346;Elemental Curse EarringH15;38
+854;iaccd47;C2020347;Elemental Curse EarringH25;38
+855;iaccd48;C2020348;Elemental Curse EarringH35;38
+856;iaccd49;C2020349;Elemental Curse EarringH45;38
+857;iaccd50;C2020350;Elemental Curse EarringH55;38
+858;iaccd51;C2020351;Elemental Glow EarringH1;38
+859;iaccd52;C2020352;Elemental Glow EarringH2;38
+860;iaccd53;C2020353;Elemental Glow EarringH3;38
+861;iaccd54;C2020354;Elemental Glow EarringH4;38
+862;iaccd55;C2020355;Elemental Glow EarringH5;38
+863;iaccd56;C2020356;Elemental Den EarringH11;38
+864;iaccd57;C2020357;Elemental Den EarringH21;38
+865;iaccd58;C2020358;Elemental Den EarringH31;38
+866;iaccd59;C2020359;Elemental Den EarringH41;38
+867;iaccd60;C2020360;Elemental Den EarringH51;38
+868;iaccd61;C2020361;Elemental Den EarringH12;38
+869;iaccd62;C2020362;Elemental Den EarringH22;38
+870;iaccd63;C2020363;Elemental Den EarringH32;38
+871;iaccd64;C2020364;Elemental Den EarringH42;38
+872;iaccd65;C2020365;Elemental Den EarringH52;38
+873;iaccd66;C2020366;Elemental Den EarringH13;38
+874;iaccd67;C2020367;Elemental Den EarringH23;38
+875;iaccd68;C2020368;Elemental Den EarringH33;38
+876;iaccd69;C2020369;Elemental Den EarringH43;38
+877;iaccd70;C2020370;Elemental Den EarringH53;38
+878;iaccd71;C2020371;Elemental Den EarringH14;38
+879;iaccd72;C2020372;Elemental Den EarringH24;38
+880;iaccd73;C2020373;Elemental Den EarringH34;38
+881;iaccd74;C2020374;Elemental Den EarringH44;38
+882;iaccd75;C2020375;Elemental Den EarringH54;38
+883;iaccd76;C2020376;Elemental Den EarringH15;38
+884;iaccd77;C2020377;Elemental Den EarringH25;38
+885;iaccd78;C2020378;Elemental Den EarringH35;38
+886;iaccd79;C2020379;Elemental Den EarringH45;38
+887;iaccd80;C2020380;Elemental Den EarringH55;38
+888;iaaad01;C0000301;Elemental Pliant EarmuffH11;60
+889;iaaad02;C0000302;Elemental Pliant EarmuffH21;60
+890;iaaad03;C0000303;Elemental Pliant EarmuffH31;60
+891;iaaad04;C0000304;Elemental Pliant EarmuffH41;60
+892;iaaad05;C0000305;Elemental Pliant EarmuffH51;60
+893;iaaad06;C0000306;Elemental Pliant EarmuffH12;60
+894;iaaad07;C0000307;Elemental Pliant EarmuffH22;60
+895;iaaad08;C0000308;Elemental Pliant EarmuffH32;60
+896;iaaad09;C0000309;Elemental Pliant EarmuffH42;60
+897;iaaad10;C0000310;Elemental Pliant EarmuffH52;60
+898;iaaad11;C0000311;Elemental Pliant EarmuffH13;60
+899;iaaad12;C0000312;Elemental Pliant EarmuffH23;60
+900;iaaad13;C0000313;Elemental Pliant EarmuffH33;60
+901;iaaad14;C0000314;Elemental Pliant EarmuffH43;60
+902;iaaad15;C0000315;Elemental Pliant EarmuffH53;60
+903;iaaad16;C0000316;Elemental Pliant EarmuffH14;60
+904;iaaad17;C0000317;Elemental Pliant EarmuffH24;60
+905;iaaad18;C0000318;Elemental Pliant EarmuffH34;60
+906;iaaad19;C0000319;Elemental Pliant EarmuffH44;60
+907;iaaad20;C0000320;Elemental Pliant EarmuffH54;60
+908;iaaad21;C0000321;Elemental Pliant EarmuffH15;60
+909;iaaad22;C0000322;Elemental Pliant EarmuffH25;60
+910;iaaad23;C0000323;Elemental Pliant EarmuffH35;60
+911;iaaad24;C0000324;Elemental Pliant EarmuffH45;60
+912;iaaad25;C0000325;Elemental Pliant EarmuffH55;60
+913;iaaad26;C0000326;Elemental Hue EarmuffH11;60
+914;iaaad27;C0000327;Elemental Hue EarmuffH21;60
+915;iaaad28;C0000328;Elemental Hue EarmuffH31;60
+916;iaaad29;C0000329;Elemental Hue EarmuffH41;60
+917;iaaad30;C0000330;Elemental Hue EarmuffH51;60
+918;iaaad31;C0000331;Elemental Hue EarmuffH12;60
+919;iaaad32;C0000332;Elemental Hue EarmuffH22;60
+920;iaaad33;C0000333;Elemental Hue EarmuffH32;60
+921;iaaad34;C0000334;Elemental Hue EarmuffH42;60
+922;iaaad35;C0000335;Elemental Hue EarmuffH52;60
+923;iaaad36;C0000336;Elemental Hue EarmuffH13;60
+924;iaaad37;C0000337;Elemental Hue EarmuffH23;60
+925;iaaad38;C0000338;Elemental Hue EarmuffH33;60
+926;iaaad39;C0000339;Elemental Hue EarmuffH43;60
+927;iaaad40;C0000340;Elemental Hue EarmuffH53;60
+928;iaaad41;C0000341;Elemental Hue EarmuffH14;60
+929;iaaad42;C0000342;Elemental Hue EarmuffH24;60
+930;iaaad43;C0000343;Elemental Hue EarmuffH34;60
+931;iaaad44;C0000344;Elemental Hue EarmuffH44;60
+932;iaaad45;C0000345;Elemental Hue EarmuffH54;60
+933;iaaad46;C0000346;Elemental Hue EarmuffH15;60
+934;iaaad47;C0000347;Elemental Hue EarmuffH25;60
+935;iaaad48;C0000348;Elemental Hue EarmuffH35;60
+936;iaaad49;C0000349;Elemental Hue EarmuffH45;60
+937;iaaad50;C0000350;Elemental Hue EarmuffH55;60
+938;iaaad51;C0000351;Elemental Power EarmuffH1;60
+939;iaaad52;C0000352;Elemental Power EarmuffH2;60
+940;iaaad53;C0000353;Elemental Power EarmuffH3;60
+941;iaaad54;C0000354;Elemental Power EarmuffH4;60
+942;iaaad55;C0000355;Elemental Power EarmuffH5;60
+943;iacsa01;C2120001;Beginners Amulet;158
+944;iaxqu01;D7101401;Symbol of Novus Amulet;160
+945;iacev01;C2041501;Winner's EarringA;161
+946;iacev02;C2041502;Winner's EarringB;161
+947;iabhs01;C1071201;Giant Mutant's Necklace;168
+948;iabhs02;C1071202;Giant Mutant's Necklace;168
+949;iabhs03;C1071203;Giant Mutant's Necklace;168
+950;iabhs04;C1071204;Giant Mutant's Necklace;168
+951;iabhs05;C1071205;Giant Mutant's Necklace;168
+952;iabhd01;C1070301;Flame Predator's Necklace;169
+953;iabhd02;C1070302;Flame Predator's Necklace;169
+954;iabhd03;C1070303;Flame Predator's Necklace;169
+955;iabhd04;C1070304;Flame Predator's Necklace;169
+956;iabhd05;C1070305;Flame Predator's Necklace;169
+957;iabhb01;C1070101;Vampiric Butcher's Necklace;170
+958;iabhb02;C1070102;Vampiric Butcher's Necklace;170
+959;iabhb03;C1070103;Vampiric Butcher's Necklace;170
+960;iabhb04;C1070104;Vampiric Butcher's Necklace;170
+961;iabhb05;C1070105;Vampiric Butcher's Necklace;170
+962;iabht01;C1071301;Stormknife Claw's Necklace;171
+963;iabht02;C1071302;Stormknife Claw's Necklace;171
+964;iabht03;C1071303;Stormknife Claw's Necklace;171
+965;iabht04;C1071304;Stormknife Claw's Necklace;171
+966;iabht05;C1071305;Stormknife Claw's Necklace;171
+967;iachs01;C2071201;Giant Mutant's Necklace;168
+968;iachs02;C2071202;Giant Mutant's Necklace;168
+969;iachs03;C2071203;Giant Mutant's Necklace;168
+970;iachs04;C2071204;Giant Mutant's Necklace;168
+971;iachs05;C2071205;Giant Mutant's Necklace;168
+972;iachd01;C2070301;Flame Predator's Necklace;169
+973;iachd02;C2070302;Flame Predator's Necklace;169
+974;iachd03;C2070303;Flame Predator's Necklace;169
+975;iachd04;C2070304;Flame Predator's Necklace;169
+976;iachd05;C2070305;Flame Predator's Necklace;169
+977;iachb01;C2070101;Vampiric Butcher's Necklace;170
+978;iachb02;C2070102;Vampiric Butcher's Necklace;170
+979;iachb03;C2070103;Vampiric Butcher's Necklace;170
+980;iachb04;C2070104;Vampiric Butcher's Necklace;170
+981;iachb05;C2070105;Vampiric Butcher's Necklace;170
+982;iacht01;C2071301;Stormknife Claw's Necklace;171
+983;iacht02;C2071302;Stormknife Claw's Necklace;171
+984;iacht03;C2071303;Stormknife Claw's Necklace;171
+985;iacht04;C2071304;Stormknife Claw's Necklace;171
+986;iacht05;C2071305;Stormknife Claw's Necklace;171
+987;iaahs01;C0071201;Giant Mutant's Necklace;168
+988;iaahs02;C0071202;Giant Mutant's Necklace;168
+989;iaahs03;C0071203;Giant Mutant's Necklace;168
+990;iaahs04;C0071204;Giant Mutant's Necklace;168
+991;iaahs05;C0071205;Giant Mutant's Necklace;168
+992;iaahd01;C0070301;Flame Predator's Necklace;169
+993;iaahd02;C0070302;Flame Predator's Necklace;169
+994;iaahd03;C0070303;Flame Predator's Necklace;169
+995;iaahd04;C0070304;Flame Predator's Necklace;169
+996;iaahd05;C0070305;Flame Predator's Necklace;169
+997;iaahb01;C0070101;Vampiric Butcher's Necklace;170
+998;iaahb02;C0070102;Vampiric Butcher's Necklace;170
+999;iaahb03;C0070103;Vampiric Butcher's Necklace;170
+1000;iaahb04;C0070104;Vampiric Butcher's Necklace;170
+1001;iaahb05;C0070105;Vampiric Butcher's Necklace;170
+1002;iaaht01;C0071301;Stormknife Claw's Necklace;171
+1003;iaaht02;C0071302;Stormknife Claw's Necklace;171
+1004;iaaht03;C0071303;Stormknife Claw's Necklace;171
+1005;iaaht04;C0071304;Stormknife Claw's Necklace;171
+1006;iaaht05;C0071305;Stormknife Claw's Necklace;171
+1007;iabna01;C10D0001;Starved Beast's Earring;172
+1008;iabna02;C10D0002;Starved Beast's Earring;172
+1009;iabna03;C10D0003;Starved Beast's Earring;172
+1010;iabna04;C10D0004;Violent Wild's Earring;173
+1011;iabna05;C10D0005;Violent Wild's Earring;173
+1012;iabna06;C10D0006;Violent Wild's Earring;173
+1013;iabna07;C10D0007;Fluctuating Beast Vital's Earring;174
+1014;iabna08;C10D0008;Fluctuating Beast Vital's Earring;174
+1015;iabna09;C10D0009;Fluctuating Beast Vital's Earring;174
+1016;iabna10;C10D0010;Outcasted Marauder's Earring;175
+1017;iabna11;C10D0011;Outcasted Marauder's Earring;175
+1018;iabna12;C10D0012;Outcasted Marauder's Earring;175
+1019;iabna13;C10D0013;Liberated Outcast's Earring;176
+1020;iabna14;C10D0014;Liberated Outcast's Earring;176
+1021;iabna15;C10D0015;Liberated Outcast's Earring;176
+1022;iabna16;C10D0016;Dead Outcast's Earring;177
+1023;iabna17;C10D0017;Dead Outcast's Earring;177
+1024;iabna18;C10D0018;Dead Outcast's Earring;177
+1025;iacna01;C20D0001;Starved Beast's Earring;172
+1026;iacna02;C20D0002;Starved Beast's Earring;172
+1027;iacna03;C20D0003;Starved Beast's Earring;172
+1028;iacna04;C20D0004;Violent Wild's Earring;173
+1029;iacna05;C20D0005;Violent Wild's Earring;173
+1030;iacna06;C20D0006;Violent Wild's Earring;173
+1031;iacna07;C20D0007;Fluctuating Beast Vital's Earring;174
+1032;iacna08;C20D0008;Fluctuating Beast Vital's Earring;174
+1033;iacna09;C20D0009;Fluctuating Beast Vital's Earring;174
+1034;iacna10;C20D0010;Outcasted Marauder's Earring;175
+1035;iacna11;C20D0011;Outcasted Marauder's Earring;175
+1036;iacna12;C20D0012;Outcasted Marauder's Earring;175
+1037;iacna13;C20D0013;Liberated Outcast's Earring;176
+1038;iacna14;C20D0014;Liberated Outcast's Earring;176
+1039;iacna15;C20D0015;Liberated Outcast's Earring;176
+1040;iacna16;C20D0016;Dead Outcast's Earring;177
+1041;iacna17;C20D0017;Dead Outcast's Earring;177
+1042;iacna18;C20D0018;Dead Outcast's Earring;177
+1043;iaana01;C00D0001;Starved Beast's Earring;172
+1044;iaana02;C00D0002;Starved Beast's Earring;172
+1045;iaana03;C00D0003;Starved Beast's Earring;172
+1046;iaana04;C00D0004;Violent Wild's Earring;173
+1047;iaana05;C00D0005;Violent Wild's Earring;173
+1048;iaana06;C00D0006;Violent Wild's Earring;173
+1049;iaana07;C00D0007;Fluctuating Beast Vital's Earring;174
+1050;iaana08;C00D0008;Fluctuating Beast Vital's Earring;174
+1051;iaana09;C00D0009;Fluctuating Beast Vital's Earring;174
+1052;iaana10;C00D0010;Outcasted Marauder's Earring;175
+1053;iaana11;C00D0011;Outcasted Marauder's Earring;175
+1054;iaana12;C00D0012;Outcasted Marauder's Earring;175
+1055;iaana13;C00D0013;Liberated Outcast's Earring;176
+1056;iaana14;C00D0014;Liberated Outcast's Earring;176
+1057;iaana15;C00D0015;Liberated Outcast's Earring;176
+1058;iaana16;C00D0016;Dead Outcast's Earring;177
+1059;iaana17;C00D0017;Dead Outcast's Earring;177
+1060;iaana18;C00D0018;Dead Outcast's Earring;177
+1061;iadgn01;C3060D01;Dagon's Leash;188
+1062;iadgn02;C3060D02;BlackBlood Brother's Leash;189
+1063;iaqua01;D0140001;Empire's Amulet;160
+1064;iaqub01;D0140101;Freedom's Amulet;160
+1065;iabka01;C10A0001;Solidly engraved Khan's Sentence;192
+1066;iabka02;C10A0002;Fiercely engraved Khan's Sentence;192
+1067;iabka03;C10A0003;Pliably engraved Sentence;192
+1068;iacka01;C20A0001;Solidly engraved Khan's Sentence;192
+1069;iacka02;C20A0002;Fiercely engraved Khan's Sentence;192
+1070;iaaka01;C00A0001;Solidly engraved Khan's Sentence;192
+1071;iaaka02;C00A0002;Fiercely engraved Khan's Sentence;192
+1072;iabbd16;C1010316;KeeperSlayer Guard Appendix;20
+1073;iabbd17;C1010317;KeeperSlayer Guard Appendix;20
+1074;iabbd18;C1010318;KeeperSlayer Guard Appendix;20
+1075;iabbd19;C1010319;KeeperSlayer Courage Appendix;19
+1076;iabbd20;C1010320;KeeperSlayer Courage Appendix;19
+1077;iabbd21;C1010321;KeeperSlayer Courage Appendix;19
+1078;iaccd81;C2020381;KeeperSlayer Charge Earring;38
+1079;iaccd82;C2020382;KeeperSlayer Charge Earring;38
+1080;iaccd83;C2020383;KeeperSlayer Charge Earring;38
+1081;iaaad56;C0000356;KeeperSlayer Mammoth Earmuff;60
+1082;iaaad57;C0000357;KeeperSlayer Mammoth Earmuff;60
+1083;iaaad58;C0000358;KeeperSlayer Mammoth Earmuff;60
+1084;iabbx16;C1011716;Harvest Festival MoonRabit AppendixA;20
+1085;iabbx17;C1011717;Harvest Festival MoonRabit AppendixA;20
+1086;iabbx18;C1011718;Harvest Festival MoonRabit AppendixA;20
+1087;iabbx19;C1011719;Harvest Festival MoonRabit AppendixB;19
+1088;iabbx20;C1011720;Harvest Festival MoonRabit AppendixB;19
+1089;iabbx21;C1011721;Harvest Festival MoonRabit AppendixB;19
+1090;iaccx81;C2021781;Harvest Festival MoonRabit Earring;38
+1091;iaccx82;C2021782;Harvest Festival MoonRabit Earring;38
+1092;iaccx83;C2021783;Harvest Festival MoonRabit Earring;38
+1093;iaaax56;C0001756;Harvest Festival MoonRabit Earmuff;60
+1094;iaaax57;C0001757;Harvest Festival MoonRabit Earmuff;60
+1095;iaaax58;C0001758;Harvest Festival MoonRabit Earmuff;60
+1096;iaqsa01;D0120001;Volcano Expedition Commemoration Amulet;195
+1097;iaqsa02;D0120002;Novas Expedition Commemoration Amulet;196
+1098;iaqsa03;D0120003;Seal of Novajan;197
+1099;iaqsa04;D0120004;Honor of Nazaal;201
+1100;iaqsa05;D0120005;Stigma of Nazaal;201
+1101;iaqsa06;D0120006;Glory of Nazaal;201
+1102;iaqsa07;D0120007;Bless of Nazaal;201
+1103;iadna01;C30D0001;Earring of Beast;172
+1104;iadna02;C30D0002;Earring of Beast's life;174
+1105;iadna03;C30D0003;Earring of Wild Nature;173
+1106;iadna04;C30D0004;Earring of Plunderer;175
+1107;iadna05;C30D0005;Earring of Exile;176
+1108;iadna06;C30D0006;Earring of Dead Exile;177
+1109;iacol01;C20E0B01;2008 Beijing Olympic Commemoration Medal;214
+1110;iacol02;C20E0B02;2008 Beijing Olympic Commemoration Medal;214
+1111;iaaol01;C00E0B01;2008 Beijing Olympic Commemoration Medal;214
+1112;iaaol02;C00E0B02;2008 Beijing Olympic Commemoration Medal;214
+1113;iacsa02;C2120002;AmuletA of Middle Class;216
+1114;iacsa04;C2120004;Beginners Amulet;158
+1115;iacsa03;C2120003;AmuletB of Middle Class;216

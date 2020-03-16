@@ -1,0 +1,1804 @@
+Index;Server Code;Client Code;English Name;Image ID
+0;idbca04;C1020004;Round Shield;1
+1;idbcb04;C1020104;Intense Round Shield;1
+2;idbcc04;C1020204;Shield1C;1
+3;idbcd04;C1020304;Shield1D;1
+4;idbca07;C1020007;Buckler;2
+5;idbcb07;C1020107;Intense Buckler;2
+6;idbcc07;C1020207;Shield2C;2
+7;idbcd07;C1020307;Shield2D;2
+8;idbca10;C1020010;Targe;3
+9;idbcb10;C1020110;Intense Targe;3
+10;idbcc10;C1020210;Shield3C;3
+11;idbcd10;C1020310;Shield3D;3
+12;idbca13;C1020013;Large Shield;4
+13;idbcb13;C1020113;Intense Large Shield;4
+14;idbcc13;C1020213;Shield4C;4
+15;idbcd13;C1020313;Shield4D;4
+16;idbca16;C1020016;Kite Shield;5
+17;idbcb16;C1020116;Intense Kite Shield;5
+18;idbcc16;C1020216;Shield5C;5
+19;idbcd16;C1020316;Shield5D;5
+20;idbca19;C1020019;Defender;6
+21;idbcb19;C1020119;Intense Defender;6
+22;idbcc19;C1020219;Shield6C;6
+23;idbcd19;C1020319;Shield6D;6
+24;idbca21;C1020021;Tower Shield;7
+25;idbcb21;C1020121;Intense Tower Shield;7
+26;idbcc21;C1020221;Shield7C;7
+27;idbcd21;C1020321;Shield7D;7
+28;idbca23;C1020023;Scutum;8
+29;idbcb23;C1020123;Intense Scutum;8
+30;idbcc23;C1020223;Shield8C;8
+31;idbcd23;C1020323;Shield8D;8
+32;idbca25;C1020025;Aspis;9
+33;idbcb25;C1020125;Intense Aspis;9
+34;idbcc25;C1020225;Shield9C;9
+35;idbcd25;C1020325;Shield9D;9
+36;idbca27;C1020027;Beam Shield;10
+37;idbcb27;C1020127;Intense Beam Shield;10
+38;idbcc27;C1020227;Shield10C;10
+39;idbcd27;C1020327;Shield10D;10
+40;idbca29;C1020029;Beam Large Shield;11
+41;idbcb29;C1020129;Intense Beam Large Shield;11
+42;idbcc29;C1020229;Shield11C;11
+43;idbcd29;C1020329;Shield11D;11
+44;idbca31;C1020031;Scale Shield;12
+45;idbcb31;C1020131;Intense Scale Shield;12
+46;idbcc31;C1020231;Shield12C;12
+47;idbcd31;C1020331;Shield12D;12
+48;idbca33;C1020033;Rondache;13
+49;idbcb33;C1020133;Intense Rondache;13
+50;idbcc33;C1020233;Shield13C;13
+51;idbcd33;C1020333;Shield13D;13
+52;idbca35;C1020035;Hopron;14
+53;idbcb35;C1020135;Intense Hopron;14
+54;idbcc35;C1020235;Shield14C;14
+55;idbcd35;C1020335;Shield14D;14
+56;idbca37;C1020037;Mirror Shield;15
+57;idbcb37;C1020137;Intense Mirror Shield;15
+58;idbcc37;C1020237;Shield15C;15
+59;idbcd37;C1020337;Shield15D;15
+60;idbca39;C1020039;Gothic Shield;16
+61;idbcb39;C1020139;Intense Gothic Shield;16
+62;idbcc39;C1020239;Shield16C;16
+63;idbcd39;C1020339;Shield16D;16
+64;idbca41;C1020041;Parvise Shield;17
+65;idbcb41;C1020141;Intense Parvise Shield;17
+66;idbcc41;C1020241;Shield17C;17
+67;idbcd41;C1020341;Shield17D;17
+68;idbca43;C1020043;Adarga;18
+69;idbcb43;C1020143;Intense Adarga;18
+70;idbcc43;C1020243;Shield18C;18
+71;idbcd43;C1020343;Shield18D;18
+72;idbca45;C1020045;Beam Parvise Shield;19
+73;idbcb45;C1020145;Intense Beam Parvise Shield;19
+74;idbcc45;C1020245;Shield19C;19
+75;idbcd45;C1020345;Shield19D;19
+76;idbca47;C1020047;Heater Shield;20
+77;idbcb47;C1020147;Intense Heater Shield;20
+78;idbcc47;C1020247;Shield20C;20
+79;idbcd47;C1020347;Shield20D;20
+80;idbca50;C1020050;Hora Shield;21
+81;idbcb50;C1020150;Intense Hora Shield;21
+82;idbcc50;C1020250;Shield21C;21
+83;idbcd50;C1020350;Shield21D;21
+84;idaaa04;C0000004;Solid Shield;22
+85;idaab04;C0000104;Intense Solid Shield;22
+86;idaac04;C0000204;Shield1C;22
+87;idaad04;C0000304;Shield1D;22
+88;idaaa07;C0000007;Cross Shield;23
+89;idaab07;C0000107;Intense Cross Shield;23
+90;idaac07;C0000207;Shield2C;23
+91;idaad07;C0000307;Shield2D;23
+92;idaaa10;C0000010;Protector;24
+93;idaab10;C0000110;Intense Protector;24
+94;idaac10;C0000210;Shield3C;24
+95;idaad10;C0000310;Shield3D;24
+96;idaaa13;C0000013;Spacer;25
+97;idaab13;C0000113;Intense Spacer;25
+98;idaac13;C0000213;Shield4C;25
+99;idaad13;C0000313;Shield4D;25
+100;idaaa16;C0000016;So Protector;26
+101;idaab16;C0000116;Intense So Protector;26
+102;idaac16;C0000216;Shield5C;26
+103;idaad16;C0000316;Shield5D;26
+104;idaaa19;C0000019;Pierce Protector;27
+105;idaab19;C0000119;Intense Pierce Protector;27
+106;idaac19;C0000219;Shield6C;27
+107;idaad19;C0000319;Shield6D;27
+108;idaaa21;C0000021;Lapith Protector;28
+109;idaab21;C0000121;Intense Lapith Protector;28
+110;idaac21;C0000221;Shield7C;28
+111;idaad21;C0000321;Shield7D;28
+112;idaaa23;C0000023;Cerato Protector;29
+113;idaab23;C0000123;Intense Cerato Protector;29
+114;idaac23;C0000223;Shield8C;29
+115;idaad23;C0000323;Shield8D;29
+116;idaaa25;C0000025;Laser Aspis;30
+117;idaab25;C0000125;Intense Laser Aspis;30
+118;idaac25;C0000225;Shield9C;30
+119;idaad25;C0000325;Shield9D;30
+120;idaaa27;C0000027;Tower Protector;31
+121;idaab27;C0000127;Intense Tower Protector;31
+122;idaac27;C0000227;Shield10C;31
+123;idaad27;C0000327;Shield10D;31
+124;idaaa29;C0000029;Dual Protector;32
+125;idaab29;C0000129;Intense Dual Protector;32
+126;idaac29;C0000229;Shield11C;32
+127;idaad29;C0000329;Shield11D;32
+128;idaaa31;C0000031;Shadow Protector;33
+129;idaab31;C0000131;Intense Shadow Protector;33
+130;idaac31;C0000231;Shield12C;33
+131;idaad31;C0000331;Shield12D;33
+132;idaaa33;C0000033;Beam Protector;34
+133;idaab33;C0000133;Intense Beam Protector;34
+134;idaac33;C0000233;Shield13C;34
+135;idaad33;C0000333;Shield13D;34
+136;idaaa35;C0000035;Large Protector;35
+137;idaab35;C0000135;Intense Large Protector;35
+138;idaac35;C0000235;Shield14C;35
+139;idaad35;C0000335;Shield14D;35
+140;idaaa37;C0000037;Crystal Protector;36
+141;idaab37;C0000137;Intense Crystal Protector;36
+142;idaac37;C0000237;Shield15C;36
+143;idaad37;C0000337;Shield15D;36
+144;idaaa39;C0000039;Round Protector;37
+145;idaab39;C0000139;Intense Round Protector;37
+146;idaac39;C0000239;Shield16C;37
+147;idaad39;C0000339;Shield16D;37
+148;idaaa41;C0000041;Beam Cross Protector;38
+149;idaab41;C0000141;Intense Beam Cross Protector;38
+150;idaac41;C0000241;Shield17C;38
+151;idaad41;C0000341;Shield17D;38
+152;idaaa43;C0000043;Beam Round Protector;39
+153;idaab43;C0000143;Intense Beam Round Protector;39
+154;idaac43;C0000243;Shield18C;39
+155;idaad43;C0000343;Shield18D;39
+156;idaaa45;C0000045;Golden Protector;40
+157;idaab45;C0000145;Intense Golden Protector;40
+158;idaac45;C0000245;Shield19C;40
+159;idaad45;C0000345;Shield19D;40
+160;idaaa47;C0000047;Sic Protector;41
+161;idaab47;C0000147;Intense Sic Protector;41
+162;idaac47;C0000247;Shield20C;41
+163;idaad47;C0000347;Shield20D;41
+164;idaaa50;C0000050;Platium Protector;42
+165;idaab50;C0000150;Intense Platium Protector;42
+166;idaac50;C0000250;Shield21C;42
+167;idaad50;C0000350;Shield21D;42
+168;idbha04;C1070004;Advanced Strength Round Shield;1
+169;idbhb04;C1070104;Saving Round Shield;1
+170;idbhc04;C1070204;Fine Round Shield;1
+171;idbhd04;C1070304;Anti Sharp Round Shield;1
+172;idbhe04;C1070404;Strong Round Shield;1
+173;idbhf04;C1070504;Solid Round Shield;1
+174;idbhg04;C1070604;Strength Round Shield;1
+175;idbhh04;C1070704;Protection Round Shield;1
+176;idbhi04;C1070804;Vampire Round Shield;1
+177;idbhj04;C1070904;Guardian Round Shield;1
+178;idbhk04;C1070A04;Sharp Round Shield;1
+179;idbhl04;C1070B04;Grand Round Shield;1
+180;idbha07;C1070007;Advanced Strength Buckler;2
+181;idbhb07;C1070107;Saving Buckler;2
+182;idbhc07;C1070207;Fine Buckler;2
+183;idbhd07;C1070307;Anti Sharp Buckler;2
+184;idbhe07;C1070407;Strong Buckler;2
+185;idbhf07;C1070507;Solid Buckler;2
+186;idbhg07;C1070607;Strength Buckler;2
+187;idbhh07;C1070707;Protection Buckler;2
+188;idbhi07;C1070807;Vampire Buckler;2
+189;idbhj07;C1070907;Guardian Buckler;2
+190;idbhk07;C1070A07;Sharp Buckler;2
+191;idbhl07;C1070B07;Grand Buckler;2
+192;idbha10;C1070010;Advanced Strength Targe;3
+193;idbhb10;C1070110;Saving Targe;3
+194;idbhc10;C1070210;Fine Targe;3
+195;idbhd10;C1070310;Anti Sharp Targe;3
+196;idbhe10;C1070410;Strong Targe;3
+197;idbhf10;C1070510;Solid Targe;3
+198;idbhg10;C1070610;Strength Targe;3
+199;idbhh10;C1070710;Protection Targe;3
+200;idbhi10;C1070810;Vampire Targe;3
+201;idbhj10;C1070910;Guardian Targe;3
+202;idbhk10;C1070A10;Sharp Targe;3
+203;idbhl10;C1070B10;Grand Targe;3
+204;idbha13;C1070013;Advanced Strength Large Shield;4
+205;idbhb13;C1070113;Saving Large Shield;4
+206;idbhc13;C1070213;Fine Large Shield;4
+207;idbhd13;C1070313;Anti Sharp Large Shield;4
+208;idbhe13;C1070413;Strong Large Shield;4
+209;idbhf13;C1070513;Solid Large Shield;4
+210;idbhg13;C1070613;Strength Large Shield;4
+211;idbhh13;C1070713;Protection Large Shield;4
+212;idbhi13;C1070813;Vampire Large Shield;4
+213;idbhj13;C1070913;Guardian Large Shield;4
+214;idbhk13;C1070A13;Sharp Large Shield;4
+215;idbhl13;C1070B13;Grand Large Shield;4
+216;idbha16;C1070016;Advanced Strength Kite Shield;5
+217;idbhb16;C1070116;Saving Kite Shield;5
+218;idbhc16;C1070216;Fine Kite Shield;5
+219;idbhd16;C1070316;Anti Sharp Kite Shield;5
+220;idbhe16;C1070416;Strong Kite Shield;5
+221;idbhf16;C1070516;Solid Kite Shield;5
+222;idbhg16;C1070616;Strength Kite Shield;5
+223;idbhh16;C1070716;Protection Kite Shield;5
+224;idbhi16;C1070816;Vampire Kite Shield;5
+225;idbhj16;C1070916;Guardian Kite Shield;5
+226;idbhk16;C1070A16;Sharp Kite Shield;5
+227;idbhl16;C1070B16;Grand Kite Shield;5
+228;idbha19;C1070019;Advanced Strength Defender;6
+229;idbhb19;C1070119;Saving Defender;6
+230;idbhc19;C1070219;Fine Defender;6
+231;idbhd19;C1070319;Anti Sharp Defender;6
+232;idbhe19;C1070419;Strong Defender;6
+233;idbhf19;C1070519;Solid Defender;6
+234;idbhg19;C1070619;Strength Defender;6
+235;idbhh19;C1070719;Protection Defender;6
+236;idbhi19;C1070819;Vampire Defender;6
+237;idbhj19;C1070919;Guardian Defender;6
+238;idbhk19;C1070A19;Sharp Defender;6
+239;idbhl19;C1070B19;Grand Defender;6
+240;idbha21;C1070021;Advanced Strength Tower Shield;7
+241;idbhb21;C1070121;Saving Tower Shield;7
+242;idbhc21;C1070221;Fine Tower Shield;7
+243;idbhd21;C1070321;Anti Sharp Tower Shield;7
+244;idbhe21;C1070421;Strong Tower Shield;7
+245;idbhf21;C1070521;Solid Tower Shield;7
+246;idbhg21;C1070621;Strength Tower Shield;7
+247;idbhh21;C1070721;Protection Tower Shield;7
+248;idbhi21;C1070821;Vampire Tower Shield;7
+249;idbhj21;C1070921;Guardian Tower Shield;7
+250;idbhk21;C1070A21;Sharp Tower Shield;7
+251;idbhl21;C1070B21;Grand Tower Shield;7
+252;idbha23;C1070023;Advanced Strength Scutum;8
+253;idbhb23;C1070123;Saving Scutum;8
+254;idbhc23;C1070223;Fine Scutum;8
+255;idbhd23;C1070323;Anti Sharp Scutum;8
+256;idbhe23;C1070423;Strong Scutum;8
+257;idbhf23;C1070523;Solid Scutum;8
+258;idbhg23;C1070623;Strength Scutum;8
+259;idbhh23;C1070723;Protection Scutum;8
+260;idbhi23;C1070823;Vampire Scutum;8
+261;idbhj23;C1070923;Guardian Scutum;8
+262;idbhk23;C1070A23;Sharp Scutum;8
+263;idbhl23;C1070B23;Grand Scutum;8
+264;idbha25;C1070025;Advanced Strength Aspis;9
+265;idbhb25;C1070125;Saving Aspis;9
+266;idbhc25;C1070225;Fine Aspis;9
+267;idbhd25;C1070325;Anti Sharp Aspis;9
+268;idbhe25;C1070425;Strong Aspis;9
+269;idbhf25;C1070525;Solid Aspis;9
+270;idbhg25;C1070625;Strength Aspis;9
+271;idbhh25;C1070725;Protection Aspis;9
+272;idbhi25;C1070825;Vampire Aspis;9
+273;idbhj25;C1070925;Guardian Aspis;9
+274;idbhk25;C1070A25;Sharp Aspis;9
+275;idbhl25;C1070B25;Grand Aspis;9
+276;idbha27;C1070027;Advanced Strength Beam Shield;10
+277;idbhb27;C1070127;Saving Beam Shield;10
+278;idbhc27;C1070227;Fine Beam Shield;10
+279;idbhd27;C1070327;Anti Sharp Beam Shield;10
+280;idbhe27;C1070427;Strong Beam Shield;10
+281;idbhf27;C1070527;Solid Beam Shield;10
+282;idbhg27;C1070627;Strength Beam Shield;10
+283;idbhh27;C1070727;Protection Beam Shield;10
+284;idbhi27;C1070827;Vampire Beam Shield;10
+285;idbhj27;C1070927;Guardian Beam Shield;10
+286;idbhk27;C1070A27;Sharp Beam Shield;10
+287;idbhl27;C1070B27;Grand Beam Shield;10
+288;idbha29;C1070029;Advanced Strength Beam Large Shield;11
+289;idbhb29;C1070129;Saving Beam Large Shield;11
+290;idbhc29;C1070229;Fine Beam Large Shield;11
+291;idbhd29;C1070329;Anti Sharp Beam Large Shield;11
+292;idbhe29;C1070429;Strong Beam Large Shield;11
+293;idbhf29;C1070529;Solid Beam Large Shield;11
+294;idbhg29;C1070629;Strength Beam Large Shield;11
+295;idbhh29;C1070729;Protection Beam Large Shield;11
+296;idbhi29;C1070829;Vampire Beam Large Shield;11
+297;idbhj29;C1070929;Guardian Beam Large Shield;11
+298;idbhk29;C1070A29;Sharp Beam Large Shield;11
+299;idbhl29;C1070B29;Grand Beam Large Shield;11
+300;idbha31;C1070031;Advanced Strength Scale Shield;12
+301;idbhb31;C1070131;Saving Scale Shield;12
+302;idbhc31;C1070231;Fine Scale Shield;12
+303;idbhd31;C1070331;Anti Sharp Scale Shield;12
+304;idbhe31;C1070431;Strong Scale Shield;12
+305;idbhf31;C1070531;Solid Scale Shield;12
+306;idbhg31;C1070631;Strength Scale Shield;12
+307;idbhh31;C1070731;Protection Scale Shield;12
+308;idbhi31;C1070831;Vampire Scale Shield;12
+309;idbhj31;C1070931;Guardian Scale Shield;12
+310;idbhk31;C1070A31;Sharp Scale Shield;12
+311;idbhl31;C1070B31;Grand Scale Shield;12
+312;idbha33;C1070033;Advanced Strength Rondache;13
+313;idbhb33;C1070133;Saving Rondache;13
+314;idbhc33;C1070233;Fine Rondache;13
+315;idbhd33;C1070333;Anti Sharp Rondache;13
+316;idbhe33;C1070433;Strong Rondache;13
+317;idbhf33;C1070533;Solid Rondache;13
+318;idbhg33;C1070633;Strength Rondache;13
+319;idbhh33;C1070733;Protection Rondache;13
+320;idbhi33;C1070833;Vampire Rondache;13
+321;idbhj33;C1070933;Guardian Rondache;13
+322;idbhk33;C1070A33;Sharp Rondache;13
+323;idbhl33;C1070B33;Grand Rondache;13
+324;idbha35;C1070035;Advanced Strength Hopron;14
+325;idbhb35;C1070135;Saving Hopron;14
+326;idbhc35;C1070235;Fine Hopron;14
+327;idbhd35;C1070335;Anti Sharp Hopron;14
+328;idbhe35;C1070435;Strong Hopron;14
+329;idbhf35;C1070535;Solid Hopron;14
+330;idbhg35;C1070635;Strength Hopron;14
+331;idbhh35;C1070735;Protection Hopron;14
+332;idbhi35;C1070835;Vampire Hopron;14
+333;idbhj35;C1070935;Guardian Hopron;14
+334;idbhk35;C1070A35;Sharp Hopron;14
+335;idbhl35;C1070B35;Grand Hopron;14
+336;idbha37;C1070037;Advanced Strength Mirror Shield;15
+337;idbhb37;C1070137;Saving Mirror Shield;15
+338;idbhc37;C1070237;Fine Mirror Shield;15
+339;idbhd37;C1070337;Anti Sharp Mirror Shield;15
+340;idbhe37;C1070437;Strong Mirror Shield;15
+341;idbhf37;C1070537;Solid Mirror Shield;15
+342;idbhg37;C1070637;Strength Mirror Shield;15
+343;idbhh37;C1070737;Protection Mirror Shield;15
+344;idbhi37;C1070837;Vampire Mirror Shield;15
+345;idbhj37;C1070937;Guardian Mirror Shield;15
+346;idbhk37;C1070A37;Sharp Mirror Shield;15
+347;idbhl37;C1070B37;Grand Mirror Shield;15
+348;idbha39;C1070039;Advanced Strength Gothic Shield;16
+349;idbhb39;C1070139;Saving Gothic Shield;16
+350;idbhc39;C1070239;Fine Gothic Shield;16
+351;idbhd39;C1070339;Anti Sharp Gothic Shield;16
+352;idbhe39;C1070439;Strong Gothic Shield;16
+353;idbhf39;C1070539;Solid Gothic Shield;16
+354;idbhg39;C1070639;Strength Gothic Shield;16
+355;idbhh39;C1070739;Protection Gothic Shield;16
+356;idbhi39;C1070839;Vampire Gothic Shield;16
+357;idbhj39;C1070939;Guardian Gothic Shield;16
+358;idbhk39;C1070A39;Sharp Gothic Shield;16
+359;idbhl39;C1070B39;Grand Gothic Shield;16
+360;idbha41;C1070041;Advanced Strength Parvise Shield;17
+361;idbhb41;C1070141;Saving Parvise Shield;17
+362;idbhc41;C1070241;Fine Parvise Shield;17
+363;idbhd41;C1070341;Anti Sharp Parvise Shield;17
+364;idbhe41;C1070441;Strong Parvise Shield;17
+365;idbhf41;C1070541;Solid Parvise Shield;17
+366;idbhg41;C1070641;Strength Parvise Shield;17
+367;idbhh41;C1070741;Protection Parvise Shield;17
+368;idbhi41;C1070841;Vampire Parvise Shield;17
+369;idbhj41;C1070941;Guardian Parvise Shield;17
+370;idbhk41;C1070A41;Sharp Parvise Shield;17
+371;idbhl41;C1070B41;Grand Parvise Shield;17
+372;idbha43;C1070043;Advanced Strength Adarga;18
+373;idbhb43;C1070143;Saving Adarga;18
+374;idbhc43;C1070243;Fine Adarga;18
+375;idbhd43;C1070343;Anti Sharp Adarga;18
+376;idbhe43;C1070443;Strong Adarga;18
+377;idbhf43;C1070543;Solid Adarga;18
+378;idbhg43;C1070643;Strength Adarga;18
+379;idbhh43;C1070743;Protection Adarga;18
+380;idbhi43;C1070843;Vampire Adarga;18
+381;idbhj43;C1070943;Guardian Adarga;18
+382;idbhk43;C1070A43;Sharp Adarga;18
+383;idbhl43;C1070B43;Grand Adarga;18
+384;idbha45;C1070045;Advanced Strength Beam Parvise Shield;19
+385;idbhb45;C1070145;Saving Beam Parvise Shield;19
+386;idbhc45;C1070245;Fine Beam Parvise Shield;19
+387;idbhd45;C1070345;Anti Sharp Beam Parvise Shield;19
+388;idbhe45;C1070445;Strong Beam Parvise Shield;19
+389;idbhf45;C1070545;Solid Beam Parvise Shield;19
+390;idbhg45;C1070645;Strength Beam Parvise Shield;19
+391;idbhh45;C1070745;Protection Beam Parvise Shield;19
+392;idbhi45;C1070845;Vampire Beam Parvise Shield;19
+393;idbhj45;C1070945;Guardian Beam Parvise Shield;19
+394;idbhk45;C1070A45;Sharp Beam Parvise Shield;19
+395;idbhl45;C1070B45;Grand Beam Parvise Shield;19
+396;idbha47;C1070047;Advanced Strength Heater Shield;20
+397;idbhb47;C1070147;Saving Heater Shield;20
+398;idbhc47;C1070247;Fine Heater Shield;20
+399;idbhd47;C1070347;Anti Sharp Heater Shield;20
+400;idbhe47;C1070447;Strong Heater Shield;20
+401;idbhf47;C1070547;Solid Heater Shield;20
+402;idbhg47;C1070647;Strength Heater Shield;20
+403;idbhh47;C1070747;Protection Heater Shield;20
+404;idbhi47;C1070847;Vampire Heater Shield;20
+405;idbhj47;C1070947;Guardian Heater Shield;20
+406;idbhk47;C1070A47;Sharp Heater Shield;20
+407;idbhl47;C1070B47;Grand Heater Shield;20
+408;idbha50;C1070050;Advanced Strength Hora Shield;21
+409;idbhb50;C1070150;Saving Hora Shield;21
+410;idbhc50;C1070250;Fine Hora Shield;21
+411;idbhd50;C1070350;Anti Sharp Hora Shield;21
+412;idbhe50;C1070450;Strong Hora Shield;21
+413;idbhf50;C1070550;Solid Hora Shield;21
+414;idbhg50;C1070650;Strength Hora Shield;21
+415;idbhh50;C1070750;Protection Hora Shield;21
+416;idbhi50;C1070850;Vampire Hora Shield;21
+417;idbhj50;C1070950;Guardian Hora Shield;21
+418;idbhk50;C1070A50;Sharp Hora Shield;21
+419;idbhl50;C1070B50;Grand Hora Shield;21
+420;idaha04;C0070004;Advanced Strength Solid Shield;22
+421;idahb04;C0070104;Saving Solid Shield;22
+422;idahc04;C0070204;Fine Solid Shield;22
+423;idahd04;C0070304;Anti Sharp Solid Shield;22
+424;idahe04;C0070404;Strong Solid Shield;22
+425;idahf04;C0070504;Solid Solid Shield;22
+426;idahg04;C0070604;Strength Solid Shield;22
+427;idahh04;C0070704;Protection Solid Shield;22
+428;idahi04;C0070804;Vampire Solid Shield;22
+429;idahj04;C0070904;Guardian Solid Shield;22
+430;idahk04;C0070A04;Sharp Solid Shield;22
+431;idahl04;C0070B04;Grand Solid Shield;22
+432;idaha07;C0070007;Advanced Strength Cross Shield;23
+433;idahb07;C0070107;Saving Cross Shield;23
+434;idahc07;C0070207;Fine Cross Shield;23
+435;idahd07;C0070307;Anti Sharp Cross Shield;23
+436;idahe07;C0070407;Strong Cross Shield;23
+437;idahf07;C0070507;Solid Cross Shield;23
+438;idahg07;C0070607;Strength Cross Shield;23
+439;idahh07;C0070707;Protection Cross Shield;23
+440;idahi07;C0070807;Vampire Cross Shield;23
+441;idahj07;C0070907;Guardian Cross Shield;23
+442;idahk07;C0070A07;Sharp Cross Shield;23
+443;idahl07;C0070B07;Grand Cross Shield;23
+444;idaha10;C0070010;Advanced Strength Protector;24
+445;idahb10;C0070110;Saving Protector;24
+446;idahc10;C0070210;Fine Protector;24
+447;idahd10;C0070310;Anti Sharp Protector;24
+448;idahe10;C0070410;Strong Protector;24
+449;idahf10;C0070510;Solid Protector;24
+450;idahg10;C0070610;Strength Protector;24
+451;idahh10;C0070710;Protection Protector;24
+452;idahi10;C0070810;Vampire Protector;24
+453;idahj10;C0070910;Guardian Protector;24
+454;idahk10;C0070A10;Sharp Protector;24
+455;idahl10;C0070B10;Grand Protector;24
+456;idaha13;C0070013;Advanced Strength Spacer;25
+457;idahb13;C0070113;Saving Spacer;25
+458;idahc13;C0070213;Fine Spacer;25
+459;idahd13;C0070313;Anti Sharp Spacer;25
+460;idahe13;C0070413;Strong Spacer;25
+461;idahf13;C0070513;Solid Spacer;25
+462;idahg13;C0070613;Strength Spacer;25
+463;idahh13;C0070713;Protection Spacer;25
+464;idahi13;C0070813;Vampire Spacer;25
+465;idahj13;C0070913;Guardian Spacer;25
+466;idahk13;C0070A13;Sharp Spacer;25
+467;idahl13;C0070B13;Grand Spacer;25
+468;idaha16;C0070016;Advanced Strength So Protector;26
+469;idahb16;C0070116;Saving So Protector;26
+470;idahc16;C0070216;Fine So Protector;26
+471;idahd16;C0070316;Anti Sharp So Protector;26
+472;idahe16;C0070416;Strong So Protector;26
+473;idahf16;C0070516;Solid So Protector;26
+474;idahg16;C0070616;Strength So Protector;26
+475;idahh16;C0070716;Protection So Protector;26
+476;idahi16;C0070816;Vampire So Protector;26
+477;idahj16;C0070916;Guardian So Protector;26
+478;idahk16;C0070A16;Sharp So Protector;26
+479;idahl16;C0070B16;Grand So Protector;26
+480;idaha19;C0070019;Advanced Strength Pierce Protector;27
+481;idahb19;C0070119;Saving Pierce Protector;27
+482;idahc19;C0070219;Fine Pierce Protector;27
+483;idahd19;C0070319;Anti Sharp Pierce Protector;27
+484;idahe19;C0070419;Strong Pierce Protector;27
+485;idahf19;C0070519;Solid Pierce Protector;27
+486;idahg19;C0070619;Strength Pierce Protector;27
+487;idahh19;C0070719;Protection Pierce Protector;27
+488;idahi19;C0070819;Vampire Pierce Protector;27
+489;idahj19;C0070919;Guardian Pierce Protector;27
+490;idahk19;C0070A19;Sharp Pierce Protector;27
+491;idahl19;C0070B19;Grand Pierce Protector;27
+492;idaha21;C0070021;Advanced Strength Lapith Protector;28
+493;idahb21;C0070121;Saving Lapith Protector;28
+494;idahc21;C0070221;Fine Lapith Protector;28
+495;idahd21;C0070321;Anti Sharp Lapith Protector;28
+496;idahe21;C0070421;Strong Lapith Protector;28
+497;idahf21;C0070521;Solid Lapith Protector;28
+498;idahg21;C0070621;Strength Lapith Protector;28
+499;idahh21;C0070721;Protection Lapith Protector;28
+500;idahi21;C0070821;Vampire Lapith Protector;28
+501;idahj21;C0070921;Guardian Lapith Protector;28
+502;idahk21;C0070A21;Sharp Lapith Protector;28
+503;idahl21;C0070B21;Grand Lapith Protector;28
+504;idaha23;C0070023;Advanced Strength Cerato Protector;29
+505;idahb23;C0070123;Saving Cerato Protector;29
+506;idahc23;C0070223;Fine Cerato Protector;29
+507;idahd23;C0070323;Anti Sharp Cerato Protector;29
+508;idahe23;C0070423;Strong Cerato Protector;29
+509;idahf23;C0070523;Solid Cerato Protector;29
+510;idahg23;C0070623;Strength Cerato Protector;29
+511;idahh23;C0070723;Protection Cerato Protector;29
+512;idahi23;C0070823;Vampire Cerato Protector;29
+513;idahj23;C0070923;Guardian Cerato Protector;29
+514;idahk23;C0070A23;Sharp Cerato Protector;29
+515;idahl23;C0070B23;Grand Cerato Protector;29
+516;idaha25;C0070025;Advanced Strength Laser Aspis;30
+517;idahb25;C0070125;Saving Laser Aspis;30
+518;idahc25;C0070225;Fine Laser Aspis;30
+519;idahd25;C0070325;Anti Sharp Laser Aspis;30
+520;idahe25;C0070425;Strong Laser Aspis;30
+521;idahf25;C0070525;Solid Laser Aspis;30
+522;idahg25;C0070625;Strength Laser Aspis;30
+523;idahh25;C0070725;Protection Laser Aspis;30
+524;idahi25;C0070825;Vampire Laser Aspis;30
+525;idahj25;C0070925;Guardian Laser Aspis;30
+526;idahk25;C0070A25;Sharp Laser Aspis;30
+527;idahl25;C0070B25;Grand Laser Aspis;30
+528;idaha27;C0070027;Advanced Strength Tower Protector;31
+529;idahb27;C0070127;Saving Tower Protector;31
+530;idahc27;C0070227;Fine Tower Protector;31
+531;idahd27;C0070327;Anti Sharp Tower Protector;31
+532;idahe27;C0070427;Strong Tower Protector;31
+533;idahf27;C0070527;Solid Tower Protector;31
+534;idahg27;C0070627;Strength Tower Protector;31
+535;idahh27;C0070727;Protection Tower Protector;31
+536;idahi27;C0070827;Vampire Tower Protector;31
+537;idahj27;C0070927;Guardian Tower Protector;31
+538;idahk27;C0070A27;Sharp Tower Protector;31
+539;idahl27;C0070B27;Grand Tower Protector;31
+540;idaha29;C0070029;Advanced Strength Dual Protector;32
+541;idahb29;C0070129;Saving Dual Protector;32
+542;idahc29;C0070229;Fine Dual Protector;32
+543;idahd29;C0070329;Anti Sharp Dual Protector;32
+544;idahe29;C0070429;Strong Dual Protector;32
+545;idahf29;C0070529;Solid Dual Protector;32
+546;idahg29;C0070629;Strength Dual Protector;32
+547;idahh29;C0070729;Protection Dual Protector;32
+548;idahi29;C0070829;Vampire Dual Protector;32
+549;idahj29;C0070929;Guardian Dual Protector;32
+550;idahk29;C0070A29;Sharp Dual Protector;32
+551;idahl29;C0070B29;Grand Dual Protector;32
+552;idaha31;C0070031;Advanced Strength Shadow Protector;33
+553;idahb31;C0070131;Saving Shadow Protector;33
+554;idahc31;C0070231;Fine Shadow Protector;33
+555;idahd31;C0070331;Anti Sharp Shadow Protector;33
+556;idahe31;C0070431;Strong Shadow Protector;33
+557;idahf31;C0070531;Solid Shadow Protector;33
+558;idahg31;C0070631;Strength Shadow Protector;33
+559;idahh31;C0070731;Protection Shadow Protector;33
+560;idahi31;C0070831;Vampire Shadow Protector;33
+561;idahj31;C0070931;Guardian Shadow Protector;33
+562;idahk31;C0070A31;Sharp Shadow Protector;33
+563;idahl31;C0070B31;Grand Shadow Protector;33
+564;idaha33;C0070033;Advanced Strength Beam Protector;34
+565;idahb33;C0070133;Saving Beam Protector;34
+566;idahc33;C0070233;Fine Beam Protector;34
+567;idahd33;C0070333;Anti Sharp Beam Protector;34
+568;idahe33;C0070433;Strong Beam Protector;34
+569;idahf33;C0070533;Solid Beam Protector;34
+570;idahg33;C0070633;Strength Beam Protector;34
+571;idahh33;C0070733;Protection Beam Protector;34
+572;idahi33;C0070833;Vampire Beam Protector;34
+573;idahj33;C0070933;Guardian Beam Protector;34
+574;idahk33;C0070A33;Sharp Beam Protector;34
+575;idahl33;C0070B33;Grand Beam Protector;34
+576;idaha35;C0070035;Advanced Strength Large Protector;35
+577;idahb35;C0070135;Saving Large Protector;35
+578;idahc35;C0070235;Fine Large Protector;35
+579;idahd35;C0070335;Anti Sharp Large Protector;35
+580;idahe35;C0070435;Strong Large Protector;35
+581;idahf35;C0070535;Solid Large Protector;35
+582;idahg35;C0070635;Strength Large Protector;35
+583;idahh35;C0070735;Protection Large Protector;35
+584;idahi35;C0070835;Vampire Large Protector;35
+585;idahj35;C0070935;Guardian Large Protector;35
+586;idahk35;C0070A35;Sharp Large Protector;35
+587;idahl35;C0070B35;Grand Large Protector;35
+588;idaha37;C0070037;Advanced Strength Crystal Protector;36
+589;idahb37;C0070137;Saving Crystal Protector;36
+590;idahc37;C0070237;Fine Crystal Protector;36
+591;idahd37;C0070337;Anti Sharp Crystal Protector;36
+592;idahe37;C0070437;Strong Crystal Protector;36
+593;idahf37;C0070537;Solid Crystal Protector;36
+594;idahg37;C0070637;Strength Crystal Protector;36
+595;idahh37;C0070737;Protection Crystal Protector;36
+596;idahi37;C0070837;Vampire Crystal Protector;36
+597;idahj37;C0070937;Guardian Crystal Protector;36
+598;idahk37;C0070A37;Sharp Crystal Protector;36
+599;idahl37;C0070B37;Grand Crystal Protector;36
+600;idaha39;C0070039;Advanced Strength Round Protector;37
+601;idahb39;C0070139;Saving Round Protector;37
+602;idahc39;C0070239;Fine Round Protector;37
+603;idahd39;C0070339;Anti Sharp Round Protector;37
+604;idahe39;C0070439;Strong Round Protector;37
+605;idahf39;C0070539;Solid Round Protector;37
+606;idahg39;C0070639;Strength Round Protector;37
+607;idahh39;C0070739;Protection Round Protector;37
+608;idahi39;C0070839;Vampire Round Protector;37
+609;idahj39;C0070939;Guardian Round Protector;37
+610;idahk39;C0070A39;Sharp Round Protector;37
+611;idahl39;C0070B39;Grand Round Protector;37
+612;idaha41;C0070041;Advanced Strength Beam Cross Protector;38
+613;idahb41;C0070141;Saving Beam Cross Protector;38
+614;idahc41;C0070241;Fine Beam Cross Protector;38
+615;idahd41;C0070341;Anti Sharp Beam Cross Protector;38
+616;idahe41;C0070441;Strong Beam Cross Protector;38
+617;idahf41;C0070541;Solid Beam Cross Protector;38
+618;idahg41;C0070641;Strength Beam Cross Protector;38
+619;idahh41;C0070741;Protection Beam Cross Protector;38
+620;idahi41;C0070841;Vampire Beam Cross Protector;38
+621;idahj41;C0070941;Guardian Beam Cross Protector;38
+622;idahk41;C0070A41;Sharp Beam Cross Protector;38
+623;idahl41;C0070B41;Grand Beam Cross Protector;38
+624;idaha43;C0070043;Advanced Strength Beam Round Protector;39
+625;idahb43;C0070143;Saving Beam Round Protector;39
+626;idahc43;C0070243;Fine Beam Round Protector;39
+627;idahd43;C0070343;Anti Sharp Beam Round Protector;39
+628;idahe43;C0070443;Strong Beam Round Protector;39
+629;idahf43;C0070543;Solid Beam Round Protector;39
+630;idahg43;C0070643;Strength Beam Round Protector;39
+631;idahh43;C0070743;Protection Beam Round Protector;39
+632;idahi43;C0070843;Vampire Beam Round Protector;39
+633;idahj43;C0070943;Guardian Beam Round Protector;39
+634;idahk43;C0070A43;Sharp Beam Round Protector;39
+635;idahl43;C0070B43;Grand Beam Round Protector;39
+636;idaha45;C0070045;Advanced Strength Golden Protector;40
+637;idahb45;C0070145;Saving Golden Protector;40
+638;idahc45;C0070245;Fine Golden Protector;40
+639;idahd45;C0070345;Anti Sharp Golden Protector;40
+640;idahe45;C0070445;Strong Golden Protector;40
+641;idahf45;C0070545;Solid Golden Protector;40
+642;idahg45;C0070645;Strength Golden Protector;40
+643;idahh45;C0070745;Protection Golden Protector;40
+644;idahi45;C0070845;Vampire Golden Protector;40
+645;idahj45;C0070945;Guardian Golden Protector;40
+646;idahk45;C0070A45;Sharp Golden Protector;40
+647;idahl45;C0070B45;Grand Golden Protector;40
+648;idaha47;C0070047;Advanced Strength Sic Protector;41
+649;idahb47;C0070147;Saving Sic Protector;41
+650;idahc47;C0070247;Fine Sic Protector;41
+651;idahd47;C0070347;Anti Sharp Sic Protector;41
+652;idahe47;C0070447;Strong Sic Protector;41
+653;idahf47;C0070547;Solid Sic Protector;41
+654;idahg47;C0070647;Strength Sic Protector;41
+655;idahh47;C0070747;Protection Sic Protector;41
+656;idahi47;C0070847;Vampire Sic Protector;41
+657;idahj47;C0070947;Guardian Sic Protector;41
+658;idahk47;C0070A47;Sharp Sic Protector;41
+659;idahl47;C0070B47;Grand Sic Protector;41
+660;idaha50;C0070050;Advanced Strength Platium Protector;42
+661;idahb50;C0070150;Saving Platium Protector;42
+662;idahc50;C0070250;Fine Platium Protector;42
+663;idahd50;C0070350;Anti Sharp Platium Protector;42
+664;idahe50;C0070450;Strong Platium Protector;42
+665;idahf50;C0070550;Solid Platium Protector;42
+666;idahg50;C0070650;Strength Platium Protector;42
+667;idahh50;C0070750;Protection Platium Protector;42
+668;idahi50;C0070850;Vampire Platium Protector;42
+669;idahj50;C0070950;Guardian Platium Protector;42
+670;idahk50;C0070A50;Sharp Platium Protector;42
+671;idahl50;C0070B50;Grand Platium Protector;42
+672;idata50;C0130050;Advanced Strength Intense Platinum Protector;42
+673;idatb50;C0130150;Saving Intense Platinum Protector;42
+674;idatc50;C0130250;Fine Intense Platinum Protector;42
+675;idatd50;C0130350;Anti-Sharp Intense Platinum Protector;42
+676;idate50;C0130450;Strong Intense Platinum Protector;42
+677;idatf50;C0130550;Solid Intense Platinum Protector;42
+678;idatg50;C0130650;Strength Intense Platinum Protector;42
+679;idath50;C0130750;Protection Intense Platinum Protector;42
+680;idati50;C0130850;Vampire Intense Platinum Protector;42
+681;idatj50;C0130950;Guardian Intense Platinum Protector;42
+682;idatk50;C0130A50;Sharp Intense Platinum Protector;42
+683;idatl50;C0130B50;Grand Intense Platinum Protector;42
+684;idata47;C0130047;Advanced Strength Intense Thick Protector;41
+685;idatb47;C0130147;Saving Intense Thick Protector;41
+686;idatc47;C0130247;Fine Intense Thick Protector;41
+687;idatd47;C0130347;Anti-Sharp Intense Thick Protector;41
+688;idate47;C0130447;Strong Intense Thick Protector;41
+689;idatf47;C0130547;Solid Intense Thick Protector;41
+690;idatg47;C0130647;Strength Intense Thick Protector;41
+691;idath47;C0130747;Protection Intense Thick Protector;41
+692;idati47;C0130847;Vampire Intense Thick Protector;41
+693;idatj47;C0130947;Guardian Intense Thick Protector;41
+694;idatk47;C0130A47;Sharp Intense Thick Protector;41
+695;idatl47;C0130B47;Grand Intense Thick Protector;41
+696;idata45;C0130045;Advanced Strength Intense Golden Protector;40
+697;idatb45;C0130145;Saving Intense Golden Protector;40
+698;idatc45;C0130245;Fine Intense Golden Protector;40
+699;idatd45;C0130345;Anti-Sharp Intense Golden Protector;40
+700;idate45;C0130445;Strong Intense Golden Protector;40
+701;idatf45;C0130545;Solid Intense Golden Protector;40
+702;idatg45;C0130645;Strength Intense Golden Protector;40
+703;idath45;C0130745;Protection Intense Golden Protector;40
+704;idati45;C0130845;Vampire Intense Golden Protector;40
+705;idatj45;C0130945;Guardian Intense Golden Protector;40
+706;idatk45;C0130A45;Sharp Intense Golden Protector;40
+707;idatl45;C0130B45;Grand Intense Golden Protector;40
+708;idata43;C0130043;Advanced Strength Intense Beam Round Protector;39
+709;idatb43;C0130143;Saving Intense Beam Round Protector;39
+710;idatc43;C0130243;Fine Intense Beam Round Protector;39
+711;idatd43;C0130343;Anti-Sharp Intense Beam Round Protector;39
+712;idate43;C0130443;Strong Intense Beam Round Protector;39
+713;idatf43;C0130543;Solid Intense Beam Round Protector;39
+714;idatg43;C0130643;Strength Intense Beam Round Protector;39
+715;idath43;C0130743;Protection Intense Beam Round Protector;39
+716;idati43;C0130843;Vampire Intense Beam Round Protector;39
+717;idatj43;C0130943;Guardian Intense Beam Round Protector;39
+718;idatk43;C0130A43;Sharp Intense Beam Round Protector;39
+719;idatl43;C0130B43;Grand Intense Beam Round Protector;39
+720;idata41;C0130041;Advanced Strength Intense Beam Cross Protector;38
+721;idatb41;C0130141;Saving Intense Beam Cross Protector;38
+722;idatc41;C0130241;Fine Intense Beam Cross Protector;38
+723;idatd41;C0130341;Anti-Sharp Intense Beam Cross Protector;38
+724;idate41;C0130441;Strong Intense Beam Cross Protector;38
+725;idatf41;C0130541;Solid Intense Beam Cross Protector;38
+726;idatg41;C0130641;Strength Intense Beam Cross Protector;38
+727;idath41;C0130741;Protection Intense Beam Cross Protector;38
+728;idati41;C0130841;Vampire Intense Beam Cross Protector;38
+729;idatj41;C0130941;Guardian Intense Beam Cross Protector;38
+730;idatk41;C0130A41;Sharp Intense Beam Cross Protector;38
+731;idatl41;C0130B41;Grand Intense Beam Cross Protector;38
+732;idata39;C0130039;Advanced Strength Intense Round Protector;37
+733;idatb39;C0130139;Saving Intense Round Protector;37
+734;idatc39;C0130239;Fine Intense Round Protector;37
+735;idatd39;C0130339;Anti-Sharp Intense Round Protector;37
+736;idate39;C0130439;Strong Intense Round Protector;37
+737;idatf39;C0130539;Solid Intense Round Protector;37
+738;idatg39;C0130639;Strength Intense Round Protector;37
+739;idath39;C0130739;Protection Intense Round Protector;37
+740;idati39;C0130839;Vampire Intense Round Protector;37
+741;idatj39;C0130939;Guardian Intense Round Protector;37
+742;idatk39;C0130A39;Sharp Intense Round Protector;37
+743;idatl39;C0130B39;Grand Intense Round Protector;37
+744;idbta50;C1130050;Advanced Strength Intense Hora Shield;21
+745;idbtb50;C1130150;Saving Intense Hora Shield;21
+746;idbtc50;C1130250;Fine Intense Hora Shield;21
+747;idbtd50;C1130350;Anti-Sharp Intense Hora Shield;21
+748;idbte50;C1130450;Strong Intense Hora Shield;21
+749;idbtf50;C1130550;Solid Intense Hora Shield;21
+750;idbtg50;C1130650;Strength Intense Hora Shield;21
+751;idbth50;C1130750;Protection Intense Hora Shield;21
+752;idbti50;C1130850;Vampire Intense Hora Shield;21
+753;idbtj50;C1130950;Guardian Intense Hora Shield;21
+754;idbtk50;C1130A50;Sharp Intense Hora Shield;21
+755;idbtl50;C1130B50;Grand Intense Hora Shield;21
+756;idbta47;C1130047;Advanced Strength Intense Heater Shield;20
+757;idbtb47;C1130147;Saving Intense Heater Shield;20
+758;idbtc47;C1130247;Fine Intense Heater Shield;20
+759;idbtd47;C1130347;Anti-Sharp Intense Heater Shield;20
+760;idbte47;C1130447;Strong Intense Heater Shield;20
+761;idbtf47;C1130547;Solid Intense Heater Shield;20
+762;idbtg47;C1130647;Strength Intense Heater Shield;20
+763;idbth47;C1130747;Protection Intense Heater Shield;20
+764;idbti47;C1130847;Vampire Intense Heater Shield;20
+765;idbtj47;C1130947;Guardian Intense Heater Shield;20
+766;idbtk47;C1130A47;Sharp Intense Heater Shield;20
+767;idbtl47;C1130B47;Grand Intense Heater Shield;20
+768;idbta45;C1130045;Advanced Strength Beam Farvis Shield;19
+769;idbtb45;C1130145;Saving Beam Farvis Shield;19
+770;idbtc45;C1130245;Fine Beam Farvis Shield;19
+771;idbtd45;C1130345;Anti-Sharp Beam Farvis Shield;19
+772;idbte45;C1130445;Strong Beam Farvis Shield;19
+773;idbtf45;C1130545;Solid Beam Farvis Shield;19
+774;idbtg45;C1130645;Strength Beam Farvis Shield;19
+775;idbth45;C1130745;Protection Beam Farvis Shield;19
+776;idbti45;C1130845;Vampire Beam Farvis Shield;19
+777;idbtj45;C1130945;Guardian Beam Farvis Shield;19
+778;idbtk45;C1130A45;Sharp Beam Farvis Shield;19
+779;idbtl45;C1130B45;Grand Beam Farvis Shield;19
+780;idbta43;C1130043;Advanced Strength Intense Adarga;18
+781;idbtb43;C1130143;Saving Intense Adarga;18
+782;idbtc43;C1130243;Fine Intense Adarga;18
+783;idbtd43;C1130343;Anti-Sharp Intense Adarga;18
+784;idbte43;C1130443;Strong Intense Adarga;18
+785;idbtf43;C1130543;Solid Intense Adarga;18
+786;idbtg43;C1130643;Strength Intense Adarga;18
+787;idbth43;C1130743;Protection Intense Adarga;18
+788;idbti43;C1130843;Vampire Intense Adarga;18
+789;idbtj43;C1130943;Guardian Intense Adarga;18
+790;idbtk43;C1130A43;Sharp Intense Adarga;18
+791;idbtl43;C1130B43;Grand Intense Adarga;18
+792;idbta41;C1130041;Advanced Strength Intense Farvis Shield;17
+793;idbtb41;C1130141;Saving Intense Farvis Shield;17
+794;idbtc41;C1130241;Fine Intense Farvis Shield;17
+795;idbtd41;C1130341;Anti-Sharp Intense Farvis Shield;17
+796;idbte41;C1130441;Strong Intense Farvis Shield;17
+797;idbtf41;C1130541;Solid Intense Farvis Shield;17
+798;idbtg41;C1130641;Strength Intense Farvis Shield;17
+799;idbth41;C1130741;Protection Intense Farvis Shield;17
+800;idbti41;C1130841;Vampire Intense Farvis Shield;17
+801;idbtj41;C1130941;Guardian Intense Farvis Shield;17
+802;idbtk41;C1130A41;Sharp Intense Farvis Shield;17
+803;idbtl41;C1130B41;Grand Intense Farvis Shield;17
+804;idbta39;C1130039;Advanced Strength Intense Gothic Shield;16
+805;idbtb39;C1130139;Saving Intense Gothic Shield;16
+806;idbtc39;C1130239;Fine Intense Gothic Shield;16
+807;idbtd39;C1130339;Anti-Sharp Intense Gothic Shield;16
+808;idbte39;C1130439;Strong Intense Gothic Shield;16
+809;idbtf39;C1130539;Solid Intense Gothic Shield;16
+810;idbtg39;C1130639;Strength Intense Gothic Shield;16
+811;idbth39;C1130739;Protection Intense Gothic Shield;16
+812;idbti39;C1130839;Vampire Intense Gothic Shield;16
+813;idbtj39;C1130939;Guardian Intense Gothic Shield;16
+814;idbtk39;C1130A39;Sharp Intense Gothic Shield;16
+815;idbtl39;C1130B39;Grand Intense Gothic Shield;16
+816;idaua50;C0140050;Advanced Strength Intense Platinum Protector;42
+817;idaub50;C0140150;Saving Intense Platinum Protector;42
+818;idauc50;C0140250;Fine Intense Platinum Protector;42
+819;idaud50;C0140350;Anti-Sharp Intense Platinum Protector;42
+820;idaue50;C0140450;Strong Intense Platinum Protector;42
+821;idauf50;C0140550;Solid Intense Platinum Protector;42
+822;idaug50;C0140650;Strength Intense Platinum Protector;42
+823;idauh50;C0140750;Protection Intense Platinum Protector;42
+824;idaui50;C0140850;Vampire Intense Platinum Protector;42
+825;idauj50;C0140950;Guardian Intense Platinum Protector;42
+826;idauk50;C0140A50;Sharp Intense Platinum Protector;42
+827;idaul50;C0140B50;Grand Intense Platinum Protector;42
+828;idaua47;C0140047;Advanced Strength Intense Thick Protector;41
+829;idaub47;C0140147;Saving Intense Thick Protector;41
+830;idauc47;C0140247;Fine Intense Thick Protector;41
+831;idaud47;C0140347;Anti-Sharp Intense Thick Protector;41
+832;idaue47;C0140447;Strong Intense Thick Protector;41
+833;idauf47;C0140547;Solid Intense Thick Protector;41
+834;idaug47;C0140647;Strength Intense Thick Protector;41
+835;idauh47;C0140747;Protection Intense Thick Protector;41
+836;idaui47;C0140847;Vampire Intense Thick Protector;41
+837;idauj47;C0140947;Guardian Intense Thick Protector;41
+838;idauk47;C0140A47;Sharp Intense Thick Protector;41
+839;idaul47;C0140B47;Grand Intense Thick Protector;41
+840;idaua45;C0140045;Advanced Strength Intense Golden Protector;40
+841;idaub45;C0140145;Saving Intense Golden Protector;40
+842;idauc45;C0140245;Fine Intense Golden Protector;40
+843;idaud45;C0140345;Anti-Sharp Intense Golden Protector;40
+844;idaue45;C0140445;Strong Intense Golden Protector;40
+845;idauf45;C0140545;Solid Intense Golden Protector;40
+846;idaug45;C0140645;Strength Intense Golden Protector;40
+847;idauh45;C0140745;Protection Intense Golden Protector;40
+848;idaui45;C0140845;Vampire Intense Golden Protector;40
+849;idauj45;C0140945;Guardian Intense Golden Protector;40
+850;idauk45;C0140A45;Sharp Intense Golden Protector;40
+851;idaul45;C0140B45;Grand Intense Golden Protector;40
+852;idaua43;C0140043;Advanced Strength Intense Beam Round Protector;39
+853;idaub43;C0140143;Saving Intense Beam Round Protector;39
+854;idauc43;C0140243;Fine Intense Beam Round Protector;39
+855;idaud43;C0140343;Anti-Sharp Intense Beam Round Protector;39
+856;idaue43;C0140443;Strong Intense Beam Round Protector;39
+857;idauf43;C0140543;Solid Intense Beam Round Protector;39
+858;idaug43;C0140643;Strength Intense Beam Round Protector;39
+859;idauh43;C0140743;Protection Intense Beam Round Protector;39
+860;idaui43;C0140843;Vampire Intense Beam Round Protector;39
+861;idauj43;C0140943;Guardian Intense Beam Round Protector;39
+862;idauk43;C0140A43;Sharp Intense Beam Round Protector;39
+863;idaul43;C0140B43;Grand Intense Beam Round Protector;39
+864;idaua41;C0140041;Advanced Strength Intense Beam Cross Protector;38
+865;idaub41;C0140141;Saving Intense Beam Cross Protector;38
+866;idauc41;C0140241;Fine Intense Beam Cross Protector;38
+867;idaud41;C0140341;Anti-Sharp Intense Beam Cross Protector;38
+868;idaue41;C0140441;Strong Intense Beam Cross Protector;38
+869;idauf41;C0140541;Solid Intense Beam Cross Protector;38
+870;idaug41;C0140641;Strength Intense Beam Cross Protector;38
+871;idauh41;C0140741;Protection Intense Beam Cross Protector;38
+872;idaui41;C0140841;Vampire Intense Beam Cross Protector;38
+873;idauj41;C0140941;Guardian Intense Beam Cross Protector;38
+874;idauk41;C0140A41;Sharp Intense Beam Cross Protector;38
+875;idaul41;C0140B41;Grand Intense Beam Cross Protector;38
+876;idaua39;C0140039;Advanced Strength Intense Round Protector;37
+877;idaub39;C0140139;Saving Intense Round Protector;37
+878;idauc39;C0140239;Fine Intense Round Protector;37
+879;idaud39;C0140339;Anti-Sharp Intense Round Protector;37
+880;idaue39;C0140439;Strong Intense Round Protector;37
+881;idauf39;C0140539;Solid Intense Round Protector;37
+882;idaug39;C0140639;Strength Intense Round Protector;37
+883;idauh39;C0140739;Protection Intense Round Protector;37
+884;idaui39;C0140839;Vampire Intense Round Protector;37
+885;idauj39;C0140939;Guardian Intense Round Protector;37
+886;idauk39;C0140A39;Sharp Intense Round Protector;37
+887;idaul39;C0140B39;Grand Intense Round Protector;37
+888;idbua50;C1140050;Advanced Strength Intense Hora Shield;21
+889;idbub50;C1140150;Saving Intense Hora Shield;21
+890;idbuc50;C1140250;Fine Intense Hora Shield;21
+891;idbud50;C1140350;Anti-Sharp Intense Hora Shield;21
+892;idbue50;C1140450;Strong Intense Hora Shield;21
+893;idbuf50;C1140550;Solid Intense Hora Shield;21
+894;idbug50;C1140650;Strength Intense Hora Shield;21
+895;idbuh50;C1140750;Protection Intense Hora Shield;21
+896;idbui50;C1140850;Vampire Intense Hora Shield;21
+897;idbuj50;C1140950;Guardian Intense Hora Shield;21
+898;idbuk50;C1140A50;Sharp Intense Hora Shield;21
+899;idbul50;C1140B50;Grand Intense Hora Shield;21
+900;idbua47;C1140047;Advanced Strength Intense Heater Shield;20
+901;idbub47;C1140147;Saving Intense Heater Shield;20
+902;idbuc47;C1140247;Fine Intense Heater Shield;20
+903;idbud47;C1140347;Anti-Sharp Intense Heater Shield;20
+904;idbue47;C1140447;Strong Intense Heater Shield;20
+905;idbuf47;C1140547;Solid Intense Heater Shield;20
+906;idbug47;C1140647;Strength Intense Heater Shield;20
+907;idbuh47;C1140747;Protection Intense Heater Shield;20
+908;idbui47;C1140847;Vampire Intense Heater Shield;20
+909;idbuj47;C1140947;Guardian Intense Heater Shield;20
+910;idbuk47;C1140A47;Sharp Intense Heater Shield;20
+911;idbul47;C1140B47;Grand Intense Heater Shield;20
+912;idbua45;C1140045;Advanced Strength Beam Farvis Shield;19
+913;idbub45;C1140145;Saving Beam Farvis Shield;19
+914;idbuc45;C1140245;Fine Beam Farvis Shield;19
+915;idbud45;C1140345;Anti-Sharp Beam Farvis Shield;19
+916;idbue45;C1140445;Strong Beam Farvis Shield;19
+917;idbuf45;C1140545;Solid Beam Farvis Shield;19
+918;idbug45;C1140645;Strength Beam Farvis Shield;19
+919;idbuh45;C1140745;Protection Beam Farvis Shield;19
+920;idbui45;C1140845;Vampire Beam Farvis Shield;19
+921;idbuj45;C1140945;Guardian Beam Farvis Shield;19
+922;idbuk45;C1140A45;Sharp Beam Farvis Shield;19
+923;idbul45;C1140B45;Grand Beam Farvis Shield;19
+924;idbua43;C1140043;Advanced Strength Intense Adarga;18
+925;idbub43;C1140143;Saving Intense Adarga;18
+926;idbuc43;C1140243;Fine Intense Adarga;18
+927;idbud43;C1140343;Anti-Sharp Intense Adarga;18
+928;idbue43;C1140443;Strong Intense Adarga;18
+929;idbuf43;C1140543;Solid Intense Adarga;18
+930;idbug43;C1140643;Strength Intense Adarga;18
+931;idbuh43;C1140743;Protection Intense Adarga;18
+932;idbui43;C1140843;Vampire Intense Adarga;18
+933;idbuj43;C1140943;Guardian Intense Adarga;18
+934;idbuk43;C1140A43;Sharp Intense Adarga;18
+935;idbul43;C1140B43;Grand Intense Adarga;18
+936;idbua41;C1140041;Advanced Strength Intense Farvis Shield;17
+937;idbub41;C1140141;Saving Intense Farvis Shield;17
+938;idbuc41;C1140241;Fine Intense Farvis Shield;17
+939;idbud41;C1140341;Anti-Sharp Intense Farvis Shield;17
+940;idbue41;C1140441;Strong Intense Farvis Shield;17
+941;idbuf41;C1140541;Solid Intense Farvis Shield;17
+942;idbug41;C1140641;Strength Intense Farvis Shield;17
+943;idbuh41;C1140741;Protection Intense Farvis Shield;17
+944;idbui41;C1140841;Vampire Intense Farvis Shield;17
+945;idbuj41;C1140941;Guardian Intense Farvis Shield;17
+946;idbuk41;C1140A41;Sharp Intense Farvis Shield;17
+947;idbul41;C1140B41;Grand Intense Farvis Shield;17
+948;idbua39;C1140039;Advanced Strength Intense Gothic Shield;16
+949;idbub39;C1140139;Saving Intense Gothic Shield;16
+950;idbuc39;C1140239;Fine Intense Gothic Shield;16
+951;idbud39;C1140339;Anti-Sharp Intense Gothic Shield;16
+952;idbue39;C1140439;Strong Intense Gothic Shield;16
+953;idbuf39;C1140539;Solid Intense Gothic Shield;16
+954;idbug39;C1140639;Strength Intense Gothic Shield;16
+955;idbuh39;C1140739;Protection Intense Gothic Shield;16
+956;idbui39;C1140839;Vampire Intense Gothic Shield;16
+957;idbuj39;C1140939;Guardian Intense Gothic Shield;16
+958;idbuk39;C1140A39;Sharp Intense Gothic Shield;16
+959;idbul39;C1140B39;Grand Intense Gothic Shield;16
+960;idava50;C0150050;Advanced Strength Intense Platinum Protector;42
+961;idavb50;C0150150;Saving Intense Platinum Protector;42
+962;idavc50;C0150250;Fine Intense Platinum Protector;42
+963;idavd50;C0150350;Anti-Sharp Intense Platinum Protector;42
+964;idave50;C0150450;Strong Intense Platinum Protector;42
+965;idavf50;C0150550;Solid Intense Platinum Protector;42
+966;idavg50;C0150650;Strength Intense Platinum Protector;42
+967;idavh50;C0150750;Protection Intense Platinum Protector;42
+968;idavi50;C0150850;Vampire Intense Platinum Protector;42
+969;idavj50;C0150950;Guardian Intense Platinum Protector;42
+970;idavk50;C0150A50;Sharp Intense Platinum Protector;42
+971;idavl50;C0150B50;Grand Intense Platinum Protector;42
+972;idava47;C0150047;Advanced Strength Intense Thick Protector;41
+973;idavb47;C0150147;Saving Intense Thick Protector;41
+974;idavc47;C0150247;Fine Intense Thick Protector;41
+975;idavd47;C0150347;Anti-Sharp Intense Thick Protector;41
+976;idave47;C0150447;Strong Intense Thick Protector;41
+977;idavf47;C0150547;Solid Intense Thick Protector;41
+978;idavg47;C0150647;Strength Intense Thick Protector;41
+979;idavh47;C0150747;Protection Intense Thick Protector;41
+980;idavi47;C0150847;Vampire Intense Thick Protector;41
+981;idavj47;C0150947;Guardian Intense Thick Protector;41
+982;idavk47;C0150A47;Sharp Intense Thick Protector;41
+983;idavl47;C0150B47;Grand Intense Thick Protector;41
+984;idava45;C0150045;Advanced Strength Intense Golden Protector;40
+985;idavb45;C0150145;Saving Intense Golden Protector;40
+986;idavc45;C0150245;Fine Intense Golden Protector;40
+987;idavd45;C0150345;Anti-Sharp Intense Golden Protector;40
+988;idave45;C0150445;Strong Intense Golden Protector;40
+989;idavf45;C0150545;Solid Intense Golden Protector;40
+990;idavg45;C0150645;Strength Intense Golden Protector;40
+991;idavh45;C0150745;Protection Intense Golden Protector;40
+992;idavi45;C0150845;Vampire Intense Golden Protector;40
+993;idavj45;C0150945;Guardian Intense Golden Protector;40
+994;idavk45;C0150A45;Sharp Intense Golden Protector;40
+995;idavl45;C0150B45;Grand Intense Golden Protector;40
+996;idava43;C0150043;Advanced Strength Intense Beam Round Protector;39
+997;idavb43;C0150143;Saving Intense Beam Round Protector;39
+998;idavc43;C0150243;Fine Intense Beam Round Protector;39
+999;idavd43;C0150343;Anti-Sharp Intense Beam Round Protector;39
+1000;idave43;C0150443;Strong Intense Beam Round Protector;39
+1001;idavf43;C0150543;Solid Intense Beam Round Protector;39
+1002;idavg43;C0150643;Strength Intense Beam Round Protector;39
+1003;idavh43;C0150743;Protection Intense Beam Round Protector;39
+1004;idavi43;C0150843;Vampire Intense Beam Round Protector;39
+1005;idavj43;C0150943;Guardian Intense Beam Round Protector;39
+1006;idavk43;C0150A43;Sharp Intense Beam Round Protector;39
+1007;idavl43;C0150B43;Grand Intense Beam Round Protector;39
+1008;idava41;C0150041;Advanced Strength Intense Beam Cross Protector;38
+1009;idavb41;C0150141;Saving Intense Beam Cross Protector;38
+1010;idavc41;C0150241;Fine Intense Beam Cross Protector;38
+1011;idavd41;C0150341;Anti-Sharp Intense Beam Cross Protector;38
+1012;idave41;C0150441;Strong Intense Beam Cross Protector;38
+1013;idavf41;C0150541;Solid Intense Beam Cross Protector;38
+1014;idavg41;C0150641;Strength Intense Beam Cross Protector;38
+1015;idavh41;C0150741;Protection Intense Beam Cross Protector;38
+1016;idavi41;C0150841;Vampire Intense Beam Cross Protector;38
+1017;idavj41;C0150941;Guardian Intense Beam Cross Protector;38
+1018;idavk41;C0150A41;Sharp Intense Beam Cross Protector;38
+1019;idavl41;C0150B41;Grand Intense Beam Cross Protector;38
+1020;idava39;C0150039;Advanced Strength Intense Round Protector;37
+1021;idavb39;C0150139;Saving Intense Round Protector;37
+1022;idavc39;C0150239;Fine Intense Round Protector;37
+1023;idavd39;C0150339;Anti-Sharp Intense Round Protector;37
+1024;idave39;C0150439;Strong Intense Round Protector;37
+1025;idavf39;C0150539;Solid Intense Round Protector;37
+1026;idavg39;C0150639;Strength Intense Round Protector;37
+1027;idavh39;C0150739;Protection Intense Round Protector;37
+1028;idavi39;C0150839;Vampire Intense Round Protector;37
+1029;idavj39;C0150939;Guardian Intense Round Protector;37
+1030;idavk39;C0150A39;Sharp Intense Round Protector;37
+1031;idavl39;C0150B39;Grand Intense Round Protector;37
+1032;idbva50;C1150050;Advanced Strength Intense Hora Shield;21
+1033;idbvb50;C1150150;Saving Intense Hora Shield;21
+1034;idbvc50;C1150250;Fine Intense Hora Shield;21
+1035;idbvd50;C1150350;Anti-Sharp Intense Hora Shield;21
+1036;idbve50;C1150450;Strong Intense Hora Shield;21
+1037;idbvf50;C1150550;Solid Intense Hora Shield;21
+1038;idbvg50;C1150650;Strength Intense Hora Shield;21
+1039;idbvh50;C1150750;Protection Intense Hora Shield;21
+1040;idbvi50;C1150850;Vampire Intense Hora Shield;21
+1041;idbvj50;C1150950;Guardian Intense Hora Shield;21
+1042;idbvk50;C1150A50;Sharp Intense Hora Shield;21
+1043;idbvl50;C1150B50;Grand Intense Hora Shield;21
+1044;idbva47;C1150047;Advanced Strength Intense Heater Shield;20
+1045;idbvb47;C1150147;Saving Intense Heater Shield;20
+1046;idbvc47;C1150247;Fine Intense Heater Shield;20
+1047;idbvd47;C1150347;Anti-Sharp Intense Heater Shield;20
+1048;idbve47;C1150447;Strong Intense Heater Shield;20
+1049;idbvf47;C1150547;Solid Intense Heater Shield;20
+1050;idbvg47;C1150647;Strength Intense Heater Shield;20
+1051;idbvh47;C1150747;Protection Intense Heater Shield;20
+1052;idbvi47;C1150847;Vampire Intense Heater Shield;20
+1053;idbvj47;C1150947;Guardian Intense Heater Shield;20
+1054;idbvk47;C1150A47;Sharp Intense Heater Shield;20
+1055;idbvl47;C1150B47;Grand Intense Heater Shield;20
+1056;idbva45;C1150045;Advanced Strength Beam Farvis Shield;19
+1057;idbvb45;C1150145;Saving Beam Farvis Shield;19
+1058;idbvc45;C1150245;Fine Beam Farvis Shield;19
+1059;idbvd45;C1150345;Anti-Sharp Beam Farvis Shield;19
+1060;idbve45;C1150445;Strong Beam Farvis Shield;19
+1061;idbvf45;C1150545;Solid Beam Farvis Shield;19
+1062;idbvg45;C1150645;Strength Beam Farvis Shield;19
+1063;idbvh45;C1150745;Protection Beam Farvis Shield;19
+1064;idbvi45;C1150845;Vampire Beam Farvis Shield;19
+1065;idbvj45;C1150945;Guardian Beam Farvis Shield;19
+1066;idbvk45;C1150A45;Sharp Beam Farvis Shield;19
+1067;idbvl45;C1150B45;Grand Beam Farvis Shield;19
+1068;idbva43;C1150043;Advanced Strength Intense Adarga;18
+1069;idbvb43;C1150143;Saving Intense Adarga;18
+1070;idbvc43;C1150243;Fine Intense Adarga;18
+1071;idbvd43;C1150343;Anti-Sharp Intense Adarga;18
+1072;idbve43;C1150443;Strong Intense Adarga;18
+1073;idbvf43;C1150543;Solid Intense Adarga;18
+1074;idbvg43;C1150643;Strength Intense Adarga;18
+1075;idbvh43;C1150743;Protection Intense Adarga;18
+1076;idbvi43;C1150843;Vampire Intense Adarga;18
+1077;idbvj43;C1150943;Guardian Intense Adarga;18
+1078;idbvk43;C1150A43;Sharp Intense Adarga;18
+1079;idbvl43;C1150B43;Grand Intense Adarga;18
+1080;idbva41;C1150041;Advanced Strength Intense Farvis Shield;17
+1081;idbvb41;C1150141;Saving Intense Farvis Shield;17
+1082;idbvc41;C1150241;Fine Intense Farvis Shield;17
+1083;idbvd41;C1150341;Anti-Sharp Intense Farvis Shield;17
+1084;idbve41;C1150441;Strong Intense Farvis Shield;17
+1085;idbvf41;C1150541;Solid Intense Farvis Shield;17
+1086;idbvg41;C1150641;Strength Intense Farvis Shield;17
+1087;idbvh41;C1150741;Protection Intense Farvis Shield;17
+1088;idbvi41;C1150841;Vampire Intense Farvis Shield;17
+1089;idbvj41;C1150941;Guardian Intense Farvis Shield;17
+1090;idbvk41;C1150A41;Sharp Intense Farvis Shield;17
+1091;idbvl41;C1150B41;Grand Intense Farvis Shield;17
+1092;idbva39;C1150039;Advanced Strength Intense Gothic Shield;16
+1093;idbvb39;C1150139;Saving Intense Gothic Shield;16
+1094;idbvc39;C1150239;Fine Intense Gothic Shield;16
+1095;idbvd39;C1150339;Anti-Sharp Intense Gothic Shield;16
+1096;idbve39;C1150439;Strong Intense Gothic Shield;16
+1097;idbvf39;C1150539;Solid Intense Gothic Shield;16
+1098;idbvg39;C1150639;Strength Intense Gothic Shield;16
+1099;idbvh39;C1150739;Protection Intense Gothic Shield;16
+1100;idbvi39;C1150839;Vampire Intense Gothic Shield;16
+1101;idbvj39;C1150939;Guardian Intense Gothic Shield;16
+1102;idbvk39;C1150A39;Sharp Intense Gothic Shield;16
+1103;idbvl39;C1150B39;Grand Intense Gothic Shield;16
+1104;idawa50;C0160050;Advanced Strength Intense Platinum Protector;42
+1105;idawb50;C0160150;Saving Intense Platinum Protector;42
+1106;idawc50;C0160250;Fine Intense Platinum Protector;42
+1107;idawd50;C0160350;Anti-Sharp Intense Platinum Protector;42
+1108;idawe50;C0160450;Strong Intense Platinum Protector;42
+1109;idawf50;C0160550;Solid Intense Platinum Protector;42
+1110;idawg50;C0160650;Strength Intense Platinum Protector;42
+1111;idawh50;C0160750;Protection Intense Platinum Protector;42
+1112;idawi50;C0160850;Vampire Intense Platinum Protector;42
+1113;idawj50;C0160950;Guardian Intense Platinum Protector;42
+1114;idawk50;C0160A50;Sharp Intense Platinum Protector;42
+1115;idawl50;C0160B50;Grand Intense Platinum Protector;42
+1116;idawa47;C0160047;Advanced Strength Intense Thick Protector;41
+1117;idawb47;C0160147;Saving Intense Thick Protector;41
+1118;idawc47;C0160247;Fine Intense Thick Protector;41
+1119;idawd47;C0160347;Anti-Sharp Intense Thick Protector;41
+1120;idawe47;C0160447;Strong Intense Thick Protector;41
+1121;idawf47;C0160547;Solid Intense Thick Protector;41
+1122;idawg47;C0160647;Strength Intense Thick Protector;41
+1123;idawh47;C0160747;Protection Intense Thick Protector;41
+1124;idawi47;C0160847;Vampire Intense Thick Protector;41
+1125;idawj47;C0160947;Guardian Intense Thick Protector;41
+1126;idawk47;C0160A47;Sharp Intense Thick Protector;41
+1127;idawl47;C0160B47;Grand Intense Thick Protector;41
+1128;idawa45;C0160045;Advanced Strength Intense Golden Protector;40
+1129;idawb45;C0160145;Saving Intense Golden Protector;40
+1130;idawc45;C0160245;Fine Intense Golden Protector;40
+1131;idawd45;C0160345;Anti-Sharp Intense Golden Protector;40
+1132;idawe45;C0160445;Strong Intense Golden Protector;40
+1133;idawf45;C0160545;Solid Intense Golden Protector;40
+1134;idawg45;C0160645;Strength Intense Golden Protector;40
+1135;idawh45;C0160745;Protection Intense Golden Protector;40
+1136;idawi45;C0160845;Vampire Intense Golden Protector;40
+1137;idawj45;C0160945;Guardian Intense Golden Protector;40
+1138;idawk45;C0160A45;Sharp Intense Golden Protector;40
+1139;idawl45;C0160B45;Grand Intense Golden Protector;40
+1140;idawa43;C0160043;Advanced Strength Intense Beam Round Protector;39
+1141;idawb43;C0160143;Saving Intense Beam Round Protector;39
+1142;idawc43;C0160243;Fine Intense Beam Round Protector;39
+1143;idawd43;C0160343;Anti-Sharp Intense Beam Round Protector;39
+1144;idawe43;C0160443;Strong Intense Beam Round Protector;39
+1145;idawf43;C0160543;Solid Intense Beam Round Protector;39
+1146;idawg43;C0160643;Strength Intense Beam Round Protector;39
+1147;idawh43;C0160743;Protection Intense Beam Round Protector;39
+1148;idawi43;C0160843;Vampire Intense Beam Round Protector;39
+1149;idawj43;C0160943;Guardian Intense Beam Round Protector;39
+1150;idawk43;C0160A43;Sharp Intense Beam Round Protector;39
+1151;idawl43;C0160B43;Grand Intense Beam Round Protector;39
+1152;idawa41;C0160041;Advanced Strength Intense Beam Cross Protector;38
+1153;idawb41;C0160141;Saving Intense Beam Cross Protector;38
+1154;idawc41;C0160241;Fine Intense Beam Cross Protector;38
+1155;idawd41;C0160341;Anti-Sharp Intense Beam Cross Protector;38
+1156;idawe41;C0160441;Strong Intense Beam Cross Protector;38
+1157;idawf41;C0160541;Solid Intense Beam Cross Protector;38
+1158;idawg41;C0160641;Strength Intense Beam Cross Protector;38
+1159;idawh41;C0160741;Protection Intense Beam Cross Protector;38
+1160;idawi41;C0160841;Vampire Intense Beam Cross Protector;38
+1161;idawj41;C0160941;Guardian Intense Beam Cross Protector;38
+1162;idawk41;C0160A41;Sharp Intense Beam Cross Protector;38
+1163;idawl41;C0160B41;Grand Intense Beam Cross Protector;38
+1164;idawa39;C0160039;Advanced Strength Intense Round Protector;37
+1165;idawb39;C0160139;Saving Intense Round Protector;37
+1166;idawc39;C0160239;Fine Intense Round Protector;37
+1167;idawd39;C0160339;Anti-Sharp Intense Round Protector;37
+1168;idawe39;C0160439;Strong Intense Round Protector;37
+1169;idawf39;C0160539;Solid Intense Round Protector;37
+1170;idawg39;C0160639;Strength Intense Round Protector;37
+1171;idawh39;C0160739;Protection Intense Round Protector;37
+1172;idawi39;C0160839;Vampire Intense Round Protector;37
+1173;idawj39;C0160939;Guardian Intense Round Protector;37
+1174;idawk39;C0160A39;Sharp Intense Round Protector;37
+1175;idawl39;C0160B39;Grand Intense Round Protector;37
+1176;idbwa50;C1160050;Advanced Strength Intense Hora Shield;21
+1177;idbwb50;C1160150;Saving Intense Hora Shield;21
+1178;idbwc50;C1160250;Fine Intense Hora Shield;21
+1179;idbwd50;C1160350;Anti-Sharp Intense Hora Shield;21
+1180;idbwe50;C1160450;Strong Intense Hora Shield;21
+1181;idbwf50;C1160550;Solid Intense Hora Shield;21
+1182;idbwg50;C1160650;Strength Intense Hora Shield;21
+1183;idbwh50;C1160750;Protection Intense Hora Shield;21
+1184;idbwi50;C1160850;Vampire Intense Hora Shield;21
+1185;idbwj50;C1160950;Guardian Intense Hora Shield;21
+1186;idbwk50;C1160A50;Sharp Intense Hora Shield;21
+1187;idbwl50;C1160B50;Grand Intense Hora Shield;21
+1188;idbwa47;C1160047;Advanced Strength Intense Heater Shield;20
+1189;idbwb47;C1160147;Saving Intense Heater Shield;20
+1190;idbwc47;C1160247;Fine Intense Heater Shield;20
+1191;idbwd47;C1160347;Anti-Sharp Intense Heater Shield;20
+1192;idbwe47;C1160447;Strong Intense Heater Shield;20
+1193;idbwf47;C1160547;Solid Intense Heater Shield;20
+1194;idbwg47;C1160647;Strength Intense Heater Shield;20
+1195;idbwh47;C1160747;Protection Intense Heater Shield;20
+1196;idbwi47;C1160847;Vampire Intense Heater Shield;20
+1197;idbwj47;C1160947;Guardian Intense Heater Shield;20
+1198;idbwk47;C1160A47;Sharp Intense Heater Shield;20
+1199;idbwl47;C1160B47;Grand Intense Heater Shield;20
+1200;idbwa45;C1160045;Advanced Strength Beam Farvis Shield;19
+1201;idbwb45;C1160145;Saving Beam Farvis Shield;19
+1202;idbwc45;C1160245;Fine Beam Farvis Shield;19
+1203;idbwd45;C1160345;Anti-Sharp Beam Farvis Shield;19
+1204;idbwe45;C1160445;Strong Beam Farvis Shield;19
+1205;idbwf45;C1160545;Solid Beam Farvis Shield;19
+1206;idbwg45;C1160645;Strength Beam Farvis Shield;19
+1207;idbwh45;C1160745;Protection Beam Farvis Shield;19
+1208;idbwi45;C1160845;Vampire Beam Farvis Shield;19
+1209;idbwj45;C1160945;Guardian Beam Farvis Shield;19
+1210;idbwk45;C1160A45;Sharp Beam Farvis Shield;19
+1211;idbwl45;C1160B45;Grand Beam Farvis Shield;19
+1212;idbwa43;C1160043;Advanced Strength Intense Adarga;18
+1213;idbwb43;C1160143;Saving Intense Adarga;18
+1214;idbwc43;C1160243;Fine Intense Adarga;18
+1215;idbwd43;C1160343;Anti-Sharp Intense Adarga;18
+1216;idbwe43;C1160443;Strong Intense Adarga;18
+1217;idbwf43;C1160543;Solid Intense Adarga;18
+1218;idbwg43;C1160643;Strength Intense Adarga;18
+1219;idbwh43;C1160743;Protection Intense Adarga;18
+1220;idbwi43;C1160843;Vampire Intense Adarga;18
+1221;idbwj43;C1160943;Guardian Intense Adarga;18
+1222;idbwk43;C1160A43;Sharp Intense Adarga;18
+1223;idbwl43;C1160B43;Grand Intense Adarga;18
+1224;idbwa41;C1160041;Advanced Strength Intense Farvis Shield;17
+1225;idbwb41;C1160141;Saving Intense Farvis Shield;17
+1226;idbwc41;C1160241;Fine Intense Farvis Shield;17
+1227;idbwd41;C1160341;Anti-Sharp Intense Farvis Shield;17
+1228;idbwe41;C1160441;Strong Intense Farvis Shield;17
+1229;idbwf41;C1160541;Solid Intense Farvis Shield;17
+1230;idbwg41;C1160641;Strength Intense Farvis Shield;17
+1231;idbwh41;C1160741;Protection Intense Farvis Shield;17
+1232;idbwi41;C1160841;Vampire Intense Farvis Shield;17
+1233;idbwj41;C1160941;Guardian Intense Farvis Shield;17
+1234;idbwk41;C1160A41;Sharp Intense Farvis Shield;17
+1235;idbwl41;C1160B41;Grand Intense Farvis Shield;17
+1236;idbwa39;C1160039;Advanced Strength Intense Gothic Shield;16
+1237;idbwb39;C1160139;Saving Intense Gothic Shield;16
+1238;idbwc39;C1160239;Fine Intense Gothic Shield;16
+1239;idbwd39;C1160339;Anti-Sharp Intense Gothic Shield;16
+1240;idbwe39;C1160439;Strong Intense Gothic Shield;16
+1241;idbwf39;C1160539;Solid Intense Gothic Shield;16
+1242;idbwg39;C1160639;Strength Intense Gothic Shield;16
+1243;idbwh39;C1160739;Protection Intense Gothic Shield;16
+1244;idbwi39;C1160839;Vampire Intense Gothic Shield;16
+1245;idbwj39;C1160939;Guardian Intense Gothic Shield;16
+1246;idbwk39;C1160A39;Sharp Intense Gothic Shield;16
+1247;idbwl39;C1160B39;Grand Intense Gothic Shield;16
+1248;idaxa50;C0170050;Advanced Strength Intense Platinum Protector;42
+1249;idaxb50;C0170150;Saving Intense Platinum Protector;42
+1250;idaxc50;C0170250;Fine Intense Platinum Protector;42
+1251;idaxd50;C0170350;Anti-Sharp Intense Platinum Protector;42
+1252;idaxe50;C0170450;Strong Intense Platinum Protector;42
+1253;idaxf50;C0170550;Solid Intense Platinum Protector;42
+1254;idaxg50;C0170650;Strength Intense Platinum Protector;42
+1255;idaxh50;C0170750;Protection Intense Platinum Protector;42
+1256;idaxi50;C0170850;Vampire Intense Platinum Protector;42
+1257;idaxj50;C0170950;Guardian Intense Platinum Protector;42
+1258;idaxk50;C0170A50;Sharp Intense Platinum Protector;42
+1259;idaxl50;C0170B50;Grand Intense Platinum Protector;42
+1260;idaxa47;C0170047;Advanced Strength Intense Thick Protector;41
+1261;idaxb47;C0170147;Saving Intense Thick Protector;41
+1262;idaxc47;C0170247;Fine Intense Thick Protector;41
+1263;idaxd47;C0170347;Anti-Sharp Intense Thick Protector;41
+1264;idaxe47;C0170447;Strong Intense Thick Protector;41
+1265;idaxf47;C0170547;Solid Intense Thick Protector;41
+1266;idaxg47;C0170647;Strength Intense Thick Protector;41
+1267;idaxh47;C0170747;Protection Intense Thick Protector;41
+1268;idaxi47;C0170847;Vampire Intense Thick Protector;41
+1269;idaxj47;C0170947;Guardian Intense Thick Protector;41
+1270;idaxk47;C0170A47;Sharp Intense Thick Protector;41
+1271;idaxl47;C0170B47;Grand Intense Thick Protector;41
+1272;idaxa45;C0170045;Advanced Strength Intense Golden Protector;40
+1273;idaxb45;C0170145;Saving Intense Golden Protector;40
+1274;idaxc45;C0170245;Fine Intense Golden Protector;40
+1275;idaxd45;C0170345;Anti-Sharp Intense Golden Protector;40
+1276;idaxe45;C0170445;Strong Intense Golden Protector;40
+1277;idaxf45;C0170545;Solid Intense Golden Protector;40
+1278;idaxg45;C0170645;Strength Intense Golden Protector;40
+1279;idaxh45;C0170745;Protection Intense Golden Protector;40
+1280;idaxi45;C0170845;Vampire Intense Golden Protector;40
+1281;idaxj45;C0170945;Guardian Intense Golden Protector;40
+1282;idaxk45;C0170A45;Sharp Intense Golden Protector;40
+1283;idaxl45;C0170B45;Grand Intense Golden Protector;40
+1284;idaxa43;C0170043;Advanced Strength Intense Beam Round Protector;39
+1285;idaxb43;C0170143;Saving Intense Beam Round Protector;39
+1286;idaxc43;C0170243;Fine Intense Beam Round Protector;39
+1287;idaxd43;C0170343;Anti-Sharp Intense Beam Round Protector;39
+1288;idaxe43;C0170443;Strong Intense Beam Round Protector;39
+1289;idaxf43;C0170543;Solid Intense Beam Round Protector;39
+1290;idaxg43;C0170643;Strength Intense Beam Round Protector;39
+1291;idaxh43;C0170743;Protection Intense Beam Round Protector;39
+1292;idaxi43;C0170843;Vampire Intense Beam Round Protector;39
+1293;idaxj43;C0170943;Guardian Intense Beam Round Protector;39
+1294;idaxk43;C0170A43;Sharp Intense Beam Round Protector;39
+1295;idaxl43;C0170B43;Grand Intense Beam Round Protector;39
+1296;idaxa41;C0170041;Advanced Strength Intense Beam Cross Protector;38
+1297;idaxb41;C0170141;Saving Intense Beam Cross Protector;38
+1298;idaxc41;C0170241;Fine Intense Beam Cross Protector;38
+1299;idaxd41;C0170341;Anti-Sharp Intense Beam Cross Protector;38
+1300;idaxe41;C0170441;Strong Intense Beam Cross Protector;38
+1301;idaxf41;C0170541;Solid Intense Beam Cross Protector;38
+1302;idaxg41;C0170641;Strength Intense Beam Cross Protector;38
+1303;idaxh41;C0170741;Protection Intense Beam Cross Protector;38
+1304;idaxi41;C0170841;Vampire Intense Beam Cross Protector;38
+1305;idaxj41;C0170941;Guardian Intense Beam Cross Protector;38
+1306;idaxk41;C0170A41;Sharp Intense Beam Cross Protector;38
+1307;idaxl41;C0170B41;Grand Intense Beam Cross Protector;38
+1308;idaxa39;C0170039;Advanced Strength Intense Round Protector;37
+1309;idaxb39;C0170139;Saving Intense Round Protector;37
+1310;idaxc39;C0170239;Fine Intense Round Protector;37
+1311;idaxd39;C0170339;Anti-Sharp Intense Round Protector;37
+1312;idaxe39;C0170439;Strong Intense Round Protector;37
+1313;idaxf39;C0170539;Solid Intense Round Protector;37
+1314;idaxg39;C0170639;Strength Intense Round Protector;37
+1315;idaxh39;C0170739;Protection Intense Round Protector;37
+1316;idaxi39;C0170839;Vampire Intense Round Protector;37
+1317;idaxj39;C0170939;Guardian Intense Round Protector;37
+1318;idaxk39;C0170A39;Sharp Intense Round Protector;37
+1319;idaxl39;C0170B39;Grand Intense Round Protector;37
+1320;idbxa50;C1170050;Advanced Strength Intense Hora Shield;21
+1321;idbxb50;C1170150;Saving Intense Hora Shield;21
+1322;idbxc50;C1170250;Fine Intense Hora Shield;21
+1323;idbxd50;C1170350;Anti-Sharp Intense Hora Shield;21
+1324;idbxe50;C1170450;Strong Intense Hora Shield;21
+1325;idbxf50;C1170550;Solid Intense Hora Shield;21
+1326;idbxg50;C1170650;Strength Intense Hora Shield;21
+1327;idbxh50;C1170750;Protection Intense Hora Shield;21
+1328;idbxi50;C1170850;Vampire Intense Hora Shield;21
+1329;idbxj50;C1170950;Guardian Intense Hora Shield;21
+1330;idbxk50;C1170A50;Sharp Intense Hora Shield;21
+1331;idbxl50;C1170B50;Grand Intense Hora Shield;21
+1332;idbxa47;C1170047;Advanced Strength Intense Heater Shield;20
+1333;idbxb47;C1170147;Saving Intense Heater Shield;20
+1334;idbxc47;C1170247;Fine Intense Heater Shield;20
+1335;idbxd47;C1170347;Anti-Sharp Intense Heater Shield;20
+1336;idbxe47;C1170447;Strong Intense Heater Shield;20
+1337;idbxf47;C1170547;Solid Intense Heater Shield;20
+1338;idbxg47;C1170647;Strength Intense Heater Shield;20
+1339;idbxh47;C1170747;Protection Intense Heater Shield;20
+1340;idbxi47;C1170847;Vampire Intense Heater Shield;20
+1341;idbxj47;C1170947;Guardian Intense Heater Shield;20
+1342;idbxk47;C1170A47;Sharp Intense Heater Shield;20
+1343;idbxl47;C1170B47;Grand Intense Heater Shield;20
+1344;idbxa45;C1170045;Advanced Strength Beam Farvis Shield;19
+1345;idbxb45;C1170145;Saving Beam Farvis Shield;19
+1346;idbxc45;C1170245;Fine Beam Farvis Shield;19
+1347;idbxd45;C1170345;Anti-Sharp Beam Farvis Shield;19
+1348;idbxe45;C1170445;Strong Beam Farvis Shield;19
+1349;idbxf45;C1170545;Solid Beam Farvis Shield;19
+1350;idbxg45;C1170645;Strength Beam Farvis Shield;19
+1351;idbxh45;C1170745;Protection Beam Farvis Shield;19
+1352;idbxi45;C1170845;Vampire Beam Farvis Shield;19
+1353;idbxj45;C1170945;Guardian Beam Farvis Shield;19
+1354;idbxk45;C1170A45;Sharp Beam Farvis Shield;19
+1355;idbxl45;C1170B45;Grand Beam Farvis Shield;19
+1356;idbxa43;C1170043;Advanced Strength Intense Adarga;18
+1357;idbxb43;C1170143;Saving Intense Adarga;18
+1358;idbxc43;C1170243;Fine Intense Adarga;18
+1359;idbxd43;C1170343;Anti-Sharp Intense Adarga;18
+1360;idbxe43;C1170443;Strong Intense Adarga;18
+1361;idbxf43;C1170543;Solid Intense Adarga;18
+1362;idbxg43;C1170643;Strength Intense Adarga;18
+1363;idbxh43;C1170743;Protection Intense Adarga;18
+1364;idbxi43;C1170843;Vampire Intense Adarga;18
+1365;idbxj43;C1170943;Guardian Intense Adarga;18
+1366;idbxk43;C1170A43;Sharp Intense Adarga;18
+1367;idbxl43;C1170B43;Grand Intense Adarga;18
+1368;idbxa41;C1170041;Advanced Strength Intense Farvis Shield;17
+1369;idbxb41;C1170141;Saving Intense Farvis Shield;17
+1370;idbxc41;C1170241;Fine Intense Farvis Shield;17
+1371;idbxd41;C1170341;Anti-Sharp Intense Farvis Shield;17
+1372;idbxe41;C1170441;Strong Intense Farvis Shield;17
+1373;idbxf41;C1170541;Solid Intense Farvis Shield;17
+1374;idbxg41;C1170641;Strength Intense Farvis Shield;17
+1375;idbxh41;C1170741;Protection Intense Farvis Shield;17
+1376;idbxi41;C1170841;Vampire Intense Farvis Shield;17
+1377;idbxj41;C1170941;Guardian Intense Farvis Shield;17
+1378;idbxk41;C1170A41;Sharp Intense Farvis Shield;17
+1379;idbxl41;C1170B41;Grand Intense Farvis Shield;17
+1380;idbxa39;C1170039;Advanced Strength Intense Gothic Shield;16
+1381;idbxb39;C1170139;Saving Intense Gothic Shield;16
+1382;idbxc39;C1170239;Fine Intense Gothic Shield;16
+1383;idbxd39;C1170339;Anti-Sharp Intense Gothic Shield;16
+1384;idbxe39;C1170439;Strong Intense Gothic Shield;16
+1385;idbxf39;C1170539;Solid Intense Gothic Shield;16
+1386;idbxg39;C1170639;Strength Intense Gothic Shield;16
+1387;idbxh39;C1170739;Protection Intense Gothic Shield;16
+1388;idbxi39;C1170839;Vampire Intense Gothic Shield;16
+1389;idbxj39;C1170939;Guardian Intense Gothic Shield;16
+1390;idbxk39;C1170A39;Sharp Intense Gothic Shield;16
+1391;idbxl39;C1170B39;Grand Intense Gothic Shield;16
+1392;idaya50;C0180050;Advanced Strength Intense Platinum Protector;42
+1393;idayb50;C0180150;Saving Intense Platinum Protector;42
+1394;idayc50;C0180250;Fine Intense Platinum Protector;42
+1395;idayd50;C0180350;Anti-Sharp Intense Platinum Protector;42
+1396;idaye50;C0180450;Strong Intense Platinum Protector;42
+1397;idayf50;C0180550;Solid Intense Platinum Protector;42
+1398;idayg50;C0180650;Strength Intense Platinum Protector;42
+1399;idayh50;C0180750;Protection Intense Platinum Protector;42
+1400;idayi50;C0180850;Vampire Intense Platinum Protector;42
+1401;idayj50;C0180950;Guardian Intense Platinum Protector;42
+1402;idayk50;C0180A50;Sharp Intense Platinum Protector;42
+1403;idayl50;C0180B50;Grand Intense Platinum Protector;42
+1404;idaya47;C0180047;Advanced Strength Intense Thick Protector;41
+1405;idayb47;C0180147;Saving Intense Thick Protector;41
+1406;idayc47;C0180247;Fine Intense Thick Protector;41
+1407;idayd47;C0180347;Anti-Sharp Intense Thick Protector;41
+1408;idaye47;C0180447;Strong Intense Thick Protector;41
+1409;idayf47;C0180547;Solid Intense Thick Protector;41
+1410;idayg47;C0180647;Strength Intense Thick Protector;41
+1411;idayh47;C0180747;Protection Intense Thick Protector;41
+1412;idayi47;C0180847;Vampire Intense Thick Protector;41
+1413;idayj47;C0180947;Guardian Intense Thick Protector;41
+1414;idayk47;C0180A47;Sharp Intense Thick Protector;41
+1415;idayl47;C0180B47;Grand Intense Thick Protector;41
+1416;idaya45;C0180045;Advanced Strength Intense Golden Protector;40
+1417;idayb45;C0180145;Saving Intense Golden Protector;40
+1418;idayc45;C0180245;Fine Intense Golden Protector;40
+1419;idayd45;C0180345;Anti-Sharp Intense Golden Protector;40
+1420;idaye45;C0180445;Strong Intense Golden Protector;40
+1421;idayf45;C0180545;Solid Intense Golden Protector;40
+1422;idayg45;C0180645;Strength Intense Golden Protector;40
+1423;idayh45;C0180745;Protection Intense Golden Protector;40
+1424;idayi45;C0180845;Vampire Intense Golden Protector;40
+1425;idayj45;C0180945;Guardian Intense Golden Protector;40
+1426;idayk45;C0180A45;Sharp Intense Golden Protector;40
+1427;idayl45;C0180B45;Grand Intense Golden Protector;40
+1428;idaya43;C0180043;Advanced Strength Intense Beam Round Protector;39
+1429;idayb43;C0180143;Saving Intense Beam Round Protector;39
+1430;idayc43;C0180243;Fine Intense Beam Round Protector;39
+1431;idayd43;C0180343;Anti-Sharp Intense Beam Round Protector;39
+1432;idaye43;C0180443;Strong Intense Beam Round Protector;39
+1433;idayf43;C0180543;Solid Intense Beam Round Protector;39
+1434;idayg43;C0180643;Strength Intense Beam Round Protector;39
+1435;idayh43;C0180743;Protection Intense Beam Round Protector;39
+1436;idayi43;C0180843;Vampire Intense Beam Round Protector;39
+1437;idayj43;C0180943;Guardian Intense Beam Round Protector;39
+1438;idayk43;C0180A43;Sharp Intense Beam Round Protector;39
+1439;idayl43;C0180B43;Grand Intense Beam Round Protector;39
+1440;idaya41;C0180041;Advanced Strength Intense Beam Cross Protector;38
+1441;idayb41;C0180141;Saving Intense Beam Cross Protector;38
+1442;idayc41;C0180241;Fine Intense Beam Cross Protector;38
+1443;idayd41;C0180341;Anti-Sharp Intense Beam Cross Protector;38
+1444;idaye41;C0180441;Strong Intense Beam Cross Protector;38
+1445;idayf41;C0180541;Solid Intense Beam Cross Protector;38
+1446;idayg41;C0180641;Strength Intense Beam Cross Protector;38
+1447;idayh41;C0180741;Protection Intense Beam Cross Protector;38
+1448;idayi41;C0180841;Vampire Intense Beam Cross Protector;38
+1449;idayj41;C0180941;Guardian Intense Beam Cross Protector;38
+1450;idayk41;C0180A41;Sharp Intense Beam Cross Protector;38
+1451;idayl41;C0180B41;Grand Intense Beam Cross Protector;38
+1452;idaya39;C0180039;Advanced Strength Intense Round Protector;37
+1453;idayb39;C0180139;Saving Intense Round Protector;37
+1454;idayc39;C0180239;Fine Intense Round Protector;37
+1455;idayd39;C0180339;Anti-Sharp Intense Round Protector;37
+1456;idaye39;C0180439;Strong Intense Round Protector;37
+1457;idayf39;C0180539;Solid Intense Round Protector;37
+1458;idayg39;C0180639;Strength Intense Round Protector;37
+1459;idayh39;C0180739;Protection Intense Round Protector;37
+1460;idayi39;C0180839;Vampire Intense Round Protector;37
+1461;idayj39;C0180939;Guardian Intense Round Protector;37
+1462;idayk39;C0180A39;Sharp Intense Round Protector;37
+1463;idayl39;C0180B39;Grand Intense Round Protector;37
+1464;idbya50;C1180050;Advanced Strength Intense Hora Shield;21
+1465;idbyb50;C1180150;Saving Intense Hora Shield;21
+1466;idbyc50;C1180250;Fine Intense Hora Shield;21
+1467;idbyd50;C1180350;Anti-Sharp Intense Hora Shield;21
+1468;idbye50;C1180450;Strong Intense Hora Shield;21
+1469;idbyf50;C1180550;Solid Intense Hora Shield;21
+1470;idbyg50;C1180650;Strength Intense Hora Shield;21
+1471;idbyh50;C1180750;Protection Intense Hora Shield;21
+1472;idbyi50;C1180850;Vampire Intense Hora Shield;21
+1473;idbyj50;C1180950;Guardian Intense Hora Shield;21
+1474;idbyk50;C1180A50;Sharp Intense Hora Shield;21
+1475;idbyl50;C1180B50;Grand Intense Hora Shield;21
+1476;idbya47;C1180047;Advanced Strength Intense Heater Shield;20
+1477;idbyb47;C1180147;Saving Intense Heater Shield;20
+1478;idbyc47;C1180247;Fine Intense Heater Shield;20
+1479;idbyd47;C1180347;Anti-Sharp Intense Heater Shield;20
+1480;idbye47;C1180447;Strong Intense Heater Shield;20
+1481;idbyf47;C1180547;Solid Intense Heater Shield;20
+1482;idbyg47;C1180647;Strength Intense Heater Shield;20
+1483;idbyh47;C1180747;Protection Intense Heater Shield;20
+1484;idbyi47;C1180847;Vampire Intense Heater Shield;20
+1485;idbyj47;C1180947;Guardian Intense Heater Shield;20
+1486;idbyk47;C1180A47;Sharp Intense Heater Shield;20
+1487;idbyl47;C1180B47;Grand Intense Heater Shield;20
+1488;idbya45;C1180045;Advanced Strength Beam Farvis Shield;19
+1489;idbyb45;C1180145;Saving Beam Farvis Shield;19
+1490;idbyc45;C1180245;Fine Beam Farvis Shield;19
+1491;idbyd45;C1180345;Anti-Sharp Beam Farvis Shield;19
+1492;idbye45;C1180445;Strong Beam Farvis Shield;19
+1493;idbyf45;C1180545;Solid Beam Farvis Shield;19
+1494;idbyg45;C1180645;Strength Beam Farvis Shield;19
+1495;idbyh45;C1180745;Protection Beam Farvis Shield;19
+1496;idbyi45;C1180845;Vampire Beam Farvis Shield;19
+1497;idbyj45;C1180945;Guardian Beam Farvis Shield;19
+1498;idbyk45;C1180A45;Sharp Beam Farvis Shield;19
+1499;idbyl45;C1180B45;Grand Beam Farvis Shield;19
+1500;idbya43;C1180043;Advanced Strength Intense Adarga;18
+1501;idbyb43;C1180143;Saving Intense Adarga;18
+1502;idbyc43;C1180243;Fine Intense Adarga;18
+1503;idbyd43;C1180343;Anti-Sharp Intense Adarga;18
+1504;idbye43;C1180443;Strong Intense Adarga;18
+1505;idbyf43;C1180543;Solid Intense Adarga;18
+1506;idbyg43;C1180643;Strength Intense Adarga;18
+1507;idbyh43;C1180743;Protection Intense Adarga;18
+1508;idbyi43;C1180843;Vampire Intense Adarga;18
+1509;idbyj43;C1180943;Guardian Intense Adarga;18
+1510;idbyk43;C1180A43;Sharp Intense Adarga;18
+1511;idbyl43;C1180B43;Grand Intense Adarga;18
+1512;idbya41;C1180041;Advanced Strength Intense Farvis Shield;17
+1513;idbyb41;C1180141;Saving Intense Farvis Shield;17
+1514;idbyc41;C1180241;Fine Intense Farvis Shield;17
+1515;idbyd41;C1180341;Anti-Sharp Intense Farvis Shield;17
+1516;idbye41;C1180441;Strong Intense Farvis Shield;17
+1517;idbyf41;C1180541;Solid Intense Farvis Shield;17
+1518;idbyg41;C1180641;Strength Intense Farvis Shield;17
+1519;idbyh41;C1180741;Protection Intense Farvis Shield;17
+1520;idbyi41;C1180841;Vampire Intense Farvis Shield;17
+1521;idbyj41;C1180941;Guardian Intense Farvis Shield;17
+1522;idbyk41;C1180A41;Sharp Intense Farvis Shield;17
+1523;idbyl41;C1180B41;Grand Intense Farvis Shield;17
+1524;idbya39;C1180039;Advanced Strength Intense Gothic Shield;16
+1525;idbyb39;C1180139;Saving Intense Gothic Shield;16
+1526;idbyc39;C1180239;Fine Intense Gothic Shield;16
+1527;idbyd39;C1180339;Anti-Sharp Intense Gothic Shield;16
+1528;idbye39;C1180439;Strong Intense Gothic Shield;16
+1529;idbyf39;C1180539;Solid Intense Gothic Shield;16
+1530;idbyg39;C1180639;Strength Intense Gothic Shield;16
+1531;idbyh39;C1180739;Protection Intense Gothic Shield;16
+1532;idbyi39;C1180839;Vampire Intense Gothic Shield;16
+1533;idbyj39;C1180939;Guardian Intense Gothic Shield;16
+1534;idbyk39;C1180A39;Sharp Intense Gothic Shield;16
+1535;idbyl39;C1180B39;Grand Intense Gothic Shield;16
+1536;idaza50;C0190050;Advanced Strength Intense Platinum Protector;42
+1537;idazb50;C0190150;Saving Intense Platinum Protector;42
+1538;idazc50;C0190250;Fine Intense Platinum Protector;42
+1539;idazd50;C0190350;Anti-Sharp Intense Platinum Protector;42
+1540;idaze50;C0190450;Strong Intense Platinum Protector;42
+1541;idazf50;C0190550;Solid Intense Platinum Protector;42
+1542;idazg50;C0190650;Strength Intense Platinum Protector;42
+1543;idazh50;C0190750;Protection Intense Platinum Protector;42
+1544;idazi50;C0190850;Vampire Intense Platinum Protector;42
+1545;idazj50;C0190950;Guardian Intense Platinum Protector;42
+1546;idazk50;C0190A50;Sharp Intense Platinum Protector;42
+1547;idazl50;C0190B50;Grand Intense Platinum Protector;42
+1548;idaza47;C0190047;Advanced Strength Intense Thick Protector;41
+1549;idazb47;C0190147;Saving Intense Thick Protector;41
+1550;idazc47;C0190247;Fine Intense Thick Protector;41
+1551;idazd47;C0190347;Anti-Sharp Intense Thick Protector;41
+1552;idaze47;C0190447;Strong Intense Thick Protector;41
+1553;idazf47;C0190547;Solid Intense Thick Protector;41
+1554;idazg47;C0190647;Strength Intense Thick Protector;41
+1555;idazh47;C0190747;Protection Intense Thick Protector;41
+1556;idazi47;C0190847;Vampire Intense Thick Protector;41
+1557;idazj47;C0190947;Guardian Intense Thick Protector;41
+1558;idazk47;C0190A47;Sharp Intense Thick Protector;41
+1559;idazl47;C0190B47;Grand Intense Thick Protector;41
+1560;idaza45;C0190045;Advanced Strength Intense Golden Protector;40
+1561;idazb45;C0190145;Saving Intense Golden Protector;40
+1562;idazc45;C0190245;Fine Intense Golden Protector;40
+1563;idazd45;C0190345;Anti-Sharp Intense Golden Protector;40
+1564;idaze45;C0190445;Strong Intense Golden Protector;40
+1565;idazf45;C0190545;Solid Intense Golden Protector;40
+1566;idazg45;C0190645;Strength Intense Golden Protector;40
+1567;idazh45;C0190745;Protection Intense Golden Protector;40
+1568;idazi45;C0190845;Vampire Intense Golden Protector;40
+1569;idazj45;C0190945;Guardian Intense Golden Protector;40
+1570;idazk45;C0190A45;Sharp Intense Golden Protector;40
+1571;idazl45;C0190B45;Grand Intense Golden Protector;40
+1572;idaza43;C0190043;Advanced Strength Intense Beam Round Protector;39
+1573;idazb43;C0190143;Saving Intense Beam Round Protector;39
+1574;idazc43;C0190243;Fine Intense Beam Round Protector;39
+1575;idazd43;C0190343;Anti-Sharp Intense Beam Round Protector;39
+1576;idaze43;C0190443;Strong Intense Beam Round Protector;39
+1577;idazf43;C0190543;Solid Intense Beam Round Protector;39
+1578;idazg43;C0190643;Strength Intense Beam Round Protector;39
+1579;idazh43;C0190743;Protection Intense Beam Round Protector;39
+1580;idazi43;C0190843;Vampire Intense Beam Round Protector;39
+1581;idazj43;C0190943;Guardian Intense Beam Round Protector;39
+1582;idazk43;C0190A43;Sharp Intense Beam Round Protector;39
+1583;idazl43;C0190B43;Grand Intense Beam Round Protector;39
+1584;idaza41;C0190041;Advanced Strength Intense Beam Cross Protector;38
+1585;idazb41;C0190141;Saving Intense Beam Cross Protector;38
+1586;idazc41;C0190241;Fine Intense Beam Cross Protector;38
+1587;idazd41;C0190341;Anti-Sharp Intense Beam Cross Protector;38
+1588;idaze41;C0190441;Strong Intense Beam Cross Protector;38
+1589;idazf41;C0190541;Solid Intense Beam Cross Protector;38
+1590;idazg41;C0190641;Strength Intense Beam Cross Protector;38
+1591;idazh41;C0190741;Protection Intense Beam Cross Protector;38
+1592;idazi41;C0190841;Vampire Intense Beam Cross Protector;38
+1593;idazj41;C0190941;Guardian Intense Beam Cross Protector;38
+1594;idazk41;C0190A41;Sharp Intense Beam Cross Protector;38
+1595;idazl41;C0190B41;Grand Intense Beam Cross Protector;38
+1596;idaza39;C0190039;Advanced Strength Intense Round Protector;37
+1597;idazb39;C0190139;Saving Intense Round Protector;37
+1598;idazc39;C0190239;Fine Intense Round Protector;37
+1599;idazd39;C0190339;Anti-Sharp Intense Round Protector;37
+1600;idaze39;C0190439;Strong Intense Round Protector;37
+1601;idazf39;C0190539;Solid Intense Round Protector;37
+1602;idazg39;C0190639;Strength Intense Round Protector;37
+1603;idazh39;C0190739;Protection Intense Round Protector;37
+1604;idazi39;C0190839;Vampire Intense Round Protector;37
+1605;idazj39;C0190939;Guardian Intense Round Protector;37
+1606;idazk39;C0190A39;Sharp Intense Round Protector;37
+1607;idazl39;C0190B39;Grand Intense Round Protector;37
+1608;idbza50;C1190050;Advanced Strength Intense Hora Shield;21
+1609;idbzb50;C1190150;Saving Intense Hora Shield;21
+1610;idbzc50;C1190250;Fine Intense Hora Shield;21
+1611;idbzd50;C1190350;Anti-Sharp Intense Hora Shield;21
+1612;idbze50;C1190450;Strong Intense Hora Shield;21
+1613;idbzf50;C1190550;Solid Intense Hora Shield;21
+1614;idbzg50;C1190650;Strength Intense Hora Shield;21
+1615;idbzh50;C1190750;Protection Intense Hora Shield;21
+1616;idbzi50;C1190850;Vampire Intense Hora Shield;21
+1617;idbzj50;C1190950;Guardian Intense Hora Shield;21
+1618;idbzk50;C1190A50;Sharp Intense Hora Shield;21
+1619;idbzl50;C1190B50;Grand Intense Hora Shield;21
+1620;idbza47;C1190047;Advanced Strength Intense Heater Shield;20
+1621;idbzb47;C1190147;Saving Intense Heater Shield;20
+1622;idbzc47;C1190247;Fine Intense Heater Shield;20
+1623;idbzd47;C1190347;Anti-Sharp Intense Heater Shield;20
+1624;idbze47;C1190447;Strong Intense Heater Shield;20
+1625;idbzf47;C1190547;Solid Intense Heater Shield;20
+1626;idbzg47;C1190647;Strength Intense Heater Shield;20
+1627;idbzh47;C1190747;Protection Intense Heater Shield;20
+1628;idbzi47;C1190847;Vampire Intense Heater Shield;20
+1629;idbzj47;C1190947;Guardian Intense Heater Shield;20
+1630;idbzk47;C1190A47;Sharp Intense Heater Shield;20
+1631;idbzl47;C1190B47;Grand Intense Heater Shield;20
+1632;idbza45;C1190045;Advanced Strength Beam Farvis Shield;19
+1633;idbzb45;C1190145;Saving Beam Farvis Shield;19
+1634;idbzc45;C1190245;Fine Beam Farvis Shield;19
+1635;idbzd45;C1190345;Anti-Sharp Beam Farvis Shield;19
+1636;idbze45;C1190445;Strong Beam Farvis Shield;19
+1637;idbzf45;C1190545;Solid Beam Farvis Shield;19
+1638;idbzg45;C1190645;Strength Beam Farvis Shield;19
+1639;idbzh45;C1190745;Protection Beam Farvis Shield;19
+1640;idbzi45;C1190845;Vampire Beam Farvis Shield;19
+1641;idbzj45;C1190945;Guardian Beam Farvis Shield;19
+1642;idbzk45;C1190A45;Sharp Beam Farvis Shield;19
+1643;idbzl45;C1190B45;Grand Beam Farvis Shield;19
+1644;idbza43;C1190043;Advanced Strength Intense Adarga;18
+1645;idbzb43;C1190143;Saving Intense Adarga;18
+1646;idbzc43;C1190243;Fine Intense Adarga;18
+1647;idbzd43;C1190343;Anti-Sharp Intense Adarga;18
+1648;idbze43;C1190443;Strong Intense Adarga;18
+1649;idbzf43;C1190543;Solid Intense Adarga;18
+1650;idbzg43;C1190643;Strength Intense Adarga;18
+1651;idbzh43;C1190743;Protection Intense Adarga;18
+1652;idbzi43;C1190843;Vampire Intense Adarga;18
+1653;idbzj43;C1190943;Guardian Intense Adarga;18
+1654;idbzk43;C1190A43;Sharp Intense Adarga;18
+1655;idbzl43;C1190B43;Grand Intense Adarga;18
+1656;idbza41;C1190041;Advanced Strength Intense Farvis Shield;17
+1657;idbzb41;C1190141;Saving Intense Farvis Shield;17
+1658;idbzc41;C1190241;Fine Intense Farvis Shield;17
+1659;idbzd41;C1190341;Anti-Sharp Intense Farvis Shield;17
+1660;idbze41;C1190441;Strong Intense Farvis Shield;17
+1661;idbzf41;C1190541;Solid Intense Farvis Shield;17
+1662;idbzg41;C1190641;Strength Intense Farvis Shield;17
+1663;idbzh41;C1190741;Protection Intense Farvis Shield;17
+1664;idbzi41;C1190841;Vampire Intense Farvis Shield;17
+1665;idbzj41;C1190941;Guardian Intense Farvis Shield;17
+1666;idbzk41;C1190A41;Sharp Intense Farvis Shield;17
+1667;idbzl41;C1190B41;Grand Intense Farvis Shield;17
+1668;idbza39;C1190039;Advanced Strength Intense Gothic Shield;16
+1669;idbzb39;C1190139;Saving Intense Gothic Shield;16
+1670;idbzc39;C1190239;Fine Intense Gothic Shield;16
+1671;idbzd39;C1190339;Anti-Sharp Intense Gothic Shield;16
+1672;idbze39;C1190439;Strong Intense Gothic Shield;16
+1673;idbzf39;C1190539;Solid Intense Gothic Shield;16
+1674;idbzg39;C1190639;Strength Intense Gothic Shield;16
+1675;idbzh39;C1190739;Protection Intense Gothic Shield;16
+1676;idbzi39;C1190839;Vampire Intense Gothic Shield;16
+1677;idbzj39;C1190939;Guardian Intense Gothic Shield;16
+1678;idbzk39;C1190A39;Sharp Intense Gothic Shield;16
+1679;idbzl39;C1190B39;Grand Intense Gothic Shield;16
+1680;idaaa55;C0000055;Black Thick Protector;43
+1681;idaab55;C0000155;Intense Black Thick Protector;43
+1682;idbca55;C1020055;Black Heater Shield;44
+1683;idbcb55;C1020155;Intense Black Heater Shield;44
+1684;idmeb55;CC040155;Metal Elven Shield;45
+1685;idelb55;C40B0155;Elven Shield;46
+1686;idaaa53;C0000053;Dark Round Protector;39
+1687;idaab53;C0000153;Intense Dark Round Protector;39
+1688;idbca53;C1020053;Black Adarga Shield;18
+1689;idbcb53;C1020153;Intense Black Adarga Shield;18
+1690;idmsb55;CC120155;Ancient Metal Elven Shield;45
+1691;idesb55;C4120155;Ancient Elven Shield;46
+1692;idata51;C0130051;Advanced Strength Superior Platinum Protector;42
+1693;idatb51;C0130151;Saving Superior Platinum Protector;42
+1694;idatc51;C0130251;Fine Superior Platinum Protector;42
+1695;idatd51;C0130351;Anti-Sharp Superior Platinum Protector;42
+1696;idate51;C0130451;Strong Superior Platinum Protector;42
+1697;idatf51;C0130551;Solid Superior Platinum Protector;42
+1698;idatg51;C0130651;Strength Superior Platinum Protector;42
+1699;idath51;C0130751;Protection Superior Platinum Protector;42
+1700;idati51;C0130851;Vampire Superior Platinum Protector;42
+1701;idatj51;C0130951;Guardian Superior Platinum Protector;42
+1702;idatk51;C0130A51;Sharp Superior Platinum Protector;42
+1703;idatl51;C0130B51;Grand Superior Platinum Protector;42
+1704;idbta51;C1130051;Advanced Strength Superior Hora Shield;21
+1705;idbtb51;C1130151;Saving Superior Hora Shield;21
+1706;idbtc51;C1130251;Fine Superior Hora Shield;21
+1707;idbtd51;C1130351;Anti-Sharp Superior Hora Shield;21
+1708;idbte51;C1130451;Strong Superior Hora Shield;21
+1709;idbtf51;C1130551;Solid Superior Hora Shield;21
+1710;idbtg51;C1130651;Strength Superior Hora Shield;21
+1711;idbth51;C1130751;Protection Superior Hora Shield;21
+1712;idbti51;C1130851;Vampire Superior Hora Shield;21
+1713;idbtj51;C1130951;Guardian Superior Hora Shield;21
+1714;idbtk51;C1130A51;Sharp Superior Hora Shield;21
+1715;idbtl51;C1130B51;Grand Superior Hora Shield;21
+1716;idata54;C0130054;Advanced Strength Superior Round Protector;39
+1717;idatb54;C0130154;Saving Superior Round Protector;39
+1718;idatc54;C0130254;Fine Superior Round Protector;39
+1719;idatd54;C0130354;Anti-Sharp Superior Round Protector;39
+1720;idate54;C0130454;Strong Superior Round Protector;39
+1721;idatf54;C0130554;Solid Superior Round Protector;39
+1722;idatg54;C0130654;Strength Superior Round Protector;39
+1723;idath54;C0130754;Protection Superior Round Protector;39
+1724;idati54;C0130854;Vampire Superior Round Protector;39
+1725;idatj54;C0130954;Guardian Superior Round Protector;39
+1726;idatk54;C0130A54;Sharp Superior Round Protector;39
+1727;idatl54;C0130B54;Grand Superior Round Protector;39
+1728;idbta54;C1130054;Advanced Strength Superior Adarga Shield;18
+1729;idbtb54;C1130154;Saving Superior Adarga Shield;18
+1730;idbtc54;C1130254;Fine Superior Adarga Shield;18
+1731;idbtd54;C1130354;Anti-Sharp Superior Adarga Shield;18
+1732;idbte54;C1130454;Strong Superior Adarga Shield;18
+1733;idbtf54;C1130554;Solid Superior Adarga Shield;18
+1734;idbtg54;C1130654;Strength Superior Adarga Shield;18
+1735;idbth54;C1130754;Protection Superior Adarga Shield;18
+1736;idbti54;C1130854;Vampire Superior Adarga Shield;18
+1737;idbtj54;C1130954;Guardian Superior Adarga Shield;18
+1738;idbtk54;C1130A54;Sharp Superior Adarga Shield;18
+1739;idbtl54;C1130B54;Grand Superior Adarga Shield;18
+1740;idata56;C0130056;Advanced Strength Superior Type Protector;43
+1741;idatb56;C0130156;Saving Superior Type Protector;43
+1742;idatc56;C0130256;Fine Superior Type Protector;43
+1743;idatd56;C0130356;Anti-Sharp Superior Type Protector;43
+1744;idate56;C0130456;Strong Superior Type Protector;43
+1745;idatf56;C0130556;Solid Superior Type Protector;43
+1746;idatg56;C0130656;Strength Superior Type Protector;43
+1747;idath56;C0130756;Protection Superior Type Protector;43
+1748;idati56;C0130856;Vampire Superior Type Protector;43
+1749;idatj56;C0130956;Guardian Superior Type Protector;43
+1750;idatk56;C0130A56;Sharp Superior Type Protector;43
+1751;idatl56;C0130B56;Grand Superior Type Protector;43
+1752;idbta56;C1130056;Advanced Strength Superior Heater Shield;44
+1753;idbtb56;C1130156;Saving Superior Heater Shield;44
+1754;idbtc56;C1130256;Fine Superior Heater Shield;44
+1755;idbtd56;C1130356;Anti-Sharp Superior Heater Shield;44
+1756;idbte56;C1130456;Strong Superior Heater Shield;44
+1757;idbtf56;C1130556;Solid Superior Heater Shield;44
+1758;idbtg56;C1130656;Strength Superior Heater Shield;44
+1759;idbth56;C1130756;Protection Superior Heater Shield;44
+1760;idbti56;C1130856;Vampire Superior Heater Shield;44
+1761;idbtj56;C1130956;Guardian Superior Heater Shield;44
+1762;idbtk56;C1130A56;Sharp Superior Heater Shield;44
+1763;idbtl56;C1130B56;Grand Superior Heater Shield;44
+1764;idqsa01;D0120001;DarkRay HopeLoan;14
+1765;idqsa02;D0120002;DarkRay Mirror Shield;15
+1766;idqsa03;D0120003;DarkRay Gothic Shield;16
+1767;idqsa04;D0120004;DarkRay Parvise Shield;17
+1768;idqsa05;D0120005;DarkRay Adarga;18
+1769;idqsa06;D0120006;DarkRay Beam Parvise Shield;19
+1770;idqsa07;D0120007;DarkRay Heater Shield;20
+1771;idqsa08;D0120008;DarkRay Hora Shield;21
+1772;idqsa09;D0120009;DarkRay Black Heater Shield;44
+1773;idqsa10;D0120010;DarkRay Large Protector;35
+1774;idqsa11;D0120011;DarkRay Crystal Protector;36
+1775;idqsa12;D0120012;DarkRay Round Protector;37
+1776;idqsa13;D0120013;DarkRay Beam Cross Protector;38
+1777;idqsa14;D0120014;DarkRay Beam Round Protector;39
+1778;idqsa15;D0120015;DarkRay Golden Protector;40
+1779;idqsa16;D0120016;DarkRay Seek Protector;41
+1780;idqsa17;D0120017;DarkRay Platinum Protector;42
+1781;idqsa18;D0120018;DarkRay Black Seek Protector;43
+1782;idbrd50;C1110350;Crimson SubShield[Rare D];45
+1783;idbrd55;C1110355;Crimson Hora SubShield[Rare D];46
+1784;idbre50;C1110450;Infinity SubShield[Rare E];45
+1785;idbre55;C1110455;Infinity Hora SubShield[Rare E];46
+1786;idxxx01;D7171701;Blocking Shield for Adventurers;46
+1787;idaaa57;C0000057;Spika Protector;47
+1788;idaab57;C0000157;Spika Protector [Rare B];47
+1789;idbca57;C1020057;Ligel Shield;48
+1790;idbcb57;C1020157;Ligel Shield [Rare B];48
+1791;idaaa60;C0000060;Acrooks Protector;47
+1792;idaab60;C0000160;Acrooks Protector [Rare B];47
+1793;idbca60;C1020060;Beckrooks Shield;48
+1794;idbcb60;C1020160;Beckrooks Shield [Rare B];48
+1795;idaaa63;C0000063;Pekda Protector;47
+1796;idaab63;C0000163;Pekda Protector [Rare B];47
+1797;idbca63;C1020063;Merak Shield;48
+1798;idbcb63;C1020163;Merak Shield [Rare B];48
+1799;idaaa65;C0000065;Sirius Protector;47
+1800;idaab65;C0000165;Sirius Protector [Rare B];47
+1801;idbca65;C1020065;Prokion Shield;48
+1802;idbcb65;C1020165;Prokion Shield [Rare B];48

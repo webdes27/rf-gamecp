@@ -1,0 +1,28 @@
+Index;Server Code;Client Code;English Name;Image ID
+0;unbb000;81010000;Advanced UnmannedMiningTool;1
+1;unbb001;81010100;Advanced UnmannedMiningTool;1
+2;uncc000;82020000;Advanced UnmannedMiningTool;2
+3;uncc001;82020100;Advanced UnmannedMiningTool;2
+4;unaa000;80000000;Advanced UnmannedMiningTool;3
+5;unaa001;80000100;Advanced UnmannedMiningTool;3
+6;unbb002;81010200;Normal UnmannedMiningTool;1
+7;uncc002;82020200;Normal UnmannedMiningTool;2
+8;unaa002;80000200;Normal UnmannedMiningTool;3
+9;unbb003;81010300;Light UnmannedMiningTool;1
+10;uncc003;82020300;Light UnmannedMiningTool;2
+11;unaa003;80000300;Light UnmannedMiningTool;3
+12;uncsa01;82120001;Advanced Un-manned MineTool;4
+13;uncsa02;82120002;Advanced Un-manned MineTool;7
+14;uncsa03;82120003;Advanced Un-manned MineTool;5
+15;uncsa04;82120004;Advanced Un-manned MineTool;8
+16;uncsa05;82120005;Advanced Un-manned MineTool;6
+17;uncsa06;82120006;Advanced Un-manned MineTool;9
+18;uncsa07;82120007;Normal Un-manned MineTool;4
+19;uncsa08;82120008;Normal Un-manned MineTool;5
+20;uncsa09;82120009;Normal Un-manned MineTool;6
+21;uncsa10;82120010;Light Un-manned MineTool;4
+22;uncsa11;82120011;Light Un-manned MineTool;5
+23;uncsa12;82120012;Light Un-manned MineTool;6
+24;unbpc01;810F0201;Cafe Only Advanced UMT;7
+25;uncpc01;820F0201;Cafe Only Advanced UMT;8
+26;unapc01;800F0201;Cafe Only Advanced UMT;9

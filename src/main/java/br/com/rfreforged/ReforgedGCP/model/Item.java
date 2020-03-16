@@ -12,4 +12,14 @@ public class Item {
     private int tipo;
     private int slot;
     private Melhoria melhoria;
+
+    @Override
+    public String toString() {
+        return "Item{" +
+                "codigo=" + codigo +
+                ", tipo=" + tipo +
+                ", slot=" + slot +
+                ", melhoria=" + melhoria +
+                '}';
+    }
 }

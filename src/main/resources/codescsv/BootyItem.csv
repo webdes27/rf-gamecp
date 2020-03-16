@@ -1,0 +1,1872 @@
+Index;Server Code;Client Code;English Name;Image ID
+0;iyyyy01;D8181801;Cling;1
+1;iyyyy02;D8181802;Haren;2
+2;iyyyy03;D8181803;Greaf;3
+3;iyyyy04;D8181804;Rian;4
+4;iyyyy05;D8181805;Mika;5
+5;iyyyy06;D8181806;Louis Mika;6
+6;iyyyy07;D8181807;Mid Mika;7
+7;iyyyy08;D8181808;Wief;8
+8;iyyyy09;D8181809;Cell Wief;9
+9;iyyyy10;D8181810;Ward Wief;10
+10;iyyyy11;D8181811;Lake;11
+11;iyyyy12;D8181812;Riar;12
+12;iyyyy13;D8181813;Jem Riar;13
+13;iyyyy14;D8181814;Jemz Riar;14
+14;iyyyy15;D8181815;Jim;15
+15;iyyyy16;D8181816;Zid;16
+16;iyyyy17;D8181817;Sol Zid;17
+17;iyyyy18;D8181818;High Zid;18
+18;iyyyy19;D8181819;Warm;19
+19;iyyyy20;D8181820;BliDend;20
+20;iyyyy21;D8181821;Ply BliDend;21
+21;iyyyy22;D8181822;Siar BliDend;22
+22;iyyyy23;D8181823;Gli;23
+23;iyyyy24;D8181824;Beam;24
+24;iyyyy25;D8181825;Silver catalyst;25
+25;iyyyy26;D8181826;Gold catalyst;26
+26;iyeee01;C4040401;1 Gift Point;78
+27;iyeee02;C4040402;2 Gift Point;79
+28;iyeee03;C4040403;3 Gift Point;80
+29;iyeee04;C4040404;4 Gift Point;81
+30;iyeee05;C4040405;5 Gift Point;82
+31;iyeee06;C4040406;Lord Master's Badge;78
+32;iyeee07;C4040407;Lord Master's Certificate;79
+33;iyeee08;C4040408;Lord Master's Token;80
+34;iyeee09;C4040409;Lord Master's Passion;81
+35;iyeee10;C4040410;Lord Master's Amulet;82
+36;iyeee11;C4040411;GS eShop;78
+37;iyeee12;C4040412;GS eShop;79
+38;iyeee13;C4040413;GS eShop;80
+39;iyeee14;C4040414;GS eShop;81
+40;iyeee15;C4040415;GS eShop;82
+41;iyeee16;C4040416;GS eShop;78
+42;iyeee17;C4040417;GS eShop;79
+43;iyeee18;C4040418;GS eShop;80
+44;iyeee19;C4040419;GS eShop;81
+45;iyeee20;C4040420;GS eShop;82
+46;iyeee21;C4040421;GS eShop;78
+47;iyeee22;C4040422;GS eShop;79
+48;iyeee23;C4040423;GS eShop;80
+49;iyeee24;C4040424;GS eShop;81
+50;iyeee25;C4040425;GS eShop;82
+51;iyeee26;C4040426;GS eShop;78
+52;iyeee27;C4040427;GS eShop;79
+53;iyeee28;C4040428;GS eShop;80
+54;iyeee29;C4040429;GS eShop;81
+55;iyeee30;C4040430;GS eShop;82
+56;iytwe01;D3160401;?????;27
+57;iytwe02;D3160402;?????;28
+58;iybla01;C10B0001;Black ExcelSiar A;29
+59;iybla02;C10B0002;Black ExcelSiar B;30
+60;iybla03;C10B0003;Black ExcelSiar C;31
+61;iyred01;D1040301;Red ExcelSiar A;32
+62;iyred02;D1040302;Red ExcelSiar B;33
+63;iyred03;D1040303;Red ExcelSiar C;34
+64;iyblu01;C10B1401;Blue ExcelSiar A;35
+65;iyblu02;C10B1402;Blue ExcelSiar B;36
+66;iyblu03;C10B1403;Blue ExcelSiar C;37
+67;iygre01;C6110401;Green ExcelSiar A;38
+68;iygre02;C6110402;Green ExcelSiar B;39
+69;iygre03;C6110403;Green ExcelSiar C;40
+70;iyyel01;D8040B01;Yellow ExcelSiar A;41
+71;iyyel02;D8040B02;Yellow ExcelSiar B;42
+72;iyyel03;D8040B03;Yellow ExcelSiar C;43
+73;iypur01;CF141101;Purple ExcelSiar A;44
+74;iypur02;CF141102;Purple ExcelSiar B;45
+75;iypur03;CF141103;Purple ExcelSiar C;46
+76;iywhi01;D6070801;White ExcelSiar A;47
+77;iywhi02;D6070802;White ExcelSiar B;48
+78;iywhi03;D6070803;White ExcelSiar C;49
+79;iybrw01;C1111601;Brown ExcelSiar A;50
+80;iybrw02;C1111602;Brown ExcelSiar B;51
+81;iybrw03;C1111603;Brown ExcelSiar C;52
+82;iyolv01;CE0B1501;Olive ExcelSiar A;53
+83;iyolv02;CE0B1502;Olive ExcelSiar B;54
+84;iyolv03;CE0B1503;Olive ExcelSiar C;55
+85;iynav01;CD001501;Navy ExcelSiar A;56
+86;iynav02;CD001502;Navy ExcelSiar B;57
+87;iynav03;CD001503;Navy ExcelSiar C;58
+88;iyxma01;D70C0001;Red Socks;59
+89;iygra01;C6110001;Gravity Stone;27
+90;iyaop01;C00E0F01;Wind Ability Reaver;60
+91;iybop01;C10E0F01;Endurance Ability Reaver;61
+92;iycop01;C20E0F01;Fine Ability Reaver;62
+93;iydop01;C30E0F01;Smart Ability Reaver;63
+94;iyeop01;C40E0F01;Strong Ability Reaver;64
+95;iyfop01;C50E0F01;Solid Ability Reaver;65
+96;iygop01;C60E0F01;Strength Ability Reaver;66
+97;iyhop01;C70E0F01;Advanced Strength Reaver;67
+98;iyiop01;C80E0F01;Vampire Ability Reaver;68
+99;iyjop01;C90E0F01;Guardian Ability Reaver;69
+100;iykop01;CA0E0F01;Sharp Ability Reaver;70
+101;iylop01;CB0E0F01;Grand Ability Reaver;71
+102;iyext01;C4171301;Ability Extracter;72
+103;iymer01;CC041101;Ability Combiner;73
+104;iymer02;CC041102;Ability Combiner Special;74
+105;iyjpb01;C90F0101;Premium Ticket Lv1;75
+106;iyjpb02;C90F0102;Premium Ticket Lv43;76
+107;iyjpc01;C90F0201;Premium Ticket Lv1;75
+108;iyjpc02;C90F0202;Premium Ticket Lv43;76
+109;iyjpa01;C90F0001;Premium Ticket Lv1;75
+110;iyjpa02;C90F0002;Premium Ticket Lv43;76
+111;iydbr01;C3011101;Broken Walnut;77
+112;iycra01;C2110001;Hammer;78
+113;iymop01;CC0E0F01;Anti-Sharp Ability Reaver;152
+114;iynop01;CD0E0F01;Saving Ability Reaver;153
+115;iyoop01;CE0E0F01;Protection Ability Reaver;154
+116;iyscr01;D2021101;Warrior's Witness;151
+117;iyfok01;C50E0A01;Leon Gun Blade Piece1;79
+118;iyfok02;C50E0A02;Leon Gun Blade Piece2;80
+119;iyfok03;C50E0A03;Leon Gun Blade Piece3;81
+120;iyfok04;C50E0A04;Leon Gun Blade Piece4;82
+121;iyffk01;C5050A01;Leon Sickle Knife Piece1;83
+122;iyffk02;C5050A02;Leon Sickle Knife Piece2;84
+123;iyffk03;C5050A03;Leon Sickle Knife Piece3;85
+124;iyffk04;C5050A04;Leon Sickle Knife Piece4;86
+125;iyfik01;C5080A01;Leon Hora Knife Piece1;87
+126;iyfik02;C5080A02;Leon Hora Knife Piece2;88
+127;iyfik03;C5080A03;Leon Hora Knife Piece3;89
+128;iyfik04;C5080A04;Leon Hora Knife Piece4;90
+129;iyfos01;C50E1201;Leon Lance Piece1;91
+130;iyfos02;C50E1202;Leon Lance Piece2;92
+131;iyfos03;C50E1203;Leon Lance Piece3;93
+132;iyfos04;C50E1204;Leon Lance Piece4;94
+133;iyffs01;C5051201;Leon Field Lance Piece1;95
+134;iyffs02;C5051202;Leon Field Lance Piece2;96
+135;iyffs03;C5051203;Leon Field Lance Piece3;97
+136;iyffs04;C5051204;Leon Field Lance Piece4;98
+137;iyfis01;C5081201;Leon Hora Spear Piece1;99
+138;iyfis02;C5081202;Leon Hora Spear Piece2;100
+139;iyfis03;C5081203;Leon Hora Spear Piece3;101
+140;iyfis04;C5081204;Leon Hora Spear Piece4;102
+141;iyfot01;C50E1301;Leon Black Stick Bead Piece1;103
+142;iyfot02;C50E1302;Leon Black Stick Bead Piece2;104
+143;iyfot03;C50E1303;Leon Black Stick Bead Piece3;105
+144;iyfot04;C50E1304;Leon Black Stick Bead Piece4;106
+145;iyfft01;C5051301;Leon Sickle Staff Piece1;107
+146;iyfft02;C5051302;Leon Sickle Staff Piece2;108
+147;iyfft03;C5051303;Leon Sickle Staff Piece3;109
+148;iyfft04;C5051304;Leon Sickle Staff Piece4;110
+149;iyfit01;C5081301;Leon Hora Staff Piece1;111
+150;iyfit02;C5081302;Leon Hora Staff Piece2;112
+151;iyfit03;C5081303;Leon Hora Staff Piece3;113
+152;iyfit04;C5081304;Leon Hora Staff Piece4;114
+153;iyfob01;C50E0101;Leon Beam Siege Bow Piece1;115
+154;iyfob02;C50E0102;Leon Beam Siege Bow Piece2;116
+155;iyfob03;C50E0103;Leon Beam Siege Bow Piece3;117
+156;iyfob04;C50E0104;Leon Beam Siege Bow Piece4;118
+157;iyffb01;C5050101;Leon Beam Gun Bow Piece1;119
+158;iyffb02;C5050102;Leon Beam Gun Bow Piece2;120
+159;iyffb03;C5050103;Leon Beam Gun Bow Piece3;121
+160;iyffb04;C5050104;Leon Beam Gun Bow Piece4;122
+161;iyfib01;C5080101;Leon Hora Bow Piece1;123
+162;iyfib02;C5080102;Leon Hora Bow Piece2;124
+163;iyfib03;C5080103;Leon Hora Bow Piece3;125
+164;iyfib04;C5080104;Leon Hora Bow Piece4;126
+165;iyfog01;C50E0601;Leon Bolt Rifle Piece1;127
+166;iyfog02;C50E0602;Leon Bolt Rifle Piece2;128
+167;iyfog03;C50E0603;Leon Bolt Rifle Piece3;129
+168;iyfog04;C50E0604;Leon Bolt Rifle Piece4;130
+169;iyffg01;C5050601;Leon Vulcan Piece1;131
+170;iyffg02;C5050602;Leon Vulcan Piece2;132
+171;iyffg03;C5050603;Leon Vulcan Piece3;133
+172;iyffg04;C5050604;Leon Vulcan Piece4;134
+173;iyfig01;C5080601;Leon Hora Vulcan Piece1;135
+174;iyfig02;C5080602;Leon Hora Vulcan Piece2;136
+175;iyfig03;C5080603;Leon Hora Vulcan Piece3;137
+176;iyfig04;C5080604;Leon Hora Vulcan Piece4;138
+177;iyfol01;C50E0B01;Leon Thrower Piece1;139
+178;iyfol02;C50E0B02;Leon Thrower Piece2;140
+179;iyfol03;C50E0B03;Leon Thrower Piece3;141
+180;iyfol04;C50E0B04;Leon Thrower Piece4;142
+181;iyffl01;C5050B01;Leon Missile Launcher Piece1;143
+182;iyffl02;C5050B02;Leon Missile Launcher Piece2;144
+183;iyffl03;C5050B03;Leon Missile Launcher Piece3;145
+184;iyffl04;C5050B04;Leon Missile Launcher Piece4;146
+185;iyfil01;C5080B01;Leon Hora Faust Piece1;147
+186;iyfil02;C5080B02;Leon Hora Faust Piece2;148
+187;iyfil03;C5080B03;Leon Hora Faust Piece3;149
+188;iyfil04;C5080B04;Leon Hora Faust Piece4;150
+189;iyfok11;C50E0A11;Leon Gun Blade Piece1;79
+190;iyfok12;C50E0A12;Leon Gun Blade Piece2;80
+191;iyfok13;C50E0A13;Leon Gun Blade Piece3;81
+192;iyfok14;C50E0A14;Leon Gun Blade Piece4;82
+193;iyffk11;C5050A11;Leon Sickle Knife Piece1;83
+194;iyffk12;C5050A12;Leon Sickle Knife Piece2;84
+195;iyffk13;C5050A13;Leon Sickle Knife Piece3;85
+196;iyffk14;C5050A14;Leon Sickle Knife Piece4;86
+197;iyfik11;C5080A11;Leon Hora Knife Piece1;87
+198;iyfik12;C5080A12;Leon Hora Knife Piece2;88
+199;iyfik13;C5080A13;Leon Hora Knife Piece3;89
+200;iyfik14;C5080A14;Leon Hora Knife Piece4;90
+201;iyfos11;C50E1211;Leon Lance Piece1;91
+202;iyfos12;C50E1212;Leon Lance Piece2;92
+203;iyfos13;C50E1213;Leon Lance Piece3;93
+204;iyfos14;C50E1214;Leon Lance Piece4;94
+205;iyffs11;C5051211;Leon Field Lance Piece1;95
+206;iyffs12;C5051212;Leon Field Lance Piece2;96
+207;iyffs13;C5051213;Leon Field Lance Piece3;97
+208;iyffs14;C5051214;Leon Field Lance Piece4;98
+209;iyfis11;C5081211;Leon Hora Spear Piece1;99
+210;iyfis12;C5081212;Leon Hora Spear Piece2;100
+211;iyfis13;C5081213;Leon Hora Spear Piece3;101
+212;iyfis14;C5081214;Leon Hora Spear Piece4;102
+213;iyfot11;C50E1311;Leon Black Stick Bead Piece1;103
+214;iyfot12;C50E1312;Leon Black Stick Bead Piece2;104
+215;iyfot13;C50E1313;Leon Black Stick Bead Piece3;105
+216;iyfot14;C50E1314;Leon Black Stick Bead Piece4;106
+217;iyfft11;C5051311;Leon Sickle Staff Piece1;107
+218;iyfft12;C5051312;Leon Sickle Staff Piece2;108
+219;iyfft13;C5051313;Leon Sickle Staff Piece3;109
+220;iyfft14;C5051314;Leon Sickle Staff Piece4;110
+221;iyfit11;C5081311;Leon Hora Staff Piece1;111
+222;iyfit12;C5081312;Leon Hora Staff Piece2;112
+223;iyfit13;C5081313;Leon Hora Staff Piece3;113
+224;iyfit14;C5081314;Leon Hora Staff Piece4;114
+225;iyfob11;C50E0111;Leon Beam Siege Bow Piece1;115
+226;iyfob12;C50E0112;Leon Beam Siege Bow Piece2;116
+227;iyfob13;C50E0113;Leon Beam Siege Bow Piece3;117
+228;iyfob14;C50E0114;Leon Beam Siege Bow Piece4;118
+229;iyffb11;C5050111;Leon Beam Gun Bow Piece1;119
+230;iyffb12;C5050112;Leon Beam Gun Bow Piece2;120
+231;iyffb13;C5050113;Leon Beam Gun Bow Piece3;121
+232;iyffb14;C5050114;Leon Beam Gun Bow Piece4;122
+233;iyfib11;C5080111;Leon Hora Bow Piece1;123
+234;iyfib12;C5080112;Leon Hora Bow Piece2;124
+235;iyfib13;C5080113;Leon Hora Bow Piece3;125
+236;iyfib14;C5080114;Leon Hora Bow Piece4;126
+237;iyfog11;C50E0611;Leon Bolt Rifle Piece1;127
+238;iyfog12;C50E0612;Leon Bolt Rifle Piece2;128
+239;iyfog13;C50E0613;Leon Bolt Rifle Piece3;129
+240;iyfog14;C50E0614;Leon Bolt Rifle Piece4;130
+241;iyffg11;C5050611;Leon Vulcan Piece1;131
+242;iyffg12;C5050612;Leon Vulcan Piece2;132
+243;iyffg13;C5050613;Leon Vulcan Piece3;133
+244;iyffg14;C5050614;Leon Vulcan Piece4;134
+245;iyfig11;C5080611;Leon Hora Vulcan Piece1;135
+246;iyfig12;C5080612;Leon Hora Vulcan Piece2;136
+247;iyfig13;C5080613;Leon Hora Vulcan Piece3;137
+248;iyfig14;C5080614;Leon Hora Vulcan Piece4;138
+249;iyfol11;C50E0B11;Leon Thrower Piece1;139
+250;iyfol12;C50E0B12;Leon Thrower Piece2;140
+251;iyfol13;C50E0B13;Leon Thrower Piece3;141
+252;iyfol14;C50E0B14;Leon Thrower Piece4;142
+253;iyffl11;C5050B11;Leon Missile Launcher Piece1;143
+254;iyffl12;C5050B12;Leon Missile Launcher Piece2;144
+255;iyffl13;C5050B13;Leon Missile Launcher Piece3;145
+256;iyffl14;C5050B14;Leon Missile Launcher Piece4;146
+257;iyfil11;C5080B11;Leon Hora Faust Piece1;147
+258;iyfil12;C5080B12;Leon Hora Faust Piece2;148
+259;iyfil13;C5080B13;Leon Hora Faust Piece3;149
+260;iyfil14;C5080B14;Leon Hora Faust Piece4;150
+261;iyfok21;C50E0A21;Leon Gun Blade Piece1;79
+262;iyfok22;C50E0A22;Leon Gun Blade Piece2;80
+263;iyfok23;C50E0A23;Leon Gun Blade Piece3;81
+264;iyfok24;C50E0A24;Leon Gun Blade Piece4;82
+265;iyffk21;C5050A21;Leon Sickle Knife Piece1;83
+266;iyffk22;C5050A22;Leon Sickle Knife Piece2;84
+267;iyffk23;C5050A23;Leon Sickle Knife Piece3;85
+268;iyffk24;C5050A24;Leon Sickle Knife Piece4;86
+269;iyfik21;C5080A21;Leon Hora Knife Piece1;87
+270;iyfik22;C5080A22;Leon Hora Knife Piece2;88
+271;iyfik23;C5080A23;Leon Hora Knife Piece3;89
+272;iyfik24;C5080A24;Leon Hora Knife Piece4;90
+273;iyfos21;C50E1221;Leon Lance Piece1;91
+274;iyfos22;C50E1222;Leon Lance Piece2;92
+275;iyfos23;C50E1223;Leon Lance Piece3;93
+276;iyfos24;C50E1224;Leon Lance Piece4;94
+277;iyffs21;C5051221;Leon Field Lance Piece1;95
+278;iyffs22;C5051222;Leon Field Lance Piece2;96
+279;iyffs23;C5051223;Leon Field Lance Piece3;97
+280;iyffs24;C5051224;Leon Field Lance Piece4;98
+281;iyfis21;C5081221;Leon Hora Spear Piece1;99
+282;iyfis22;C5081222;Leon Hora Spear Piece2;100
+283;iyfis23;C5081223;Leon Hora Spear Piece3;101
+284;iyfis24;C5081224;Leon Hora Spear Piece4;102
+285;iyfot21;C50E1321;Leon Black Stick Bead Piece1;103
+286;iyfot22;C50E1322;Leon Black Stick Bead Piece2;104
+287;iyfot23;C50E1323;Leon Black Stick Bead Piece3;105
+288;iyfot24;C50E1324;Leon Black Stick Bead Piece4;106
+289;iyfft21;C5051321;Leon Sickle Staff Piece1;107
+290;iyfft22;C5051322;Leon Sickle Staff Piece2;108
+291;iyfft23;C5051323;Leon Sickle Staff Piece3;109
+292;iyfft24;C5051324;Leon Sickle Staff Piece4;110
+293;iyfit21;C5081321;Leon Hora Staff Piece1;111
+294;iyfit22;C5081322;Leon Hora Staff Piece2;112
+295;iyfit23;C5081323;Leon Hora Staff Piece3;113
+296;iyfit24;C5081324;Leon Hora Staff Piece4;114
+297;iyfob21;C50E0121;Leon Beam Siege Bow Piece1;115
+298;iyfob22;C50E0122;Leon Beam Siege Bow Piece2;116
+299;iyfob23;C50E0123;Leon Beam Siege Bow Piece3;117
+300;iyfob24;C50E0124;Leon Beam Siege Bow Piece4;118
+301;iyffb21;C5050121;Leon Beam Gun Bow Piece1;119
+302;iyffb22;C5050122;Leon Beam Gun Bow Piece2;120
+303;iyffb23;C5050123;Leon Beam Gun Bow Piece3;121
+304;iyffb24;C5050124;Leon Beam Gun Bow Piece4;122
+305;iyfib21;C5080121;Leon Hora Bow Piece1;123
+306;iyfib22;C5080122;Leon Hora Bow Piece2;124
+307;iyfib23;C5080123;Leon Hora Bow Piece3;125
+308;iyfib24;C5080124;Leon Hora Bow Piece4;126
+309;iyfog21;C50E0621;Leon Bolt Rifle Piece1;127
+310;iyfog22;C50E0622;Leon Bolt Rifle Piece2;128
+311;iyfog23;C50E0623;Leon Bolt Rifle Piece3;129
+312;iyfog24;C50E0624;Leon Bolt Rifle Piece4;130
+313;iyffg21;C5050621;Leon Vulcan Piece1;131
+314;iyffg22;C5050622;Leon Vulcan Piece2;132
+315;iyffg23;C5050623;Leon Vulcan Piece3;133
+316;iyffg24;C5050624;Leon Vulcan Piece4;134
+317;iyfig21;C5080621;Leon Hora Vulcan Piece1;135
+318;iyfig22;C5080622;Leon Hora Vulcan Piece2;136
+319;iyfig23;C5080623;Leon Hora Vulcan Piece3;137
+320;iyfig24;C5080624;Leon Hora Vulcan Piece4;138
+321;iyfol21;C50E0B21;Leon Thrower Piece1;139
+322;iyfol22;C50E0B22;Leon Thrower Piece2;140
+323;iyfol23;C50E0B23;Leon Thrower Piece3;141
+324;iyfol24;C50E0B24;Leon Thrower Piece4;142
+325;iyffl21;C5050B21;Leon Missile Launcher Piece1;143
+326;iyffl22;C5050B22;Leon Missile Launcher Piece2;144
+327;iyffl23;C5050B23;Leon Missile Launcher Piece3;145
+328;iyffl24;C5050B24;Leon Missile Launcher Piece4;146
+329;iyfil21;C5080B21;Leon Hora Faust Piece1;147
+330;iyfil22;C5080B22;Leon Hora Faust Piece2;148
+331;iyfil23;C5080B23;Leon Hora Faust Piece3;149
+332;iyfil24;C5080B24;Leon Hora Faust Piece4;150
+333;iyset01;D2041301;Perdion Helmet Gilded Stone<A>;155
+334;iyset02;D2041302;Perdion Helmet Magical Stone<B>;156
+335;iyset03;D2041303;Perdion Helmet Abradant<C>;157
+336;iyset04;D2041304;Perdion Helmet Recipe<D>;158
+337;iyset05;D2041305;Perdion Shirts Gilded Stone<A>;159
+338;iyset06;D2041306;Perdion Shirts Magical Stone<B>;160
+339;iyset07;D2041307;Perdion Shirts Abradant<C>;161
+340;iyset08;D2041308;Perdion Shirts Recipe<D>;162
+341;iyset09;D2041309;Perdion Pants Gilded Stone<A>;163
+342;iyset10;D2041310;Perdion Pants Magical Stone<B>;164
+343;iyset11;D2041311;Perdion Pants Abradant<C>;165
+344;iyset12;D2041312;Perdion Pants Recipe<D>;166
+345;iyset13;D2041313;Perdion Gloves Gilded Stone<A>;167
+346;iyset14;D2041314;Perdion Gloves Magical Stone<B>;168
+347;iyset15;D2041315;Perdion Gloves Abradant<C>;169
+348;iyset16;D2041316;Perdion Gloves Recipe<D>;170
+349;iyset17;D2041317;Perdion Shoes Gilded Stone<A>;171
+350;iyset18;D2041318;Perdion Shoes Magical Stone<B>;172
+351;iyset19;D2041319;Perdion Shoes Abradant<C>;173
+352;iyset20;D2041320;Perdion Shoes Recipe<D>;174
+353;iyset21;D2041321;Perdion Accessories Gilded Stone<A>;175
+354;iyset22;D2041322;Perdion Accessories Magical Stone<B>;176
+355;iyset23;D2041323;Perdion Accessories Abradant<C>;177
+356;iyset24;D2041324;Perdion Accessories Recipe<D>;178
+357;iyset25;D2041325;Uniform Gilded Stone<A>;179
+358;iyset26;D2041326;Uniform Magical Stone<B>;180
+359;iyset27;D2041327;Uniform Abradant<C>;181
+360;iyset28;D2041328;Uniform Recipe<D>;182
+361;iygem01;C6040C01;Rare Ore;183
+362;iygem02;C6040C02;Desirable Crafted Ore;184
+363;iygem03;C6040C03;Glowing Crafted Ore;185
+364;iygem04;C6040C04;Sparkling Gem;186
+365;iyhol01;C70E0B01;Holymental Scanner;200
+366;iycsa01;C2120001;3~4Ignorance Upgrader[B-Class];187
+367;iycsa02;C2120002;3~5Ignorance Upgrader[B-Class];188
+368;iycsa03;C2120003;4~6Ignorance Upgrader[B-Class];189
+369;iycsa04;C2120004;3~7Ignorance Upgrader[B-Class];190
+370;iycsa05;C2120005;4~7Ignorance Upgrader[B-Class];191
+371;iycsa06;C2120006;5~7Ignorance Upgrader[B-Class];192
+372;iycsa07;C2120007;3~4Ignorance Upgrader[C-Class];193
+373;iycsa08;C2120008;3~5Ignorance Upgrader[C-Class];194
+374;iycsa09;C2120009;4~6Ignorance Upgrader[C-Class];195
+375;iycsa10;C2120010;3~7Ignorance Upgrader[C-Class];196
+376;iycsa11;C2120011;4~7Ignorance Upgrader[C-Class];197
+377;iycsa12;C2120012;5~7Ignorance Upgrader[C-Class];198
+378;iycsa13;C2120013;Lucky Set of Gem Exchanger;199
+379;iyhst01;C7121301;4 Dimensional Metal[Helmet item];201
+380;iyhst02;C7121302;Helmet Plated Stone Recipe<A>;202
+381;iyhst03;C7121303;Helmet Plated Stone Recipe<B>;203
+382;iyhst04;C7121304;Helmet Plated Stone Recipe<C>;204
+383;iyhst05;C7121305;4 Dimensional Magic Ore[Helmet Item];205
+384;iyhst06;C7121306;Helmet Magic Stone Recipe<A>;206
+385;iyhst07;C7121307;Helmet Magic Stone Recipe<B>;207
+386;iyhst08;C7121308;Helmet Magic Stone Recipe<C>;208
+387;iyhst09;C7121309;4 Dimensional Basalt[Helmet Item];209
+388;iyhst10;C7121310;Helmet Abradant Recipe<A>;210
+389;iyhst11;C7121311;Helmet Abradant Recipe<B>;211
+390;iyhst12;C7121312;Helmet Abradant Recipe<C>;212
+391;iyust01;D4121301;4 Dimensional Steel[Upper Item];213
+392;iyust02;D4121302;Upper Item Plated Stone Recipe<A>;214
+393;iyust03;D4121303;Upper Item Plated Stone Recipe<B>;215
+394;iyust04;D4121304;Upper Item Plated Stone Recipe<C>;216
+395;iyust05;D4121305;4 Dimensional Magic Ore[Upper Item];217
+396;iyust06;D4121306;Upper Item Magic Stone Recipe<A>;218
+397;iyust07;D4121307;Upper Item Magic Stone Recipe<B>;219
+398;iyust08;D4121308;Upper Item Magic Stone Recipe<C>;220
+399;iyust09;D4121309;4 Dimensional Basalt[Upper Item];221
+400;iyust10;D4121310;Upper Item Abradant Recipe<A>;222
+401;iyust11;D4121311;Upper Item Abradant Recipe<B>;223
+402;iyust12;D4121312;Upper Item Abradant Recipe<C>;224
+403;iylst01;CB121301;4 Dimensional Steel[Lower Item];225
+404;iylst02;CB121302;Lower Item Plated Stone Recipe<A>;226
+405;iylst03;CB121303;Lower Item Plated Stone Recipe<B>;227
+406;iylst04;CB121304;Lower Item Plated Stone Recipe<C>;228
+407;iylst05;CB121305;4 Dimensional Magic Ore[Lower Item];229
+408;iylst06;CB121306;Lower Item Magic Stone Recipe<A>;230
+409;iylst07;CB121307;Lower Item Magic Stone Recipe<B>;231
+410;iylst08;CB121308;Lower Item Magic Stone Recipe<C>;232
+411;iylst09;CB121309;4 Dimensional Basalt[Lower Item];233
+412;iylst10;CB121310;Lower Item Abradant Recipe<A>;234
+413;iylst11;CB121311;Lower Item Abradant Recipe<B>;235
+414;iylst12;CB121312;Lower Item Abradant Recipe<C>;236
+415;iygst01;C6121301;4 Dimensional Steel[Gauntlet item];237
+416;iygst02;C6121302;Gauntlet Plated Stone Recipe<A>;238
+417;iygst03;C6121303;Gauntlet Plated Stone Recipe<B>;239
+418;iygst04;C6121304;Gauntlet Plated Stone Recipe<C>;240
+419;iygst05;C6121305;4 Dimensional Magic Ore[Gauntlet item];241
+420;iygst06;C6121306;Gauntlet Magic Stone Recipe<A>;242
+421;iygst07;C6121307;Gauntlet Magic Stone Recipe<B>;243
+422;iygst08;C6121308;Gauntlet Magic Stone Recipe<C>;244
+423;iygst09;C6121309;4 Dimensional Basalt[Gauntlet item];245
+424;iygst10;C6121310;Gauntlet Abradant Recipe<A>;246
+425;iygst11;C6121311;Gauntlet Abradant Recipe<B>;247
+426;iygst12;C6121312;Gauntlet Abradant Recipe<C>;248
+427;iysst01;D2121301;4 Dimensional Steel[Shoe item];249
+428;iysst02;D2121302;Shoe Plated Stone Recipe<A>;250
+429;iysst03;D2121303;Shoe Plated Stone Recipe<B>;251
+430;iysst04;D2121304;Shoe Plated Stone Recipe<C>;252
+431;iysst05;D2121305;4 Dimensional Magic Ore[Shoe item];253
+432;iysst06;D2121306;Shoe Magic Stone Recipe<A>;254
+433;iysst07;D2121307;Shoe Magic Stone Recipe<B>;255
+434;iysst08;D2121308;Shoe Magic Stone Recipe<C>;256
+435;iysst09;D2121309;4 Dimensional Basalt[Shoe item];257
+436;iysst10;D2121310;Shoe Abradant Recipe<A>;258
+437;iysst11;D2121311;Shoe Abradant Recipe<B>;259
+438;iysst12;D2121312;Shoe Abradant Recipe<C>;260
+439;iyast01;C0121301;4 Dimensional Steel[Accesory item];261
+440;iyast02;C0121302;Accesory Plated Stone Recipe<A>;262
+441;iyast03;C0121303;Accesory Plated Stone Recipe<B>;263
+442;iyast04;C0121304;Accesory Plated Stone Recipe<C>;264
+443;iyast05;C0121305;4 Dimensional Magic Ore[Accesory item];265
+444;iyast06;C0121306;Accesory Magic Stone Recipe<A>;266
+445;iyast07;C0121307;Accesory Magic Stone Recipe<B>;267
+446;iyast08;C0121308;Accesory Magic Stone Recipe<C>;268
+447;iyast09;C0121309;4 Dimensional Basalt[Accesory item];269
+448;iyast10;C0121310;Accesory Abradant Recipe<A>;270
+449;iyast11;C0121311;Accesory Abradant Recipe<B>;271
+450;iyast12;C0121312;Accesory Abradant Recipe<C>;272
+451;iycjh01;C2090701;Indurance Armor Ability;273
+452;iycjh02;C2090702;Fine Armor Ability;274
+453;iycjh03;C2090703;Strong Armor Ability;275
+454;iycjh04;C2090704;Solid Armor Ability;276
+455;iycjh05;C2090705;Strength Armor Ability;277
+456;iycjh06;C2090706;Advanced Strength Armor Ability;278
+457;iycjh07;C2090707;Vampire Armor Ability;279
+458;iycjh08;C2090708;Guardian Armor Ability;280
+459;iycjh09;C2090709;Sharp Armor Ability;281
+460;iycjh10;C2090710;Grand Armor Ability;282
+461;iycjh11;C2090711;Anti-Sharp Armor Ability;283
+462;iycjh12;C2090712;Saving Armor Ability;284
+463;iycjh13;C2090713;Protection Armor Ability;285
+464;iycsa14;C2120014;Unstable Helmet3~4 Favor Upgrader[B];719
+465;iycsa15;C2120015;Unstable Upper Item3~4 Favor Upgrader[B];720
+466;iycsa16;C2120016;Unstable Lower Item3~4 Favor Upgrader[B];721
+467;iycsa17;C2120017;Unstable Gauntlet3~4 Favor Upgrader[B];722
+468;iycsa18;C2120018;Unstable Shoe3~4 Favor Upgrader[B];723
+469;iycsa19;C2120019;Unstable Helmet3~5 Favor Upgrader[B];724
+470;iycsa20;C2120020;Unstable Upper Item3~5 Favor Upgrader[B];725
+471;iycsa21;C2120021;Unstable Lower Item3~5 Favor Upgrader[B];726
+472;iycsa22;C2120022;Unstable Gauntlet3~5 Favor Upgrader[B];727
+473;iycsa23;C2120023;Unstable Shoe3~5 Favor Upgrader[B];728
+474;iycsa24;C2120024;Unstable Helmet4~6 Favor Upgrader[B];729
+475;iycsa25;C2120025;Unstable Upper Item4~6 Favor Upgrader[B];730
+476;iycsa26;C2120026;Unstable Lower Item4~6 Favor Upgrader[B];731
+477;iycsa27;C2120027;Unstable Gauntlet4~6 Favor Upgrader[B];732
+478;iycsa28;C2120028;Unstable Shoe4~6 Favor Upgrader[B];733
+479;iycsa29;C2120029;Unstable Helmet3~7 Favor Upgrader[B];734
+480;iycsa30;C2120030;Unstable Upper Item3~7 Favor Upgrader[B];735
+481;iycsa31;C2120031;Unstable Lower Item3~7 Favor Upgrader[B];736
+482;iycsa32;C2120032;Unstable Gauntlet3~7 Favor Upgrader[B];737
+483;iycsa33;C2120033;Unstable Shoe3~7 Favor Upgrader[B];738
+484;iycsa34;C2120034;Unstable Helmet4~7 Favor Upgrader[B];739
+485;iycsa35;C2120035;Unstable Upper Item4~7 Favor Upgrader[B];740
+486;iycsa36;C2120036;Unstable Lower Item4~7 Favor Upgrader[B];741
+487;iycsa37;C2120037;Unstable Gauntlet4~7 Favor Upgrader[B];742
+488;iycsa38;C2120038;Unstable Shoe4~7 Favor Upgrader[B];743
+489;iycsa39;C2120039;Unstable Helmet5~7 Favor Upgrader[B];744
+490;iycsa40;C2120040;Unstable Upper Item5~7 Favor Upgrader[B];745
+491;iycsa41;C2120041;Unstable Lower Item5~7 Favor Upgrader[B];746
+492;iycsa42;C2120042;Unstable Gauntlet5~7 Favor Upgrader[B];747
+493;iycsa43;C2120043;Unstable Shoe5~7 Favor Upgrader[B];748
+494;iycsa44;C2120044;Unstable Shield3~4 Favor Upgrader[B];749
+495;iycsa45;C2120045;Unstable Shield3~5 Favor Upgrader[B];750
+496;iycsa46;C2120046;Unstable Shield4~6 Favor Upgrader[B];751
+497;iycsa47;C2120047;Unstable Shield3~7 Favor Upgrader[B];752
+498;iycsa48;C2120048;Unstable Shield4~7 Favor Upgrader[B];753
+499;iycsa49;C2120049;Unstable Shield5~7 Favor Upgrader[B];754
+500;iycsa50;C2120050;AttackIncrease Potion SetA Coupon;322
+501;iycsa51;C2120051;AttackIncrease Potion SetA Coupon;323
+502;iycsa52;C2120052;AttackIncrease Potion SetA Coupon;324
+503;iycsa53;C2120053;Weapon Socket extender[Normal];325
+504;iycsa54;C2120054;Weapon Socket extender[A];326
+505;iycsa55;C2120055;Weapon Socket extender[B];327
+506;iycsa56;C2120056;Weapon Socket extender[C];328
+507;iycsa57;C2120057;Armor Socket extender[Normal];329
+508;iycsa58;C2120058;Armor Socket extender[B];330
+509;iycsa59;C2120059;Unstable3~4 Ignorance Upgrader[B];331
+510;iycsa60;C2120060;Unstable3~5 Ignorance Upgrader[B];332
+511;iycsa61;C2120061;Unstable4~6 Ignorance Upgrader[B];333
+512;iycsa62;C2120062;Unstable3~7 Ignorance Upgrader[B];334
+513;iycsa63;C2120063;Unstable4~7 Ignorance Upgrader[B];335
+514;iycsa64;C2120064;Unstable5~7 Ignorance Upgrader[B];336
+515;iycsa65;C2120065;Unstable3~4 Ignorance Upgrader[C];337
+516;iycsa66;C2120066;Unstable3~5 Ignorance Upgrader[C];338
+517;iycsa67;C2120067;Unstable4~6 Ignorance Upgrader[C];339
+518;iycsa68;C2120068;Unstable3~7 Ignorance Upgrader[C];340
+519;iycsa69;C2120069;Unstable4~7 Ignorance Upgrader[C];341
+520;iycsa70;C2120070;Unstable5~7 Ignorance Upgrader[C];342
+521;iycsa71;C2120071;Unstable3~4 Ignorance Upgrader[Normal];343
+522;iycsa72;C2120072;Unstable3~5 Ignorance Upgrader[Normal];344
+523;iycsa73;C2120073;Unstable4~6 Ignorance Upgrader[Normal];345
+524;iycsa74;C2120074;Unstable3~7 Ignorance Upgrader[Normal];346
+525;iycsa75;C2120075;Unstable4~7 Ignorance Upgrader[Normal];347
+526;iycsa76;C2120076;Unstable5~7 Ignorance Upgrader[Normal];348
+527;iycsa77;C2120077;Unstable Helmet3~4 Favor Upgrader[Normal];755
+528;iycsa78;C2120078;Unstable Upper Item3~4 Favor Upgrader[Normal];756
+529;iycsa79;C2120079;Unstable Lower Item3~4 Favor Upgrader[Normal];757
+530;iycsa80;C2120080;Unstable Gauntlet3~4 Favor Upgrader[Normal];758
+531;iycsa81;C2120081;Unstable Shoe3~4 Favor Upgrader[Normal];759
+532;iycsa82;C2120082;Unstable Helmet3~5 Favor Upgrader[Normal];760
+533;iycsa83;C2120083;Unstable Upper Item3~5 Favor Upgrader[Normal];761
+534;iycsa84;C2120084;Unstable Lower Item3~5 Favor Upgrader[Normal];762
+535;iycsa85;C2120085;Unstable Gauntlet3~5 Favor Upgrader[Normal];763
+536;iycsa86;C2120086;Unstable Shoe3~5 Favor Upgrader[Normal];764
+537;iycsa87;C2120087;Unstable Helmet4~6 Favor Upgrader[Normal];765
+538;iycsa88;C2120088;Unstable Upper Item4~6 Favor Upgrader[Normal];766
+539;iycsa89;C2120089;Unstable Lower Item4~6 Favor Upgrader[Normal];767
+540;iycsa90;C2120090;Unstable Gauntlet4~6 Favor Upgrader[Normal];768
+541;iycsa91;C2120091;Unstable Shoe4~6 Favor Upgrader[Normal];769
+542;iycsa92;C2120092;Unstable Helmet3~7 Favor Upgrader[Normal];770
+543;iycsa93;C2120093;Unstable Upper Item3~7 Favor Upgrader[Normal];771
+544;iycsa94;C2120094;Unstable Lower Item3~7 Favor Upgrader[Normal];772
+545;iycsa95;C2120095;Unstable Gauntlet3~7 Favor Upgrader[Normal];773
+546;iycsa96;C2120096;Unstable Shoe3~7 Favor Upgrader[Normal];774
+547;iycsa97;C2120097;Unstable Helmet4~7 Favor Upgrader[Normal];775
+548;iycsa98;C2120098;Unstable Upper Item4~7 Favor Upgrader[Normal];776
+549;iycsa99;C2120099;Unstable Lower Item4~7 Favor Upgrader[Normal];777
+550;iycsb01;C2120101;Unstable Gauntlet4~7 Favor Upgrader[Normal];778
+551;iycsb02;C2120102;Unstable Shoe4~7 Favor Upgrader[Normal];779
+552;iycsb03;C2120103;Unstable Helmet5~7 Favor Upgrader[Normal];780
+553;iycsb04;C2120104;Unstable Upper Item5~7 Favor Upgrader[Normal];781
+554;iycsb05;C2120105;Unstable Lower Item5~7 Favor Upgrader[Normal];782
+555;iycsb06;C2120106;Unstable Gauntlet5~7 Favor Upgrader[Normal];783
+556;iycsb07;C2120107;Unstable Shoe5~7 Favor Upgrader[Normal];784
+557;iycsb08;C2120108;Unstable Shield3~4 Favor Upgrader[Normal];785
+558;iycsb09;C2120109;Unstable Shield3~5 Favor Upgrader[Normal];786
+559;iycsb10;C2120110;Unstable Shield4~6 Favor Upgrader[Normal];787
+560;iycsb11;C2120111;Unstable Shield3~7 Favor Upgrader[Normal];788
+561;iycsb12;C2120112;Unstable Shield4~7 Favor Upgrader[Normal];789
+562;iycsb13;C2120113;Unstable Shield5~7 Favor Upgrader[Normal];790
+563;iycsb14;C2120114;Shield Socket extender[Normal];385
+564;iycsb15;C2120115;Shield Socket extender[B];386
+565;iycsb16;C2120116;Shield Socket extender[A];387
+566;iybox01;C10E1701;Small EmptyBox;388
+567;iybox02;C10E1702;EmptyBox;389
+568;iybox03;C10E1703;Large EmptyBox;390
+569;iyeee31;C4040431;Gold Pig;391
+570;iyevt01;C4151301;Snow Spray Pump;392
+571;iyevt02;C4151302;Snow Spray Handle;393
+572;iyevt03;C4151303;Snow Spray Launcher;394
+573;iyevt04;C4151304;Snow Spray Freezer;395
+574;iynwb00;CD160100;Nuclear Controller;396
+575;iynwc00;CD160200;Nuclear Controller;397
+576;iynwa00;CD160000;Nuclear Controller;398
+577;iydrk01;C3110A01;DarkHall's Voucher;399
+578;iyyyy27;D8181827;Sharp Fang;400
+579;iyyyy28;D8181828;Bloody Claw;401
+580;iyyyy29;D8181829;Sluggish Tongue;402
+581;iyyyy30;D8181830;Filled Venom Sac;403
+582;iyyyy31;D8181831;Cracked Shell;404
+583;iyyyy32;D8181832;Butcher's Epaulet;405
+584;iyyyy33;D8181833;Snatcher Ringleader Head;406
+585;iyyyy34;D8181834;Nose Pendant of Pain;407
+586;iyyyy35;D8181835;Crawler Ringleader Head;408
+587;iyyyy36;D8181836;Tracker's Eyeball;409
+588;iyyyy37;D8181837;Vafer Ringleader Head;410
+589;iymrk01;CC110A01;Seal of Blood;411
+590;iymrk02;CC110A02;Seal of Destruction;412
+591;iymrk03;CC110A03;Seal of Soul;413
+592;iyhmr01;C70C1101;Sting Host Marr's Venom Sac;414
+593;iymap02;CC000F02;Ruined Nature Hologram;416
+594;iymas01;CC001201;Low-Grade Talic Master;417
+595;iymas02;CC001202;Intermediate-Grade Talic Master;418
+596;iymas03;CC001203;High-Grade Talic Master;419
+597;iymas04;CC001204;Highest-Grade Talic Master;420
+598;iyrel01;D1040B01;Ruined Seal Breaking Scroll;421
+599;iyrel02;D1040B02;Normal Seal Breaking Scroll;422
+600;iyrel03;D1040B03;Blessed Seal Breaking Scroll;423
+601;iycsb17;C2120117;1~2Keen Upgrader[Normal];424
+602;iycsb18;C2120118;1~3Keen Upgrader[Normal];425
+603;iycsb19;C2120119;1~4Keen Upgrader[Normal];426
+604;iycsb20;C2120120;1~5Keen Upgrader[Normal];427
+605;iycsb21;C2120121;2~3Keen Upgrader[Normal];428
+606;iycsb22;C2120122;2~4Keen Upgrader[Normal];429
+607;iycsb23;C2120123;2~5Keen Upgrader[Normal];430
+608;iycsb24;C2120124;2~6Keen Upgrader[Normal];431
+609;iycsb25;C2120125;3~4Keen Upgrader[Normal];432
+610;iycsb26;C2120126;3~5Keen Upgrader[Normal];433
+611;iycsb27;C2120127;3~6Keen Upgrader[Normal];434
+612;iycsb28;C2120128;3~7Keen Upgrader[Normal];435
+613;iycsb29;C2120129;4~5Keen Upgrader[Normal];436
+614;iycsb30;C2120130;4~6Keen Upgrader[Normal];437
+615;iycsb31;C2120131;4~7Keen Upgrader[Normal];438
+616;iycsb32;C2120132;5~6Keen Upgrader[Normal];439
+617;iycsb33;C2120133;5~7Keen Upgrader[Normal];440
+618;iycsb34;C2120134;6~7Keen Upgrader[Normal];441
+619;iycsb35;C2120135;1~2Keen Upgrader[B-Class];442
+620;iycsb36;C2120136;1~3Keen Upgrader[B-Class];443
+621;iycsb37;C2120137;1~4Keen Upgrader[B-Class];444
+622;iycsb38;C2120138;1~5Keen Upgrader[B-Class];445
+623;iycsb39;C2120139;2~3Keen Upgrader[B-Class];446
+624;iycsb40;C2120140;2~4Keen Upgrader[B-Class];447
+625;iycsb41;C2120141;2~5Keen Upgrader[B-Class];448
+626;iycsb42;C2120142;2~6Keen Upgrader[B-Class];449
+627;iycsb43;C2120143;3~6Keen Upgrader[B-Class];450
+628;iycsb44;C2120144;4~5Keen Upgrader[B-Class];451
+629;iycsb46;C2120146;5~6Keen Upgrader[B-Class];452
+630;iycsb47;C2120147;6~7Keen Upgrader[B-Class];453
+631;iycsb48;C2120148;1~2Keen Upgrader[C-Class];454
+632;iycsb49;C2120149;1~3Keen Upgrader[C-Class];455
+633;iycsb50;C2120150;1~4Keen Upgrader[C-Class];456
+634;iycsb51;C2120151;1~5Keen Upgrader[C-Class];457
+635;iycsb52;C2120152;2~3Keen Upgrader[C-Class];458
+636;iycsb53;C2120153;2~4Keen Upgrader[C-Class];459
+637;iycsb54;C2120154;2~5Keen Upgrader[C-Class];460
+638;iycsb55;C2120155;2~6Keen Upgrader[C-Class];461
+639;iycsb56;C2120156;3~6Keen Upgrader[C-Class];462
+640;iycsb57;C2120157;4~5Keen Upgrader[C-Class];463
+641;iycsb59;C2120159;5~6Keen Upgrader[C-Class];464
+642;iycsb60;C2120160;6~7Keen Upgrader[C-Class];465
+643;iycsb61;C2120161;Unstable 1~2Keen Upgrader[Normal];466
+644;iycsb62;C2120162;Unstable 1~3Keen Upgrader[Normal];467
+645;iycsb63;C2120163;Unstable 1~4Keen Upgrader[Normal];468
+646;iycsb64;C2120164;Unstable 1~5Keen Upgrader[Normal];469
+647;iycsb65;C2120165;Unstable 2~3Keen Upgrader[Normal];470
+648;iycsb66;C2120166;Unstable 2~4Keen Upgrader[Normal];471
+649;iycsb67;C2120167;Unstable 2~5Keen Upgrader[Normal];472
+650;iycsb68;C2120168;Unstable 2~6Keen Upgrader[Normal];473
+651;iycsb69;C2120169;Unstable 3~6Keen Upgrader[Normal];474
+652;iycsb70;C2120170;Unstable 4~5Keen Upgrader[Normal];475
+653;iycsb72;C2120172;Unstable 5~6Keen Upgrader[Normal];476
+654;iycsb73;C2120173;Unstable 6~7Keen Upgrader[Normal];477
+655;iycsb74;C2120174;Unstable 1~2Keen Upgrader[B-Class];478
+656;iycsb75;C2120175;Unstable 1~3Keen Upgrader[B-Class];479
+657;iycsb76;C2120176;Unstable 1~4Keen Upgrader[B-Class];480
+658;iycsb77;C2120177;Unstable 1~5Keen Upgrader[B-Class];481
+659;iycsb78;C2120178;Unstable 2~3Keen Upgrader[B-Class];482
+660;iycsb79;C2120179;Unstable 2~4Keen Upgrader[B-Class];483
+661;iycsb80;C2120180;Unstable 2~5Keen Upgrader[B-Class];484
+662;iycsb81;C2120181;Unstable 2~6Keen Upgrader[B-Class];485
+663;iycsb82;C2120182;Unstable 3~6Keen Upgrader[B-Class];486
+664;iycsb83;C2120183;Unstable 4~5Keen Upgrader[B-Class];487
+665;iycsb85;C2120185;Unstable 5~6Keen Upgrader[B-Class];488
+666;iycsb86;C2120186;Unstable 6~7Keen Upgrader[B-Class];489
+667;iycsb87;C2120187;Unstable 1~2Keen Upgrader[C-Class];490
+668;iycsb88;C2120188;Unstable 1~3Keen Upgrader[C-Class];491
+669;iycsb89;C2120189;Unstable 1~4Keen Upgrader[C-Class];492
+670;iycsb90;C2120190;Unstable 1~5Keen Upgrader[C-Class];493
+671;iycsb91;C2120191;Unstable 2~3Keen Upgrader[C-Class];494
+672;iycsb92;C2120192;Unstable 2~4Keen Upgrader[C-Class];495
+673;iycsb93;C2120193;Unstable 2~5Keen Upgrader[C-Class];496
+674;iycsb94;C2120194;Unstable 2~6Keen Upgrader[C-Class];497
+675;iycsb95;C2120195;Unstable 3~6Keen Upgrader[C-Class];498
+676;iycsb96;C2120196;Unstable 4~5Keen Upgrader[C-Class];499
+677;iycsb98;C2120198;Unstable 5~6Keen Upgrader[C-Class];500
+678;iycsb99;C2120199;Unstable 6~7Keen Upgrader[C-Class];501
+679;iycsc09;C2120209;Unstable 1~4Favor Upgrader[Normal];791
+680;iycsc10;C2120210;Unstable 1~5Favor Upgrader[Normal];792
+681;iycsc11;C2120211;Unstable 2~4Favor Upgrader[Normal];793
+682;iycsc12;C2120212;Unstable 2~5Favor Upgrader[Normal];794
+683;iycsc13;C2120213;Unstable 2~6Favor Upgrader[Normal];795
+684;iycsc14;C2120214;Unstable 3~6Favor Upgrader[Normal];796
+685;iycsc15;C2120215;Unstable 4~5Favor Upgrader[Normal];797
+686;iycsc16;C2120216;Unstable 5~6Favor Upgrader[Normal];798
+687;iycsc17;C2120217;Unstable 6~7Favor Upgrader[Normal];799
+688;iycsc18;C2120218;Unstable 1~4Favor Upgrader[B-Class];800
+689;iycsc19;C2120219;Unstable 1~5Favor Upgrader[B-Class];801
+690;iycsc20;C2120220;Unstable 2~4Favor Upgrader[B-Class];802
+691;iycsc21;C2120221;Unstable 2~5Favor Upgrader[B-Class];803
+692;iycsc22;C2120222;Unstable 2~6Favor Upgrader[B-Class];804
+693;iycsc23;C2120223;Unstable 3~6Favor Upgrader[B-Class];805
+694;iycsc24;C2120224;Unstable 4~5Favor Upgrader[B-Class];806
+695;iycsc25;C2120225;Unstable 5~6Favor Upgrader[B-Class];807
+696;iycsc26;C2120226;Unstable 6~7Favor Upgrader[B-Class];808
+697;iycsc27;C2120227;Unstable 1~4Favor Upgrader[C-Class];809
+698;iycsc28;C2120228;Unstable 1~5Favor Upgrader[C-Class];810
+699;iycsc29;C2120229;Unstable 2~4Favor Upgrader[C-Class];811
+700;iycsc30;C2120230;Unstable 2~5Favor Upgrader[C-Class];812
+701;iycsc31;C2120231;Unstable 2~6Favor Upgrader[C-Class];813
+702;iycsc32;C2120232;Unstable 3~6Favor Upgrader[C-Class];814
+703;iycsc33;C2120233;Unstable 4~5Favor Upgrader[C-Class];815
+704;iycsc34;C2120234;Unstable 5~6Favor Upgrader[C-Class];816
+705;iycsc35;C2120235;Unstable 3~4Favor Upgrader[C-Class];817
+706;iycsc36;C2120236;Unstable 3~5Favor Upgrader[C-Class];818
+707;iycsc37;C2120237;Unstable 4~6Favor Upgrader[C-Class];819
+708;iycsc38;C2120238;Unstable 3~7Favor Upgrader[C-Class];820
+709;iycsc39;C2120239;Unstable 4~7Favor Upgrader[C-Class];821
+710;iycsc40;C2120240;Unstable 5~7Favor Upgrader[C-Class];822
+711;iycsc41;C2120241;Unstable 6~7Favor Upgrader[C-Class];823
+712;iybud01;C1140301;Lotus Flower Leaf;535
+713;iybud02;C1140302;Old Beads;536
+714;iybud03;C1140303;Exchange Ticket for Buddhist Statue;537
+715;iybud04;C1140304;Empty BeadBox;538
+716;iyque01;D0140401;Leon Volcof's Emblem;539
+717;iyque02;D0140402;Series Gale's Emblem;540
+718;iyque03;D0140403;Thrash's Emblem;541
+719;iyelf01;C40B0501;Snatcher Soldier's Contract;1063
+720;iyelf02;C40B0502;Vafer Shaman's Contract;1064
+721;iyelf03;C40B0503;Large Protection Soul PieceTranslation;1072
+722;iyelf04;C40B0504;Small piece of guardian lord;1065
+723;iyelf05;C40B0505;Leader's Letter First Volume;1066
+724;iyelf06;C40B0506;Leader's Letter Second Volume;1067
+725;iyelf07;C40B0507;Hajal's Key;1068
+726;iyelf08;C40B0508;Najal's Key;1069
+727;iyelf09;C40B0509;Soul's Seed;1070
+728;iyelf10;C40B0510;Babel Fish;1071
+729;iyelf11;C40B0511;Location Tracking Device;1073
+730;iyelf12;C40B0512;Crawler Baby;1074
+731;iyelf13;C40B0513;Herodian's Symbol;1075
+732;iycsc42;C2120242;50Superior Armor 2~4Socket Extender;542
+733;iycsc43;C2120243;50Superior Armor 5~6Socket Extender;542
+734;iycsc44;C2120244;50Superior Armor 7Socket Extender;542
+735;iycsc45;C2120245;53Superior Armor 2~4Socket Extender;542
+736;iycsc46;C2120246;53Superior Armor 5~6Socket Extender;542
+737;iycsc47;C2120247;53Superior Armor 7Socket Extender;542
+738;iycsc48;C2120248;55Superior Armor 2~4Socket Extender;542
+739;iycsc49;C2120249;55Superior Armor 5~6Socket Extender;542
+740;iycsc50;C2120250;55Superior Armor 7Socket Extender;542
+741;iycsc51;C2120251;50Superior Armor 1~2 Favor Upgrader;543
+742;iycsc52;C2120252;50Superior Armor 1~3 Favor Upgrader;544
+743;iycsc53;C2120253;50Superior Armor 1~4 Favor Upgrader;545
+744;iycsc54;C2120254;50Superior Armor 1~5 Favor Upgrader;546
+745;iycsc55;C2120255;50Superior Armor 1~6 Favor Upgrader;547
+746;iycsc56;C2120256;50Superior Armor 1~7 Favor Upgrader;548
+747;iycsc57;C2120257;50Superior Armor 2~3 Favor Upgrader;549
+748;iycsc58;C2120258;50Superior Armor 2~4 Favor Upgrader;550
+749;iycsc59;C2120259;50Superior Armor 2~5 Favor Upgrader;551
+750;iycsc60;C2120260;50Superior Armor 2~6 Favor Upgrader;552
+751;iycsc61;C2120261;50Superior Armor 2~7 Favor Upgrader;553
+752;iycsc62;C2120262;50Superior Armor 3~4 Favor Upgrader;554
+753;iycsc63;C2120263;50Superior Armor 3~5 Favor Upgrader;555
+754;iycsc64;C2120264;50Superior Armor 3~6 Favor Upgrader;556
+755;iycsc65;C2120265;50Superior Armor 3~7 Favor Upgrader;557
+756;iycsc66;C2120266;50Superior Armor 4~5 Favor Upgrader;558
+757;iycsc67;C2120267;50Superior Armor 4~6 Favor Upgrader;559
+758;iycsc68;C2120268;50Superior Armor 4~7 Favor Upgrader;560
+759;iycsc69;C2120269;50Superior Armor 5~6 Favor Upgrader;561
+760;iycsc70;C2120270;50Superior Armor 5~7 Favor Upgrader;562
+761;iycsc71;C2120271;50Superior Armor 6~7 Favor Upgrader;563
+762;iycsc72;C2120272;53Superior Armor 1~2 Favor Upgrader;564
+763;iycsc73;C2120273;53Superior Armor 1~3 Favor Upgrader;565
+764;iycsc74;C2120274;53Superior Armor 1~4 Favor Upgrader;566
+765;iycsc75;C2120275;53Superior Armor 1~5 Favor Upgrader;567
+766;iycsc76;C2120276;53Superior Armor 1~6 Favor Upgrader;568
+767;iycsc77;C2120277;53Superior Armor 1~7 Favor Upgrader;569
+768;iycsc78;C2120278;53Superior Armor 2~3 Favor Upgrader;570
+769;iycsc79;C2120279;53Superior Armor 2~4 Favor Upgrader;571
+770;iycsc80;C2120280;53Superior Armor 2~5 Favor Upgrader;572
+771;iycsc81;C2120281;53Superior Armor 2~6 Favor Upgrader;573
+772;iycsc82;C2120282;53Superior Armor 2~7 Favor Upgrader;574
+773;iycsc83;C2120283;53Superior Armor 3~4 Favor Upgrader;575
+774;iycsc84;C2120284;53Superior Armor 3~5 Favor Upgrader;576
+775;iycsc85;C2120285;53Superior Armor 3~6 Favor Upgrader;577
+776;iycsc86;C2120286;53Superior Armor 3~7 Favor Upgrader;578
+777;iycsc87;C2120287;53Superior Armor 4~5 Favor Upgrader;579
+778;iycsc88;C2120288;53Superior Armor 4~6 Favor Upgrader;580
+779;iycsc89;C2120289;53Superior Armor 4~7 Favor Upgrader;581
+780;iycsc90;C2120290;53Superior Armor 5~6 Favor Upgrader;582
+781;iycsc91;C2120291;53Superior Armor 5~7 Favor Upgrader;583
+782;iycsc92;C2120292;53Superior Armor 6~7 Favor Upgrader;584
+783;iycsc93;C2120293;55Superior Armor 1~2 Favor Upgrader;585
+784;iycsc94;C2120294;55Superior Armor 1~3 Favor Upgrader;586
+785;iycsc95;C2120295;55Superior Armor 1~4 Favor Upgrader;587
+786;iycsc96;C2120296;55Superior Armor 1~5 Favor Upgrader;588
+787;iycsc97;C2120297;55Superior Armor 1~6 Favor Upgrader;589
+788;iycsc98;C2120298;55Superior Armor 1~7 Favor Upgrader;590
+789;iycsc99;C2120299;55Superior Armor 2~3 Favor Upgrader;591
+790;iycsd01;C2120301;55Superior Armor 2~4 Favor Upgrader;592
+791;iycsd02;C2120302;55Superior Armor 2~5 Favor Upgrader;593
+792;iycsd03;C2120303;55Superior Armor 2~6 Favor Upgrader;594
+793;iycsd04;C2120304;55Superior Armor 2~7 Favor Upgrader;595
+794;iycsd05;C2120305;55Superior Armor 3~4 Favor Upgrader;596
+795;iycsd06;C2120306;55Superior Armor 3~5 Favor Upgrader;597
+796;iycsd07;C2120307;55Superior Armor 3~6 Favor Upgrader;598
+797;iycsd08;C2120308;55Superior Armor 3~7 Favor Upgrader;599
+798;iycsd09;C2120309;55Superior Armor 4~5 Favor Upgrader;600
+799;iycsd10;C2120310;55Superior Armor 4~6 Favor Upgrader;601
+800;iycsd11;C2120311;55Superior Armor 4~7 Favor Upgrader;602
+801;iycsd12;C2120312;55Superior Armor 5~6 Favor Upgrader;603
+802;iycsd13;C2120313;55Superior Armor 5~7 Favor Upgrader;604
+803;iycsd14;C2120314;55Superior Armor 6~7 Favor Upgrader;605
+804;iyhrd01;C7110301;Herodian Genetic Information Chip;702
+805;iychm01;C2070C01;Sealed Wrapping Charm;703
+806;iychm02;C2070C02;Sealed Trading Charm;704
+807;iychm03;C2070C03;Sealed Clairvoyance Charm;705
+808;iychm04;C2070C04;Sealed Sprint Charm;706
+809;iychm05;C2070C05;Sealed Gaining Charm;707
+810;iychm06;C2070C06;Sealed Party's Charm;708
+811;iychm07;C2070C07;Sealed Recovery Charm;709
+812;iygen01;C6040D01;Broken Burst Generator;710
+813;iygen02;C6040D02;Broken Protect Generator;711
+814;iygen03;C6040D03;Broken Thorns Generator;712
+815;iygen04;C6040D04;Broken Aggressive Generator;713
+816;iygol01;C60E0B01;Money Sack;714
+817;iysav01;D2001501;Protective Seat;715
+818;iyqsa01;D0120001;Sonar Generator;690
+819;iyqsa02;D0120002;Royal Summon;691
+820;iyqsa03;D0120003;Fake researcher's Ring;692
+821;iyqsa04;D0120004;Cartella's Signature;693
+822;iyqsa05;D0120005;Merchant's summon;694
+823;iyqsa06;D0120006;Pollution spread estimation;695
+824;iyqsa07;D0120007;Bellato's appointment letter;696
+825;iyqsa08;D0120008;Cora's appointment letter;696
+826;iyqsa09;D0120009;Accretia's appointment letter;696
+827;iyqsa10;D0120010;Virus Deflector;697
+828;iyqsa11;D0120011;Component information film;698
+829;iyqsa12;D0120012;Cartella's Flask I;699
+830;iyqsa13;D0120013;Cartella's Flask II;699
+831;iyqsa14;D0120014;Cartella's Flask III;699
+832;iyqsa15;D0120015;Magnetic Bracelet;700
+833;iyqsa16;D0120016;Amulet of illusion;701
+834;iyqsa17;D0120017;Relic of Catacomb;688
+835;iyqsa18;D0120018;Relic of SnatcherGate;686
+836;iyqsa19;D0120019;Relic of SnatcherTemple;687
+837;iyqsa20;D0120020;Holymental Ejector;681
+838;iyqsa21;D0120021;Trust's File;641
+839;iyqsa22;D0120022;Eller Etha's File;642
+840;iyqsa23;D0120023;Amulet of MindControl;689
+841;iyqla01;D00B0001;Unstable Ruy Mica;643
+842;iyqla02;D00B0002;Old piece of aircraft;644
+843;iyqla04;D00B0004;RigorRhapis' Scale;645
+844;iyqla05;D00B0005;Lizard's Scale;646
+845;iyqla06;D00B0006;Translator;647
+846;iyqla09;D00B0009;Fugitive's belonging;648
+847;iyqla10;D00B0010;Escapee's belonging;648
+848;iyqla12;D00B0012;Hard Scale;649
+849;iyqla13;D00B0013;SplinterRex's Fang;650
+850;iyqla14;D00B0014;Caliana Sketchbook;651
+851;iyqla15;D00B0015;Erotic Sketchbook;652
+852;iyqla16;D00B0016;Desert Pollution Estimation;653
+853;iyqla17;D00B0017;Volcano Pollution Estimation;676
+854;iyqla18;D00B0018;ScudLava's body fluid;680
+855;iyqla19;D00B0019;Volcano Pollution EstimationII;654
+856;iyqla20;D00B0020;Accretian Memory Chip I;625
+857;iyqla21;D00B0021;Accretian Memory Chip II;626
+858;iyqla22;D00B0022;Accretian Memory Chip III;627
+859;iyqla23;D00B0023;Accretian Memory Chip IV;628
+860;iyqla24;D00B0024;Accretian Memory Chip V;629
+861;iyqla25;D00B0025;Cora Translator II;636
+862;iyqla26;D00B0026;Accretia Translator II;626
+863;iyqla27;D00B0027;Bellato Translator II;631
+864;iyqla28;D00B0028;Transform Powder;659
+865;iyqla29;D00B0029;LittlePierceGrumble's cell;660
+866;iyqla30;D00B0030;InfernalGrumble's egg;664
+867;iyqla31;D00B0031;Nucleus of Life;665
+868;iyqla32;D00B0032;Ghost's Protector;666
+869;iyqla33;D00B0033;Old part, GQ-1;667
+870;iyqla34;D00B0034;Crawler's hammer;668
+871;iyqla35;D00B0035;Hue Garf's tail;669
+872;iyqla36;D00B0036;Forbidden file;670
+873;iyqla37;D00B0037;Grumble Owl's Cell;661
+874;iyqla38;D00B0038;Vafer Sly's Cell;662
+875;iyqla39;D00B0039;Nyad Heller's Cell;663
+876;iyqla40;D00B0040;Garfmail's Scale;671
+877;iyqla41;D00B0041;King Twizer's Eye;672
+878;iyqla42;D00B0042;Cora MemoryChip I;635
+879;iyqla43;D00B0043;Cora MemoryChip II;636
+880;iyqla44;D00B0044;Cora MemoryChip III;637
+881;iyqla45;D00B0045;Cora MemoryChip IV;638
+882;iyqla46;D00B0046;Cora MemoryChip V;639
+883;iyqla47;D00B0047;God's tear;673
+884;iyqla48;D00B0048;Little LizardKahn's Cell;660
+885;iyqla49;D00B0049;Herodian's tissue capsule;674
+886;iyqla50;D00B0050;Thick Herodian's tissue capsule;675
+887;iyqla51;D00B0051;Bellato MemoryChip I;630
+888;iyqla52;D00B0052;Bellato MemoryChip II;631
+889;iyqla53;D00B0053;Bellato MemoryChip III;632
+890;iyqla54;D00B0054;Bellato MemoryChip IV;633
+891;iyqla55;D00B0055;Bellato MemoryChip V;634
+892;iyqla56;D00B0056;Auto Clinic;655
+893;iyqla57;D00B0057;LittleAnabola's Cell;660
+894;iyqla58;D00B0058;Captain, Clover's Brain;679
+895;iyqla59;D00B0059;Growth Hormone;606
+896;iyqla60;D00B0060;C.S. Spectrum;607
+897;iyqla61;D00B0061;Hologram MasterKey;608
+898;iyqla62;D00B0062;Second MasterKey;609
+899;iyqla63;D00B0063;Bioweapon Diary;610
+900;iyqla64;D00B0064;Polluted Wing;611
+901;iyqla65;D00B0065;Certificate of test;612
+902;iyqla66;D00B0066;Certificate of protection;613
+903;iyqla67;D00B0067;Certificate of trust;614
+904;iyqla68;D00B0068;Certificate of Seal;615
+905;iyqla69;D00B0069;Enternal Flame;616
+906;iyqla70;D00B0070;Carrier Key;617
+907;iyqla71;D00B0071;Wave of dimension piece;618
+908;iyqla72;D00B0072;Flask in box;619
+909;iyqla73;D00B0073;Energy Sample;620
+910;iyqla74;D00B0074;Citizen of Novus' Picture;621
+911;iyqla75;D00B0075;Citizen of Novus' Symbols;622
+912;iyqla76;D00B0076;Elven Necklace;623
+913;iyqla77;D00B0077;Crawer's Sword;624
+914;iyqla78;D00B0078;BlackSign's Record I;626
+915;iyqla79;D00B0079;BlackSign's Record II;627
+916;iyqla80;D00B0080;BlackSign's Record III;628
+917;iyqla81;D00B0081;Manipulated Wave of Dimension;640
+918;iyqla82;D00B0082;Artillary's Log;610
+919;iyqla83;D00B0083;Stolen Research File;641
+920;iyqsa24;D0120024;Creature in Flask;680
+921;iyqsa25;D0120025;Manipulated Wave of Dimension;640
+922;iyqsa26;D0120026;Particle 227;620
+923;iyqsa27;D0120027;Live Camera;682
+924;iyqsa28;D0120028;Codified Slate;683
+925;iyqsa29;D0120029;Elven Treasure;684
+926;iyqsa30;D0120030;Encrypted Necklace;685
+927;iyqla84;D00B0084;Unfinished Map;677
+928;iyqla85;D00B0085;Piece of Edisil Map;678
+929;iytkn01;D30A0D01;Certificate of Novice;716
+930;iytkn02;D30A0D02;Certificate of Expert;717
+931;iytkn03;D30A0D03;Symbol of Master;718
+932;iytkn04;D30A0D04;Certificate of Novice;716
+933;iytkn05;D30A0D05;Certificate of Expert;717
+934;iytkn06;D30A0D06;Symbol of Master;718
+935;iytkn07;D30A0D07;Certificate of Novice;716
+936;iytkn08;D30A0D08;Certificate of Expert;717
+937;iytkn09;D30A0D09;Symbol of Master;718
+938;iycsd15;C2120315;Stable 3~4 Favor Upgrader [B Class];286
+939;iycsd16;C2120316;Stable Shirt 3~4 Favor Upgrader [B Class];287
+940;iycsd17;C2120317;Stable Pants 3~4 Favor Upgrader [B Class];288
+941;iycsd18;C2120318;Stable Gloves 3~4 Favor Upgrader [B Class];289
+942;iycsd19;C2120319;Stable Shoes 3~4 Favor Upgrader [B Class];290
+943;iycsd20;C2120320;Stable 3~5 Favor Upgrader [B Class];291
+944;iycsd21;C2120321;Stable Shirt 3~5 Favor Upgrader [B Class];292
+945;iycsd22;C2120322;Stable Pants 3~5 Favor Upgrader [B Class];293
+946;iycsd23;C2120323;Stable Gloves 3~5 Favor Upgrader [B Class];294
+947;iycsd24;C2120324;Stable Shoes 3~5 Favor Upgrader [B Class];295
+948;iycsd25;C2120325;Stable 4~6 Favor Upgrader [B Class];296
+949;iycsd26;C2120326;Stable Shirt 4~6 Favor Upgrader [B Class];297
+950;iycsd27;C2120327;Stable Pants 4~6 Favor Upgrader [B Class];298
+951;iycsd28;C2120328;Stable Gloves 4~6 Favor Upgrader [B Class];299
+952;iycsd29;C2120329;Stable Shoes 4~6 Favor Upgrader [B Class];300
+953;iycsd30;C2120330;Stable 3~7 Favor Upgrader [B Class];301
+954;iycsd31;C2120331;Stable Shirt 3~7 Favor Upgrader [B Class];302
+955;iycsd32;C2120332;Stable Pants 3~7 Favor Upgrader [B Class];303
+956;iycsd33;C2120333;Stable Gloves 3~7 Favor Upgrader [B Class];304
+957;iycsd34;C2120334;Stable Shoes 3~7 Favor Upgrader [B Class];305
+958;iycsd35;C2120335;Stable 4~7 Favor Upgrader [B Class];306
+959;iycsd36;C2120336;Stable Shirt 4~7 Favor Upgrader [B Class];307
+960;iycsd37;C2120337;Stable Pants 4~7 Favor Upgrader [B Class];308
+961;iycsd38;C2120338;Stable Gloves 4~7 Favor Upgrader [B Class];309
+962;iycsd39;C2120339;Stable Shoes 4~7 Favor Upgrader [B Class];310
+963;iycsd40;C2120340;Stable 5~7 Favor Upgrader [B Class];311
+964;iycsd41;C2120341;Stable Shirt 5~7 Favor Upgrader [B Class];312
+965;iycsd42;C2120342;Stable Pants 5~7 Favor Upgrader [B Class];313
+966;iycsd43;C2120343;Stable Gloves 5~7 Favor Upgrader [B Class];314
+967;iycsd44;C2120344;Stable Shoes 5~7 Favor Upgrader [B Class];315
+968;iycsd45;C2120345;Stable Shield 3~4 Favor Upgrader [B Class];316
+969;iycsd46;C2120346;Stable Shield 3~5 Favor Upgrader [B Class];317
+970;iycsd47;C2120347;Stable Shield 4~6 Favor Upgrader [B Class];318
+971;iycsd48;C2120348;Stable Shield 3~7 Favor Upgrader [B Class];319
+972;iycsd49;C2120349;Stable Shield 4~7 Favor Upgrader [B Class];320
+973;iycsd50;C2120350;Stable Shield 5~7 Favor Upgrader [B Class];321
+974;iycsd51;C2120351;Stable 3~4 Favor Upgrader [Normal];349
+975;iycsd52;C2120352;Stable Shirt 3~4 Favor Upgrader [Normal];350
+976;iycsd53;C2120353;Stable Pants 3~4 Favor Upgrader [Normal];351
+977;iycsd54;C2120354;Stable Gloves 3~4 Favor Upgrader [Normal];352
+978;iycsd55;C2120355;Stable Shoes 3~4 Favor Upgrader [Normal];353
+979;iycsd56;C2120356;Stable 3~5 Favor Upgrader [Normal];354
+980;iycsd57;C2120357;Stable Shirt 3~5 Favor Upgrader [Normal];355
+981;iycsd58;C2120358;Stable Pants 3~5 Favor Upgrader [Normal];356
+982;iycsd59;C2120359;Stable Gloves 3~5 Favor Upgrader [Normal];357
+983;iycsd60;C2120360;Stable Shoes 3~5 Favor Upgrader [Normal];358
+984;iycsd61;C2120361;Stable 4~6 Favor Upgrader [Normal];359
+985;iycsd62;C2120362;Stable Shirt 4~6 Favor Upgrader [Normal];360
+986;iycsd63;C2120363;Stable Pants 4~6 Favor Upgrader [Normal];361
+987;iycsd64;C2120364;Stable Gloves 4~6 Favor Upgrader [Normal];362
+988;iycsd65;C2120365;Stable Shoes 4~6 Favor Upgrader [Normal];363
+989;iycsd66;C2120366;Stable 3~7 Favor Upgrader [Normal];364
+990;iycsd67;C2120367;Stable Shirt 3~7 Favor Upgrader [Normal];365
+991;iycsd68;C2120368;Stable Pants 3~7 Favor Upgrader [Normal];366
+992;iycsd69;C2120369;Stable Gloves 3~7 Favor Upgrader [Normal];367
+993;iycsd70;C2120370;Stable Shoes 3~7 Favor Upgrader [Normal];368
+994;iycsd71;C2120371;Stable 4~7 Favor Upgrader [Normal];369
+995;iycsd72;C2120372;Stable Shirt 4~7 Favor Upgrader [Normal];370
+996;iycsd73;C2120373;Stable Pants 4~7 Favor Upgrader [Normal];371
+997;iycsd74;C2120374;Stable Gloves 4~7 Favor Upgrader [Normal];372
+998;iycsd75;C2120375;Stable Shoes 4~7 Favor Upgrader [Normal];373
+999;iycsd76;C2120376;Stable 5~7 Favor Upgrader [Normal];374
+1000;iycsd77;C2120377;Stable Shirt 5~7 Favor Upgrader [Normal];375
+1001;iycsd78;C2120378;Stable Pants 5~7 Favor Upgrader [Normal];376
+1002;iycsd79;C2120379;Stable Gloves 5~7 Favor Upgrader [Normal];377
+1003;iycsd80;C2120380;Stable Shoes 5~7 Favor Upgrader [Normal];378
+1004;iycsd81;C2120381;Stable Shield 3~4 Favor Upgrader [Normal];379
+1005;iycsd82;C2120382;Stable Shield 3~5 Favor Upgrader [Normal];380
+1006;iycsd83;C2120383;Stable Shield 4~6 Favor Upgrader [Normal];381
+1007;iycsd84;C2120384;Stable Shield 3~7 Favor Upgrader [Normal];382
+1008;iycsd85;C2120385;Stable Shield 4~7 Favor Upgrader [Normal];383
+1009;iycsd86;C2120386;Stable Shield 5~7 Favor Upgrader [Normal];384
+1010;iycsd87;C2120387;Stable 1~4 Favor Upgrader [Normal];502
+1011;iycsd88;C2120388;Stable 1~5 Favor Upgrader [Normal];503
+1012;iycsd89;C2120389;Stable 2~4 Favor Upgrader [Normal];504
+1013;iycsd90;C2120390;Stable 2~5 Favor Upgrader [Normal];505
+1014;iycsd91;C2120391;Stable 2~6 Favor Upgrader [Normal];506
+1015;iycsd92;C2120392;Stable 3~6 Favor Upgrader [Normal];507
+1016;iycsd93;C2120393;Stable 4~5 Favor Upgrader [Normal];508
+1017;iycsd94;C2120394;Stable 5~6 Favor Upgrader [Normal];509
+1018;iycsd95;C2120395;Stable 6~7 Favor Upgrader [Normal];510
+1019;iycsd96;C2120396;Stable 1~4 Favor Upgrader [B Class];511
+1020;iycsd97;C2120397;Stable 1~5 Favor Upgrader [B Class];512
+1021;iycsd98;C2120398;Stable 2~4 Favor Upgrader [B Class];513
+1022;iycsd99;C2120399;Stable 2~5 Favor Upgrader [B Class];514
+1023;iycse01;C2120401;Stable 2~6 Favor Upgrader [B Class];515
+1024;iycse02;C2120402;Stable 3~6 Favor Upgrader [B Class];516
+1025;iycse03;C2120403;Stable 4~5 Favor Upgrader [B Class];517
+1026;iycse04;C2120404;Stable 5~6 Favor Upgrader [B Class];518
+1027;iycse05;C2120405;Stable 6~7 Favor Upgrader [B Class];519
+1028;iycse06;C2120406;Stable 1~4 Favor Upgrader [C Class];520
+1029;iycse07;C2120407;Stable 1~5 Favor Upgrader [C Class];521
+1030;iycse08;C2120408;Stable 2~4 Favor Upgrader [C Class];522
+1031;iycse09;C2120409;Stable 2~5 Favor Upgrader [C Class];523
+1032;iycse10;C2120410;Stable 2~6 Favor Upgrader [C Class];524
+1033;iycse11;C2120411;Stable 3~6 Favor Upgrader [C Class];525
+1034;iycse12;C2120412;Stable 4~5 Favor Upgrader [C Class];526
+1035;iycse13;C2120413;Stable 5~6 Favor Upgrader [C Class];527
+1036;iycse14;C2120414;Stable 3~4 Favor Upgrader [C Class];528
+1037;iycse15;C2120415;Stable 3~5 Favor Upgrader [C Class];529
+1038;iycse16;C2120416;Stable 4~6 Favor Upgrader [C Class];530
+1039;iycse17;C2120417;Stable 3~7 Favor Upgrader [C Class];531
+1040;iycse18;C2120418;Stable 4~7 Favor Upgrader [C Class];532
+1041;iycse19;C2120419;Stable 5~7 Favor Upgrader [C Class];533
+1042;iycse20;C2120420;Stable 6~7 Favor Upgrader [C Class];534
+1043;iycse21;C2120421;Stable Helmet3~4Wisdom Upgrader [B Class];824
+1044;iycse22;C2120422;Stable Helmet3~5Wisdom Upgrader [B Class];825
+1045;iycse23;C2120423;Stable Helmet4~6Wisdom Upgrader [B Class];826
+1046;iycse24;C2120424;Stable Helmet3~7Wisdom Upgrader [B Class];827
+1047;iycse25;C2120425;Stable Helmet4~7Wisdom Upgrader [B Class];828
+1048;iycse26;C2120426;Stable Helmet5~7Wisdom Upgrader [B Class];829
+1049;iycse27;C2120427;Stable Helmet3~4Wisdom Upgrader [Normal];830
+1050;iycse28;C2120428;Stable Helmet3~5Wisdom Upgrader [Normal];831
+1051;iycse29;C2120429;Stable Helmet4~6Wisdom Upgrader [Normal];832
+1052;iycse30;C2120430;Stable Helmet3~7Wisdom Upgrader [Normal];833
+1053;iycse31;C2120431;Stable Helmet4~7Wisdom Upgrader [Normal];834
+1054;iycse32;C2120432;Stable Helmet5~7Wisdom Upgrader [Normal];835
+1055;iycse33;C2120433;Stable Helmet1~4Wisdom Upgrader [Normal];836
+1056;iycse34;C2120434;Stable Helmet1~5Wisdom Upgrader [Normal];837
+1057;iycse35;C2120435;Stable Helmet2~4Wisdom Upgrader [Normal];838
+1058;iycse36;C2120436;Stable Helmet2~5Wisdom Upgrader [Normal];839
+1059;iycse37;C2120437;Stable Helmet2~6Wisdom Upgrader [Normal];840
+1060;iycse38;C2120438;Stable Helmet3~6Wisdom Upgrader [Normal];841
+1061;iycse39;C2120439;Stable Helmet4~5Wisdom Upgrader [Normal];842
+1062;iycse40;C2120440;Stable Helmet5~6Wisdom Upgrader [Normal];843
+1063;iycse41;C2120441;Stable Helmet6~7Wisdom Upgrader [Normal];844
+1064;iycse42;C2120442;Stable Helmet1~4Wisdom Upgrader [B Class];845
+1065;iycse43;C2120443;Stable Helmet1~5Wisdom Upgrader [B Class];846
+1066;iycse44;C2120444;Stable Helmet2~4Wisdom Upgrader [B Class];847
+1067;iycse45;C2120445;Stable Helmet2~5Wisdom Upgrader [B Class];848
+1068;iycse46;C2120446;Stable Helmet2~6Wisdom Upgrader [B Class];849
+1069;iycse47;C2120447;Stable Helmet3~6Wisdom Upgrader [B Class];850
+1070;iycse48;C2120448;Stable Helmet4~5Wisdom Upgrader [B Class];851
+1071;iycse49;C2120449;Stable Helmet5~6Wisdom Upgrader [B Class];852
+1072;iycse50;C2120450;Stable Helmet6~7Wisdom Upgrader [B Class];853
+1073;iycse51;C2120451;Stable Helmet1~4Wisdom Upgrader [C Class];854
+1074;iycse52;C2120452;Stable Helmet1~5Wisdom Upgrader [C Class];855
+1075;iycse53;C2120453;Stable Helmet2~4Wisdom Upgrader [C Class];856
+1076;iycse54;C2120454;Stable Helmet2~5Wisdom Upgrader [C Class];857
+1077;iycse55;C2120455;Stable Helmet2~6Wisdom Upgrader [C Class];858
+1078;iycse56;C2120456;Stable Helmet3~6Wisdom Upgrader [C Class];859
+1079;iycse57;C2120457;Stable Helmet4~5Wisdom Upgrader [C Class];860
+1080;iycse58;C2120458;Stable Helmet5~6Wisdom Upgrader [C Class];861
+1081;iycse59;C2120459;Stable Helmet3~4Wisdom Upgrader [C Class];862
+1082;iycse60;C2120460;Stable Helmet3~5Wisdom Upgrader [C Class];863
+1083;iycse61;C2120461;Stable Helmet4~6Wisdom Upgrader [C Class];864
+1084;iycse62;C2120462;Stable Helmet3~7Wisdom Upgrader [C Class];865
+1085;iycse63;C2120463;Stable Helmet4~7Wisdom Upgrader [C Class];866
+1086;iycse64;C2120464;Stable Helmet5~7Wisdom Upgrader [C Class];867
+1087;iycse65;C2120465;Stable Helmet6~7Wisdom Upgrader [C Class];868
+1088;iycse66;C2120466;Stable Gloves3~4Darkness Upgrader [B Class];869
+1089;iycse67;C2120467;Stable Gloves3~5Darkness Upgrader [B Class];870
+1090;iycse68;C2120468;Stable Gloves4~6Darkness Upgrader [B Class];871
+1091;iycse69;C2120469;Stable Gloves3~7Darkness Upgrader [B Class];872
+1092;iycse70;C2120470;Stable Gloves4~7Darkness Upgrader [B Class];873
+1093;iycse71;C2120471;Stable Gloves5~7Darkness Upgrader [B Class];874
+1094;iycse72;C2120472;Stable Gloves3~4Darkness Upgrader [Normal];875
+1095;iycse73;C2120473;Stable Gloves3~5Darkness Upgrader [Normal];876
+1096;iycse74;C2120474;Stable Gloves4~6Darkness Upgrader [Normal];877
+1097;iycse75;C2120475;Stable Gloves3~7Darkness Upgrader [Normal];878
+1098;iycse76;C2120476;Stable Gloves4~7Darkness Upgrader [Normal];879
+1099;iycse77;C2120477;Stable Gloves5~7Darkness Upgrader [Normal];880
+1100;iycse78;C2120478;Stable Gloves1~4Darkness Upgrader [Normal];881
+1101;iycse79;C2120479;Stable Gloves1~5Darkness Upgrader [Normal];882
+1102;iycse80;C2120480;Stable Gloves2~4Darkness Upgrader [Normal];883
+1103;iycse81;C2120481;Stable Gloves2~5Darkness Upgrader [Normal];884
+1104;iycse82;C2120482;Stable Gloves2~6Darkness Upgrader [Normal];885
+1105;iycse83;C2120483;Stable Gloves3~6Darkness Upgrader [Normal];886
+1106;iycse84;C2120484;Stable Gloves4~5Darkness Upgrader [Normal];887
+1107;iycse85;C2120485;Stable Gloves5~6Darkness Upgrader [Normal];888
+1108;iycse86;C2120486;Stable Gloves6~7Darkness Upgrader [Normal];889
+1109;iycse87;C2120487;Stable Gloves1~4Darkness Upgrader [B Class];890
+1110;iycse88;C2120488;Stable Gloves1~5Darkness Upgrader [B Class];891
+1111;iycse89;C2120489;Stable Gloves2~4Darkness Upgrader [B Class];892
+1112;iycse90;C2120490;Stable Gloves2~5Darkness Upgrader [B Class];893
+1113;iycse91;C2120491;Stable Gloves2~6Darkness Upgrader [B Class];894
+1114;iycse92;C2120492;Stable Gloves3~6Darkness Upgrader [B Class];895
+1115;iycse93;C2120493;Stable Gloves4~5Darkness Upgrader [B Class];896
+1116;iycse94;C2120494;Stable Gloves5~6Darkness Upgrader [B Class];897
+1117;iycse95;C2120495;Stable Gloves6~7Darkness Upgrader [B Class];898
+1118;iycse96;C2120496;Stable Gloves1~4Darkness Upgrader [C Class];899
+1119;iycse97;C2120497;Stable Gloves1~5Darkness Upgrader [C Class];900
+1120;iycse98;C2120498;Stable Gloves2~4Darkness Upgrader [C Class];901
+1121;iycse99;C2120499;Stable Gloves2~5Darkness Upgrader [C Class];902
+1122;iycsf01;C2120501;Stable Gloves2~6Darkness Upgrader [C Class];903
+1123;iycsf02;C2120502;Stable Gloves3~6Darkness Upgrader [C Class];904
+1124;iycsf03;C2120503;Stable Gloves4~5Darkness Upgrader [C Class];905
+1125;iycsf04;C2120504;Stable Gloves5~6Darkness Upgrader [C Class];906
+1126;iycsf05;C2120505;Stable Gloves3~4Darkness Upgrader [C Class];907
+1127;iycsf06;C2120506;Stable Gloves3~5Darkness Upgrader [C Class];908
+1128;iycsf07;C2120507;Stable Gloves4~6Darkness Upgrader [C Class];909
+1129;iycsf08;C2120508;Stable Gloves3~7Darkness Upgrader [C Class];910
+1130;iycsf09;C2120509;Stable Gloves4~7Darkness Upgrader [C Class];911
+1131;iycsf10;C2120510;Stable Gloves5~7Darkness Upgrader [C Class];912
+1132;iycsf11;C2120511;Stable Gloves6~7Darkness Upgrader [C Class];913
+1133;iycsf12;C2120512;Stable Gloves3~4Grace Upgrader [B Class];914
+1134;iycsf13;C2120513;Stable Gloves3~5Grace Upgrader [B Class];915
+1135;iycsf14;C2120514;Stable Gloves4~6Grace Upgrader [B Class];916
+1136;iycsf15;C2120515;Stable Gloves3~7Grace Upgrader [B Class];917
+1137;iycsf16;C2120516;Stable Gloves4~7Grace Upgrader [B Class];918
+1138;iycsf17;C2120517;Stable Gloves5~7Grace Upgrader [B Class];919
+1139;iycsf18;C2120518;Stable Gloves3~4Grace Upgrader [Normal];920
+1140;iycsf19;C2120519;Stable Gloves3~5Grace Upgrader [Normal];921
+1141;iycsf20;C2120520;Stable Gloves4~6Grace Upgrader [Normal];922
+1142;iycsf21;C2120521;Stable Gloves3~7Grace Upgrader [Normal];923
+1143;iycsf22;C2120522;Stable Gloves4~7Grace Upgrader [Normal];924
+1144;iycsf23;C2120523;Stable Gloves5~7Grace Upgrader [Normal];925
+1145;iycsf24;C2120524;Stable Gloves1~4Grace Upgrader [Normal];926
+1146;iycsf25;C2120525;Stable Gloves1~5Grace Upgrader [Normal];927
+1147;iycsf26;C2120526;Stable Gloves2~4Grace Upgrader [Normal];928
+1148;iycsf27;C2120527;Stable Gloves2~5Grace Upgrader [Normal];929
+1149;iycsf28;C2120528;Stable Gloves2~6Grace Upgrader [Normal];930
+1150;iycsf29;C2120529;Stable Gloves3~6Grace Upgrader [Normal];931
+1151;iycsf30;C2120530;Stable Gloves4~5Grace Upgrader [Normal];932
+1152;iycsf31;C2120531;Stable Gloves5~6Grace Upgrader [Normal];933
+1153;iycsf32;C2120532;Stable Gloves6~7Grace Upgrader [Normal];934
+1154;iycsf33;C2120533;Stable Gloves1~4Grace Upgrader [B Class];935
+1155;iycsf34;C2120534;Stable Gloves1~5Grace Upgrader [B Class];936
+1156;iycsf35;C2120535;Stable Gloves2~4Grace Upgrader [B Class];937
+1157;iycsf36;C2120536;Stable Gloves2~5Grace Upgrader [B Class];938
+1158;iycsf37;C2120537;Stable Gloves2~6Grace Upgrader [B Class];939
+1159;iycsf38;C2120538;Stable Gloves3~6Grace Upgrader [B Class];940
+1160;iycsf39;C2120539;Stable Gloves4~5Grace Upgrader [B Class];941
+1161;iycsf40;C2120540;Stable Gloves5~6Grace Upgrader [B Class];942
+1162;iycsf41;C2120541;Stable Gloves6~7Grace Upgrader [B Class];943
+1163;iycsf42;C2120542;Stable Gloves1~4Grace Upgrader [C Class];944
+1164;iycsf43;C2120543;Stable Gloves1~5Grace Upgrader [C Class];945
+1165;iycsf44;C2120544;Stable Gloves2~4Grace Upgrader [C Class];946
+1166;iycsf45;C2120545;Stable Gloves2~5Grace Upgrader [C Class];947
+1167;iycsf46;C2120546;Stable Gloves2~6Grace Upgrader [C Class];948
+1168;iycsf47;C2120547;Stable Gloves3~6Grace Upgrader [C Class];949
+1169;iycsf48;C2120548;Stable Gloves4~5Grace Upgrader [C Class];950
+1170;iycsf49;C2120549;Stable Gloves5~6Grace Upgrader [C Class];951
+1171;iycsf50;C2120550;Stable Gloves3~4Grace Upgrader [C Class];952
+1172;iycsf51;C2120551;Stable Gloves3~5Grace Upgrader [C Class];953
+1173;iycsf52;C2120552;Stable Gloves4~6Grace Upgrader [C Class];954
+1174;iycsf53;C2120553;Stable Gloves3~7Grace Upgrader [C Class];955
+1175;iycsf54;C2120554;Stable Gloves4~7Grace Upgrader [C Class];956
+1176;iycsf55;C2120555;Stable Gloves5~7Grace Upgrader [C Class];957
+1177;iycsf56;C2120556;Stable Gloves6~7Grace Upgrader [C Class];958
+1178;iycsf57;C2120557;Stable Shoes 3~4 Mercy Upgrader [B Class];959
+1179;iycsf58;C2120558;Stable Shoes 3~5 Mercy Upgrader [B Class];960
+1180;iycsf59;C2120559;Stable Shoes 4~6 Mercy Upgrader [B Class];961
+1181;iycsf60;C2120560;Stable Shoes 3~7 Mercy Upgrader [B Class];962
+1182;iycsf61;C2120561;Stable Shoes 4~7 Mercy Upgrader [B Class];963
+1183;iycsf62;C2120562;Stable Shoes 5~7 Mercy Upgrader [B Class];964
+1184;iycsf63;C2120563;Stable Shoes 3~4 Mercy Upgrader [Normal];965
+1185;iycsf64;C2120564;Stable Shoes 3~5 Mercy Upgrader [Normal];966
+1186;iycsf65;C2120565;Stable Shoes 4~6 Mercy Upgrader [Normal];967
+1187;iycsf66;C2120566;Stable Shoes 3~7 Mercy Upgrader [Normal];968
+1188;iycsf67;C2120567;Stable Shoes 4~7 Mercy Upgrader [Normal];969
+1189;iycsf68;C2120568;Stable Shoes 5~7 Mercy Upgrader [Normal];970
+1190;iycsf69;C2120569;Stable Shoes 1~4 Mercy Upgrader [Normal];971
+1191;iycsf70;C2120570;Stable Shoes 1~5 Mercy Upgrader [Normal];972
+1192;iycsf71;C2120571;Stable Shoes 2~4 Mercy Upgrader [Normal];973
+1193;iycsf72;C2120572;Stable Shoes 2~5 Mercy Upgrader [Normal];974
+1194;iycsf73;C2120573;Stable Shoes 2~6 Mercy Upgrader [Normal];975
+1195;iycsf74;C2120574;Stable Shoes 3~6 Mercy Upgrader [Normal];976
+1196;iycsf75;C2120575;Stable Shoes 4~5 Mercy Upgrader [Normal];977
+1197;iycsf76;C2120576;Stable Shoes 5~6 Mercy Upgrader [Normal];978
+1198;iycsf77;C2120577;Stable Shoes 6~7 Mercy Upgrader [Normal];979
+1199;iycsf78;C2120578;Stable Shoes 1~4 Mercy Upgrader [B Class];980
+1200;iycsf79;C2120579;Stable Shoes 1~5 Mercy Upgrader [B Class];981
+1201;iycsf80;C2120580;Stable Shoes 2~4 Mercy Upgrader [B Class];982
+1202;iycsf81;C2120581;Stable Shoes 2~5 Mercy Upgrader [B Class];983
+1203;iycsf82;C2120582;Stable Shoes 2~6 Mercy Upgrader [B Class];984
+1204;iycsf83;C2120583;Stable Shoes 3~6 Mercy Upgrader [B Class];985
+1205;iycsf84;C2120584;Stable Shoes 4~5 Mercy Upgrader [B Class];986
+1206;iycsf85;C2120585;Stable Shoes 5~6 Mercy Upgrader [B Class];987
+1207;iycsf86;C2120586;Stable Shoes 6~7 Mercy Upgrader [B Class];988
+1208;iycsf87;C2120587;Stable Shoes 1~4 Mercy Upgrader [C Class];989
+1209;iycsf88;C2120588;Stable Shoes 1~5 Mercy Upgrader [C Class];990
+1210;iycsf89;C2120589;Stable Shoes 2~4 Mercy Upgrader [C Class];991
+1211;iycsf90;C2120590;Stable Shoes 2~5 Mercy Upgrader [C Class];992
+1212;iycsf91;C2120591;Stable Shoes 2~6 Mercy Upgrader [C Class];993
+1213;iycsf92;C2120592;Stable Shoes 3~6 Mercy Upgrader [C Class];994
+1214;iycsf93;C2120593;Stable Shoes 4~5 Mercy Upgrader [C Class];995
+1215;iycsf94;C2120594;Stable Shoes 5~6 Mercy Upgrader [C Class];996
+1216;iycsf95;C2120595;Stable Shoes 3~4 Mercy Upgrader [C Class];997
+1217;iycsf96;C2120596;Stable Shoes 3~5 Mercy Upgrader [C Class];998
+1218;iycsf97;C2120597;Stable Shoes 4~6 Mercy Upgrader [C Class];999
+1219;iycsf98;C2120598;Stable Shoes 3~7 Mercy Upgrader [C Class];1000
+1220;iycsf99;C2120599;Stable Shoes 4~7 Mercy Upgrader [C Class];1001
+1221;iycsg01;C2120601;Stable Shoes 5~7 Mercy Upgrader [C Class];1002
+1222;iycsg02;C2120602;Stable Shoes 6~7 Mercy Upgrader [C Class];1003
+1223;iycsg03;C2120603;Stabilized 3~4 Chaos upgrader[B Class];824
+1224;iycsg04;C2120604;Stabilized 3~5 Chaos Upgrader[B Class];825
+1225;iycsg05;C2120605;Stabilized 4~6 Chaos Upgrader[B Class];826
+1226;iycsg06;C2120606;Stabilized 3~7 Chaos Upgrader[B Class];827
+1227;iycsg07;C2120607;Stabilized 4~7 Chaos Upgrader[B Class];828
+1228;iycsg08;C2120608;Stabilized 5~7 Chaos Upgrader[B Class];829
+1229;iycsg09;C2120609;Stabilized 3~4 Chaos Upgrader[Normal];830
+1230;iycsg10;C2120610;Stabilized 3~5 Chaos Upgrader[Normal];831
+1231;iycsg11;C2120611;Stabilized 4~6 Chaos Upgrader[Normal];832
+1232;iycsg12;C2120612;Stabilized 3~7 Chaos Upgrader[Normal];833
+1233;iycsg13;C2120613;Stabilized 4~7 Chaos Upgrader[Normal];834
+1234;iycsg14;C2120614;Stabilized 5~7 Chaos Upgrader[Normal];835
+1235;iycsg15;C2120615;Stabilized 1~4 Chaos Upgrader[Normal];836
+1236;iycsg16;C2120616;Stabilized 1~5 Chaos Upgrader[Normal];837
+1237;iycsg17;C2120617;Stabilized 2~4 Chaos Upgrader[Normal];838
+1238;iycsg18;C2120618;Stabilized 2~5 Chaos Upgrader[Normal];839
+1239;iycsg19;C2120619;Stabilized 2~6 Chaos Upgrader[Normal];840
+1240;iycsg20;C2120620;Stabilized 3~6 Chaos Upgrader[Normal];841
+1241;iycsg21;C2120621;Stabilized 4~5 Chaos Upgrader[Normal];842
+1242;iycsg22;C2120622;Stabilized 5~6 Chaos Upgrader[Normal];843
+1243;iycsg23;C2120623;Stabilized 6~7 Chaos Upgrader[Normal];844
+1244;iycsg24;C2120624;Stabilized 1~4 Chaos Upgrader[B Class];845
+1245;iycsg25;C2120625;Stabilized 1~5 Chaos Upgrader[B Class];846
+1246;iycsg26;C2120626;Stabilized 2~4 Chaos Upgrader[B Class];847
+1247;iycsg27;C2120627;Stabilized 2~5 Chaos Upgrader[B Class];848
+1248;iycsg28;C2120628;Stabilized 2~6 Chaos Upgrader[B Class];849
+1249;iycsg29;C2120629;Stabilized 3~6 Chaos Upgrader[B Class];850
+1250;iycsg30;C2120630;Stabilized 4~5 Chaos Upgrader[B Class];851
+1251;iycsg31;C2120631;Stabilized 5~6 Chaos Upgrader[B Class];852
+1252;iycsg32;C2120632;Stabilized 6~7 Chaos Upgrader[B Class];853
+1253;iycsg33;C2120633;Stabilized 1~4 Chaos Upgrader[C class];854
+1254;iycsg34;C2120634;Stabilized 1~5 Chaos Upgrader[C class];855
+1255;iycsg35;C2120635;Stabilized 2~4 Chaos Upgrader[C class];856
+1256;iycsg36;C2120636;Stabilized 2~5 Chaos Upgrader[C class];857
+1257;iycsg37;C2120637;Stabilized 2~6 Chaos Upgrader[C class];858
+1258;iycsg38;C2120638;Stabilized 3~6 Chaos Upgrader[C class];859
+1259;iycsg39;C2120639;Stabilized 4~5 Chaos Upgrader[C class];860
+1260;iycsg40;C2120640;Stabilized 5~6 Chaos Upgrader[C class];861
+1261;iycsg41;C2120641;Stabilized 3~4 Chaos Upgrader[C class];862
+1262;iycsg42;C2120642;Stabilized 3~5 Chaos Upgrader[C class];863
+1263;iycsg43;C2120643;Stabilized 4~6 Chaos Upgrader[C class];864
+1264;iycsg44;C2120644;Stabilized 3~7 Chaos Upgrader[C class];865
+1265;iycsg45;C2120645;Stabilized 4~7 Chaos Upgrader[C class];866
+1266;iycsg46;C2120646;Stabilized 5~7 Chaos Upgrader[C class];867
+1267;iycsg47;C2120647;Stabilized 6~7 Chaos Upgrader[C class];868
+1268;iyrel04;D1040B04;Complete Seal Demount Charm;423
+1269;iytrp01;D3110F01;50Lv Trap Exchange;1005
+1270;iytrp02;D3110F02;50Lv Trap Exchange;1006
+1271;iytrp03;D3110F03;53Lv Trap Exchange;1007
+1272;iytrp04;D3110F04;53Lv Trap Exchange;1008
+1273;iytrp05;D3110F05;55Lv Trap Exchange;1009
+1274;iytrp06;D3110F06;55Lv Trap Exchange;1010
+1275;iybom01;C10E0C01;Diamond Necklace of Kalliana Queen;1011
+1276;iybom02;C10E0C02;Gold Pig Statue;1012
+1277;iybom03;C10E0C03;Silver Pig Statue;1013
+1278;iybom04;C10E0C04;Universe Waste;1014
+1279;iybom05;C10E0C05;Waste Box;1015
+1280;iybom06;C10E0C06;Waste Box Piece;1016
+1281;iybom07;C10E0C07;Toilet Roll;1017
+1282;iynac01;CD000201;Name Card R;1018
+1283;iynac02;CD000202;Name Card F;1019
+1284;iynac03;CD000203;Name Card C;1020
+1285;iynac04;CD000204;Name Card C;1021
+1286;iynac05;CD000205;Name Card R;1022
+1287;iynac06;CD000206;Name Card Co;1035
+1288;iynac07;CD000207;Name Card ra;1036
+1289;iynac08;CD000208;Name Card Bel;1032
+1290;iynac09;CD000209;Name Card la;1033
+1291;iynac10;CD000210;Name Card to;1034
+1292;iynac11;CD000211;Name Card A;1037
+1293;iynac12;CD000212;Name Card cc;1038
+1294;iynac13;CD000213;Name Card re;1039
+1295;iynac14;CD000214;Name Card ti;1040
+1296;iynac15;CD000215;Name Card a;1041
+1297;iynac16;CD000216;Name Card Ka;1028
+1298;iynac17;CD000217;Name Card R;1029
+1299;iynac18;CD000218;Name Card Tel;1030
+1300;iynac19;CD000219;Name Card la;1031
+1301;iynac20;CD000220;Name Card No;1025
+1302;iynac21;CD000221;Name Card Va;1026
+1303;iynac22;CD000222;Name Card S;1027
+1304;iynac23;CD000223;RF Name Coupon;1042
+1305;iynac24;CD000224;CCR Name Coupon;1043
+1306;iynac25;CD000225;Cora Name Coupon;1047
+1307;iynac26;CD000226;Bellato Name Coupon;1046
+1308;iynac27;CD000227;Accretia Name Coupon;1048
+1309;iynac28;CD000228;Kartella Name Coupon;1045
+1310;iynac29;CD000229;Novas Name Coupon;1044
+1311;iyboa01;C10E0001;Vampire Booster Ability;279
+1312;iyboa02;C10E0002;Pine Booster Ability;274
+1313;iyboa03;C10E0003;Strength Booster Ability;277
+1314;iyboa04;C10E0004;Guardian Booster Ability;280
+1315;iyqst01;D0121301;DNA Sampling A type;1049
+1316;iyqst02;D0121302;DNA Sampling B type;1049
+1317;iyqst03;D0121303;DNA Sampling C type;1049
+1318;iyqst04;D0121304;DNA Sampling D type;1049
+1319;iyqst05;D0121305;DNA Sampling E type;1049
+1320;iyqst06;D0121306;DNA Sampling F type;1049
+1321;iyqst07;D0121307;DNA Sampling G type;1049
+1322;iyqst08;D0121308;DNA Sampling H type;1049
+1323;iyqst09;D0121309;DNA Sampling I type;1049
+1324;iyqst10;D0121310;DNA Sampling J type;1049
+1325;iyqen01;D0040D01;Poison Sample of Hook Brutal;1050
+1326;iyqen02;D0040D02;Back Skin Sample of Thunder Lizard;1051
+1327;iyqen03;D0040D03;Back Skin Sample of Tyrant Lizard;1052
+1328;iyqen04;D0040D04;Fang Sample of Fang Splinter;1053
+1329;iyqen05;D0040D05;Fang Sample of Red Haired Splinter;1054
+1330;iyqen06;D0040D06;Toenail Sample of Red Fang Lunker;1055
+1331;iyqen07;D0040D07;Tongue Sample of Blue Scale Klan;1056
+1332;iyqen08;D0040D08;Tongue Sample of Black Demolis;1057
+1333;iyqen09;D0040D09;Wing Sample of Infected Big Ratmoth;1058
+1334;iyqen10;D0040D10;Poison Sample of Sting Host Marr;1059
+1335;iyqsa31;D0120031;31Lv Protector Exchanger[Short Range];608
+1336;iyqsa32;D0120032;31Lv Protector Exchanger[Long Range];608
+1337;iyqsa33;D0120033;31Lv Protector Exchanger[Force];608
+1338;iyqsa34;D0120034;31Lv Protector Exchanger[Short Range];608
+1339;iyqsa35;D0120035;31Lv Protector Exchanger[Long Range];608
+1340;iyqsa36;D0120036;31Lv Protector Exchanger[Force];608
+1341;iyqsa37;D0120037;31Lv Protector Exchanger[Short Range];608
+1342;iyqsa38;D0120038;31Lv Protector Exchanger[Long Range];608
+1343;iyqsa39;D0120039;31Lv Protector Exchanger[Force];608
+1344;iyqsa40;D0120040;35Lv Protector Exchanger[Short Range];609
+1345;iyqsa41;D0120041;35Lv Protector Exchanger[Long Range];609
+1346;iyqsa42;D0120042;35Lv Protector Exchanger[Force];609
+1347;iyqsa43;D0120043;35Lv Protector Exchanger[Short Range];609
+1348;iyqsa44;D0120044;35Lv Protector Exchanger[Long Range];609
+1349;iyqsa45;D0120045;35Lv Protector Exchanger[Force];609
+1350;iyqsa46;D0120046;35Lv Protector Exchanger[Short Range];609
+1351;iyqsa47;D0120047;35Lv Protector Exchanger[Long Range];609
+1352;iyqsa48;D0120048;35Lv Protector Exchanger[Force];609
+1353;iycsg48;C2120648;35 Training 1~7 Ignorance Upgrader[B Class];417
+1354;iycjh14;C2090714;Advanced Strength Superior Ability;278
+1355;iycjh15;C2090715;Fine Superior Ability;274
+1356;iycjh16;C2090716;Strong Superior Ability;275
+1357;iycjh17;C2090717;Solid Superior Ability;276
+1358;iycjh18;C2090718;Strength Superior Ability;277
+1359;iycjh19;C2090719;Protection Superior Ability;285
+1360;iycjh20;C2090720;Vampire Superior Ability;279
+1361;iycjh21;C2090721;Guardian Superior Ability;280
+1362;iycjh22;C2090722;Sharp Superior Ability;281
+1363;iycjh23;C2090723;Endurance Superior Ability;273
+1364;iycud01;C2140301;Stable 1~4 Favor Shield Upgrader[Normal];502
+1365;iycud02;C2140302;Stable 1~5 Favor Shield Upgrader[Normal];503
+1366;iycud03;C2140303;Stable 2~4 Favor Shield Upgrader[Normal];504
+1367;iycud04;C2140304;Stable 2~5 Favor Shield Upgrader[Normal];505
+1368;iycud05;C2140305;Stable 2~6 Favor Shield Upgrader[Normal];506
+1369;iycud06;C2140306;Stable 3~6 Favor Shield Upgrader[Normal];507
+1370;iycud07;C2140307;Stable 4~5 Favor Shield Upgrader[Normal];508
+1371;iycud08;C2140308;Stable 5~6 Favor Shield Upgrader[Normal];509
+1372;iycud09;C2140309;Stable 3~4 Favor Shield Upgrader[Normal];349
+1373;iycud10;C2140310;Stable 3~5 Favor Shield Upgrader[Normal];354
+1374;iycud11;C2140311;Stable 4~6 Favor Shield Upgrader[Normal];359
+1375;iycud12;C2140312;Stable 3~7 Favor Shield Upgrader[Normal];364
+1376;iycud13;C2140313;Stable 4~7 Favor Shield Upgrader[Normal];369
+1377;iycud14;C2140314;Stable 5~7 Favor Shield Upgrader[Normal];374
+1378;iycud15;C2140315;Stable 6~7 Favor Shield Upgrader[Normal];510
+1379;iycud16;C2140316;Stable 1~4 Favor Shield Upgrader[B Class];511
+1380;iycud17;C2140317;Stable 1~5 Favor Shield Upgrader[B Class];512
+1381;iycud18;C2140318;Stable 2~4 Favor Shield Upgrader[B Class];513
+1382;iycud19;C2140319;Stable 2~5 Favor Shield Upgrader[B Class];514
+1383;iycud20;C2140320;Stable 2~6 Favor Shield Upgrader[B Class];515
+1384;iycud21;C2140321;Stable 3~6 Favor Shield Upgrader[B Class];516
+1385;iycud22;C2140322;Stable 4~5 Favor Shield Upgrader[B Class];517
+1386;iycud23;C2140323;Stable 5~6 Favor Shield Upgrader[B Class];518
+1387;iycud24;C2140324;Stable 3~4 Favor Shield Upgrader[B Class];286
+1388;iycud25;C2140325;Stable 3~5 Favor Shield Upgrader[B Class];291
+1389;iycud26;C2140326;Stable 4~6 Favor Shield Upgrader[B Class];296
+1390;iycud27;C2140327;Stable 3~7 Favor Shield Upgrader[B Class];301
+1391;iycud28;C2140328;Stable 4~7 Favor Shield Upgrader[B Class];306
+1392;iycud29;C2140329;Stable 5~7 Favor Shield Upgrader[B Class];311
+1393;iycud30;C2140330;Stable 6~7 Favor Shield Upgrader[B Class];519
+1394;iycud31;C2140331;Stable 1~4 Favor Shield Upgrader[C Class];520
+1395;iycud32;C2140332;Stable 1~5 Favor Shield Upgrader[C Class];521
+1396;iycud33;C2140333;Stable 2~4 Favor Shield Upgrader[C Class];522
+1397;iycud34;C2140334;Stable 2~5 Favor Shield Upgrader[C Class];523
+1398;iycud35;C2140335;Stable 2~6 Favor Shield Upgrader[C Class];524
+1399;iycud36;C2140336;Stable 3~6 Favor Shield Upgrader[C Class];525
+1400;iycud37;C2140337;Stable 4~5 Favor Shield Upgrader[C Class];526
+1401;iycud38;C2140338;Stable 5~6 Favor Shield Upgrader[C Class];527
+1402;iycud39;C2140339;Stable 3~4 Favor Shield Upgrader[C Class];528
+1403;iycud40;C2140340;Stable 3~5 Favor Shield Upgrader[C Class];529
+1404;iycud41;C2140341;Stable 4~6 Favor Shield Upgrader[C Class];530
+1405;iycud42;C2140342;Stable 3~7 Favor Shield Upgrader[C Class];531
+1406;iycud43;C2140343;Stable 4~7 Favor Shield Upgrader[C Class];532
+1407;iycud44;C2140344;Stable 5~7 Favor Shield Upgrader[C Class];533
+1408;iycud45;C2140345;Stable 6~7 Favor Shield Upgrader[C Class];534
+1409;iyses01;D2041201;Shield Socket Extender[C Class];1061
+1410;iyses02;D2041202;Armor Socket Extender[C Class];1060
+1411;iyses03;D2041203;50Superior shield 2~4socket Extender;1062
+1412;iyses04;D2041204;50Superior shield 5~6socket Extender;1062
+1413;iyses05;D2041205;50Superior shield 7socket Extender;1062
+1414;iyses06;D2041206;53Superior shield 2~4socket Extender;1062
+1415;iyses07;D2041207;53Superior shield 5~6socket Extender;1062
+1416;iyses08;D2041208;53Superior shield 7socket Extender;1062
+1417;iyses09;D2041209;55Superior shield 2~4socket Extender;1062
+1418;iyses10;D2041210;55Superior shield 5~6socket Extender;1062
+1419;iyses11;D2041211;55Superior shield 7socket Extender;1062
+1420;iycip01;C2080F01;Red Chip;151
+1421;iycip02;C2080F02;Blue Chip;718
+1422;iycip03;C2080F03;Orange Chip;717
+1423;iycip04;C2080F04;Yellow Chip;716
+1424;iyelf14;C40B0514;MutantWalker's skin sample;716
+1425;iyelf15;C40B0515;MutantWalker's hair sample;716
+1426;iyelf16;C40B0516;LageClaw's blood sample;716
+1427;iyelf17;C40B0517;LageClaw's muscle sample;716
+1428;iyelf18;C40B0518;King mutantWalker's in-body virus sample;716
+1429;iyelf19;C40B0519;King mutantWalker's DNA Sample;716
+1430;iyelf20;C40B0520;MutantPlant's trunk sample;716
+1431;iyelf21;C40B0521;MutantPlant's Amino acid sample;716
+1432;iyelf22;C40B0522;aizencracker's code handler;716
+1433;iyelf23;C40B0523;aizencracker's code deliver;716
+1434;iyelf24;C40B0524;Red Fanged lunker's Fang sample;716
+1435;iyelf25;C40B0525;Red Haired splinter's hair sample;716
+1436;iyelf26;C40B0526;fanged splinter's fanged sample;716
+1437;iyelf27;C40B0527;Rake Draco King's rake sample;716
+1438;iygld01;C60B0301;discount coupon;1076
+1439;iygld02;C60B0302;discount coupon;1077
+1440;iygld03;C60B0303;washbasin;683
+1441;iygld04;C60B0304;separate garbage collection 3set;683
+1442;iygld05;C60B0305;Trashcan;683
+1443;iygld06;C60B0306;Spray;683
+1444;iygld07;C60B0307;Wax 2L;683
+1445;iygld08;C60B0308;Detergent Kitchen;683
+1446;iygld09;C60B0309;Detergent washing;683
+1447;iygld10;C60B0310;Detergent Bathroom;683
+1448;iygld11;C60B0311;Gold bar;1078
+1449;iygld12;C60B0312;Imitation gold bar;1079
+1450;iygco01;C6020E01;Shiny Luck Jewel Coupon;1108
+1451;iywsu01;D6121401;Weapon Socket Extender [Dclass];1109
+1452;iywsu02;D6121402;Weapon Socket Extender [Leon];1143
+1453;iyrwu01;D1161401;Stable Weapon 1~2 Ignorance Upgrader[Leon];424
+1454;iyrwu02;D1161402;Stable Weapon 1~3 Ignorance Upgrader[Leon];425
+1455;iyrwu03;D1161403;Stable Weapon 1~4 Ignorance Upgrader[Leon];426
+1456;iyrwu04;D1161404;Stable Weapon 1~5 Ignorance Upgrader[Leon];427
+1457;iyrwu05;D1161405;Stable Weapon 2~3 Ignorance Upgrader[Leon];428
+1458;iyrwu06;D1161406;Stable Weapon 2~4 Ignorance Upgrader[Leon];429
+1459;iyrwu07;D1161407;Stable Weapon 2~5 Ignorance Upgrader[Leon];430
+1460;iyrwu08;D1161408;Stable Weapon 2~6 Ignorance Upgrader[Leon];431
+1461;iyrwu09;D1161409;Stable Weapon 3~4 Ignorance Upgrader[Leon];432
+1462;iyrwu10;D1161410;Stable Weapon 3~5 Ignorance Upgrader[Leon];433
+1463;iyrwu11;D1161411;Stable Weapon 3~6 Ignorance Upgrader[Leon];434
+1464;iyrwu12;D1161412;Stable Weapon 3~7 Ignorance Upgrader[Leon];435
+1465;iyrwu13;D1161413;Stable Weapon 4~5 Ignorance Upgrader[Leon];436
+1466;iyrwu14;D1161414;Stable Weapon 4~6 Ignorance Upgrader[Leon];437
+1467;iyrwu15;D1161415;Stable Weapon 4~7 Ignorance Upgrader[Leon];438
+1468;iyrwu16;D1161416;Stable Weapon 5~6 Ignorance Upgrader[Leon];439
+1469;iyrwu17;D1161417;Stable Weapon 5~7 Ignorance Upgrader[Leon];440
+1470;iyrwu18;D1161418;Stable Weapon 6~7 Ignorance Upgrader[Leon];441
+1471;iyaup01;C0140F01;Elemental Sprits Appendix H1~5Level Upgrader;1110
+1472;iyaup02;C0140F02;Elemental Mind Appendix H1~5Level Upgrader;1110
+1473;iyaup03;C0140F03;Elemental Tum Appendix G1~5Level Upgrader;1111
+1474;iyaup04;C0140F04;Elemental Mind Earring H11~5 1Level Upgrader;1112
+1475;iyaup05;C0140F05;Elemental Mind Earring H11~5 2Level Upgrader;1113
+1476;iyaup06;C0140F06;Elemental Mind Earring H11~5 3Level Upgrader;1114
+1477;iyaup07;C0140F07;Elemental Mind Earring H11~5 4Level Upgrader;1115
+1478;iyaup08;C0140F08;Elemental Mind Earring H11~5 5Level Upgrader;1116
+1479;iyaup09;C0140F09;Elemental Curse Earring H11~5 1Level Upgrader;1112
+1480;iyaup10;C0140F10;Elemental Curse Earring H11~5 2Level Upgrader;1113
+1481;iyaup11;C0140F11;Elemental Curse Earring H11~5 3Level Upgrader;1114
+1482;iyaup12;C0140F12;Elemental Curse Earring H11~5 4Level Upgrader;1115
+1483;iyaup13;C0140F13;Elemental Curse Earring H11~5 5Level Upgrader;1116
+1484;iyaup14;C0140F14;Elemental Glow Earring H11~5Level Upgrader;1110
+1485;iyaup15;C0140F15;Elemental Den Earring H11~5 1Level Upgrader;1112
+1486;iyaup16;C0140F16;Elemental Den Earring H11~5 2Level Upgrader;1113
+1487;iyaup17;C0140F17;Elemental Den Earring H11~5 3Level Upgrader;1114
+1488;iyaup18;C0140F18;Elemental Den Earring H11~5 4Level Upgrader;1115
+1489;iyaup19;C0140F19;Elemental Den Earring H11~5 5Level Upgrader;1116
+1490;iyaup20;C0140F20;Elemental Power Earmuff H11~5 5Level Upgrader;1110
+1491;iyaup21;C0140F21;Elemental Hue Earmuff  H11~5 1Level Upgrader;1112
+1492;iyaup22;C0140F22;Elemental Hue Earmuff  H11~5 2Level Upgrader;1113
+1493;iyaup23;C0140F23;Elemental Hue Earmuff  H11~5 3Level Upgrader;1114
+1494;iyaup24;C0140F24;Elemental Hue Earmuff  H11~5 4Level Upgrader;1115
+1495;iyaup25;C0140F25;Elemental Hue Earmuff  H11~5 5Level Upgrader;1116
+1496;iyaup26;C0140F26;Elemental Pliant Earmuff  H11~5 1Level Upgrader;1112
+1497;iyaup27;C0140F27;Elemental Pliant Earmuff  H11~5 2Level Upgrader;1113
+1498;iyaup28;C0140F28;Elemental Pliant Earmuff  H11~5 3Level Upgrader;1114
+1499;iyaup29;C0140F29;Elemental Pliant Earmuff  H11~5 4Level Upgrader;1115
+1500;iyaup30;C0140F30;Elemental Pliant Earmuff  H11~5 5Level Upgrader;1116
+1501;iyrup01;D1140F01;Elemental Sprits Racelet H11~5 1Level Upgrader;1112
+1502;iyrup02;D1140F02;Elemental Sprits Racelet  H11~5 2Level Upgrader;1113
+1503;iyrup03;D1140F03;Elemental Sprits Racelet  H11~5 3Level Upgrader;1114
+1504;iyrup04;D1140F04;Elemental Sprits Racelet H11~5 4Level Upgrader;1115
+1505;iyrup05;D1140F05;Elemental Sprits Racelet  H11~5 5Level Upgrader;1116
+1506;iyrup06;D1140F06;Elemental Tum Racelet H11~5 1Level Upgrader;1112
+1507;iyrup07;D1140F07;Elemental Tum Racelet  H11~5 2Level Upgrader;1113
+1508;iyrup08;D1140F08;Elemental Tum Racelet  H11~5 3Level Upgrader;1114
+1509;iyrup09;D1140F09;Elemental Tum Racelet H11~5 4Level Upgrader;1115
+1510;iyrup10;D1140F10;Elemental Tum Racelet  H11~5 5Level Upgrader;1116
+1511;iyrup11;D1140F11;Elemental Mind Racelet H11~5 1Level Upgrader;1112
+1512;iyrup12;D1140F12;Elemental Mind Racelet  H11~5 2Level Upgrader;1113
+1513;iyrup13;D1140F13;Elemental Mind Racelet  H11~5 3Level Upgrader;1114
+1514;iyrup14;D1140F14;Elemental Mind Racelet H11~5 4Level Upgrader;1115
+1515;iyrup15;D1140F15;Elemental Mind Racelet  H11~5 5Level Upgrader;1116
+1516;iyrup16;D1140F16;Elemental El Racelet  H11~5Level Upgrader;1110
+1517;iyrup17;D1140F17;Elemental Den Armlet  G11~5Level Upgrader;1111
+1518;iyrup18;D1140F18;Elemental Curse Armlet  H11~5Level Upgrader;1110
+1519;iyrup19;D1140F19;Elemental Mild Armlet  H11~5Level Upgrader;1110
+1520;iyrup20;D1140F20;Elemental Mighty Bracelet H11~5 1Level Upgrader;1112
+1521;iyrup21;D1140F21;Elemental Mighty Bracelet  H11~5 2Level Upgrader;1113
+1522;iyrup22;D1140F22;Elemental Mighty Bracelet  H11~5 3Level Upgrader;1114
+1523;iyrup23;D1140F23;Elemental Mighty Bracelet H11~5 4Level Upgrader;1115
+1524;iyrup24;D1140F24;Elemental Mighty Bracelet  H11~5 5Level Upgrader;1116
+1525;iyrup25;D1140F25;Elemental Hue Bracelet H11~5 1Level Upgrader;1112
+1526;iyrup26;D1140F26;Elemental Hue Bracelet  H11~5 2Level Upgrader;1113
+1527;iyrup27;D1140F27;Elemental Hue Bracelet  H11~5 3Level Upgrader;1114
+1528;iyrup28;D1140F28;Elemental Hue Bracelet H11~5 4Level Upgrader;1115
+1529;iyrup29;D1140F29;Elemental Hue Bracelet  H11~5 5Level Upgrader;1116
+1530;iyrup30;D1140F30;Elemental Pliant Bracelet H11~5 1Level Upgrader;1112
+1531;iyrup31;D1140F31;Elemental Pliant Bracelet  H11~5 2Level Upgrader;1113
+1532;iyrup32;D1140F32;Elemental Pliant Bracelet  H11~5 3Level Upgrader;1114
+1533;iyrup33;D1140F33;Elemental Pliant Bracelet H11~5 4Level Upgrader;1115
+1534;iyrup34;D1140F34;Elemental Pliant Bracelet  H11~5 5Level Upgrader;1116
+1535;iyrup35;D1140F35;Elemental Power Bracelet  H11~5Level Upgrader;1110
+1536;iyeco01;C4020E01;Accessory A Set Coupon of Intermediate;1117
+1537;iyeco02;C4020E02;Accessory B Set Coupon of Intermediate;1118
+1538;iypco01;CF020E01;Battle Potion Set Coupon-A;1119
+1539;iypco02;CF020E02;Battle Potion Set Coupon-A;1120
+1540;iypco03;CF020E03;Battle Potion Set Coupon-A;1121
+1541;iypco04;CF020E04;Battle Potion Set Coupon-B;1119
+1542;iypco05;CF020E05;Battle Potion Set Coupon-B;1120
+1543;iypco06;CF020E06;Battle Potion Set Coupon-B;1121
+1544;iypco07;CF020E07;Battle Potion Set Coupon-C;1119
+1545;iypco08;CF020E08;Battle Potion Set Coupon-C;1120
+1546;iypco09;CF020E09;Battle Potion Set Coupon-C;1121
+1547;iypco10;CF020E10;Hunting Potion Set Coupon-A;1122
+1548;iypco11;CF020E11;Hunting Potion Set Coupon-A;1123
+1549;iypco12;CF020E12;Hunting Potion Set Coupon-A;1124
+1550;iypco13;CF020E13;Hunting Potion Set Coupon-B;1122
+1551;iypco14;CF020E14;Hunting Potion Set Coupon-B;1123
+1552;iypco15;CF020E15;Hunting Potion Set Coupon-B;1124
+1553;iypco16;CF020E16;Hunting Potion Set Coupon-C;1122
+1554;iypco17;CF020E17;Hunting Potion Set Coupon-C;1123
+1555;iypco18;CF020E18;Hunting Potion Set Coupon-C;1124
+1556;iypco19;CF020E19;Attack Potion Set Coupon-A;1125
+1557;iypco20;CF020E20;Attack Potion Set Coupon-A;1126
+1558;iypco21;CF020E21;Attack Potion Set Coupon-A;1127
+1559;iypco22;CF020E22;Attack Potion Set Coupon-B;1125
+1560;iypco23;CF020E23;Attack Potion Set Coupon-B;1126
+1561;iypco24;CF020E24;Attack Potion Set Coupon-B;1127
+1562;iypco25;CF020E25;Attack Potion Set Coupon-C;1125
+1563;iypco26;CF020E26;Attack Potion Set Coupon-C;1126
+1564;iypco27;CF020E27;Attack Potion Set Coupon-C;1127
+1565;iypco28;CF020E28;Attack Potion Set Coupon-D;1125
+1566;iypco29;CF020E29;Attack Potion Set Coupon-D;1126
+1567;iypco30;CF020E30;Attack Potion Set Coupon-D;1127
+1568;iypco31;CF020E31;Attack Potion Set Coupon-E;1125
+1569;iypco32;CF020E32;Attack Potion Set Coupon-E;1126
+1570;iypco33;CF020E33;Attack Potion Set Coupon-E;1127
+1571;iypco34;CF020E34;Attack Potion Set Coupon-F;1125
+1572;iypco35;CF020E35;Attack Potion Set Coupon-F;1126
+1573;iypco36;CF020E36;Attack Potion Set Coupon-F;1127
+1574;iyspu01;D20F1401;Stable Superior Armor 1~4 Favor Upgrader;1128
+1575;iyspu02;D20F1402;Stable Superior Armor 1~5 Favor Upgrader;1129
+1576;iyspu03;D20F1403;Stable Superior Armor 2~4 Favor Upgrader;1130
+1577;iyspu04;D20F1404;Stable Superior Armor 2~5 Favor Upgrader;1131
+1578;iyspu05;D20F1405;Stable Superior Armor 2~6 Favor Upgrader;1132
+1579;iyspu06;D20F1406;Stable Superior Armor 3~4 Favor Upgrader;1133
+1580;iyspu07;D20F1407;Stable Superior Armor 3~5 Favor Upgrader;1134
+1581;iyspu08;D20F1408;Stable Superior Armor 3~6 Favor Upgrader;1135
+1582;iyspu09;D20F1409;Stable Superior Armor 3~7 Favor Upgrader;1136
+1583;iyspu10;D20F1410;Stable Superior Armor 4~5 Favor Upgrader;1137
+1584;iyspu11;D20F1411;Stable Superior Armor 4~6 Favor Upgrader;1138
+1585;iyspu12;D20F1412;Stable Superior Armor 4~7 Favor Upgrader;1139
+1586;iyspu13;D20F1413;Stable Superior Armor 5~6 Favor Upgrader;1140
+1587;iyspu14;D20F1414;Stable Superior Armor 5~7 Favor Upgrader;1141
+1588;iyspu15;D20F1415;Stable Superior Armor 6~7 Favor Upgrader;1142
+1589;iysps01;D20F1201;Superior Shield Socket Extender;1062
+1590;iyspa01;D20F0001;Superior Armor Socket Extender;542
+1591;iyglw01;C60B1601;Gold Weapon Coupon [Bow];608
+1592;iyglw02;C60B1602;Gold Weapon Coupon [Spear];608
+1593;iyglw03;C60B1603;Gold Weapon Coupon [Launcher];608
+1594;iyglw04;C60B1604;Gold Weapon Coupon [Staff];608
+1595;iyglw05;C60B1605;Gold Weapon Coupon [Knife];608
+1596;iyglw06;C60B1606;Gold Weapon Coupon [Gun];608
+1597;iyglw07;C60B1607;5 Ignorance Gold Weapon Coupon [Bow];608
+1598;iyglw08;C60B1608;5 Ignorance Gold Weapon Coupon [Spear];608
+1599;iyglw09;C60B1609;5 Ignorance Gold Weapon Coupon [Launcher];608
+1600;iyglw10;C60B1610;5 Ignorance Gold Weapon Coupon [Staff];608
+1601;iyglw11;C60B1611;5 Ignorance Gold Weapon Coupon [Knife];608
+1602;iyglw12;C60B1612;5 Ignorance Gold Weapon Coupon [Gun];608
+1603;iyglw13;C60B1613;6 Ignorance Gold Weapon Coupon [Bow];608
+1604;iyglw14;C60B1614;6 Ignorance  Gold Weapon Coupon [Spear];608
+1605;iyglw15;C60B1615;6 Ignorance  Gold Weapon Coupon [Launcher];608
+1606;iyglw16;C60B1616;6 Ignorance  Gold Weapon Coupon [Staff];608
+1607;iyglw17;C60B1617;6 Ignorance  Gold Weapon Coupon [Knife];608
+1608;iyglw18;C60B1618;6 Ignorance  Gold Weapon Coupon [Gun];608
+1609;iyglw19;C60B1619;7 Ignorance Gold Weapon Coupon [Bow];608
+1610;iyglw20;C60B1620;7 Ignorance  Gold Weapon Coupon [Spear];608
+1611;iyglw21;C60B1621;7 Ignorance  Gold Weapon Coupon [Launcher];608
+1612;iyglw22;C60B1622;7 Ignorance  Gold Weapon Coupon [Staff];608
+1613;iyglw23;C60B1623;7 Ignorance  Gold Weapon Coupon [Knife];608
+1614;iyglw24;C60B1624;7 Ignorance  Gold Weapon Coupon [Gun];608
+1615;iyglb01;C60B0101;Gold Armor Coupon [Proximity Helmet];609
+1616;iyglb02;C60B0102;Gold Armor Coupon [Long Range Helmet];609
+1617;iyglb03;C60B0103;Gold Armor Coupon [Force Helmet];609
+1618;iyglc01;C60B0201;Gold Armor Coupon [Proximity Helmet];609
+1619;iyglc02;C60B0202;Gold Armor Coupon [Long Range Helmet];609
+1620;iyglc03;C60B0203;Gold Armor Coupon [Force Helmet];609
+1621;iygla01;C60B0001;Gold Armor Coupon [Proximity Helmet];609
+1622;iygla02;C60B0002;Gold Armor Coupon [Long Range Helmet];609
+1623;iygla03;C60B0003;Gold Armor Coupon [Launcher Helmet];609
+1624;iyglb04;C60B0104;Gold Armor Coupon [Proximity UpperGarment];609
+1625;iyglb05;C60B0105;Gold Armor Coupon [Long Range UpperGarment];609
+1626;iyglb06;C60B0106;Gold Armor Coupon [Force UpperGarment];609
+1627;iyglc04;C60B0204;Gold Armor Coupon [Proximity UpperGarment];609
+1628;iyglc05;C60B0205;Gold Armor Coupon [Long Range UpperGarment];609
+1629;iyglc06;C60B0206;Gold Armor Coupon [Force UpperGarment];609
+1630;iygla04;C60B0004;Gold Armor Coupon [Proximity UpperGarment];609
+1631;iygla05;C60B0005;Gold Armor Coupon [Long Range UpperGarment];609
+1632;iygla06;C60B0006;Gold Armor Coupon [Launcer UpperGarment];609
+1633;iyglb07;C60B0107;Gold Armor Coupon [Proximity Pants];609
+1634;iyglb08;C60B0108;Gold Armor Coupon [Long Range Pants];609
+1635;iyglb09;C60B0109;Gold Armor Coupon [Force Pants];609
+1636;iyglc07;C60B0207;Gold Armor Coupon [Proximity Pants];609
+1637;iyglc08;C60B0208;Gold Armor Coupon [Long Range Pants];609
+1638;iyglc09;C60B0209;Gold Armor Coupon [Force Pants];609
+1639;iygla07;C60B0007;Gold Armor Coupon [Proximity Pants];609
+1640;iygla08;C60B0008;Gold Armor Coupon [Long Range Pants];609
+1641;iygla09;C60B0009;Gold Armor Coupon [Launcher Pants];609
+1642;iyglb10;C60B0110;Gold Armor Coupon [Proximity Gloves];609
+1643;iyglb11;C60B0111;Gold Armor Coupon [Long Range Gloves];609
+1644;iyglb12;C60B0112;Gold Armor Coupon [Force Gloves];609
+1645;iyglc10;C60B0210;Gold Armor Coupon [Proximity Gloves];609
+1646;iyglc11;C60B0211;Gold Armor Coupon [Long Range Gloves];609
+1647;iyglc12;C60B0212;Gold Armor Coupon [Force Gloves];609
+1648;iygla10;C60B0010;Gold Armor Coupon [Proximity Gloves];609
+1649;iygla11;C60B0011;Gold Armor Coupon [Long Range Gloves];609
+1650;iygla12;C60B0012;Gold Armor Coupon [Launcher Gloves];609
+1651;iyglb13;C60B0113;Gold Armor Coupon [Proximity Shoes];609
+1652;iyglb14;C60B0114;Gold Armor Coupon [Long Range Shoes];609
+1653;iyglb15;C60B0115;Gold Armor Coupon [Force Shoes];609
+1654;iyglc13;C60B0213;Gold Armor Coupon [Proximity Shoes];609
+1655;iyglc14;C60B0214;Gold Armor Coupon [Long Range Shoes];609
+1656;iyglc15;C60B0215;Gold Armor Coupon [Force Shoes];609
+1657;iygla13;C60B0013;Gold Armor Coupon [Proximity Shoes];609
+1658;iygla14;C60B0014;Gold Armor Coupon [Long Range Shoes];609
+1659;iygla15;C60B0015;Gold Armor Coupon [Launcher Shoes];609
+1660;iyglb16;C60B0116;5Favor Gold Armor Coupon [Proximity Helmet];609
+1661;iyglb17;C60B0117;5Favor Gold Armor Coupon [Long Range Helmet];609
+1662;iyglb18;C60B0118;5Favor Gold Armor Coupon [Force Helmet];609
+1663;iyglc16;C60B0216;5Favor Gold Armor Coupon [Proximity Helmet];609
+1664;iyglc17;C60B0217;5Favor Gold Armor Coupon [Long Range Helmet];609
+1665;iyglc18;C60B0218;5Favor Gold Armor Coupon [Force Helmet];609
+1666;iygla16;C60B0016;5Favor Gold Armor Coupon [Proximity Helmet];609
+1667;iygla17;C60B0017;5Favor Gold Armor Coupon [Long Range Helmet];609
+1668;iygla18;C60B0018;5Favor Gold Armor Coupon [Launcher Helmet];609
+1669;iyglb19;C60B0119;5Favor Gold Armor Coupon [Proximity UpperGarment];609
+1670;iyglb20;C60B0120;5Favor Gold Armor Coupon [Long Range UpperGarment];609
+1671;iyglb21;C60B0121;5Favor Gold Armor Coupon [Force UpperGarment];609
+1672;iyglc19;C60B0219;5Favor Gold Armor Coupon [Proximity UpperGarment];609
+1673;iyglc20;C60B0220;5Favor Gold Armor Coupon [Long Range UpperGarment];609
+1674;iyglc21;C60B0221;5Favor Gold Armor Coupon [Force UpperGarment];609
+1675;iygla19;C60B0019;5Favor Gold Armor Coupon [Proximity UpperGarment];609
+1676;iygla20;C60B0020;5Favor Gold Armor Coupon [Long Range UpperGarment];609
+1677;iygla21;C60B0021;5Favor Gold Armor Coupon [Launcer UpperGarment];609
+1678;iyglb22;C60B0122;5Favor Gold Armor Coupon [Proximity Pants];609
+1679;iyglb23;C60B0123;5Favor Gold Armor Coupon [Long Range Pants];609
+1680;iyglb24;C60B0124;5Favor Gold Armor Coupon [Force Pants];609
+1681;iyglc22;C60B0222;5Favor Gold Armor Coupon [Proximity Pants];609
+1682;iyglc23;C60B0223;5Favor Gold Armor Coupon [Long Range Pants];609
+1683;iyglc24;C60B0224;5Favor Gold Armor Coupon [Force Pants];609
+1684;iygla22;C60B0022;5Favor Gold Armor Coupon [Proximity Pants];609
+1685;iygla23;C60B0023;5Favor Gold Armor Coupon [Long Range Pants];609
+1686;iygla24;C60B0024;5Favor Gold Armor Coupon [Launcher Pants];609
+1687;iyglb25;C60B0125;5Favor Gold Armor Coupon [Proximity Gloves];609
+1688;iyglb26;C60B0126;5Favor Gold Armor Coupon [Long Range Gloves];609
+1689;iyglb27;C60B0127;5Favor Gold Armor Coupon [Force Gloves];609
+1690;iyglc25;C60B0225;5Favor Gold Armor Coupon [Proximity Gloves];609
+1691;iyglc26;C60B0226;5Favor Gold Armor Coupon [Long Range Gloves];609
+1692;iyglc27;C60B0227;5Favor Gold Armor Coupon [Force Gloves];609
+1693;iygla25;C60B0025;5Favor Gold Armor Coupon [Proximity Gloves];609
+1694;iygla26;C60B0026;5Favor Gold Armor Coupon [Long Range Gloves];609
+1695;iygla27;C60B0027;5Favor Gold Armor Coupon [Launcher Gloves];609
+1696;iyglb28;C60B0128;5Favor Gold Armor Coupon [Proximity Shoes];609
+1697;iyglb29;C60B0129;5Favor Gold Armor Coupon [Long Range Shoes];609
+1698;iyglb30;C60B0130;5Favor Gold Armor Coupon [Force Shoes];609
+1699;iyglc28;C60B0228;5Favor Gold Armor Coupon [Proximity Shoes];609
+1700;iyglc29;C60B0229;5Favor Gold Armor Coupon [Long Range Shoes];609
+1701;iyglc30;C60B0230;5Favor Gold Armor Coupon [Force Shoes];609
+1702;iygla28;C60B0028;5Favor Gold Armor Coupon [Proximity Shoes];609
+1703;iygla29;C60B0029;5Favor Gold Armor Coupon [Long Range Shoes];609
+1704;iygla30;C60B0030;5Favor Gold Armor Coupon [Launcher Shoes];609
+1705;iyglb31;C60B0131;6Favor Gold Armor Coupon [Proximity Helmet];609
+1706;iyglb32;C60B0132;6Favor Gold Armor Coupon [Long Range Helmet];609
+1707;iyglb33;C60B0133;6Favor Gold Armor Coupon [Force Helmet];609
+1708;iyglc31;C60B0231;6Favor Gold Armor Coupon [Proximity Helmet];609
+1709;iyglc32;C60B0232;6Favor Gold Armor Coupon [Long Range Helmet];609
+1710;iyglc33;C60B0233;6Favor Gold Armor Coupon [Force Helmet];609
+1711;iygla31;C60B0031;6Favor Gold Armor Coupon [Proximity Helmet];609
+1712;iygla32;C60B0032;6Favor Gold Armor Coupon [Long Range Helmet];609
+1713;iygla33;C60B0033;6Favor Gold Armor Coupon [Launcher Helmet];609
+1714;iyglb34;C60B0134;6Favor Gold Armor Coupon [Proximity UpperGarment];609
+1715;iyglb35;C60B0135;6Favor Gold Armor Coupon [Long Range UpperGarment];609
+1716;iyglb36;C60B0136;6Favor Gold Armor Coupon [Force UpperGarment];609
+1717;iyglc34;C60B0234;6Favor Gold Armor Coupon [Proximity UpperGarment];609
+1718;iyglc35;C60B0235;6Favor Gold Armor Coupon [Long Range UpperGarment];609
+1719;iyglc36;C60B0236;6Favor Gold Armor Coupon [Force UpperGarment];609
+1720;iygla34;C60B0034;6Favor Gold Armor Coupon [Proximity UpperGarment];609
+1721;iygla35;C60B0035;6Favor Gold Armor Coupon [Long Range UpperGarment];609
+1722;iygla36;C60B0036;6Favor Gold Armor Coupon [Launcer UpperGarment];609
+1723;iyglb37;C60B0137;6Favor Gold Armor Coupon [Proximity Pants];609
+1724;iyglb38;C60B0138;6Favor Gold Armor Coupon [Long Range Pants];609
+1725;iyglb39;C60B0139;6Favor Gold Armor Coupon [Force Pants];609
+1726;iyglc37;C60B0237;6Favor Gold Armor Coupon [Proximity Pants];609
+1727;iyglc38;C60B0238;6Favor Gold Armor Coupon [Long Range Pants];609
+1728;iyglc39;C60B0239;6Favor Gold Armor Coupon [Force Pants];609
+1729;iygla37;C60B0037;6Favor Gold Armor Coupon [Proximity Pants];609
+1730;iygla38;C60B0038;6Favor Gold Armor Coupon [Long Range Pants];609
+1731;iygla39;C60B0039;6Favor Gold Armor Coupon [Launcher Pants];609
+1732;iyglb40;C60B0140;6Favor Gold Armor Coupon [Proximity Gloves];609
+1733;iyglb41;C60B0141;6Favor Gold Armor Coupon [Long Range Gloves];609
+1734;iyglb42;C60B0142;6Favor Gold Armor Coupon [Force Gloves];609
+1735;iyglc40;C60B0240;6Favor Gold Armor Coupon [Proximity Gloves];609
+1736;iyglc41;C60B0241;6Favor Gold Armor Coupon [Long Range Gloves];609
+1737;iyglc42;C60B0242;6Favor Gold Armor Coupon [Force Gloves];609
+1738;iygla40;C60B0040;6Favor Gold Armor Coupon [Proximity Gloves];609
+1739;iygla41;C60B0041;6Favor Gold Armor Coupon [Long Range Gloves];609
+1740;iygla42;C60B0042;6Favor Gold Armor Coupon [Launcher Gloves];609
+1741;iyglb43;C60B0143;6Favor Gold Armor Coupon [Proximity Shoes];609
+1742;iyglb44;C60B0144;6Favor Gold Armor Coupon [Long Range Shoes];609
+1743;iyglb45;C60B0145;6Favor Gold Armor Coupon [Force Shoes];609
+1744;iyglc43;C60B0243;6Favor Gold Armor Coupon [Proximity Shoes];609
+1745;iyglc44;C60B0244;6Favor Gold Armor Coupon [Long Range Shoes];609
+1746;iyglc45;C60B0245;6Favor Gold Armor Coupon [Force Shoes];609
+1747;iygla43;C60B0043;6Favor Gold Armor Coupon [Proximity Shoes];609
+1748;iygla44;C60B0044;6Favor Gold Armor Coupon [Long Range Shoes];609
+1749;iygla45;C60B0045;6Favor Gold Armor Coupon [Launcher Shoes];609
+1750;iyglb46;C60B0146;7Favor Gold Armor Coupon [Proximity Helmet];609
+1751;iyglb47;C60B0147;7Favor Gold Armor Coupon [Long Range Helmet];609
+1752;iyglb48;C60B0148;7Favor Gold Armor Coupon [Force Helmet];609
+1753;iyglc46;C60B0246;7Favor Gold Armor Coupon [Proximity Helmet];609
+1754;iyglc47;C60B0247;7Favor Gold Armor Coupon [Long Range Helmet];609
+1755;iyglc48;C60B0248;7Favor Gold Armor Coupon [Force Helmet];609
+1756;iygla46;C60B0046;7Favor Gold Armor Coupon [Proximity Helmet];609
+1757;iygla47;C60B0047;7Favor Gold Armor Coupon [Long Range Helmet];609
+1758;iygla48;C60B0048;7Favor Gold Armor Coupon [Launcher Helmet];609
+1759;iyglb49;C60B0149;7Favor Gold Armor Coupon [Proximity UpperGarment];609
+1760;iyglb50;C60B0150;7Favor Gold Armor Coupon [Long Range UpperGarment];609
+1761;iyglb51;C60B0151;7Favor Gold Armor Coupon [Force UpperGarment];609
+1762;iyglc49;C60B0249;7Favor Gold Armor Coupon [Proximity UpperGarment];609
+1763;iyglc50;C60B0250;7Favor Gold Armor Coupon [Long Range UpperGarment];609
+1764;iyglc51;C60B0251;7Favor Gold Armor Coupon [Force UpperGarment];609
+1765;iygla49;C60B0049;7Favor Gold Armor Coupon [Proximity UpperGarment];609
+1766;iygla50;C60B0050;7Favor Gold Armor Coupon [Long Range UpperGarment];609
+1767;iygla51;C60B0051;7Favor Gold Armor Coupon [Launcer UpperGarment];609
+1768;iyglb52;C60B0152;7Favor Gold Armor Coupon [Proximity Pants];609
+1769;iyglb53;C60B0153;7Favor Gold Armor Coupon [Long Range Pants];609
+1770;iyglb54;C60B0154;7Favor Gold Armor Coupon [Force Pants];609
+1771;iyglc52;C60B0252;7Favor Gold Armor Coupon [Proximity Pants];609
+1772;iyglc53;C60B0253;7Favor Gold Armor Coupon [Long Range Pants];609
+1773;iyglc54;C60B0254;7Favor Gold Armor Coupon [Force Pants];609
+1774;iygla52;C60B0052;7Favor Gold Armor Coupon [Proximity Pants];609
+1775;iygla53;C60B0053;7Favor Gold Armor Coupon [Long Range Pants];609
+1776;iygla54;C60B0054;7Favor Gold Armor Coupon [Launcher Pants];609
+1777;iyglb55;C60B0155;7Favor Gold Armor Coupon [Proximity Gloves];609
+1778;iyglb56;C60B0156;7Favor Gold Armor Coupon [Long Range Gloves];609
+1779;iyglb57;C60B0157;7Favor Gold Armor Coupon [Force Gloves];609
+1780;iyglc55;C60B0255;7Favor Gold Armor Coupon [Proximity Gloves];609
+1781;iyglc56;C60B0256;7Favor Gold Armor Coupon [Long Range Gloves];609
+1782;iyglc57;C60B0257;7Favor Gold Armor Coupon [Force Gloves];609
+1783;iygla55;C60B0055;7Favor Gold Armor Coupon [Proximity Gloves];609
+1784;iygla56;C60B0056;7Favor Gold Armor Coupon [Long Range Gloves];609
+1785;iygla57;C60B0057;7Favor Gold Armor Coupon [Launcher Gloves];609
+1786;iyglb58;C60B0158;7Favor Gold Armor Coupon [Proximity Shoes];609
+1787;iyglb59;C60B0159;7Favor Gold Armor Coupon [Long Range Shoes];609
+1788;iyglb60;C60B0160;7Favor Gold Armor Coupon [Force Shoes];609
+1789;iyglc58;C60B0258;7Favor Gold Armor Coupon [Proximity Shoes];609
+1790;iyglc59;C60B0259;7Favor Gold Armor Coupon [Long Range Shoes];609
+1791;iyglc60;C60B0260;7Favor Gold Armor Coupon [Force Shoes];609
+1792;iygla58;C60B0058;7Favor Gold Armor Coupon [Proximity Shoes];609
+1793;iygla59;C60B0059;7Favor Gold Armor Coupon [Long Range Shoes];609
+1794;iygla60;C60B0060;7Favor Gold Armor Coupon [Launcher Shoes];609
+1795;iyglk01;C60B0A01;5Chaos Gold Booster Coupon;1144
+1796;iyglk02;C60B0A02;5Chaos Gold Booster Coupon;1144
+1797;iyglk03;C60B0A03;5Chaos Gold Booster Coupon;1144
+1798;iyglk04;C60B0A04;6Chaos Gold Booster Coupon;1144
+1799;iyglk05;C60B0A05;6Chaos Gold Booster Coupon;1144
+1800;iyglk06;C60B0A06;6Chaos Gold Booster Coupon;1144
+1801;iyglk07;C60B0A07;7Chaos Gold Booster Coupon;1144
+1802;iyglk08;C60B0A08;7Chaos Gold Booster Coupon;1144
+1803;iyglk09;C60B0A09;7Chaos Gold Booster Coupon;1144
+1804;iydon01;C30E0D01;Dalant;0
+1805;iyaup31;C0140F31;Stable Elemental Sprits Appendix H1~5Level Upgrader;1145
+1806;iyaup32;C0140F32;Stable Elemental Mind Appendix H1~5Level Upgrader;1146
+1807;iyaup33;C0140F33;Stable Elemental Tum Appendix G1~5Level Upgrader;1147
+1808;iyaup34;C0140F34;Stable Elemental Mind Earring H11~5 1Level Upgrader;1148
+1809;iyaup35;C0140F35;Stable Elemental Mind Earring H11~5 2Level Upgrader;1149
+1810;iyaup36;C0140F36;Stable Elemental Mind Earring H11~5 3Level Upgrader;1150
+1811;iyaup37;C0140F37;Stable Elemental Mind Earring H11~5 4Level Upgrader;1151
+1812;iyaup38;C0140F38;Stable Elemental Mind Earring H11~5 5Level Upgrader;1152
+1813;iyaup39;C0140F39;Stable Elemental Curse Earring H11~5 1Level Upgrader;1153
+1814;iyaup40;C0140F40;Stable Elemental Curse Earring H11~5 2Level Upgrader;1154
+1815;iyaup41;C0140F41;Stable Elemental Curse Earring H11~5 3Level Upgrader;1155
+1816;iyaup42;C0140F42;Stable Elemental Curse Earring H11~5 4Level Upgrader;1156
+1817;iyaup43;C0140F43;Stable Elemental Curse Earring H11~5 5Level Upgrader;1157
+1818;iyaup44;C0140F44;Stable Elemental Glow Earring H11~5Level Upgrader;1158
+1819;iyaup45;C0140F45;Stable Elemental Den Earring H11~5 1Level Upgrader;1159
+1820;iyaup46;C0140F46;Stable Elemental Den Earring H11~5 2Level Upgrader;1160
+1821;iyaup47;C0140F47;Stable Elemental Den Earring H11~5 3Level Upgrader;1161
+1822;iyaup48;C0140F48;Stable Elemental Den Earring H11~5 4Level Upgrader;1162
+1823;iyaup49;C0140F49;Stable Elemental Den Earring H11~5 5Level Upgrader;1163
+1824;iyaup50;C0140F50;Stable Elemental Power Earmuff H11~5 5Level Upgrader;1164
+1825;iyaup51;C0140F51;Stable Elemental Hue Earmuff  H11~5 1Level Upgrader;1165
+1826;iyaup52;C0140F52;Stable Elemental Hue Earmuff  H11~5 2Level Upgrader;1166
+1827;iyaup53;C0140F53;Stable Elemental Hue Earmuff  H11~5 3Level Upgrader;1167
+1828;iyaup54;C0140F54;Stable Elemental Hue Earmuff  H11~5 4Level Upgrader;1168
+1829;iyaup55;C0140F55;Stable Elemental Hue Earmuff  H11~5 5Level Upgrader;1169
+1830;iyaup56;C0140F56;Stable Elemental Pliant Earmuff  H11~5 1Level Upgrader;1170
+1831;iyaup57;C0140F57;Stable Elemental Pliant Earmuff  H11~5 2Level Upgrader;1171
+1832;iyaup58;C0140F58;Stable Elemental Pliant Earmuff  H11~5 3Level Upgrader;1172
+1833;iyaup59;C0140F59;Stable Elemental Pliant Earmuff  H11~5 4Level Upgrader;1173
+1834;iyaup60;C0140F60;Stable Elemental Pliant Earmuff  H11~5 5Level Upgrader;1174
+1835;iyrup41;D1140F41;Stable Elemental Sprits Racelet H11~5 1Level Upgrader;1175
+1836;iyrup42;D1140F42;Stable Elemental Sprits Racelet  H11~5 2Level Upgrader;1176
+1837;iyrup43;D1140F43;Stable Elemental Sprits Racelet  H11~5 3Level Upgrader;1177
+1838;iyrup44;D1140F44;Stable Elemental Sprits Racelet H11~5 4Level Upgrader;1178
+1839;iyrup45;D1140F45;Stable Elemental Sprits Racelet  H11~5 5Level Upgrader;1179
+1840;iyrup46;D1140F46;Stable Elemental Tum Racelet H11~5 1Level Upgrader;1180
+1841;iyrup47;D1140F47;Stable Elemental Tum Racelet  H11~5 2Level Upgrader;1181
+1842;iyrup48;D1140F48;Stable Elemental Tum Racelet  H11~5 3Level Upgrader;1182
+1843;iyrup49;D1140F49;Stable Elemental Tum Racelet H11~5 4Level Upgrader;1183
+1844;iyrup50;D1140F50;Stable Elemental Tum Racelet  H11~5 5Level Upgrader;1184
+1845;iyrup51;D1140F51;Stable Elemental Mind Racelet H11~5 1Level Upgrader;1185
+1846;iyrup52;D1140F52;Stable Elemental Mind Racelet  H11~5 2Level Upgrader;1186
+1847;iyrup53;D1140F53;Stable Elemental Mind Racelet  H11~5 3Level Upgrader;1187
+1848;iyrup54;D1140F54;Stable Elemental Mind Racelet H11~5 4Level Upgrader;1188
+1849;iyrup55;D1140F55;Stable Elemental Mind Racelet  H11~5 5Level Upgrader;1189
+1850;iyrup56;D1140F56;Stable Elemental El Racelet  H11~5Level Upgrader;1190
+1851;iyrup57;D1140F57;Stable Elemental Den Armlet  G11~5Level Upgrader;1191
+1852;iyrup58;D1140F58;Stable Elemental Curse Armlet  H11~5Level Upgrader;1192
+1853;iyrup59;D1140F59;Stable Elemental Mild Armlet  H11~5Level Upgrader;1193
+1854;iyrup60;D1140F60;Stable Elemental Mighty Bracelet H11~5 1Level Upgrader;1194
+1855;iyrup61;D1140F61;Stable Elemental Mighty Bracelet  H11~5 2Level Upgrader;1195
+1856;iyrup62;D1140F62;Stable Elemental Mighty Bracelet  H11~5 3Level Upgrader;1196
+1857;iyrup63;D1140F63;Stable Elemental Mighty Bracelet H11~5 4Level Upgrader;1197
+1858;iyrup64;D1140F64;Stable Elemental Mighty Bracelet  H11~5 5Level Upgrader;1198
+1859;iyrup65;D1140F65;Stable Elemental Hue Bracelet H11~5 1Level Upgrader;1199
+1860;iyrup66;D1140F66;Stable Elemental Hue Bracelet  H11~5 2Level Upgrader;1200
+1861;iyrup67;D1140F67;Stable Elemental Hue Bracelet  H11~5 3Level Upgrader;1201
+1862;iyrup68;D1140F68;Stable Elemental Hue Bracelet H11~5 4Level Upgrader;1202
+1863;iyrup69;D1140F69;Stable Elemental Hue Bracelet  H11~5 5Level Upgrader;1203
+1864;iyrup70;D1140F70;Stable Elemental Pliant Bracelet H11~5 1Level Upgrader;1204
+1865;iyrup71;D1140F71;Stable Elemental Pliant Bracelet  H11~5 2Level Upgrader;1205
+1866;iyrup72;D1140F72;Stable Elemental Pliant Bracelet  H11~5 3Level Upgrader;1206
+1867;iyrup73;D1140F73;Stable Elemental Pliant Bracelet H11~5 4Level Upgrader;1207
+1868;iyrup74;D1140F74;Stable Elemental Pliant Bracelet  H11~5 5Level Upgrader;1208
+1869;iyrup75;D1140F75;Stable Elemental Power Bracelet  H11~5Level Upgrader;1209
+1870;iyeup01;C4140F01;Event Armor Socket Extender;72

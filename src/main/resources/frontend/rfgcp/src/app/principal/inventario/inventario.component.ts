@@ -1,4 +1,4 @@
-import {Component, Input, OnInit} from '@angular/core';
+import {Component, Input, OnDestroy, OnInit} from '@angular/core';
 import {Inventario} from '../../@core/model/inventario.model';
 
 @Component({
@@ -14,6 +14,6 @@ export class InventarioComponent implements OnInit {
   }
 
   ngOnInit() {
-
   }
+
 }

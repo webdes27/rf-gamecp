@@ -15,6 +15,7 @@ import {ReactiveFormsModule} from '@angular/forms';
 import {DetalhesComponent} from './detalhes/detalhes.component';
 import {DetalhePersonagemComponent} from './detalhe-personagem/detalhe-personagem.component';
 import {InventarioComponent} from './inventario/inventario.component';
+import {NgxEchartsModule} from "ngx-echarts";
 
 @NgModule({
   declarations: [
@@ -32,11 +33,12 @@ import {InventarioComponent} from './inventario/inventario.component';
     DetalhePersonagemComponent,
     InventarioComponent
   ],
-  imports: [
-    SharedModule,
-    AppRoutingModule,
-    ReactiveFormsModule
-  ]
+    imports: [
+        SharedModule,
+        AppRoutingModule,
+        ReactiveFormsModule,
+        NgxEchartsModule
+    ]
 })
 export class PrincipalModule {
 }

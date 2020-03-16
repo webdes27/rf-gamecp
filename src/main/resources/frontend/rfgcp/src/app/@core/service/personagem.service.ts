@@ -29,7 +29,4 @@ export class PersonagemService extends AbstractService {
     return this.http.get<Inventario>(this.BASE_URL + 'inventario/' + nome);
   }
 
-  getBanidos(nome = ""): Observable<Banido[]> {
-    return this.http.get<Banido[]>(this.BASE_URL + 'lista-banidos/' + nome);
-  }
 }

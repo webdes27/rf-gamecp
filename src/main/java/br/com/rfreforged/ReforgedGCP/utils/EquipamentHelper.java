@@ -1,28 +1,21 @@
 package br.com.rfreforged.ReforgedGCP.utils;
 
 import br.com.rfreforged.ReforgedGCP.model.*;
-import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
-import org.apache.poi.openxml4j.opc.OPCPackage;
-import org.apache.poi.ss.usermodel.Cell;
-import org.apache.poi.ss.usermodel.DataFormatter;
-import org.apache.poi.ss.usermodel.Row;
-import org.apache.poi.ss.usermodel.Sheet;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.springframework.core.io.ClassPathResource;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
 
 public class EquipamentHelper {
 
-    private final DataFormatter cellDataFormatter = new DataFormatter();
-    private static final String EXTENSAO = "xlsx";
+    private static final String EXTENSAO = ".csv";
 
     public void setEquipamentosNulos(Personagem p) {
         Stream.of(p.getClass().getDeclaredMethods())
@@ -63,7 +56,7 @@ public class EquipamentHelper {
                 });
     }
 
-    public String getRaca(int num) {
+    public static String getRaca(int num) {
         switch (num) {
             case 0:
             case 1:
@@ -94,15 +87,29 @@ public class EquipamentHelper {
     }
 
     public void setaAcessorios(Personagem p, ResultSet resultSet) throws SQLException {
-        for (int i = 0; i < 4; i++) {
+
+        String raca = getRaca(resultSet.getInt("raca"));
+        int inicio;
+        if (raca.equals("Accretia")) {
+            inicio = 2;
+        } else if (raca.equals("Cora")) {
+            inicio = 1;
+        } else {
+            inicio = 0;
+        }
+
+        for (int i = 0; i < 4; i++, inicio++) {
             int tipo = i > 1 ? 9 : 10;
-            int itemCode = resultSet.getInt("GK" + i);
+            int itemCode = resultSet.getInt("GK" + inicio);
             if (itemCode == -1) {
                 continue;
             }
+
             int indicePlanilha = Math.round((itemCode - (tipo * 256)) / 65536F);
             ItemTipo itemTipo = getItemTipoByCode(tipo);
-            Equipamento acessorio = getDetalhesItemFromPlanilha(itemTipo.name() + EXTENSAO, indicePlanilha);
+
+            Equipamento acessorio = getDetalhesItemFromPlanilhaT("codescsv/" + itemTipo.name() + EXTENSAO, indicePlanilha);
+            acessorio.setMelhoria(null);
             if (i > 1) {
                 p.getAneis().add(acessorio);
             } else {
@@ -111,8 +118,30 @@ public class EquipamentHelper {
         }
     }
 
-    private ItemTipo getItemTipoByCode(int codigo) {
+    public ItemTipo getItemTipoByCode(int codigo) {
         return Stream.of(ItemTipo.values()).filter(i -> i.getCodeItem() == codigo).findFirst().orElseThrow();
+    }
+
+    public Equipamento extraiEquipamentoInventario(int kVal, int uVal, int slot) {
+        if (kVal == -1) {
+            return new Equipamento();
+        }
+        Item item = getDetalhesItem(kVal, uVal);
+//        System.out.println("ITEM CODE: " + item);
+//        System.out.println("KVAL: " + kVal);
+//        System.out.println("UVAL: " + uVal);
+//        System.out.println("tipo: " + item.getTipo());
+//        System.out.println("I: " + slot);
+        ItemTipo itemTipo = getItemTipoByCode(item.getTipo());
+        try {
+//            System.out.println("Arquivo: " + itemTipo.name());
+            Equipamento equipamento = getDetalhesItemFromPlanilhaT("codescsv/" + itemTipo.name() + EXTENSAO, item.getCodigo());
+//            System.out.println("Arquivo: " + equipamento.getNome() + "\n");
+            equipamento.setMelhoria(item.getMelhoria());
+            return equipamento;
+        } catch (ArrayIndexOutOfBoundsException e) {
+            throw e;
+        }
     }
 
     public void setaEquipamentos(Personagem p, ResultSet resultSet) throws SQLException {
@@ -152,60 +181,52 @@ public class EquipamentHelper {
         }
     }
 
-    private Equipamento extraiEquipamento(int vlk, int vlU, int tipo) {
+    public Equipamento extraiEquipamento(int vlk, int vlU, int tipo) {
         Item item = getDetalhesItem(vlk, vlU, tipo);
         ItemTipo itemTipo = getItemTipoByCode(item.getTipo());
-        Equipamento equipamento = getDetalhesItemFromPlanilha(itemTipo.name() + EXTENSAO, item.getCodigo());
+        Equipamento equipamento = getDetalhesItemFromPlanilhaT("codescsv/" + itemTipo.name() + EXTENSAO, item.getCodigo());
         equipamento.setMelhoria(item.getMelhoria());
         return equipamento;
     }
 
-    private Equipamento getDetalhesItemFromPlanilha(String nomeArquivo, int index) {
-        Sheet dataTypeSheet = getPlanilhaFromFile(nomeArquivo);
-
-        Row header = dataTypeSheet.getRow(0);
-        int cellNum = header.getPhysicalNumberOfCells();
-        ArrayList<String> fileHeaders = new ArrayList<>();
-
-        for (int i = 0; i < cellNum; i++) {
-            fileHeaders.add(header.getCell(i).getStringCellValue());
-        }
-
+    private Equipamento getDetalhesItemFromPlanilhaT(String nomeArquivo, int index) throws ArrayIndexOutOfBoundsException {
         Equipamento equipamento = new Equipamento();
-        Row currentRow = dataTypeSheet.getRow(index + 1);
 
-        for (Cell currentCell : currentRow) {
-            String coluna = fileHeaders.get(currentCell.getColumnIndex());
-            if (coluna.equalsIgnoreCase("Index")) {
-                equipamento.setCodigo(Integer.parseInt(cellDataFormatter.formatCellValue(currentCell)));
-            } else if (coluna.equalsIgnoreCase("English Name")) {
-                equipamento.setNome(cellDataFormatter.formatCellValue(currentCell));
-            } else if (coluna.equalsIgnoreCase("Image ID")) {
-                equipamento.setImgId(Integer.parseInt(cellDataFormatter.formatCellValue(currentCell)));
+        String divisor = ";";
+        try (BufferedReader br = new BufferedReader(new FileReader(new ClassPathResource(nomeArquivo).getFile()))) {
+
+            String linhaColunas = br.readLine();
+            List<String> colunas = Arrays.asList(linhaColunas.replaceAll("\"", "").split(divisor));
+
+            String linhaSelecionada = (String) br.lines().toArray()[index];
+
+            String[] valores = linhaSelecionada.replaceAll("\"", "").split(divisor);
+            for (int i = 0; i < valores.length; i++) {
+                String colunaFormatada = colunas.get(i);
+                if (colunaFormatada.equalsIgnoreCase("Index")) {
+                    equipamento.setCodigo(!valores[i].isEmpty() ? Integer.parseInt(valores[i]) : 0);
+                } else if (colunaFormatada.equalsIgnoreCase("English Name")) {
+                    equipamento.setNome(valores[i]);
+                } else if (colunaFormatada.equalsIgnoreCase("Image ID")) {
+                    equipamento.setImgId(!valores[i].isEmpty() ? Integer.parseInt(valores[i]) : 0);
+                }
             }
+
+        } catch (IOException e) {
+            e.printStackTrace();
         }
+
         return equipamento;
     }
 
-    private Sheet getPlanilhaFromFile(String nomeArquivo) {
-        try {
-            OPCPackage excelFile = OPCPackage.open(new ClassPathResource(nomeArquivo).getFile());
-            XSSFWorkbook workbook = new XSSFWorkbook(excelFile);
-            return workbook.getSheetAt(0);
-        } catch (InvalidFormatException | IOException e) {
-            e.printStackTrace();
-            throw new RuntimeException(e);
-        }
+    public Item getDetalhesItem(int kValor, int uValor) {
+        return this.getDetalhesItem(kValor, uValor, -1);
     }
 
-    private Item getDetalhesItem(int kValor, int uValor) {
-        return this.getDetalhesItem(kValor, uValor, 0);
-    }
-
-    private Item getDetalhesItem(int kValor, int uValor, int equipTipo) {
+    public Item getDetalhesItem(int kValor, int uValor, int equipTipo) {
         Item i = new Item();
 
-        if (equipTipo == 0) {
+        if (equipTipo >= 0) {
             i.setCodigo(kValor);
             i.setTipo(equipTipo);
             i.setSlot(-1);
@@ -223,7 +244,7 @@ public class EquipamentHelper {
 
     private Item getCodigoItem(Integer codigo) {
         Item i = new Item();
-        i.setCodigo((codigo & 0xffff0000) >> (2 * 4));
+        i.setCodigo((codigo & 0xffff0000) >> (4 * 4));
         i.setTipo((codigo & 0x0000ff00) >> (2 * 4));
         i.setSlot(codigo & 0x000000ff);
         return i;
@@ -232,17 +253,30 @@ public class EquipamentHelper {
     private Melhoria getMelhoria(int uValue) {
         Melhoria melhoria = new Melhoria();
         String hexString = Integer.toHexString(uValue);
-        int slots = Integer.parseInt(hexString.charAt(0)+"");
+        int slots = hex2Int(hexString.charAt(0));
+        if (slots > 7) {
+            return null;
+        }
         String ultimoChar = String.valueOf(hexString.charAt(hexString.length() - 1));
         if (!ultimoChar.equals("F")) {
             for (int i = slots, j = 0; i >= 1; i--, j++) {
                 int finalI = i;
+                String talica = hexString.charAt(finalI) + "";
                 melhoria.getTalica()[j] = Stream.of(Talica.values())
-                        .filter(t -> t.getNum().equals(hexString.charAt(finalI)+""))
+                        .filter(t -> t.getNum().equals(hex2Int(talica.charAt(0)) + ""))
                         .findFirst().orElseThrow();
             }
         }
         return melhoria;
     }
 
+    private int hex2Int(char charAt) {
+        try {
+            return Integer.parseInt(charAt + "");
+        } catch (NumberFormatException e) {
+            return charAt == 'a' ? 9 : charAt == 'b' ? 10 : charAt == 'c' ? 11
+                    : charAt == 'd' ? 12 : charAt == 'e' ? 13
+                    : charAt == 'f' ? 14 : 0;
+        }
+    }
 }

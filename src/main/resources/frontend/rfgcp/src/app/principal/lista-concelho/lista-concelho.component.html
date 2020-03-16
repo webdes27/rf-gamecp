@@ -3,55 +3,63 @@
     <h3>Lista de Concelhos</h3>
     <hr/>
     <div class="col-12">
-      <p>Accretia</p>
-      <table class="table table-dark table-bordered">
+      <table class="table table-bordered td-primary">
         <thead>
-        <th>Status</th>
+        <tr>
+         <th colspan="6" class="bg-accretia text-white">Accretia</th>
+        </tr>
         <th>Nome do Personagem</th>
         <th>Raça</th>
         <th>Posição</th>
         </thead>
-        <tbody>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
+        <tbody *ngFor="let c of concelhos.acc">
+          <td>{{c.nomePersonagem}}</td>
+          <td>{{c.raca}}</td>
+          <td>{{c.posicao}}</td>
         </tbody>
-
+        <tr *ngIf="!concelhos || concelhos.acc.length === 0">
+          <td colspan="4">Ainda não hão concelhos.</td>
+        </tr>
       </table>
     </div>
     <div class="col-12">
-      <p>Bellato</p>
-      <table class="table table-dark table-bordered">
+      <table class="table table-bordered td-primary">
         <thead>
-        <th>Status</th>
+        <tr>
+          <th colspan="6" class="bg-bellato text-white ">Bellato</th>
+        </tr>
         <th>Nome do Personagem</th>
         <th>Raça</th>
         <th>Posição</th>
         </thead>
-        <tbody>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
+        <tbody *ngFor="let c of concelhos.bell">
+        <td>{{c.nomePersonagem}}</td>
+        <td>{{c.raca}}</td>
+        <td>{{c.posicao}}</td>
         </tbody>
+        <tr *ngIf="!concelhos || concelhos.acc.length === 0">
+          <td colspan="4">Ainda não hão concelhos.</td>
+        </tr>
       </table>
     </div>
     <div class="col-12">
-      <p>Cora</p>
-      <table class="table table-dark table-bordered">
+      <table class="table table-bordered td-primary">
         <thead>
-        <th>Status</th>
+        <tr>
+          <th colspan="6" class="bg-cora text-white">Cora</th>
+        </tr>
         <th>Nome do Personagem</th>
         <th>Raça</th>
         <th>Posição</th>
         </thead>
-        <tbody>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
+        <tbody *ngFor="let c of concelhos.cora">
+        <td>{{c.nomePersonagem}}</td>
+        <td>{{c.raca}}</td>
+        <td>{{c.posicao}}</td>
         </tbody>
+        <tr *ngIf="!concelhos || concelhos.acc.length === 0">
+          <td colspan="4">Ainda não hão concelhos.</td>
+        </tr>
       </table>
     </div>
   </div>
