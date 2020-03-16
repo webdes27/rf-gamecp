@@ -1,12 +1,14 @@
 package br.com.rfreforged.ReforgedGCP.dao;
 
+import br.com.rfreforged.ReforgedGCP.exception.SenhaAtualIncorretaException;
+import br.com.rfreforged.ReforgedGCP.model.AlterarSenha;
 import br.com.rfreforged.ReforgedGCP.model.Permissao;
 import br.com.rfreforged.ReforgedGCP.model.Usuario;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.dao.DataAccessException;
 import org.springframework.jdbc.core.JdbcTemplate;
-import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
+import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Repository;
 
 @Repository
@@ -18,6 +20,8 @@ public class UsuarioDAO {
     @Autowired
     @Qualifier("jdbcTempGameCP")
     private JdbcTemplate tempGameCP;
+    @Autowired
+    private PasswordEncoder passwordEncoder;
 
     public Usuario getUsuario(String nome) {
         String sql = "SELECT ac.id, ac.name as nome, ac.password as senha, email, role.id as idRole, role.name as roleName" +
@@ -46,13 +50,10 @@ public class UsuarioDAO {
         try {
             String sql = "INSERT INTO dbo.tbl_rfaccount (id, password, birthdate, Email) " +
                     "VALUES CONVERT(binary, ?), CONVERT(binary, ?), '1970-01-01 00:00:00', ?)";
-
-            int update = tempRFUser.update(sql, usuario.getNome(), usuario.getSenha(), usuario.getEmail());
-
+            tempRFUser.update(sql, usuario.getNome(), usuario.getSenha(), usuario.getEmail());
             sql = "INSERT INTO dbo.tbl_useraccount (name, password, email, id_role) values (?, ?, ?, ?)";
-
-            update = tempGameCP.update(sql, usuario.getNome(), new BCryptPasswordEncoder().encode(usuario.getSenha()), usuario.getEmail(), 2);
-
+            int update = tempGameCP.update(sql, usuario.getNome(),
+                    passwordEncoder.encode(usuario.getSenha()), usuario.getEmail(), 2);
             return update > 0;
         } catch (DataAccessException e) {
             e.printStackTrace();
@@ -60,4 +61,17 @@ public class UsuarioDAO {
         }
     }
 
+    public boolean alterarSenha(AlterarSenha usuario) throws SenhaAtualIncorretaException {
+        String sql = "SELECT password FROM dbo.tbl_useraccount WHERE name = ?;";
+        String senhaAtual = tempGameCP.queryForObject(sql, new Object[]{usuario.getNomeUsuario()}, String.class);
+        if (senhaAtual != null && senhaAtual.equals(passwordEncoder.encode(usuario.getSenhaAtual()))) {
+            sql = "UPDATE dbo.tbl_useraccount SET password = ? WHERE name = ?;";
+            tempGameCP.update(sql, passwordEncoder.encode(usuario.getNovaSenha()), usuario.getNomeUsuario());
+            sql = "UPDATE dbo.tbl_rfaccount SET password = CONVERT(binary, ?) WHERE id = CONVERT(binary, ?);";
+            int update = tempRFUser.update(sql, usuario.getNovaSenha(), usuario.getNomeUsuario());
+            return true;
+        } else {
+            throw new SenhaAtualIncorretaException("A senha atual informada, está incorreta.");
+        }
+    }
 }

@@ -56,6 +56,7 @@ export class AlterarSenhaComponent implements OnInit, OnDestroy {
           this.toastr.error(response.message);
         }
       }, error => {
+        console.log(error);
         this.loading = false;
       });
   }
