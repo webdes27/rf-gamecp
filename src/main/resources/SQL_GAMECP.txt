@@ -30,7 +30,7 @@ GO
 USE [GameCP]
 GO
 
-/****** Object:  Table [dbo].[tbl_useraccount]    Script Date: 03/08/2020 21:49:08 ******/
+/****** Object:  Table [dbo].[tbl_useraccount]    Script Date: 03/29/2020 15:02:55 ******/
 SET ANSI_NULLS ON
 GO
 
@@ -43,9 +43,17 @@ CREATE TABLE [dbo].[tbl_useraccount](
 	[password] [nvarchar](76) NOT NULL,
 	[email] [nvarchar](50) NULL,
 	[id_role] [int] NOT NULL,
-PRIMARY KEY CLUSTERED 
+PRIMARY KEY CLUSTERED
 (
 	[id] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY],
+ CONSTRAINT [email_unique] UNIQUE NONCLUSTERED
+(
+	[email] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY],
+ CONSTRAINT [name_unique] UNIQUE NONCLUSTERED
+(
+	[name] ASC
 )WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
 ) ON [PRIMARY]
 
@@ -89,3 +97,239 @@ FROM RF_User.dbo.tbl_UserBan AS B INNER JOIN
                       ) AS W ON W.Account = CONVERT(varchar, U.id) ORDER BY data_inicio DESC
 
 GO
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		<Josué Freitas>
+-- Create date: <16-03-2020>
+-- Description:	<Sets character offline property>
+-- =============================================
+CREATE TRIGGER set_char_off
+   ON  RF_User.dbo.tbl_UserAccount
+   AFTER UPDATE
+AS
+BEGIN
+	SET NOCOUNT ON;
+	DECLARE @Account varchar(17), @lastlogoffI datetime, @lastlogoffD datetime;
+	SELECT @Account = CONVERT(varchar, id) FROM inserted;
+	SELECT @lastlogoffI = lastlogofftime FROM inserted;
+	SELECT @lastlogoffD = lastlogofftime FROM deleted;
+	if @lastlogoffD <> @lastlogoffI BEGIN
+		UPDATE RF_World.dbo.tbl_base SET isOnline = 0 WHERE Account = @Account;
+	END;
+END
+GO
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		<Josué Freitas>
+-- Create date: <16-03-2020 19:53>
+-- Description:	<Sets character online property>
+-- =============================================
+CREATE TRIGGER set_char_on
+   ON  RF_World.dbo.tbl_general
+   AFTER UPDATE
+AS
+BEGIN
+	SET NOCOUNT ON;
+	DECLARE @Account varchar(17), @Name varchar(17);
+	SELECT @Account = B.Account FROM RF_World.dbo.tbl_base AS B INNER JOIN inserted I ON B.Serial = I.Serial;
+	SELECT @Name = B.Name FROM RF_World.dbo.tbl_base AS B INNER JOIN inserted I ON B.Serial = I.Serial;
+	UPDATE RF_World.dbo.tbl_base SET isOnline = 0 WHERE Account = @Account;
+	UPDATE RF_World.dbo.tbl_base SET isOnline = 1 WHERE Name = @Name;
+END
+GO
+
+USE [RF_World]
+GO
+
+/****** Object:  Trigger [dbo].[save_base_class]    Script Date: 03/21/2020 14:22:28 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+-- =============================================
+-- Author:		<Josué Freitas>
+-- Create date: <20/03/2020 01:17>
+-- Description:	<Saves the base class, for cross-class characters>
+-- =============================================
+CREATE TRIGGER [dbo].[save_base_class]
+   ON  [RF_World].[dbo].[tbl_base]
+   AFTER INSERT
+AS
+BEGIN
+	SET NOCOUNT ON;
+	UPDATE RF_World.dbo.tbl_base SET BaseClass = (SELECT Class FROM inserted) WHERE Serial = (SELECT Serial FROM inserted);
+END
+
+GO
+
+
+----------------- CASH REGEN ---------------------------------
+
+USE [BILLING]
+GO
+/****** Object:  StoredProcedure [dbo].[RF_RegenCash]    Script Date: 03/22/2020 15:21:08 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+-- ================================================
+-- Pembuat             : <Hanry Roslaw Saputra>
+-- Dibuat Tanggal    : <13 April 2014>
+-- Keterangan        : <Prosedur AutoCash Version 1.2>
+
+-- Updated by        : <Josué Freitas>
+-- Date              : <2020-03-22 01:48 AM>
+-- What              : < Pvp maps and not, with different cash regen >
+-- ================================================
+
+ALTER PROCEDURE [dbo].[RF_RegenCash]
+ @id VARCHAR(17),
+ @cash INT,
+ @serial INT
+AS
+BEGIN
+declare @rate int
+declare @status int
+
+set @rate='2' -- multiply your cash coin for Premium user
+
+SET NOCOUNT ON
+    if exists (select id from BILLING.dbo.tbl_UserStatus where id =CONVERT(BINARY,@id))
+	begin
+    set @status=(select status from BILLING.dbo.tbl_UserStatus where id=CONVERT(BINARY,@id))
+		if @status = 2
+		begin
+			update BILLING.dbo.tbl_UserStatus set cash=cash+(@cash*@rate) where id=CONVERT(BINARY,@id)
+		end else
+		begin
+			update BILLING.dbo.tbl_UserStatus set cash=cash+@cash where id=CONVERT(BINARY,@id)
+		end
+	end else
+	begin
+		insert into BILLING.dbo.tbl_UserStatus(id, status, Cash) values(CONVERT(BINARY, @id), 1, @cash)
+	END
+END
+
+-- ================================================
+-- Pembuat             : <Hanry Roslaw Saputra>
+-- Dibuat Tanggal    : <13 April 2014>
+-- Keterangan        : <Trigger AutoCash Version 1.2>
+
+-- Updated by        : <Josué Freitas>
+-- Date              : <2020-03-22 01:48 AM>
+-- What              : < Pvp maps and not, with different cash regen >
+-- ================================================
+USE [RF_World]
+GO
+/****** Object:  Trigger [dbo].[RegenCash]    Script Date: 03/22/2020 15:20:07 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+ALTER TRIGGER [dbo].[RegenCash]
+    ON [dbo].[tbl_general]
+    AFTER UPDATE
+
+as
+begin
+SET NOCOUNT ON;
+    DECLARE @GSerial INT
+    DECLARE @GPlay INT
+    DECLARE @BSerial INT
+    DECLARE @BAccount VARCHAR(17)
+    DECLARE @BPlay INT
+    DECLARE @regencash INT
+    declare @cash int
+    declare @currentmap int
+
+    IF UPDATE(TotalPlayMin)
+    BEGIN
+    SELECT @GSerial = Serial,@GPlay = TotalPlayMin FROM INSERTED
+    SELECT @BSerial = Serial,@BAccount=account, @BPlay = LogPlay FROM [dbo].[tbl_base] WHERE Serial = @GSerial
+    set @currentmap=(select map from RF_World.dbo.tbl_general where Serial= @GSerial)
+	if @currentmap=11 OR @currentmap=12 OR @currentmap=25 OR @currentmap=26 OR @currentmap=28 OR @currentmap=24-- Change map number to desired map
+		BEGIN
+		set @cash = '1000'
+		END ELSE
+		BEGIN
+		set @cash = '1000'
+	END
+    SELECT @regencash = ((@GPlay-@BPlay)*@cash)
+        IF  @regencash > 0
+        BEGIN
+        EXEC [Billing].[dbo].[RF_RegenCash] @id=@BAccount,@cash=@regencash,@serial=@Gserial
+        EXEC [RF_World].[dbo].[pUpdate_LogPlay] @serial=@GSerial,@logPlay=@GPlay
+        END
+    END
+END
+
+
+USE [RF_World]
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+-- ================================================
+-- Pembuat             : <Hanry Roslaw Saputra>
+-- Dibuat Tanggal    : <13 April 2014>
+-- Keterangan        : <Prosedur AutoCash Version 1.2>
+-- ================================================
+
+CREATE PROCEDURE [dbo].[pUpdate_LogPlay﻿]
+ @serial INT,
+ @logPlay INT
+AS
+BEGIN
+    SET NOCOUNT ON
+    UPDATE [dbo].[tbl_base]
+    SET LogPlay = @logPlay
+    WHERE Serial = @serial
+END
+
+
+USE [RF_World]
+
+-- ================================================
+-- Pembuat             : <Hanry Roslaw Saputra>
+-- Dibuat Tanggal    : <13 April 2014>
+-- Keterangan        : <Trigger AutoCash Version 1.2>
+-- ================================================
+
+ALTER TABLE [dbo].[tbl_base]
+ADD LogPlay INT NOT NULL DEFAULT ((0))
+
+
+USE [RF_World]
+GO
+/****** Object:  Trigger [dbo].[force_lvl_limit]    Script Date: 03/22/2020 15:00:22 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		<Josué Freitas>
+-- Create date: <2020-03-22 14:38>
+-- Description:	<Force Level Max>
+-- =============================================
+ALTER TRIGGER [dbo].[force_lvl_limit]
+   ON  [RF_World].[dbo].[tbl_general]
+   AFTER UPDATE
+AS
+BEGIN
+	SET NOCOUNT ON;
+	UPDATE RF_World.dbo.tbl_general SET MaxLevel = 55 WHERE Serial = (SELECT Serial FROM inserted);
+END

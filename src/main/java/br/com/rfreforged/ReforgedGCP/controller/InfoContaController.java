@@ -1,7 +1,7 @@
 package br.com.rfreforged.ReforgedGCP.controller;
 
 import br.com.rfreforged.ReforgedGCP.dao.InfoContaDAO;
-import br.com.rfreforged.ReforgedGCP.model.DetalheConta;
+import br.com.rfreforged.ReforgedGCP.model.usuario.DetalheConta;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

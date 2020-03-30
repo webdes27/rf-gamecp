@@ -1,6 +1,6 @@
 package br.com.rfreforged.ReforgedGCP.security;
 
-import br.com.rfreforged.ReforgedGCP.model.Usuario;
+import br.com.rfreforged.ReforgedGCP.model.usuario.Usuario;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -21,7 +21,6 @@ public class CustomUserPrincipal implements UserDetails {
         return usuario;
     }
 
-    @JsonIgnore
     public int getId() {
         return usuario.getId();
     }

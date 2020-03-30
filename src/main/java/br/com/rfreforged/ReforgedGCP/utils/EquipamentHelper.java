@@ -1,6 +1,7 @@
 package br.com.rfreforged.ReforgedGCP.utils;
 
-import br.com.rfreforged.ReforgedGCP.model.*;
+import br.com.rfreforged.ReforgedGCP.model.equipamento.*;
+import br.com.rfreforged.ReforgedGCP.model.personagem.Personagem;
 import org.springframework.core.io.ClassPathResource;
 
 import java.io.BufferedReader;
@@ -88,24 +89,22 @@ public class EquipamentHelper {
 
     public void setaAcessorios(Personagem p, ResultSet resultSet) throws SQLException {
 
-        String raca = getRaca(resultSet.getInt("raca"));
+        String classe = resultSet.getString("classeBase");
         int inicio;
-        if (raca.equals("Accretia")) {
+        if (classe.contains("R")) {
             inicio = 2;
-        } else if (raca.equals("Cora")) {
-            inicio = 1;
         } else {
             inicio = 0;
         }
 
         for (int i = 0; i < 4; i++, inicio++) {
-            int tipo = i > 1 ? 9 : 10;
+            int tipo = i > 1 ? 8 : 9;
             int itemCode = resultSet.getInt("GK" + inicio);
             if (itemCode == -1) {
                 continue;
             }
 
-            int indicePlanilha = Math.round((itemCode - (tipo * 256)) / 65536F);
+            int indicePlanilha = Math.round((itemCode - (tipo * 256F)) / 65536F);
             ItemTipo itemTipo = getItemTipoByCode(tipo);
 
             Equipamento acessorio = getDetalhesItemFromPlanilhaT("codescsv/" + itemTipo.name() + EXTENSAO, indicePlanilha);
@@ -127,16 +126,9 @@ public class EquipamentHelper {
             return new Equipamento();
         }
         Item item = getDetalhesItem(kVal, uVal);
-//        System.out.println("ITEM CODE: " + item);
-//        System.out.println("KVAL: " + kVal);
-//        System.out.println("UVAL: " + uVal);
-//        System.out.println("tipo: " + item.getTipo());
-//        System.out.println("I: " + slot);
         ItemTipo itemTipo = getItemTipoByCode(item.getTipo());
         try {
-//            System.out.println("Arquivo: " + itemTipo.name());
             Equipamento equipamento = getDetalhesItemFromPlanilhaT("codescsv/" + itemTipo.name() + EXTENSAO, item.getCodigo());
-//            System.out.println("Arquivo: " + equipamento.getNome() + "\n");
             equipamento.setMelhoria(item.getMelhoria());
             return equipamento;
         } catch (ArrayIndexOutOfBoundsException e) {
@@ -219,6 +211,17 @@ public class EquipamentHelper {
         return equipamento;
     }
 
+    public long getIndexFromPlanilha(String nomeArquivo, String serverCode) throws IOException {
+        String divisor = ";";
+        try (BufferedReader br = new BufferedReader(new FileReader(new ClassPathResource("codescsv/" + nomeArquivo).getFile()))) {
+            String linhaSelecionada = br.lines().filter(l -> l.split(divisor)[1].equals(serverCode)).findFirst().orElseThrow();
+            return Long.parseLong(linhaSelecionada.split(divisor)[0]);
+        } catch (IOException e) {
+            e.printStackTrace();
+            throw e;
+        }
+    }
+
     public Item getDetalhesItem(int kValor, int uValor) {
         return this.getDetalhesItem(kValor, uValor, -1);
     }
@@ -250,6 +253,31 @@ public class EquipamentHelper {
         return i;
     }
 
+    public long serverCodeToDbCode(String nomePlanilha, String serverCode, int tipo) throws IOException {
+        return getItemDBCode(getIndexFromPlanilha(nomePlanilha, serverCode), tipo);
+    }
+
+    public long getItemDBCode(long index, int type) {
+        return Math.round((index * 65536L) + (type * 256));
+    }
+
+    public long getDbUpgradeCode(int slots, int grade, Talica talica) {
+        StringBuilder upgrades = new StringBuilder(slots == 0 ? "0" : slots + "");
+        int sobra = slots - grade;
+        if (slots > 0) {
+            upgrades.append("F".repeat(Math.max(0, sobra)));
+            if (sobra < 7) {
+                upgrades.append(
+                        Integer.toHexString(
+                                Integer.parseInt(talica.getNum())
+                        ).repeat(Math.max(0, grade)));
+            }
+        } else {
+            upgrades.append("F".repeat(Math.max(0, 7)));
+        }
+        return Long.parseLong(upgrades.toString(), 16);
+    }
+
     private Melhoria getMelhoria(int uValue) {
         Melhoria melhoria = new Melhoria();
         String hexString = Integer.toHexString(uValue);
@@ -274,9 +302,9 @@ public class EquipamentHelper {
         try {
             return Integer.parseInt(charAt + "");
         } catch (NumberFormatException e) {
-            return charAt == 'a' ? 9 : charAt == 'b' ? 10 : charAt == 'c' ? 11
-                    : charAt == 'd' ? 12 : charAt == 'e' ? 13
-                    : charAt == 'f' ? 14 : 0;
+            return charAt == 'a' ? 10 : charAt == 'b' ? 11 : charAt == 'c' ? 12
+                    : charAt == 'd' ? 13 : charAt == 'e' ? 14
+                    : charAt == 'f' ? 15 : 0;
         }
     }
 }

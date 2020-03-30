@@ -4,7 +4,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
 @ResponseStatus(HttpStatus.INTERNAL_SERVER_ERROR)
-public class SenhaAtualIncorretaException extends RuntimeException {
+public class SenhaAtualIncorretaException extends Exception {
     public SenhaAtualIncorretaException(String message) {
         super(message);
     }

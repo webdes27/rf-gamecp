@@ -1,6 +1,6 @@
 package br.com.rfreforged.ReforgedGCP.dao;
 
-import br.com.rfreforged.ReforgedGCP.model.DetalheConta;
+import br.com.rfreforged.ReforgedGCP.model.usuario.DetalheConta;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

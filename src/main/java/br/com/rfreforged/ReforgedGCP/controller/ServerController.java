@@ -1,7 +1,8 @@
 package br.com.rfreforged.ReforgedGCP.controller;
 
 import br.com.rfreforged.ReforgedGCP.dao.ServerDAO;
-import br.com.rfreforged.ReforgedGCP.model.*;
+import br.com.rfreforged.ReforgedGCP.model.servidor.*;
+import br.com.rfreforged.ReforgedGCP.model.usuario.Banido;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -20,6 +21,11 @@ public class ServerController {
     @GetMapping("/estats")
     public ServerStats getEstatisticas() {
         return serverDAO.getEstatisticas();
+    }
+
+    @GetMapping("/num-online")
+    public int getTotPlayerOnline() {
+        return serverDAO.getTotPlayerOnline().orElse(0);
     }
 
     @GetMapping("/top-online")

@@ -2,7 +2,7 @@ package br.com.rfreforged.ReforgedGCP.controller;
 
 import br.com.rfreforged.ReforgedGCP.dao.UsuarioDAO;
 import br.com.rfreforged.ReforgedGCP.model.ApiResponse;
-import br.com.rfreforged.ReforgedGCP.model.Usuario;
+import br.com.rfreforged.ReforgedGCP.model.usuario.Usuario;
 import br.com.rfreforged.ReforgedGCP.security.CustomUserPrincipal;
 import br.com.rfreforged.ReforgedGCP.security.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,7 +13,6 @@ import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.bind.annotation.*;
 
-import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletResponse;
 
 @RestController
@@ -29,6 +28,11 @@ public class AuthController {
         this.authenticationManager = authenticationManager;
         this.jwtTokenProvider = jwtTokenProvider;
         this.usuarioDAO = usuarioDAO;
+    }
+
+    @PostMapping("/criar-conta")
+    public ApiResponse registrar(@RequestBody Usuario usuario) {
+        return usuarioDAO.criarConta(usuario);
     }
 
     @PostMapping("/login")

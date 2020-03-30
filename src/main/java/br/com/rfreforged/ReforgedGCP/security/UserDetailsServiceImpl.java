@@ -1,7 +1,8 @@
 package br.com.rfreforged.ReforgedGCP.security;
 
 import br.com.rfreforged.ReforgedGCP.dao.UsuarioDAO;
-import br.com.rfreforged.ReforgedGCP.model.Usuario;
+import br.com.rfreforged.ReforgedGCP.model.usuario.Usuario;
+import lombok.SneakyThrows;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
@@ -14,6 +15,7 @@ public class UserDetailsServiceImpl implements UserDetailsService {
     @Autowired
     private UsuarioDAO usuarioDAO;
 
+    @SneakyThrows
     @Override
     public UserDetails loadUserByUsername(String nomeUsuario) throws UsernameNotFoundException {
 

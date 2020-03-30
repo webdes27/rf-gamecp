@@ -1,10 +1,12 @@
 package br.com.rfreforged.ReforgedGCP.dao;
 
-import br.com.rfreforged.ReforgedGCP.model.*;
+import br.com.rfreforged.ReforgedGCP.model.servidor.*;
+import br.com.rfreforged.ReforgedGCP.model.usuario.Banido;
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.dao.DataAccessException;
-import org.springframework.data.relational.core.sql.In;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
@@ -13,6 +15,8 @@ import java.io.*;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 @Repository
@@ -21,7 +25,6 @@ public class ServerDAO {
     @Autowired
     @Qualifier("jdbcTempRFUser")
     private JdbcTemplate jdbcRFUser;
-
     @Autowired
     @Qualifier("jdbcTempRFWorld")
     private JdbcTemplate jdbcRFWorld;
@@ -36,32 +39,11 @@ public class ServerDAO {
         ServerStats stats1 = new ServerStats();
         int maior = 0;
         try {
-            File file = Paths.get("G:\\RF Dev\\server - pvp\\2.ZoneServer\\SystemSave\\ServerDisplay.ini").toFile();
-            try (BufferedReader bis = new BufferedReader(new FileReader(file))) {
-                String linha;
-                boolean stop = false;
-                while ((linha = bis.readLine()) != null || stop) {
-                    if (linha != null && linha.contains("UserNum")) {
-                        int numUser = Integer.parseInt(linha.split("=")[1]);
-                        linha = bis.readLine();
-                        int bell = Integer.parseInt(linha.split("=")[1]);
-                        linha = bis.readLine();
-                        int cora = Integer.parseInt(linha.split("=")[1]);
-                        linha = bis.readLine();
-                        int acc = Integer.parseInt(linha.split("=")[1]);
-                        if (maxOn.size() == 0 || maxOn.get(0) < numUser) {
-                            maior = numUser;
-                            stats1.setMaxOn(maior);
-                        } else {
-                            stats1.setMaxOn(maxOn.get(0));
-                        }
-                        stats1.setAcc(acc);
-                        stats1.setCora(cora);
-                        stats1.setBell(bell);
-                        stop = true;
-                    }
-                }
-            } catch (IOException ignored) { }
+            File fileConfig = Paths.get(System.getProperty("user.dir") + "\\config\\schedule_config.json").toFile();
+            Map<String, String> config = new ObjectMapper().readValue(fileConfig, new TypeReference<>() {});
+            String serverStateUrl = config.get("serverStateUrl");
+            File file = Paths.get(serverStateUrl).toFile();
+            maior = getOnlinePl(maxOn, stats1, maior, file);
             if (maxOn.size() == 0) {
                 sql = "INSERT INTO [RF_User].[dbo].[tbl_ServerUser_Log] ([dtDate],[nAverageUser],[nMaxUser] " +
                         ",[ServerName],[nBellaUser],[nCoraUser],[nAccUser],[nMaxOn]) VALUES ('2020-03-03',0,0,'S',0,0,0," + maior + ") ";
@@ -96,6 +78,37 @@ public class ServerDAO {
         return finalStats;
     }
 
+    private int getOnlinePl(List<Integer> maxOn, ServerStats stats1, int maior, File file) {
+        try (BufferedReader bis = new BufferedReader(new FileReader(file))) {
+            String linha;
+            boolean stop = false;
+            while ((linha = bis.readLine()) != null || stop) {
+                if (linha != null && linha.contains("UserNum")) {
+                    int numUser = Integer.parseInt(linha.split("=")[1]);
+                    linha = bis.readLine();
+                    int bell = Integer.parseInt(linha.split("=")[1]);
+                    linha = bis.readLine();
+                    int cora = Integer.parseInt(linha.split("=")[1]);
+                    linha = bis.readLine();
+                    int acc = Integer.parseInt(linha.split("=")[1]);
+                    if (maxOn.size() == 0 || maxOn.get(0) < numUser) {
+                        maior = numUser;
+                        stats1.setMaxOn(maior);
+                    } else {
+                        stats1.setMaxOn(maxOn.get(0));
+                    }
+                    stats1.setAcc(acc);
+                    stats1.setCora(cora);
+                    stats1.setBell(bell);
+                    stop = true;
+                }
+            }
+        } catch (Exception ignored) {
+            return getOnlinePl(maxOn, stats1, maior, file);
+        }
+        return maior;
+    }
+
     public List<TopOnline> getTopOnlines() {
         String sql = "SELECT TOP 30 (g.[TotalPlayMin] * 60) AS tempoJogo," +
                 "       guild.profile as guild," +
@@ -103,9 +116,11 @@ public class ServerDAO {
                 "       b.Race as racaNum," +
                 "       b.Class as classeString," +
                 "       b.Lv as nivel," +
-                "       g.PvpPoint as ptContribuicao" +
+                "       g.PvpPoint as ptContribuicao, " +
+                "       b.isOnline as status " +
                 "  FROM [RF_World].[dbo].[tbl_general] AS g INNER JOIN [RF_World].[dbo].[tbl_base] as b" +
                 "  ON g.Serial = b.Serial AND b.DCK = 0 LEFT JOIN [RF_World].[dbo].[tbl_Guild] as guild ON g.GuildSerial = guild.Serial" +
+                "  WHERE b.Account NOT LIKE '!%' " +
                 "  ORDER BY g.[TotalPlayMin] DESC;";
 
         return jdbcRFWorld.query(sql, new Object[]{}, new BeanPropertyRowMapper<>(TopOnline.class));
@@ -157,19 +172,26 @@ public class ServerDAO {
     }
 
     public Concelhos getConcelhos() {
-        String sql = "SELECT (case when race = 0 then 'Bellato' else case when race = 1 then 'Cora' else " +
-                "case when race = 2 then 'Accretia' else 'Empate' end end end) as raca " +
-                ",[AName] as nome_personagem " +
-                ",(case when ClassType = 0 then 'Arconde' else case when ClassType = 1 OR ClassType = 5 then 'Concelho' else " +
-                "case when ClassType = 2 OR ClassType = 6 then 'Time de Ataque' else case when ClassType = 3 OR ClassType = 7 " +
-                "then 'Time de Defesa' else case when ClassType = 4 OR ClassType = 8 then 'Time de Suporte' " +
-                "end end end end end) as posicao " +
-                "FROM [RF_World].[dbo].[tbl_patriarch_candidate];";
+        String sql = "SELECT (case when P.race = 0 then 'Bellato' else case when P.race = 1 then 'Cora' else " +
+                "case when P.race = 2 then 'Accretia' else 'Empate' end end end) as raca " +
+                ",P.[AName] as nome_personagem " +
+                ",(case when P.ClassType = 0 then 'Arconde' else case when P.ClassType = 1 OR P.ClassType = 5 then 'Concelho' else " +
+                "case when P.ClassType = 2 OR P.ClassType = 6 then 'Time de Ataque' else case when P.ClassType = 3 OR P.ClassType = 7 " +
+                "then 'Time de Defesa' else case when P.ClassType = 4 OR P.ClassType = 8 then 'Time de Suporte' " +
+                "end end end end end) as posicao, " +
+                "B.isOnline as status " +
+                "FROM [RF_World].[dbo].[tbl_patriarch_candidate] AS P INNER JOIN [RF_World].[dbo].[tbl_base] AS B ON B.Serial = P.Serial;";
         List<Concelho> query = jdbcRFWorld.query(sql, new Object[]{}, new BeanPropertyRowMapper<>(Concelho.class));
         Concelhos concelhos = new Concelhos();
         concelhos.setAcc(query.stream().filter(c -> c.getRaca().equals("Accretia")).collect(Collectors.toList()));
         concelhos.setBell(query.stream().filter(c -> c.getRaca().equals("Bellato")).collect(Collectors.toList()));
         concelhos.setCora(query.stream().filter(c -> c.getRaca().equals("Cora")).collect(Collectors.toList()));
         return concelhos;
+    }
+
+
+    public Optional<Integer> getTotPlayerOnline() {
+        String sql = "SELECT COUNT(*) FROM [RF_World].[dbo].[tbl_base] WHERE isOnline = 1 AND Account NOT LIKE '!%';";
+        return  Optional.ofNullable(jdbcRFWorld.queryForObject(sql, new Object[]{}, Integer.class));
     }
 }
